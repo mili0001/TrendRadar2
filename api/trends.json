@@ -1,914 +1,476 @@
 {
-  "generated_at": "2025-12-13T20:20:35.246498+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2025-12-14T08:59:21.012117+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 14,
       "titles": [
         {
-          "title": "特朗普称泰柬同意全面停火",
-          "url": "https://news.ifeng.com/c/8p2IYwR0WoN",
+          "title": "美布朗大学枪击案已致2死8重伤，特朗普最新发声",
+          "url": "https://news.ifeng.com/c/8p4RL9idhva",
           "source": "凤凰网",
           "ranks": [
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "08时59分"
         },
         {
-          "title": "特朗普拉小群,想拿C5替代G7",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 20时20分]"
-        },
-        {
-          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
-          "url": "https://www.cls.cn/detail/2228592",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
-          "url": "https://news.ifeng.com/c/8p1vHCZebHh",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "美国总统特朗普谈论所谓的“顿巴斯自由经济区”构想，称：现在还不想要这个。 这不会起作用。",
-          "url": "https://wallstreetcn.com/livenews/3020166",
+          "title": "美布朗大学枪击案已致2死8重伤，特朗普最新发声",
+          "url": "https://wallstreetcn.com/livenews/3020298",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "08时59分"
         },
         {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "特朗普：我应当在与美联储讨论利率方面发挥作用",
-          "url": "https://wallstreetcn.com/livenews/3020165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "特朗普称泰柬双方同意停火",
-          "url": "https://www.toutiao.com/trending/7582909402869452342/",
+          "title": "特朗普的“新五常”计划可行吗",
+          "url": "https://www.toutiao.com/trending/7583121726133767743/",
           "source": "今日头条",
           "ranks": [
-            10
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "08时59分"
         },
         {
-          "title": "特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低",
-          "url": "https://wallstreetcn.com/articles/3761314",
-          "source": "华尔街见闻",
+          "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
+          "url": "https://news.ifeng.com/c/8p4BJFCiQzZ",
+          "source": "凤凰网",
           "ranks": [
-            10
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "08时59分"
+        },
+        {
+          "title": "特朗普称泰柬已同意停火 泰方否认",
+          "url": "https://www.toutiao.com/trending/7582072617088548873/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         },
         {
           "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
           "source": "澎湃新闻",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "美国总统特朗普：在俄罗斯与乌克兰问题上取得了许多“进展”。",
-          "url": "https://wallstreetcn.com/livenews/3020161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "08时59分"
         },
         {
-          "title": "特朗普称凯文·沃什位居美联储主席候选人名单首位 | 环球市场",
-          "url": "https://www.cls.cn/detail/2228568",
-          "source": "财联社热门",
+          "title": "美士兵在叙遇袭身亡 特朗普：将报复",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%A3%AB%E5%85%B5%E5%9C%A8%E5%8F%99%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E6%8A%A5%E5%A4%8D",
+          "source": "百度热搜",
           "ranks": [
-            12
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "消息人士：特朗普政府今年不太可能敲定2026年的生物燃料配额",
-          "url": "https://flash.jin10.com/detail/20251213040502297800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "美国总统特朗普：泰国与柬埔寨处于不错的形势。",
-          "url": "https://wallstreetcn.com/livenews/3020160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "观察｜特朗普磨刀霍霍，马杜罗歌舞“公关”：别担心，要快乐",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32162318",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "泰国外长：对特朗普关于泰柬冲突的言论感到失望",
-          "url": "https://wallstreetcn.com/livenews/3020226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "08时59分"
         },
         {
           "title": "特朗普称泰柬已同意停火，泰方否认：答案是不",
           "url": "https://m.thepaper.cn/newsDetail_forward_32169891",
           "source": "澎湃新闻",
           "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
-          "url": "https://flash.jin10.com/detail/20251213034901959800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "白宫“加密和AI沙皇”为特朗普AI法规站场，称其旨在减轻企业合规负担",
-          "url": "https://flash.jin10.com/detail/20251213031516659800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "土耳其总统埃尔多安：希望在与俄罗斯总统普京会晤后，与美国总统特朗普讨论乌克兰—俄罗斯和平方案。",
-          "url": "https://flash.jin10.com/detail/20251213180106229800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-13）",
-          "url": "https://flash.jin10.com/detail/20251213180026791800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "日本",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "孙颖莎回应鹰眼挑战日本选手成功",
-          "url": "https://www.toutiao.com/trending/7582341608310620202/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "对日本，美国越来越不耐烦了",
-          "url": "https://news.ifeng.com/c/8p2knNhcQIf",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "玉渊谭天：日本八纮一宇塔应当被拆除",
-          "url": "https://news.ifeng.com/c/8p3JZmpg7gh",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "“熊”起!日本年度汉字紧跟时事",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347939&amp;topic_name=%E2%80%9C%E7%86%8A%E2%80%9D%E8%B5%B7%21%E6%97%A5%E6%9C%AC%E5%B9%B4%E5%BA%A6%E6%B1%89%E5%AD%97%E7%B4%A7%E8%B7%9F%E6%97%B6%E4%BA%8B",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 20时20分]"
-        },
-        {
-          "title": "俄罗斯向日本发出警告",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%90%91%E6%97%A5%E6%9C%AC%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "吴为山讲述为国殇“塑像”：让日本军国主义永远“跪”着",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32169714",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "小泉进次郎与美防长通话照被指“摆拍”，遭日本网民讽刺",
-          "url": "https://news.ifeng.com/c/8p3W1HUEA4L",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "日本住持捐赠5000份日军侵华史料",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BD%8F%E6%8C%81%E6%8D%90%E8%B5%A05000%E4%BB%BD%E6%97%A5%E5%86%9B%E4%BE%B5%E5%8D%8E%E5%8F%B2%E6%96%99",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "王楚钦孙颖莎零封日本队",
-          "url": "https://www.douyin.com/hot/2335370",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "玉渊谭天：日本八纮一宇塔应被拆除",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%89%E6%B8%8A%E8%B0%AD%E5%A4%A9%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%85%AB%E7%BA%AE%E4%B8%80%E5%AE%87%E5%A1%94%E5%BA%94%E8%A2%AB%E6%8B%86%E9%99%A4",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "外交部回应日本防卫大臣和美国国防部长通话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32164391",
-          "source": "澎湃新闻",
-          "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "08时59分"
         },
         {
-          "title": "“鹰派风暴”即将来袭？消息人士：日本央行下周加息板上钉钉 更多鹰声已在路上",
-          "url": "https://www.cls.cn/detail/2228172",
+          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
+          "url": "https://www.cls.cn/detail/2228592",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "08时59分"
         },
         {
-          "title": "12 月 12 日，日本揭晓 2025 年度汉字，前三名分别为「熊」「米」「高」，这些汉字有何意味？",
-          "url": "https://www.zhihu.com/question/1982824477105602788",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "绍伊古在越南对日本发出严厉警告",
-          "url": "https://www.douyin.com/hot/2334568",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "日本曾掠夺南京石头建罪恶塔",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9B%BE%E6%8E%A0%E5%A4%BA%E5%8D%97%E4%BA%AC%E7%9F%B3%E5%A4%B4%E5%BB%BA%E7%BD%AA%E6%81%B6%E5%A1%94%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "日本极右翼分子对美国“开火”了",
-          "url": "https://www.douyin.com/hot/2334222",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "扎哈罗娃：俄已向日本发出警告",
-          "url": "https://www.baidu.com/s?wd=%E6%89%8E%E5%93%88%E7%BD%97%E5%A8%83%EF%BC%9A%E4%BF%84%E5%B7%B2%E5%90%91%E6%97%A5%E6%9C%AC%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "美国对日本越来越不耐烦了",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AF%B9%E6%97%A5%E6%9C%AC%E8%B6%8A%E6%9D%A5%E8%B6%8A%E4%B8%8D%E8%80%90%E7%83%A6%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "俄罗斯发动大规模空袭",
-          "url": "https://www.toutiao.com/trending/7582383769492832294/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "美国特使：美国将取消对白俄罗斯钾肥的制裁",
-          "url": "https://flash.jin10.com/detail/20251213195216466800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "据白俄罗斯国家媒体：美国特使科尔称，他与白俄罗斯总统卢卡申科讨论了乌克兰和委内瑞拉问题。",
-          "url": "https://flash.jin10.com/detail/20251213194226951800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "俄罗斯斥欧盟：骗子！",
-          "url": "https://news.ifeng.com/c/8p3IiynkITr",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "据白俄罗斯国家媒体援引美国特使科尔的话称，随着关系正常化，（对白俄罗斯的）更多制裁将被解除。",
-          "url": "https://flash.jin10.com/detail/20251213194029750800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "据白俄罗斯国家媒体援引美国特使科尔的话称，美国取消对白俄罗斯钾肥的制裁。",
-          "url": "https://flash.jin10.com/detail/20251213193447997800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "油价跌幅收窄！最新和平提案草案曝光：乌克兰计划最快2027年加入欧盟",
-          "url": "https://wallstreetcn.com/articles/3761295",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "据华尔街日报：美国特使维特科夫将前往柏林，与乌克兰总统泽连斯基和欧洲领导人会面。",
-          "url": "https://flash.jin10.com/detail/20251213082013715800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "欧盟就无限期冻结俄央行资产达成一致 为向乌克兰贷款扫除障碍",
-          "url": "https://www.cls.cn/detail/2228557",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "捷克候任总理巴比什：捷克共和国不会为乌克兰融资提供担保，欧盟委员会必须另寻替代方案。",
-          "url": "https://flash.jin10.com/detail/20251213191559428800",
+          "title": "据AXIOS网站：以色列官员称，以色列未就试图暗杀加沙地带哈马斯领导人拉埃德·萨阿德一事事先通知特朗普政府。",
+          "url": "https://flash.jin10.com/detail/20251213222804614800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "08时59分"
         },
         {
-          "title": "俄武装力量对乌克兰军工复合体设施发动报复性打击",
-          "url": "https://flash.jin10.com/detail/20251213185127808800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "俄罗斯国防部：东部军区部队正在特别军事行动区推进。",
-          "url": "https://flash.jin10.com/detail/20251213181749519800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "评论员：乌克兰逃兵问题失控",
-          "url": "https://www.toutiao.com/trending/7582933363162353158/",
+          "title": "3名美方人员遇袭死亡 特朗普誓言报复",
+          "url": "https://www.toutiao.com/trending/7583408102318489643/",
           "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "国际原子能机构：由于大范围军事活动影响电网，乌克兰扎波罗热核电站昨夜暂时失去所有场外电源。",
-          "url": "https://flash.jin10.com/detail/20251213175148073800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：俄罗斯军队加大了对敖德萨州能源系统的炮击力度，我们正在努力恢复当地的电力供应。",
-          "url": "https://flash.jin10.com/detail/20251213173838097800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "法国官员：乌克兰、美国和欧洲正努力就推动和平达成共同立场",
-          "url": "https://flash.jin10.com/detail/20251213024021192800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "扎波罗热州州长表示，乌克兰袭击导致该地区部分区域断电。",
-          "url": "https://flash.jin10.com/detail/20251213173737502800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "欧盟官员：乌克兰2027年前不可能加入欧盟",
-          "url": "https://wallstreetcn.com/livenews/3020210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "博通、甲骨文引发科技股抛售，纳指一度跌超2%，美元跌破98，期银一度跌超5%",
-          "url": "https://wallstreetcn.com/articles/3761271",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 20时20分]"
-        },
-        {
-          "title": "备忘录显示，SpaceX正为公司2026年可能的IPO做准备，将内部股票发行价格定在每股421美元，隐含估值约达8000亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3020173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
-          "url": "https://wallstreetcn.com/articles/3761241",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "备忘录显示，SpaceX将内部人士股票发行价格定在每股421美元，此次内部人士股票交易的估值约为8000亿美元。",
-          "url": "https://flash.jin10.com/detail/20251213082411749800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "与儿子换血富豪每年抗衰花200万美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8E%E5%84%BF%E5%AD%90%E6%8D%A2%E8%A1%80%E5%AF%8C%E8%B1%AA%E6%AF%8F%E5%B9%B4%E6%8A%97%E8%A1%B0%E8%8A%B1200%E4%B8%87%E7%BE%8E%E5%85%83%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "报道：英特尔将以约16亿美元收购芯片公司SambaNova",
-          "url": "https://wallstreetcn.com/livenews/3020164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "周五（12月12日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报7.0532元，较周四纽约尾盘跌10点，日内整体交投于7.0498-7.0567元区间。",
-          "url": "https://wallstreetcn.com/livenews/3020157",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "08时59分"
         },
         {
-          "title": "周五（12月12日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘跌1.67%，报90470美元，本周累计上涨0.92%。 CME以太币期货DCR主力合约跌4.15%，报3096美元，本周累涨2.16%。",
-          "url": "https://wallstreetcn.com/livenews/3020156",
+          "title": "美国与墨西哥达成供水协议，此前特朗普威胁要加征5%的关税",
+          "url": "https://wallstreetcn.com/livenews/3020265",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "08时59分"
         },
         {
-          "title": "马斯克或成全球首位万亿美元富豪",
-          "url": "https://wallstreetcn.com/livenews/3020224",
-          "source": "华尔街见闻-快讯",
+          "title": "美国国务卿卢比奥：卢旺达在刚果（金）东部的行动明显违反了特朗普总统签署的《华盛顿协议》。",
+          "url": "https://flash.jin10.com/detail/20251213211438744800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "特朗普拉小群,想拿C5替代G7",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "乌克兰战俘协调中心：白俄罗斯已向乌克兰移交114名平民，其中包括乌克兰和白俄罗斯公民。",
+          "url": "https://flash.jin10.com/detail/20251213225139038800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "据俄罗斯媒体：俄方称南部集团军部队在康斯坦丁诺夫卡地区摧毁一辆德国豹1A5坦克。",
+          "url": "https://flash.jin10.com/detail/20251213224607315800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "乌克兰男子透露“副市长父亲有加密货币资产”遭同学虐杀",
+          "url": "https://news.ifeng.com/c/8p3fUJXzyNF",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "俄罗斯外交部：莫斯科将迅速回应欧盟冻结俄资产的举措。",
+          "url": "https://flash.jin10.com/detail/20251213223824582800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "美国驻立陶宛大使馆：9名囚犯从白俄罗斯被送往立陶宛首都维尔纽斯，其中包括诺贝尔奖得主阿列斯·比亚利亚茨基。其他囚犯正从白俄罗斯被送往乌克兰。",
+          "url": "https://flash.jin10.com/detail/20251213223125226800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "美国大使馆：白俄罗斯释放123名囚犯，美方愿深化符合利益的接触",
+          "url": "https://flash.jin10.com/detail/20251213214347063800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "08时59分"
         },
         {
-          "title": "美联储：美国上周银行存款18.479万亿美元，之前一周18.528万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3020149",
+          "title": "白俄罗斯总统府：白俄罗斯总统卢卡申科已在美国达成协议的情况下，赦免了123名囚犯。获赦免者包括被判犯有恐怖主义、极端主义和间谍罪的人。",
+          "url": "https://flash.jin10.com/detail/20251213212628558800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "据白俄罗斯反对派媒体：白俄罗斯当局释放白俄罗斯反对派政治家玛丽亚·科列斯尼科娃。",
+          "url": "https://flash.jin10.com/detail/20251213212541773800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "唐宁街：英国首相斯塔默与欧盟委员会主席冯德莱恩对话。 双方讨论了美国牵头的乌克兰和平计划，讨论了（如何处置）被冻结的俄罗斯资产。",
+          "url": "https://wallstreetcn.com/livenews/3020262",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "08时59分"
+        },
+        {
+          "title": "俄罗斯发动大规模空袭",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%8F%91%E5%8A%A8%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A9%BA%E8%A2%AD",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "扎哈罗娃：欧盟冻结俄罗斯资产的行为完全非法",
+          "url": "https://wallstreetcn.com/livenews/3020282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日本",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "日本自民党多名高官曝出丑闻：政治资金被用于酒吧、夜总会消费",
+          "url": "https://news.ifeng.com/c/8p4PE210STc",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "日本加息对A股的影响有多大",
+          "url": "https://www.toutiao.com/trending/7583165703906135561/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "“熊”起!日本年度汉字紧跟时事",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347939&amp;topic_name=%E2%80%9C%E7%86%8A%E2%80%9D%E8%B5%B7%21%E6%97%A5%E6%9C%AC%E5%B9%B4%E5%BA%A6%E6%B1%89%E5%AD%97%E7%B4%A7%E8%B7%9F%E6%97%B6%E4%BA%8B",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "日本住持捐赠5000份日军侵华史料",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BD%8F%E6%8C%81%E6%8D%90%E8%B5%A05000%E4%BB%BD%E6%97%A5%E5%86%9B%E4%BE%B5%E5%8D%8E%E5%8F%B2%E6%96%99",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "美联航飞往日本东京的飞机因引擎故障返回美国华盛顿",
+          "url": "https://wallstreetcn.com/livenews/3020261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "日本财务大臣表态支持央行加息预期",
+          "url": "https://flash.jin10.com/detail/20251213211748230800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欧盟",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "欧尔班：欧盟若动用俄被冻结资产将引发严重问题",
+          "url": "https://flash.jin10.com/detail/20251214082829906800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "俄外交部：欧盟非法冻结俄资产，俄方将迅速回应",
+          "url": "https://news.ifeng.com/c/8p3vpORIu6W",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "扎哈罗娃回怼欧盟：离开地球，俄方可提供火箭",
+          "url": "https://flash.jin10.com/detail/20251213225428933800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "欧尔班：欧盟若动用俄被冻结资产将引发严重问题",
+          "url": "https://wallstreetcn.com/livenews/3020295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "欧盟寻求为过渡到零排放汽车争取时间",
+          "url": "https://wallstreetcn.com/livenews/3020267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "迪士尼与OpenAI合作施压日本内容产业，本土企业面临AI转型抉择",
+          "url": "https://flash.jin10.com/detail/20251213225118795800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
           "url": "https://www.cls.cn/detail/2228565",
           "source": "财联社热门",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 20时20分]"
-        },
-        {
-          "title": "（美股）费城金银指数收跌1.07%，报337.73点，本周累涨6.05%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.27%，报2404.74点，本周累涨5.24%。",
-          "url": "https://wallstreetcn.com/livenews/3020154",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "半导体ETF收跌超4.5%，领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3020145",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜英伟达收跌约3.3%，特斯拉则涨2.7%",
-          "url": "https://wallstreetcn.com/livenews/3020139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "08时59分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
-          "url": "https://www.cls.cn/detail/2228537",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 20时20分]"
-        },
-        {
-          "title": "ChatGPT5.2有哪些新升级",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
-          "url": "https://flash.jin10.com/detail/20251213033638415800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欧盟",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "马斯克批评欧盟「接受 cookie」弹窗是浪费时间，是这样吗？cookie 弹窗功能有必要存在吗？",
-          "url": "https://www.zhihu.com/question/1981317694012814649",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "欧盟拟放宽2035年燃油车禁令，欧洲汽车业获关键喘息期",
-          "url": "https://flash.jin10.com/detail/20251213181358599800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "知情人士：欧盟和印度不太可能在年底前敲定贸易协定",
-          "url": "https://flash.jin10.com/detail/20251213024950026800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
+          "title": "美国企业云计算和服务管理解决方案提供商ServiceNow据悉接近以高达70亿美元的价格收购Armis。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3020293",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "08时59分"
         }
       ]
     },
@@ -917,15 +479,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "韩国总统：每年发射一枚自研运载火箭",
-          "url": "https://wallstreetcn.com/livenews/3020170",
-          "source": "华尔街见闻-快讯",
+          "title": "韩国街头偶遇高圆圆",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%A1%97%E5%A4%B4%E5%81%B6%E9%81%87%E9%AB%98%E5%9C%86%E5%9C%86%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            4
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "08时59分"
         }
       ]
     }

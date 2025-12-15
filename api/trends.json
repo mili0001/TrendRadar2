@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-15T08:57:21.408020+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-15T20:24:51.334220+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "日本",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "国防部：坚决阻击日本军国主义幽灵复活",
+          "url": "https://news.ifeng.com/c/8p6bhRgk6lH",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
         {
           "title": "南京古石仍被压在日本“和平塔”下",
           "url": "https://www.toutiao.com/trending/7583500462188429331/",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "日本国内最后两只大熊猫即将租借到期回国，外交部回应",
+          "url": "https://news.ifeng.com/c/8p6bq8VeyDF",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "超级央行周来了！日本带头加息，发达国家央行“降息周期”进入尾声，明年美联储“独自降息”？",
@@ -63,6 +85,17 @@
           "time_info": "08时57分"
         },
         {
+          "title": "外交部：对日本自卫队前统合幕僚长岩崎茂采取反制措施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32177544",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "日本央行：企业认为美国贸易政策的不确定性正在消退，美国关税的冲击小于预期，成本传导顺畅，以及人工智能和芯片需求强劲，这些都是提振企业情绪的积极因素。",
           "url": "https://flash.jin10.com/detail/20251215080816677800",
           "source": "金十数据",
@@ -94,6 +127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "日本将不再有大熊猫",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%86%E4%B8%8D%E5%86%8D%E6%9C%89%E5%A4%A7%E7%86%8A%E7%8C%AB",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "日本央行：企业将美国关税影响、劳动力成本上升、劳动力短缺以及物价上涨引发的消费疲软，列为影响商业景气的负面因素。 企业指出美国贸易政策不确定性降低、美国关税影响小于预期、成本转嫁，以及人工智能和芯片需求强劲是提振企业信心的正面因素。",
@@ -330,29 +374,130 @@
     },
     {
       "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 5,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "第一批免签去俄罗斯的中产傻眼了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E5%85%8D%E7%AD%BE%E5%8E%BB%E4%BF%84%E7%BD%97%E6%96%AF%E7%9A%84%E4%B8%AD%E4%BA%A7%E5%82%BB%E7%9C%BC%E4%BA%86%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
         {
           "title": "泽连斯基称乌克兰放弃加入北约",
           "url": "https://search.bilibili.com/all?keyword=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A7%B0%E4%B9%8C%E5%85%8B%E5%85%B0%E6%94%BE%E5%BC%83%E5%8A%A0%E5%85%A5%E5%8C%97%E7%BA%A6",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 20时24分]"
         },
         {
           "title": "乌克兰放弃入北约,到头一场空",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347970&amp;topic_name=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%94%BE%E5%BC%83%E5%85%A5%E5%8C%97%E7%BA%A6%2C%E5%88%B0%E5%A4%B4%E4%B8%80%E5%9C%BA%E7%A9%BA",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 20时24分]"
+        },
+        {
+          "title": "据荷兰ANP通讯社：乌克兰总统泽连斯基将于周二在海牙向荷兰议会发表演讲。",
+          "url": "https://flash.jin10.com/detail/20251215192608447800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "20时24分"
+        },
+        {
+          "title": "市场消息：美国在柏林的代表团坚持要求乌克兰交出顿巴斯地区。",
+          "url": "https://flash.jin10.com/detail/20251215192507278800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "俄罗斯诺镍公司大幅上调今明两年镍供应过剩预测",
+          "url": "https://flash.jin10.com/detail/20251215192247173800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "俄罗斯商业通讯社：俄罗斯将延长燃料出口禁令至明年春季。",
+          "url": "https://wallstreetcn.com/livenews/3020952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "据国际文传电讯社：俄罗斯法院裁定力拓集团向俄铝（RUSAL）支付1047.5亿卢布。",
+          "url": "https://flash.jin10.com/detail/20251215191746247800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "欧盟扩大对白俄罗斯的制裁范围",
+          "url": "https://flash.jin10.com/detail/20251215191731685800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "据俄罗斯商业通讯社：俄罗斯将把燃料出口禁令延长至春季。",
+          "url": "https://flash.jin10.com/detail/20251215191656537800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "乌克兰愿放弃加入北约",
+          "url": "https://www.douyin.com/hot/2336696",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "乌克兰已放弃加入北约",
@@ -364,6 +509,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "欧盟外长通过了针对俄罗斯“影子舰队”的制裁",
+          "url": "https://flash.jin10.com/detail/20251215190801895800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "泽连斯基：乌克兰已放弃加入北约",
@@ -391,8 +547,52 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "布伦特原油向下触及61美元/桶，日内跌0.78%。",
+          "url": "https://flash.jin10.com/detail/20251215194559264800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "芯片设备制造商应用材料盘前上涨超2%，富国银行将公司目标价格从255美元上调至290美元。",
+          "url": "https://wallstreetcn.com/livenews/3020974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "WTI原油向下触及57美元/桶，日内跌0.70%。",
+          "url": "https://flash.jin10.com/detail/20251215194147167800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "一品红：拟最高或达15亿美元出售参股公司美国Arthrosi公司13.45%股权",
+          "url": "https://wallstreetcn.com/livenews/3020969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
         {
           "title": "洛阳钼业收购金矿项目 涉资10.15亿美元",
           "url": "https://flash.jin10.com/detail/20251215081911192800",
@@ -441,7 +641,7 @@
     },
     {
       "keyword_group": "韩国",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "韩国锌业股价盘初一度涨26%。据媒体报道，韩国锌业董事会将讨论在美国合资企业下建设冶炼厂的计划。",
@@ -486,12 +686,73 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "韩元加速贬值之际 韩国国民年金将根据市况灵活开展外汇对冲",
+          "url": "https://wallstreetcn.com/livenews/3020924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "日媒：特朗普曾警告高市早苗“别来添乱”",
+          "url": "https://news.ifeng.com/c/8p6g6UaeUPY",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
+          "url": "https://wallstreetcn.com/articles/3761378",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "连续表达“独立性”！哈塞特：若被选中领导美联储，特朗普可以提意见，但对美联储决策“毫无分量”",
+          "url": "https://wallstreetcn.com/articles/3761377",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "拜登白送的无人机特朗普要收钱，台军：不要了",
+          "url": "https://news.ifeng.com/c/8p6WipSN2un",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     },
     {
       "keyword_group": "欧盟",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "美媒：欧盟即将进入关键一周，向美国展示自己并不软弱",
@@ -503,6 +764,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "欧盟委员会发言人：欧盟委员会主席将于周一晚间前往柏林。",
+          "url": "https://flash.jin10.com/detail/20251215192630816800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "欧盟委员会发言人：签署南方共同市场贸易协议具有极其重要的意义。",
+          "url": "https://flash.jin10.com/detail/20251215191426746800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "欧盟委员会发言人：预计将于年底前签署南方共同市场协议。",
+          "url": "https://flash.jin10.com/detail/20251215191327235800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
+          "url": "https://wallstreetcn.com/articles/3761417",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     }

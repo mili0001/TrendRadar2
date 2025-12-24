@@ -1,230 +1,328 @@
 {
-  "generated_at": "2025-12-23T20:23:24.550214+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2025-12-24T08:55:09.407926+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "日本",
-      "match_count": 20,
+      "match_count": 29,
       "titles": [
         {
-          "title": "日本核反应堆泄漏水量约为20毫升",
-          "url": "https://www.toutiao.com/trending/7586443364464787492/",
-          "source": "今日头条",
+          "title": "日本一报废核反应堆发生含放射性水泄漏事件，数人或遭辐射",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32237641",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
         },
         {
           "title": "日本核反应堆含放射性水泄漏",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E5%90%AB%E6%94%BE%E5%B0%84%E6%80%A7%E6%B0%B4%E6%B3%84%E6%BC%8F",
           "source": "bilibili 热搜",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "日本一座报废核反应堆泄漏，数人疑遭辐射",
-          "url": "https://news.ifeng.com/c/8pK4zMZ962y",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "日本核反应堆含放射性水泄漏",
-          "url": "https://www.douyin.com/hot/2345463",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "10年期日本国债收益率下行3.5BP至2.045%。",
-          "url": "https://wallstreetcn.com/livenews/3025211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "迄今最严厉警告！日本财务大臣：针对汇市投机拥有“自由裁量权”，将采取大胆行动",
-          "url": "https://wallstreetcn.com/articles/3761858",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            8
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时55分 ~ 20时23分]"
-        },
-        {
-          "title": "日本一核反应堆泄漏 数人疑遭辐射",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E6%B3%84%E6%BC%8F+%E6%95%B0%E4%BA%BA%E7%96%91%E9%81%AD%E8%BE%90%E5%B0%84",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "日本企业为何对海南封关喜忧参半",
-          "url": "https://www.toutiao.com/trending/7586496630862384682/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "人民日报钟声：日本的“军费账”算丢了历史责任与公道人心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32234610",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "日本为何突然“抱紧”中亚",
-          "url": "https://www.toutiao.com/trending/7586609184569822762/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "10年期日本国债收益率下行3BP至2.050%。 20年期日本国债收益率下行1.5BP至2.985%。",
-          "url": "https://wallstreetcn.com/livenews/3025202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "外交部：中方对日本首相官邸高官拥核言论感到震惊",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32228304",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "[08时54分 ~ 08时55分]"
         },
         {
           "title": "日本核反应堆泄漏水量约为20毫升，浓度被认为“较高”",
           "url": "https://www.cls.cn/detail/2237956",
           "source": "财联社热门",
           "ranks": [
-            13
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
+          "title": "10年期日本国债收益率跌2个基点，至2.020%。",
+          "url": "https://flash.jin10.com/detail/20251224081450280800",
+          "source": "金十数据",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "08时55分"
         },
         {
-          "title": "日本发生含放射性水泄漏事件",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F%E5%90%AB%E6%94%BE%E5%B0%84%E6%80%A7%E6%B0%B4%E6%B3%84%E6%BC%8F%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=13&Refer=top",
+          "title": "日本据悉将2026财年政府债务付息成本暂定利率设为3%，偿债成本预计将创纪录新高。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3025851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "日本遗孤说不信我是日本孩子",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%81%97%E5%AD%A4%E8%AF%B4%E4%B8%8D%E4%BF%A1%E6%88%91%E6%98%AF%E6%97%A5%E6%9C%AC%E5%AD%A9%E5%AD%90%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "叙利亚外交部：叙利亚和日本宣布恢复外交关系。",
-          "url": "https://flash.jin10.com/detail/20251223185759606800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "10年期日本国债收益率跌3个基点，至2.050%。",
-          "url": "https://flash.jin10.com/detail/20251223081519989800",
-          "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
         },
         {
-          "title": "40年期日本国债收益率下行1BP至3.705%。",
-          "url": "https://wallstreetcn.com/livenews/3025194",
-          "source": "华尔街见闻-快讯",
+          "title": "日本第17次核污染水排海结束，共排放7833立方米",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32234703",
+          "source": "澎湃新闻",
           "ranks": [
-            18
+            19
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
+          "title": "日本核反应堆含放射性水泄漏",
+          "url": "https://www.douyin.com/hot/2345463",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
+          "title": "日本央行会议纪要：少数委员表示，日元下跌可能通过进口价格上涨导致通胀超调。",
+          "url": "https://flash.jin10.com/detail/20251224081113555800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
         {
-          "title": "日本核反应堆泄漏水放射性浓度较高",
-          "url": "https://wallstreetcn.com/livenews/3025561",
+          "title": "日本央行会议纪要：一名委员表示，企业和家庭的通胀预期已达到2%，必须警惕物价上行风险。",
+          "url": "https://flash.jin10.com/detail/20251224081048499800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "日媒：日本2026年将加速对外供武，预算增加100亿日元",
+          "url": "https://wallstreetcn.com/livenews/3025846",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "日本央行会议纪要：一名委员表示，财政政策是制定经济和价格预测的重要因素。",
+          "url": "https://flash.jin10.com/detail/20251224080931883800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "日本10年期国债收益率下跌2BP至2.02%。",
+          "url": "https://wallstreetcn.com/livenews/3025843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "日本央行会议纪要：少数委员表示，潜在通胀正在逐步加速，但尚未达到2%。",
+          "url": "https://flash.jin10.com/detail/20251224080901520800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "日本央行会议纪要：一名委员表示，日本有很大几率在明年春季前后被判定已实现日本央行的通胀目标，届时日本很可能会出现实现通胀目标所需的工资增长。",
+          "url": "https://flash.jin10.com/detail/20251224080858610800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "日本央行10月政策会议纪要：一名委员表示，企业与家庭的通胀预期已达到2%，必须警惕价格上涨风险。 一名委员称，财政政策是设定经济和物价预测的重要因素。 少数委员指出，核心通胀正在逐步加速，但尚未达到2%。 一名委员表示，日本有望在明年春季实现日本央行的物价目标，届时可能需要工资增长以达成目标。 几位委员表示，日元贬值可能通过推高进口价格，导致通胀超调。",
+          "url": "https://wallstreetcn.com/livenews/3025838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "日本央行会议纪要：日本央行审议委员田村直树和高田创提议将政策利率从0.5%上调至0.75%，但该提议以2票赞成、7票反对被否决。",
+          "url": "https://flash.jin10.com/detail/20251224080210285800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "日本央行会议纪要：财务省代表表示，希望日本央行密切关注经济发展，并在引导政策以稳定、可持续地实现价格目标时与市场保持密切沟通。",
+          "url": "https://flash.jin10.com/detail/20251224080024787800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "08时55分"
         },
         {
-          "title": "40年期日本国债收益率跌1.0个基点，至3.705%。",
-          "url": "https://flash.jin10.com/detail/20251223080242912800",
+          "title": "日本央行会议纪要：内阁官房代表表示，希望日本央行与政府密切合作，采取适当的货币政策，以稳定且可持续的方式实现其价格目标。",
+          "url": "https://flash.jin10.com/detail/20251224080007496800",
           "source": "金十数据",
           "ranks": [
-            21
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
         {
-          "title": "专家：日本若敢拥核美国第一个翻脸",
-          "url": "https://www.toutiao.com/trending/7586600464628583987/",
-          "source": "今日头条",
+          "title": "日本央行会议纪要：一名委员表示，日本央行应适时加息。",
+          "url": "https://flash.jin10.com/detail/20251224075811848800",
+          "source": "金十数据",
           "ranks": [
-            29
+            22
           ],
-          "is_new": false,
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "日本央行10月政策会议纪要：与会委员一致认为，若经济和物价预测如期实现，日本央行将继续加息。 一名委员表示，鉴于日元走弱可能推高物价的风险，提前加息是可取的；但考虑到美国劳动力市场出现疲软迹象带来的下行压力，目前应保持观望。 一名委员表示，尽管临近加息时机，但应再等待一段时间，以观察新一届政府政策的方向。 多名委员指出，经济前景改善、物价预测实现的可能性已上升，但仍需维持当前政策，以确认工资上涨趋势是否持续或是否会受到干扰。",
+          "url": "https://wallstreetcn.com/livenews/3025828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "日本央行会议纪要：几位委员表示，调整货币支持力度将稳定经济和物价增长，因为日本央行当前的政策利率高于中性的水平。",
+          "url": "https://flash.jin10.com/detail/20251224075811299800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "日本11月企业服务价格指数同比 2.7%，预期 2.7%，前值 2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3025827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "日本央行会议纪要：一名委员表示，政策正常化的条件正在就位，但必须确认潜在通胀是否已稳定在目标附近。",
+          "url": "https://flash.jin10.com/detail/20251224075548747800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "日本央行会议纪要：一名委员表示，鉴于日元走软推高物价的风险，尽早加息是可取的，但由于美国劳动力市场失衡带来的下行压力风险，目前应按兵不动。",
+          "url": "https://flash.jin10.com/detail/20251224075539069800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "日本央行会议纪要：一名委员表示，加息时机正在逼近，但应再等一段时间，以仔细审视新政府政策的走向。",
+          "url": "https://flash.jin10.com/detail/20251224075413159800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "日本央行会议纪要：多位委员认为，经济和价格预测成真的可能性已增强，但仍必须维持现有政策，以进一步确认积极的薪资设定行为不会受到干扰。",
+          "url": "https://flash.jin10.com/detail/20251224075358743800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "日本央行10月29日至30日会议纪要：与会委员一致认为，若经济和物价预测如期实现，日本央行将继续加息。",
+          "url": "https://flash.jin10.com/detail/20251224075200550800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "日本11月企业服务价格指数月率 0.4%，前值0.6%。",
+          "url": "https://flash.jin10.com/detail/20251224075030620800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "08时55分"
         }
@@ -235,178 +333,178 @@
       "match_count": 16,
       "titles": [
         {
-          "title": "中信证券：2027年全球液冷市场空间将达到218亿美元",
-          "url": "https://wallstreetcn.com/livenews/3025217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "印度央行：宣布管理流动性状况的措施，将在四个批次中开展总额为2万亿卢比的政府证券公开市场购买操作，将于2026年1月13日举行规模为100亿美元、期限为3年的美元/卢比买卖掉期拍卖。将继续密切监测流动性及市场状况变化，并适时采取适当措施，以确保流动性环境平稳有序。",
-          "url": "https://flash.jin10.com/detail/20251223194849901800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
           "title": "1970年以来第39次，美元出现“金叉”，还是极为罕见的那种",
           "url": "https://wallstreetcn.com/articles/3761880",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
         },
         {
-          "title": "美元指数DXY日内下跌0.4%，跌至10月3日以来新低，报97.853。",
-          "url": "https://flash.jin10.com/detail/20251223192922576800",
+          "title": "韩元在早盘交易中大幅走强，美元/韩元跌0.7%至1470。",
+          "url": "https://flash.jin10.com/detail/20251224082637592800",
           "source": "金十数据",
           "ranks": [
-            5
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "08时55分"
         },
         {
-          "title": "现货黄金首次站上4400美元/盎司，今年迄今累涨逾67%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32227407",
-          "source": "澎湃新闻",
+          "title": "在有关韩国国民养老基金进行对冲操作的报道发布后，韩元兑美元涨幅扩大，升至11月26日来的高点。",
+          "url": "https://wallstreetcn.com/livenews/3025854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "伦铜，历史首次突破12000美元",
+          "url": "https://www.cls.cn/detail/2238055",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
+          "title": "美新型战列舰造价或高达150亿美元",
+          "url": "https://www.toutiao.com/trending/7586457401441206323/",
+          "source": "今日头条",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
         },
         {
-          "title": "加码AI算力与电力布局！Alphabet斥资47.5亿美元收购Intersect",
-          "url": "https://www.cls.cn/detail/2236998",
+          "title": "白银首破70美元关口、黄金逼近4500 贵金属牛市继续扩散",
+          "url": "https://www.cls.cn/detail/2238199",
           "source": "财联社热门",
           "ranks": [
-            12
+            8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
+          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
+          "url": "https://wallstreetcn.com/articles/3761916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
+          "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
+          "url": "https://www.zhihu.com/question/1986492553160311276",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
+          "title": "现货钯金涨至1900美元 创3年新高",
+          "url": "https://flash.jin10.com/detail/20251224081028434800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
         {
-          "title": "美元迈向2017年以来最大年度跌幅 期权市场显示还有进一步下跌空间",
-          "url": "https://wallstreetcn.com/livenews/3025568",
+          "title": "纽元兑美元NZD/USD升至2个半月高点，报0.5844。",
+          "url": "https://flash.jin10.com/detail/20251224080923007800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "云数据公司Snowflake正在洽谈以约10亿美元收购Observe。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3025842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "现货钯金上涨近3%，报每盎司1,919.69美元。",
+          "url": "https://wallstreetcn.com/livenews/3025839",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "08时55分"
         },
         {
-          "title": "纽约期金一度突破4500美元/盎司，日内涨近0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3025199",
+          "title": "韩元兑美元日内涨幅扩大至1%。此前韩国政府表示，韩元过度贬值不可取，外汇市场参与者将很快看到政府的坚定决心。",
+          "url": "https://wallstreetcn.com/livenews/3025837",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
         {
-          "title": "国际黄金期货涨至4500美元",
-          "url": "https://flash.jin10.com/detail/20251223081555554800",
-          "source": "金十数据",
+          "title": "现货铂金上涨3%，至2,344.55美元/盎司的历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3025835",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
         {
-          "title": "关税贸易颠覆市场，LME期铜首次突破1.2万美元",
-          "url": "https://flash.jin10.com/detail/20251223185756781800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "伦铜升至1.2万美元/吨上方，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3025564",
+          "title": "现货黄金史上首次站上4500美元/盎司关口。",
+          "url": "https://wallstreetcn.com/livenews/3025821",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "08时55分"
         },
         {
-          "title": "欧元兑美元EUR/USD突破1.18，日内涨0.34%。",
-          "url": "https://flash.jin10.com/detail/20251223185508375800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "美元兑加元USD/CAD失守1.37，日内跌幅0.33%。",
-          "url": "https://flash.jin10.com/detail/20251223185327923800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "东方雨虹：美国全资子公司疑遭电信诈骗 涉案金额约171.83万美元",
-          "url": "https://wallstreetcn.com/livenews/3025559",
+          "title": "现货白银刷新历史高点至71.75美元/盎司，日内涨约0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3025815",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            30
           ],
           "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "伦敦金属交易所（LME）三个月期铜突破每吨12000美元，再创历史新高。",
-          "url": "https://flash.jin10.com/detail/20251223184649248800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "加拿大养老金计划投资委员会（CPP）和高盛将在欧洲数据中心投资26亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3025183",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         }
@@ -414,63 +512,18 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 6,
       "titles": [
         {
-          "title": "马杜罗：特朗普最好把精力放在美国而不是委内瑞拉",
-          "url": "https://wallstreetcn.com/livenews/3025215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
-          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
-          "source": "凤凰网",
+          "title": "特朗普回应克林顿大尺度照被公布",
+          "url": "https://www.toutiao.com/trending/7586912730720947748/",
+          "source": "今日头条",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
-          "url": "https://wallstreetcn.com/articles/3761868",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时55分 ~ 20时23分]"
-        },
-        {
-          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
-          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "特朗普：美国还将增加航空母舰数量",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E8%BF%98%E5%B0%86%E5%A2%9E%E5%8A%A0%E8%88%AA%E7%A9%BA%E6%AF%8D%E8%88%B0%E6%95%B0%E9%87%8F",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "[08时54分 ~ 08时55分]"
         },
         {
           "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
@@ -479,123 +532,168 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
+          "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
+          "url": "https://www.cls.cn/detail/2238272",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
         },
         {
           "title": "特朗普又自恋,新战舰用自己名",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
           "source": "贴吧",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "特朗普将建特朗普级新型战舰",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "据美国哥伦比亚广播公司：特朗普政府寻求撤销数千起庇护案件，申请人可被驱逐至第三国。",
-          "url": "https://flash.jin10.com/detail/20251223190328466800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "专家：特朗普战列舰政治意义大于实战",
-          "url": "https://www.toutiao.com/trending/7586991061680000531/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
-          "url": "https://flash.jin10.com/detail/20251223072906047800",
-          "source": "金十数据",
-          "ranks": [
-            30
+            12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
+          "title": "美军将建造“特朗普级”战舰",
+          "url": "https://www.douyin.com/hot/2345209",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
+          "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
+          "url": "https://www.toutiao.com/trending/7586636403350556196/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "韩国",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "高市早苗成功得罪韩国",
+          "url": "https://www.toutiao.com/trending/7586892315609333779/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
+          "title": "韩国财政部官员：市场很快将看到政府对韩元的坚定承诺。",
+          "url": "https://flash.jin10.com/detail/20251224080951898800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
         {
-          "title": "提醒：美国总统特朗普在佛罗里达州棕榈滩住所的讲话结束。",
-          "url": "https://wallstreetcn.com/livenews/3025175",
+          "title": "韩国财政部官员：韩元过度疲软不可取。",
+          "url": "https://flash.jin10.com/detail/20251224080845127800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "韩国外汇当局：韩元过度贬值不可取。 外汇市场参与者将很快看到政府的坚定决心。 韩国举行了一系列会议讨论外汇相关问题，相关会议将展示政府在外汇政策执行方面的举措。",
+          "url": "https://wallstreetcn.com/livenews/3025833",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            17
           ],
-          "is_new": false,
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "日经225指数高开0.1%，韩国首尔综指高开0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3025832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "08时55分"
         }
       ]
     },
     {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 8,
+      "keyword_group": "美股",
+      "match_count": 3,
       "titles": [
         {
-          "title": "中方回应乌克兰或将制裁中国公民",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E5%B0%86%E5%88%B6%E8%A3%81%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：已就安全保障、恢复与和平框架起草了数份文件草案。",
-          "url": "https://flash.jin10.com/detail/20251223194115057800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：乌克兰谈判代表在最近的和平谈判中与美国团队“开展了富有成效的工作”。",
-          "url": "https://flash.jin10.com/detail/20251223193831248800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "俄罗斯中将被炸身亡传递危险信号",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%AD%E5%B0%86%E8%A2%AB%E7%82%B8%E8%BA%AB%E4%BA%A1%E4%BC%A0%E9%80%92%E5%8D%B1%E9%99%A9%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "美股收盘：日线四连涨标普收新高 英伟达升3%领涨七巨头",
+          "url": "https://www.cls.cn/detail/2238248",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
+          "title": "金银铜携手创新高 强势GDP数据压制美股期指 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2238119",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
+          "title": "美股收盘：英伟达涨超3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "俄罗斯调查人员在莫斯科南部爆炸致交通警察受伤后启动刑事案件。",
+          "url": "https://flash.jin10.com/detail/20251224081423402800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -606,114 +704,35 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "塞尔维亚总统武契奇：匈牙利MOL集团是俄罗斯天然气工业股份公司旗下塞尔维亚石油公司（NIS）的潜在买家之一。",
-          "url": "https://flash.jin10.com/detail/20251223190600970800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "克里姆林宫报告称，外国即时通讯工具运营放缓导致俄罗斯网络诈骗案件数量减少。",
-          "url": "https://flash.jin10.com/detail/20251223185542626800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "俄罗斯腹地为何被乌连连偷袭得手",
-          "url": "https://www.toutiao.com/trending/7586976547836268075/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
         }
       ]
     },
     {
-      "keyword_group": "韩国",
-      "match_count": 3,
+      "keyword_group": "欧盟",
+      "match_count": 2,
       "titles": [
         {
-          "title": "日经225指数低开0.02%，韩国首尔综指高开0.5%。",
-          "url": "https://wallstreetcn.com/livenews/3025192",
+          "title": "美国对欧盟委员会前委员实施签证限制",
+          "url": "https://wallstreetcn.com/livenews/3025840",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "美国对欧盟委员会前委员实施签证限制",
+          "url": "https://flash.jin10.com/detail/20251224075959812800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "Faker对话韩国总理",
-          "url": "https://search.bilibili.com/all?keyword=Faker%E5%AF%B9%E8%AF%9D%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%90%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "韩国内乱案专司法庭法在国会获得通过",
-          "url": "https://flash.jin10.com/detail/20251223184636499800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
           "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
-          "url": "https://wallstreetcn.com/articles/3761857",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 20时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
-          "url": "https://www.cls.cn/detail/2237037",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         }

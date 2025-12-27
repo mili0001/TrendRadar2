@@ -1,8 +1,322 @@
 {
-  "generated_at": "2025-12-27T08:53:56.947526+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-27T20:21:32.164034+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 28,
+      "titles": [
+        {
+          "title": "据卷入调查的议员称，乌克兰反腐败机构试图突查议会。",
+          "url": "https://flash.jin10.com/detail/20251227200111457800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "乌克兰空军：乌全境面临导弹袭击威胁",
+          "url": "https://wallstreetcn.com/livenews/3027496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "乌克兰空军：乌全境面临导弹袭击威胁",
+          "url": "https://flash.jin10.com/detail/20251227081402681800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "乌克兰官员：基辅正遭受俄军大规模袭击，防空系统已启动运行。",
+          "url": "https://flash.jin10.com/detail/20251227080108386800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "乌克兰首都基辅传出强烈爆炸声。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3027491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "泽连斯基：俄罗斯无意结束战争",
+          "url": "https://news.ifeng.com/c/8pQgWq978i3",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
+          "title": "扎哈罗娃：就乌克兰问题谈判俄方立场无意让步",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32262027",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
+          "title": "乌克兰基辅响起爆炸声",
+          "url": "https://flash.jin10.com/detail/20251227080040038800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：如果乌克兰社会不喜欢和平谈判提出的建议，愿意与乌克兰社会展开对话。",
+          "url": "https://flash.jin10.com/detail/20251227192749065800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "俄方称乌克兰要再征兵200万",
+          "url": "https://wallstreetcn.com/livenews/3027488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "加拿大总理卡尼办公室：加拿大总理卡尼与乌克兰总统泽连斯基讨论了最新的和平谈判进展。",
+          "url": "https://flash.jin10.com/detail/20251227033854559800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "美方锁定俄罗斯新型核导弹在白俄罗斯的潜在部署地",
+          "url": "https://flash.jin10.com/detail/20251227031757593800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：普京要求在俄罗斯的乌克兰人投票的做法将使选举失去合法性。",
+          "url": "https://flash.jin10.com/detail/20251227190129391800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：随着俄罗斯使用更多导弹和无人机发动攻击，乌克兰需要更多防空导弹。",
+          "url": "https://flash.jin10.com/detail/20251227185517467800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "乌克兰基辅州能源设施遭袭 32万用户停电",
+          "url": "https://wallstreetcn.com/livenews/3027552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "市场消息：美国研究人员称，俄罗斯很可能在白俄罗斯东部一处前空军基地部署新型具备核能力的高超音速弹道导弹。",
+          "url": "https://flash.jin10.com/detail/20251227031051388800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：在当前安全条件下，乌克兰无法举行公投，需要强有力的安全保障。",
+          "url": "https://flash.jin10.com/detail/20251227185447310800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰有其红线，但确信可以找到妥协。",
+          "url": "https://flash.jin10.com/detail/20251227185143736800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "俄罗斯将汽油出口禁令延长至2月底。",
+          "url": "https://wallstreetcn.com/livenews/3027549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "泽连斯基称俄罗斯无意结束战争",
+          "url": "https://wallstreetcn.com/livenews/3027547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "俄罗斯、阿联酋等多国发声",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E3%80%81%E9%98%BF%E8%81%94%E9%85%8B%E7%AD%89%E5%A4%9A%E5%9B%BD%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "乌克兰基辅遭袭已致22人受伤 供电供暖大范围中断",
+          "url": "https://wallstreetcn.com/livenews/3027544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "据报道，乌克兰基辅发布空中警报。",
+          "url": "https://flash.jin10.com/detail/20251227181524721800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "白俄国防部：白俄罗斯接收新一批苏-30SM2战机。",
+          "url": "https://flash.jin10.com/detail/20251227013710925800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "俄罗斯国防部周六表示，过去24小时内，俄武装力量东部兵团深入乌克兰防线，北部和南部兵团则巩固了阵地。",
+          "url": "https://flash.jin10.com/detail/20251227174611047800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "乌克兰基辅响起巨大爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3027537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：与德国总理默茨进行了交谈。我们正在协调立场，欧洲各国必须团结一致，捍卫我们的欧洲生活方式、各国独立和欧洲和平。",
+          "url": "https://flash.jin10.com/detail/20251227012619580800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "俄罗斯延长汽油及柴油出口禁令至2026年2月",
+          "url": "https://flash.jin10.com/detail/20251227172054371800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        }
+      ]
+    },
     {
       "keyword_group": "美元",
       "match_count": 13,
@@ -12,22 +326,12 @@
           "url": "https://wallstreetcn.com/articles/3762152",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "手握5.5万亿美元巨资，飞速崛起的华尔街大金主：家族办公室！",
-          "url": "https://wallstreetcn.com/articles/3762125",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 20时21分]"
         },
         {
           "title": "太空概念股Sidus股价狂飙：市值不足1亿美元 却拿下“金穹”入场券",
@@ -35,6 +339,17 @@
           "source": "财联社热门",
           "ranks": [
             8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 20时21分]"
+        },
+        {
+          "title": "手握5.5万亿美元巨资，飞速崛起的华尔街大金主：家族办公室！",
+          "url": "https://wallstreetcn.com/articles/3762125",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -153,13 +468,140 @@
       ]
     },
     {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 12,
+      "keyword_group": "日本",
+      "match_count": 11,
       "titles": [
         {
-          "title": "乌克兰空军：乌全境面临导弹袭击威胁",
-          "url": "https://wallstreetcn.com/livenews/3027496",
-          "source": "华尔街见闻-快讯",
+          "title": "侠客岛：日本政府有明确改变国策意图",
+          "url": "https://news.ifeng.com/c/8pQXSZnmae6",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
+          "title": "日本大幅增加防卫费，中方：暴露日本右翼势力险恶用心",
+          "url": "https://news.ifeng.com/c/8pPpZD3GLo1",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "日本总务大臣道歉 承认存在政治资金问题",
+          "url": "https://flash.jin10.com/detail/20251227081343482800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "日本广岛市长称日政府应坚持“无核三原则”",
+          "url": "https://news.ifeng.com/c/8pPyxswsjMH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "日本推出人扮大熊猫游客体验活动",
+          "url": "https://www.toutiao.com/trending/7588345693748707370/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
+          "title": "日本防卫省停止川崎重工参与招标",
+          "url": "https://www.toutiao.com/trending/7588161840954359850/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
+          "title": "侠客岛：日本政府有明确改变国策意图",
+          "url": "https://www.toutiao.com/trending/7588146747755466276/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
+          "title": "日本67辆车连撞 20车起火燃烧",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC67%E8%BE%86%E8%BD%A6%E8%BF%9E%E6%92%9E+20%E8%BD%A6%E8%B5%B7%E7%81%AB%E7%87%83%E7%83%A7",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
+          "title": "外交部回应日本领导人或参拜靖国神社：日方不要错上加错",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32257189",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "国防部回应日本拟在冲绳部署移动雷达",
+          "url": "https://www.toutiao.com/trending/7587978293262106667/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "日本50多辆车相撞事故致1死26伤",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC50%E5%A4%9A%E8%BE%86%E8%BD%A6%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%E8%87%B41%E6%AD%BB26%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "泽连斯基：将与特朗普会晤，讨论“敏感”问题",
+          "url": "https://news.ifeng.com/c/8pPc87WsghO",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
@@ -168,121 +610,99 @@
           "time_info": "08时53分"
         },
         {
-          "title": "乌克兰空军：乌全境面临导弹袭击威胁",
-          "url": "https://flash.jin10.com/detail/20251227081402681800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "乌克兰官员：基辅正遭受俄军大规模袭击，防空系统已启动运行。",
-          "url": "https://flash.jin10.com/detail/20251227080108386800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "乌克兰首都基辅传出强烈爆炸声。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3027491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "乌克兰基辅响起爆炸声",
-          "url": "https://flash.jin10.com/detail/20251227080040038800",
-          "source": "金十数据",
+          "title": "特朗普回应泽连斯基：没我，你啥都不是",
+          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
         },
         {
-          "title": "俄方称乌克兰要再征兵200万",
-          "url": "https://wallstreetcn.com/livenews/3027488",
-          "source": "华尔街见闻-快讯",
+          "title": "美军圣诞节突袭尼日利亚，特朗普政府有何考量？",
+          "url": "https://news.ifeng.com/c/8pQfSUcW5fL",
+          "source": "凤凰网",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
         },
         {
-          "title": "加拿大总理卡尼办公室：加拿大总理卡尼与乌克兰总统泽连斯基讨论了最新的和平谈判进展。",
-          "url": "https://flash.jin10.com/detail/20251227033854559800",
-          "source": "金十数据",
+          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
+          "url": "https://wallstreetcn.com/articles/3762159",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
         },
         {
-          "title": "美方锁定俄罗斯新型核导弹在白俄罗斯的潜在部署地",
-          "url": "https://flash.jin10.com/detail/20251227031757593800",
-          "source": "金十数据",
+          "title": "特朗普为何又索要盟友的领土",
+          "url": "https://www.toutiao.com/trending/7588483119292878372/",
+          "source": "今日头条",
           "ranks": [
-            12
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
         },
         {
-          "title": "市场消息：美国研究人员称，俄罗斯很可能在白俄罗斯东部一处前空军基地部署新型具备核能力的高超音速弹道导弹。",
-          "url": "https://flash.jin10.com/detail/20251227031051388800",
-          "source": "金十数据",
+          "title": "评论员：特朗普搞和平总是制造敌人",
+          "url": "https://www.toutiao.com/trending/7588476767900274226/",
+          "source": "今日头条",
           "ranks": [
-            15
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
         },
         {
-          "title": "俄罗斯、阿联酋等多国发声",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E3%80%81%E9%98%BF%E8%81%94%E9%85%8B%E7%AD%89%E5%A4%9A%E5%9B%BD%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "白俄国防部：白俄罗斯接收新一批苏-30SM2战机。",
-          "url": "https://flash.jin10.com/detail/20251227013710925800",
+          "title": "乌克兰总统泽连斯基：美国提供的安全保障将取决于美国总统特朗普准备提供什么。",
+          "url": "https://flash.jin10.com/detail/20251227191857626800",
           "source": "金十数据",
           "ranks": [
-            27
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时53分"
+          "time_info": "20时21分"
         },
         {
-          "title": "乌克兰总统泽连斯基：与德国总理默茨进行了交谈。我们正在协调立场，欧洲各国必须团结一致，捍卫我们的欧洲生活方式、各国独立和欧洲和平。",
-          "url": "https://flash.jin10.com/detail/20251227012619580800",
+          "title": "乌克兰总统泽连斯基：正乘飞机前往美国会见美国总统特朗普，途中将先在加拿大停留，会见加拿大总理卡尼。",
+          "url": "https://flash.jin10.com/detail/20251227184915067800",
           "source": "金十数据",
           "ranks": [
-            30
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-27）",
+          "url": "https://flash.jin10.com/detail/20251227180421799800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "周五（12月26日），降息赢家指数涨0.03%，报100.38点，本周累计上涨0.45%。 “特朗普关税输家”指数涨0.48%，报112.72点，本周累跌0.18%。 散户抱团概念股指数/迷因股（meme stock）指数跌1.85%，报16.03点，本周累跌4.89%。",
+          "url": "https://wallstreetcn.com/livenews/3027470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -302,8 +722,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 20时21分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
+          "url": "https://www.cls.cn/detail/2241688",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 20时21分]"
         },
         {
           "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
@@ -350,17 +782,6 @@
           "time_info": "08时53分"
         },
         {
-          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
-          "url": "https://www.cls.cn/detail/2241688",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
           "title": "（美股）费城金银指数收涨1.45%，报363.21点，时隔一个交易日再创收盘历史新高，本周累计上涨4.43%。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.04%，报2572.35点，也时隔一天再创收盘历史新高，本周累涨4.53%，周一美股开盘时“跳空”走高，后续持续高位震荡。",
           "url": "https://wallstreetcn.com/livenews/3027473",
           "source": "华尔街见闻-快讯",
@@ -388,106 +809,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "日本",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "日本大幅增加防卫费，中方：暴露日本右翼势力险恶用心",
-          "url": "https://news.ifeng.com/c/8pPpZD3GLo1",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "日本总务大臣道歉 承认存在政治资金问题",
-          "url": "https://flash.jin10.com/detail/20251227081343482800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "日本广岛市长称日政府应坚持“无核三原则”",
-          "url": "https://news.ifeng.com/c/8pPyxswsjMH",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "外交部回应日本领导人或参拜靖国神社：日方不要错上加错",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32257189",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "国防部回应日本拟在冲绳部署移动雷达",
-          "url": "https://www.toutiao.com/trending/7587978293262106667/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "日本50多辆车相撞事故致1死26伤",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC50%E5%A4%9A%E8%BE%86%E8%BD%A6%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%E8%87%B41%E6%AD%BB26%E4%BC%A4",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "泽连斯基：将与特朗普会晤，讨论“敏感”问题",
-          "url": "https://news.ifeng.com/c/8pPc87WsghO",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "周五（12月26日），降息赢家指数涨0.03%，报100.38点，本周累计上涨0.45%。 “特朗普关税输家”指数涨0.48%，报112.72点，本周累跌0.18%。 散户抱团概念股指数/迷因股（meme stock）指数跌1.85%，报16.03点，本周累跌4.89%。",
-          "url": "https://wallstreetcn.com/livenews/3027470",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 1,

@@ -1,77 +1,436 @@
 {
-  "generated_at": "2025-12-26T20:22:38.735377+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2025-12-27T08:53:56.947526+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "日本",
-      "match_count": 37,
+      "keyword_group": "美元",
+      "match_count": 13,
       "titles": [
         {
-          "title": "日本前所未有的熊尸危机",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E7%86%8A%E5%B0%B8%E5%8D%B1%E6%9C%BA%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "title": "白银还能更疯狂？库存耗尽、金银比坍塌，资深分析师喊出300美元天价",
+          "url": "https://wallstreetcn.com/articles/3762152",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "08时53分"
         },
         {
-          "title": "中方回应日本领导人或参拜靖国神社",
-          "url": "https://www.toutiao.com/trending/7587743165693804607/",
+          "title": "手握5.5万亿美元巨资，飞速崛起的华尔街大金主：家族办公室！",
+          "url": "https://wallstreetcn.com/articles/3762125",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "太空概念股Sidus股价狂飙：市值不足1亿美元 却拿下“金穹”入场券",
+          "url": "https://www.cls.cn/detail/2241658",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "道富环球市场（State Street Global Markets）驻波士顿的高级新兴市场策略师Ning Sun表示：本周，在流动性较低的情况下，良好的美国数据支撑了（新兴市场资产的）风险情绪。 对于明年，我认为新兴市场有望再创佳绩，但表现将更多地依赖于随着利差缩小而持续的美元疲软趋势。",
+          "url": "https://wallstreetcn.com/livenews/3027481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "37%美国人拿不出400美元应急",
+          "url": "https://www.toutiao.com/trending/7587665279485329451/",
           "source": "今日头条",
           "ranks": [
-            2
+            18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时22分"
+          "time_info": "08时53分"
         },
         {
-          "title": "日本“熊尸围城” 7个月捕杀9765头",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E2%80%9C%E7%86%8A%E5%B0%B8%E5%9B%B4%E5%9F%8E%E2%80%9D+7%E4%B8%AA%E6%9C%88%E6%8D%95%E6%9D%809765%E5%A4%B4",
-          "source": "百度热搜",
+          "title": "布伦特原油日内跌幅达2.00%，现报61.05美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251227024755435800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "周五（12月26日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报7.0045元，较周四纽约尾盘跌28点，日内整体交投于6.9997-7.0085元区间。 本周，离岸人民币累计上涨297点，涨幅0.42%，周一至周四持续上涨，周五高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3027476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "白银期货涨超10，创历史新高逼近80美元关口，纽约铜涨5%追随沪铜创历史新高的表现",
+          "url": "https://wallstreetcn.com/livenews/3027475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "纽约期金涨超1.3%，一度逼近4600美元，本周涨4%",
+          "url": "https://wallstreetcn.com/livenews/3027474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了16个对手方的203.39亿美元。",
+          "url": "https://flash.jin10.com/detail/20251227021843590800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "纽约银日内涨幅达11.0%，报79.58美元/盎司。 现货白银日内涨幅达10.0%，报79.14美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3027471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "机构：金银上行趋势强劲，白银年底有望触及80美元",
+          "url": "https://flash.jin10.com/detail/20251227014539170800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "美元兑日元USD/JPY日内涨幅扩大至0.50%，现报156.66。",
+          "url": "https://flash.jin10.com/detail/20251227013210569800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "乌克兰空军：乌全境面临导弹袭击威胁",
+          "url": "https://wallstreetcn.com/livenews/3027496",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "08时53分"
         },
         {
-          "title": "俄外交部：建议日方修建“日本军国主义受害者纪念堂”",
-          "url": "https://news.ifeng.com/c/8pLTxPrVhDN",
-          "source": "凤凰网",
+          "title": "乌克兰空军：乌全境面临导弹袭击威胁",
+          "url": "https://flash.jin10.com/detail/20251227081402681800",
+          "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "08时53分"
         },
         {
-          "title": "东京通胀降温幅度超预期 但不太可能阻止日本央行继续加息",
-          "url": "https://flash.jin10.com/detail/20251226081032911800",
+          "title": "乌克兰官员：基辅正遭受俄军大规模袭击，防空系统已启动运行。",
+          "url": "https://flash.jin10.com/detail/20251227080108386800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "08时53分"
         },
         {
-          "title": "日本半年多捕杀 9765 头熊，遭遇「熊尸围城」，熊尸有哪些好的处理办法？这些熊肉可以食用吗？",
-          "url": "https://www.zhihu.com/question/1986754421607130721",
-          "source": "知乎",
+          "title": "乌克兰首都基辅传出强烈爆炸声。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3027491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "乌克兰基辅响起爆炸声",
+          "url": "https://flash.jin10.com/detail/20251227080040038800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时22分"
+          "time_info": "08时53分"
+        },
+        {
+          "title": "俄方称乌克兰要再征兵200万",
+          "url": "https://wallstreetcn.com/livenews/3027488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "加拿大总理卡尼办公室：加拿大总理卡尼与乌克兰总统泽连斯基讨论了最新的和平谈判进展。",
+          "url": "https://flash.jin10.com/detail/20251227033854559800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "美方锁定俄罗斯新型核导弹在白俄罗斯的潜在部署地",
+          "url": "https://flash.jin10.com/detail/20251227031757593800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "市场消息：美国研究人员称，俄罗斯很可能在白俄罗斯东部一处前空军基地部署新型具备核能力的高超音速弹道导弹。",
+          "url": "https://flash.jin10.com/detail/20251227031051388800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "俄罗斯、阿联酋等多国发声",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E3%80%81%E9%98%BF%E8%81%94%E9%85%8B%E7%AD%89%E5%A4%9A%E5%9B%BD%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "白俄国防部：白俄罗斯接收新一批苏-30SM2战机。",
+          "url": "https://flash.jin10.com/detail/20251227013710925800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：与德国总理默茨进行了交谈。我们正在协调立场，欧洲各国必须团结一致，捍卫我们的欧洲生活方式、各国独立和欧洲和平。",
+          "url": "https://flash.jin10.com/detail/20251227012619580800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
+          "url": "https://wallstreetcn.com/articles/3762133",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3027489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
+          "url": "https://www.zhihu.com/question/1988017332140864055",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2241565",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "黄金ETF收涨将近1.2%，领跑美股大类资产类ETF，今年已涨超72%",
+          "url": "https://wallstreetcn.com/livenews/3027493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
+          "url": "https://www.cls.cn/detail/2241688",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨1.45%，报363.21点，时隔一个交易日再创收盘历史新高，本周累计上涨4.43%。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.04%，报2572.35点，也时隔一天再创收盘历史新高，本周累涨4.53%，周一美股开盘时“跳空”走高，后续持续高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3027473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "生物科技ETF收跌0.7%，领跌美股行业ETF，半导体ETF涨超0.4%",
+          "url": "https://wallstreetcn.com/livenews/3027472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌2.1%，英伟达涨1%",
+          "url": "https://wallstreetcn.com/livenews/3027465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日本",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "日本大幅增加防卫费，中方：暴露日本右翼势力险恶用心",
+          "url": "https://news.ifeng.com/c/8pPpZD3GLo1",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "日本总务大臣道歉 承认存在政治资金问题",
+          "url": "https://flash.jin10.com/detail/20251227081343482800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "日本广岛市长称日政府应坚持“无核三原则”",
+          "url": "https://news.ifeng.com/c/8pPyxswsjMH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
         },
         {
           "title": "外交部回应日本领导人或参拜靖国神社：日方不要错上加错",
@@ -80,765 +439,59 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "日本预测12月工业产出环比增长1.3%，1月工业产出环比增长8.0%。",
-          "url": "https://flash.jin10.com/detail/20251226075904475800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "08时53分"
         },
         {
-          "title": "美国地质勘探局：日本小笠原群岛地区发生5.6级地震。",
-          "url": "https://flash.jin10.com/detail/20251226193857881800",
-          "source": "金十数据",
+          "title": "国防部回应日本拟在冲绳部署移动雷达",
+          "url": "https://www.toutiao.com/trending/7587978293262106667/",
+          "source": "今日头条",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "日本11月库存月率 -3%，前值0.4%。",
-          "url": "https://flash.jin10.com/detail/20251226075305659800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "08时53分"
         },
         {
-          "title": "日本11月零售销售 13.052万亿日元，前值13.052万亿日元。",
-          "url": "https://flash.jin10.com/detail/20251226075208671800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "周锡玮：高市决定恐让日本自陷险境",
-          "url": "https://www.toutiao.com/trending/7587333521673601087/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "日本11月季调后零售销售月率 0.6%，前值1.60%。",
-          "url": "https://flash.jin10.com/detail/20251226075102037800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "日本经济产业省：日本制造商预计12月工业生产较前月增加1.3%，预计1月工业生产较前月增加8.0%。",
-          "url": "https://wallstreetcn.com/livenews/3026884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "日本11月工业产出年率初值 -2.1%，前值1.60%。",
-          "url": "https://flash.jin10.com/detail/20251226075038526800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "日本民众抗议高市早苗：要知道廉耻",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E6%8A%97%E8%AE%AE%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%EF%BC%9A%E8%A6%81%E7%9F%A5%E9%81%93%E5%BB%89%E8%80%BB",
+          "title": "日本50多辆车相撞事故致1死26伤",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC50%E5%A4%9A%E8%BE%86%E8%BD%A6%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%E8%87%B41%E6%AD%BB26%E4%BC%A4",
           "source": "百度热搜",
           "ranks": [
-            17
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时55分"
-        },
+          "time_info": "08时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "日本11月大型零售商销售同比 3.2%，前值 3.3%。",
-          "url": "https://wallstreetcn.com/livenews/3026882",
-          "source": "华尔街见闻-快讯",
+          "title": "泽连斯基：将与特朗普会晤，讨论“敏感”问题",
+          "url": "https://news.ifeng.com/c/8pPc87WsghO",
+          "source": "凤凰网",
           "ranks": [
-            17
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "08时53分"
         },
         {
-          "title": "日本11月零售销售年率 1%，预期0.9%，前值1.70%。",
-          "url": "https://flash.jin10.com/detail/20251226075006587800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "日本11月零售销售环比 0.6%，预期 0.4%，前值 1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3026881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "日本11月工业产出月率初值 -2.6%，预期-2%，前值1.50%。",
-          "url": "https://flash.jin10.com/detail/20251226075005340800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "日本11月零售销售同比 1%，预期 1%，前值 1.7%。",
-          "url": "https://wallstreetcn.com/livenews/3026880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "日本防卫开支若达GDP的3%意味着什么",
-          "url": "https://www.toutiao.com/trending/7586851968057016361/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "日本11月工业产出同比初值 -2.1%，预期 -0.8%，前值 1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3026879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "日本11月工业产出环比初值 -2.6%，预期 -2%，前值 1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3026878",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "中方坚决反对日本在网络领域危险举动",
-          "url": "https://www.toutiao.com/trending/7588095579251605567/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "日本12月东京CPI同比增速创2024年10月来新低。",
-          "url": "https://wallstreetcn.com/livenews/3026875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "日本11月失业率 2.6%，预期 2.6%，前值 2.6%。",
-          "url": "https://wallstreetcn.com/livenews/3026874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "日本东京地区10月核心CPI涨幅为自2024年10月以来最低水平。",
-          "url": "https://flash.jin10.com/detail/20251226073420077800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "日本12月东京CPI(除生鲜食品)同比 2.3%，预期 2.5%，前值 2.8%。",
-          "url": "https://wallstreetcn.com/livenews/3026873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "日本12月东京CPI(除生鲜食品及能源)同比 2.6%，预期 2.8%，前值 2.8%。",
-          "url": "https://wallstreetcn.com/livenews/3026872",
+          "title": "周五（12月26日），降息赢家指数涨0.03%，报100.38点，本周累计上涨0.45%。 “特朗普关税输家”指数涨0.48%，报112.72点，本周累跌0.18%。 散户抱团概念股指数/迷因股（meme stock）指数跌1.85%，报16.03点，本周累跌4.89%。",
+          "url": "https://wallstreetcn.com/livenews/3027470",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "日本12月东京未季调CPI月率 -0.2%，前值0.4%。",
-          "url": "https://flash.jin10.com/detail/20251226073219933800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "日本12月东京CPI同比 2%，预期 2.3%，前值 2.7%。",
-          "url": "https://wallstreetcn.com/livenews/3026871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "媒体：日本已成国际社会麻烦制造者",
-          "url": "https://www.toutiao.com/trending/7587165253642190867/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "日本11月失业率 2.6%，预期2.6%，前值2.60%。",
-          "url": "https://flash.jin10.com/detail/20251226073004895800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "日本11月求才求职比 1.18，预期 1.18，前值 1.18。",
-          "url": "https://wallstreetcn.com/livenews/3026870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "日本12月东京核心CPI年率 2.3%，预期2.5%，前值2.80%。",
-          "url": "https://flash.jin10.com/detail/20251226073002981800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "日本12月东京CPI年率 2%，前值2.70%。",
-          "url": "https://flash.jin10.com/detail/20251226073002955800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "现货白银首次突破74美元/盎司，日涨幅扩大至3%。",
-          "url": "https://wallstreetcn.com/livenews/3026904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "中信证券：流动性宽松预期下金价有望延续涨势，2026年或冲击5000美元",
-          "url": "https://wallstreetcn.com/livenews/3026903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
-          "url": "https://wallstreetcn.com/articles/3762105",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "去年10月以来首次！离岸人民币对美元收复“7”关口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32245587",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "200亿美元买下Groq，英伟达图啥？",
-          "url": "https://wallstreetcn.com/articles/3762046",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "现货黄金重回4500美元/盎司之上，日涨幅近0.5%。",
-          "url": "https://flash.jin10.com/detail/20251226080706585800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "美国产能不足拖累军售，对台未交付武器价值逾200亿美元",
-          "url": "https://news.ifeng.com/c/8pOsGb4wdEG",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "现货钯金上涨逾5%至每盎司1,772.24美元。",
-          "url": "https://wallstreetcn.com/livenews/3026891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "印度外汇储备在12月19日当周增至6933.2亿美元。",
-          "url": "https://flash.jin10.com/detail/20251226193452679800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "现货黄金重返4500美元/盎司上方，现报4502.97美元/盎司，日内涨0.5%。 现货铂金上涨逾3%至每盎司2,322.10美元。",
-          "url": "https://wallstreetcn.com/livenews/3026889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "美元兑日元USD/JPY升破156。",
-          "url": "https://flash.jin10.com/detail/20251226075130860800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "以色列将投入1100亿美元发展军火工业",
-          "url": "https://www.toutiao.com/trending/7587629290951966747/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "现货白银短线下挫，现报74.3美元/盎司，日内涨幅收窄至3.45%。",
-          "url": "https://flash.jin10.com/detail/20251226191217803800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "现货铂金、钯金日内涨幅均超4%，现分别报2338美元/盎司和1770美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251226073811300800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "年薪45万美元程序员半年变流浪汉",
-          "url": "https://www.toutiao.com/trending/7586892012000804905/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "现货白银日内涨幅达5.0%，报75.49美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3027268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "拜登之子称乌克兰腐败“令人震惊”",
-          "url": "https://news.ifeng.com/c/8pOyCPFhdRB",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "俄罗斯总统新闻秘书佩斯科夫：俄罗斯分析了和平计划的相关信息。",
-          "url": "https://wallstreetcn.com/livenews/3027314",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "克里姆林宫表示已就乌克兰和平计划与美国联系，俄罗斯和美国同意继续对话。（IFX）",
-          "url": "https://wallstreetcn.com/livenews/3027313",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "爱泼斯坦案涂黑文件被轻松解密 乌克兰成立战后选举立法工作组 | 环球市场",
-          "url": "https://www.cls.cn/detail/2240460",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "据接近会谈的消息人士称，俄罗斯总统特别代表德米特里耶夫与俄罗斯总统助理乌沙科夫一同参加了与美国的会谈。",
-          "url": "https://flash.jin10.com/detail/20251226193532256800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "克里姆林宫：俄罗斯已分析和平计划相关信息。",
-          "url": "https://flash.jin10.com/detail/20251226191746408800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "克里姆林宫：在俄罗斯总统普京与俄罗斯商界领袖会晤期间，讨论了与美国就乌克兰问题进行磋商的部分议题。",
-          "url": "https://flash.jin10.com/detail/20251226191611525800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "克里姆林宫：应俄罗斯总统普京指示，俄罗斯总统助理乌沙科夫与美国政府通话。已与美国达成共识，将继续对话。",
-          "url": "https://flash.jin10.com/detail/20251226191542631800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "扎哈罗娃：欧洲没考虑过乌克兰的和平",
-          "url": "https://www.toutiao.com/trending/7587268128638124075/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
-          "url": "https://wallstreetcn.com/articles/3762107",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "俄外交部：希望特朗普在委内瑞拉局势问题上“务实和理性”",
-          "url": "https://wallstreetcn.com/livenews/3026898",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "特朗普称美军对尼日利亚西北部“伊斯兰国”目标发动打击",
-          "url": "https://flash.jin10.com/detail/20251226075028232800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "专家：特朗普或在2026“压榨”美联储",
-          "url": "https://www.toutiao.com/trending/7587727738132270635/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "韩国",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "韩国财阀千金黄荷娜在柬埔寨被逮捕，被曝为电诈园区洗钱，吸毒史长达十余年，她被逮捕后将面临什么？",
-          "url": "https://www.zhihu.com/question/1987453622598985713",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "报道：韩国交易所将成立工作组研究交易时间延长至12小时",
-          "url": "https://wallstreetcn.com/livenews/3026900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "起底韩国“最毒”财阀千金，“经过她身边就会死”",
-          "url": "https://news.ifeng.com/c/8pNSnCJ4qEN",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "日经225指数高开0.3%，韩国首尔综指高开0.5%。",
-          "url": "https://wallstreetcn.com/livenews/3026886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "中国驻韩国大使馆发布通知称，为便利中韩人员往来，中国驻韩国使领馆签证费调减措施将延续至2026年12月31日。",
-          "url": "https://wallstreetcn.com/livenews/3027271",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达急了？或被谷歌TPU逼到墙角，黄仁勋不惜代价也要“收编”Groq",
-          "url": "https://wallstreetcn.com/articles/3762068",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "08时53分"
         }
       ]
     },
@@ -851,11 +504,11 @@
           "url": "https://news.ifeng.com/c/8pP8YdeoliP",
           "source": "凤凰网",
           "ranks": [
-            4
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时22分"
+          "time_info": "08时53分"
         }
       ]
     }

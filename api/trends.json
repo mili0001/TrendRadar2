@@ -1,186 +1,158 @@
 {
-  "generated_at": "2025-12-28T20:21:29.197867+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2025-12-29T09:01:18.902897+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "泽连斯基周日会晤特朗普讨论“敏感问题”，俄副外长：乌公布的“和平计划”草案与俄美商讨内容“根本不同”",
-          "url": "https://wallstreetcn.com/articles/3762172",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "泽连斯基：我想跟特朗普谈5个问题",
-          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "特朗普回应泽连斯基：没我，你啥都不是",
-          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
-          "url": "https://www.toutiao.com/trending/7588795037148794414/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
-          "url": "https://flash.jin10.com/detail/20251227214522049800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "美国总统特朗普：美国的犯罪率处于历史最低水平。这在很大程度上要归功于历史上最成功的南部边境行动。此外，今天在美国工作的人比以往任何时候都多。",
-          "url": "https://flash.jin10.com/detail/20251227213217547800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-28）",
-          "url": "https://flash.jin10.com/detail/20251228180224795800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "日本",
-      "match_count": 8,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "日本将向12国免费提供武器装备",
-          "url": "https://www.toutiao.com/trending/7587618760001880090/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "俄外长警告日本：要慎重！",
-          "url": "https://news.ifeng.com/c/8pRsUgYJ4am",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
         {
           "title": "真人扮熊猫关笼,日本为吸客拼了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348479&amp;topic_name=%E7%9C%9F%E4%BA%BA%E6%89%AE%E7%86%8A%E7%8C%AB%E5%85%B3%E7%AC%BC%2C%E6%97%A5%E6%9C%AC%E4%B8%BA%E5%90%B8%E5%AE%A2%E6%8B%BC%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "日本向多国免费提供武器装备",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%90%91%E5%A4%9A%E5%9B%BD%E5%85%8D%E8%B4%B9%E6%8F%90%E4%BE%9B%E6%AD%A6%E5%99%A8%E8%A3%85%E5%A4%87",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "鸡蛋拌饭已成日本“奢侈品”",
-          "url": "https://www.baidu.com/s?wd=%E9%B8%A1%E8%9B%8B%E6%8B%8C%E9%A5%AD%E5%B7%B2%E6%88%90%E6%97%A5%E6%9C%AC%E2%80%9C%E5%A5%A2%E4%BE%88%E5%93%81%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            7
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
         {
-          "title": "日本民众集会怒斥政府煽动战争",
-          "url": "https://www.toutiao.com/trending/7587990427363262470/",
-          "source": "今日头条",
+          "title": "日本知名巨头川崎重工承认造假，涉及数百台船舶和潜水艇，如何评价？暴露了哪些问题？",
+          "url": "https://www.zhihu.com/question/1988580073356354187",
+          "source": "知乎",
           "ranks": [
-            17
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时21分"
+          "time_info": "09时01分"
         },
         {
-          "title": "日本老年人称已经没希望了",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E8%80%81%E5%B9%B4%E4%BA%BA%E7%A7%B0%E5%B7%B2%E7%BB%8F%E6%B2%A1%E5%B8%8C%E6%9C%9B%E4%BA%86&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "日本央行会议意见摘要：一位委员表示称日本实质政策利率全球最低，因此从外汇市场对通胀的影响来看，加息是合适的。",
+          "url": "https://flash.jin10.com/detail/20251229081015848800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本央行会议意见摘要：一名委员表示，将实际利率维持在偏离均衡水平，可能会导致资源配置扭曲，并影响可持续增长。",
+          "url": "https://flash.jin10.com/detail/20251229080031994800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时21分"
+          "time_info": "09时01分"
         },
         {
-          "title": "日本防卫预算再创新高引发舆论担忧",
-          "url": "https://flash.jin10.com/detail/20251227204105564800",
+          "title": "日本央行会议意见摘要：一名委员表示，实际工资很可能在明年上半年转为正增长。",
+          "url": "https://flash.jin10.com/detail/20251229080016582800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本央行12月会议意见摘要：一位委员表示，日元疲软和长期利率上升在一定程度上可能是由于政策利率相较于通胀率过低所致。 一位委员表示，及时加息将抑制未来的通胀压力和债券收益率上升。 即使政策利率上调至0.75%，但日本的实际利率仍将深度为负。 一位委员表示，尽管政策利率将维持深度负值水平，但日本央行必须密切监测加息对经济和市场的影响。 一位委员表示，日本央行必须稳步提高利率以免落后于形势。 一位委员表示，日本央行在调整货币政策力度时应密切关注经济、物价和金融状况，而不是预设具体的加息节奏。 一位委员表示，日本实质政策利率全球最低，因此从外汇市场对通胀的影响来看，加息是合适的。 一位委员表示，将实际利率维持在偏离均衡水准的水平可能会导致资源分配扭曲，并对可持续增长产生影响。",
+          "url": "https://wallstreetcn.com/livenews/3027740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本央行会议意见摘要：一名委员表示，日本央行必须稳步加息，以避免落后于形势。",
+          "url": "https://flash.jin10.com/detail/20251229075613230800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本央行会议意见摘要：一名委员表示，即使政策利率上调至0.75%，日本的实际利率仍将处于深度负值范围。",
+          "url": "https://flash.jin10.com/detail/20251229075548562800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本央行会议意见摘要：一名委员表示，及时加息将抑制未来的通胀压力和债券收益率上升。",
+          "url": "https://flash.jin10.com/detail/20251229075539349800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本央行12月会议意见摘要：一位委员表示，政策利率距离中性水平仍有相当大的差距。 一位委员表示，实际利率目前处于全球最低水平，料仍将保持负值。 一位委员表示，很难提前确定中性利率。 一位委员表示，对中性利率的解读应该有一定的自由度。 一位委员表示，政策利率距离中性水平仍有相当大的差距。 一位委员表示，日本央行目前必须以每隔几个月加息一次的速度提高利率。 一位委员表示，及时调整利率将带来持续稳定的增长。 一位委员表示，日本经济正处于财政政策和货币政策可以互补的阶段。 一位委员表示，鉴于海外利率环境可能发生变化，日本央行在制定政策时必须灵活应对。",
+          "url": "https://wallstreetcn.com/livenews/3027736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本央行会议意见摘要：一名委员表示，日元走软和长期利率上升在一定程度上可能是因为——政策利率相对于通胀率被维持得过低。",
+          "url": "https://flash.jin10.com/detail/20251229075535938800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本央行会议意见摘要：一名委员表示，鉴于海外利率环境可能发生变化，日本央行在制定政策时必须灵活应对。",
+          "url": "https://flash.jin10.com/detail/20251229075432117800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本央行会议意见摘要：一名委员表示，及时调整利率将带来持续稳定的增长。",
+          "url": "https://flash.jin10.com/detail/20251229075429719800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本央行会议意见摘要：一名委员表示，日本央行在一段时间内必须以每隔几个月加息一次左右的速度加息。",
+          "url": "https://flash.jin10.com/detail/20251229075426845800",
           "source": "金十数据",
           "ranks": [
             27
@@ -188,96 +160,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 8,
-      "titles": [
+        },
         {
-          "title": "乌克兰总统泽连斯基：和平相关的决定取决于基辅的合作伙伴。",
-          "url": "https://flash.jin10.com/detail/20251228195114185800",
+          "title": "日本央行会议意见摘要：一名委员表示，日本经济正处于财政政策和货币政策可以相互补充的阶段。",
+          "url": "https://flash.jin10.com/detail/20251229075357166800",
           "source": "金十数据",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "俄乌冲突若结束乌克兰会爆发内战吗",
-          "url": "https://www.toutiao.com/trending/7588842910473260585/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "泽连斯基：俄罗斯无意结束战争",
-          "url": "https://news.ifeng.com/c/8pQgWq978i3",
-          "source": "凤凰网",
-          "ranks": [
-            5
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
         {
-          "title": "卫星图曝光！美疑发现“榛树”导弹在白俄罗斯部署地",
-          "url": "https://news.ifeng.com/c/8pQluu7h7zx",
-          "source": "凤凰网",
+          "title": "日本央行会议意见摘要：一名委员表示，很难事先准确确定日本的中性利率水平位于何处。",
+          "url": "https://flash.jin10.com/detail/20251229075345812800",
+          "source": "金十数据",
           "ranks": [
-            8
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
         {
-          "title": "乌克兰外长库列巴：基辅及周边地区已恢复供水。",
-          "url": "https://flash.jin10.com/detail/20251227225508053800",
+          "title": "日本央行会议意见摘要：一名委员表示，政策利率距离中性水平仍有相当一段距离。",
+          "url": "https://flash.jin10.com/detail/20251229075319373800",
           "source": "金十数据",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "乌克兰军方：已袭击位于俄罗斯萨马拉州的瑟兹兰炼油厂。",
-          "url": "https://flash.jin10.com/detail/20251228190558622800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "乌克兰国家反腐败局：乌国家安全局人员阻挠调查",
-          "url": "https://wallstreetcn.com/livenews/3027648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "乌克兰基辅再次拉响防空警报",
-          "url": "https://wallstreetcn.com/livenews/3027566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -287,45 +198,34 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 13,
       "titles": [
         {
-          "title": "彭博社：中国游客锐减，恐使日本损失超过12亿美元旅游收入",
-          "url": "https://news.ifeng.com/c/8pSJvd1oz2e",
-          "source": "凤凰网",
+          "title": "现货白银日内振幅达9美元",
+          "url": "https://flash.jin10.com/detail/20251229083619190800",
+          "source": "金十数据",
           "ranks": [
-            4
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时21分"
+          "time_info": "09时01分"
         },
         {
-          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
-          "url": "https://wallstreetcn.com/articles/3762200",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "小米集团：联合创始人林斌计划减持不超20亿美元公司B类普通股",
-          "url": "https://wallstreetcn.com/livenews/3027643",
-          "source": "华尔街见闻-快讯",
+          "title": "现货铂金短线暴跌逾100美元，跌幅扩大至7.2%。",
+          "url": "https://flash.jin10.com/detail/20251229083125936800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时21分"
+          "time_info": "09时01分"
         },
         {
-          "title": "太空概念股Sidus股价狂飙：市值不足1亿美元 却拿下“金穹”入场券",
-          "url": "https://www.cls.cn/detail/2241658",
-          "source": "财联社热门",
+          "title": "现货白银短线跌幅扩大，日跌幅至5%，现报74.98美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251229083041742800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
@@ -334,28 +234,310 @@
           "time_info": "09时01分"
         },
         {
-          "title": "小米集团：公司联合创始人林斌计划累计出售不超过20亿美元公司B类普通股",
-          "url": "https://flash.jin10.com/detail/20251228190503620800",
+          "title": "贵金属全线转跌，现货钯金大跌6.8%，下破1800美元/盎司；现货铂金跌幅扩大至4%。",
+          "url": "https://flash.jin10.com/detail/20251229082743722800",
           "source": "金十数据",
           "ranks": [
-            14
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时21分"
+          "time_info": "09时01分"
+        },
+        {
+          "title": "小米联合创始人拟减持不超20亿美元",
+          "url": "https://www.douyin.com/hot/2350310",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
+          "url": "https://wallstreetcn.com/articles/3762200",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "现货黄金跌破4500美元/盎司，日内跌0.71%。",
+          "url": "https://flash.jin10.com/detail/20251229082307889800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "现货白银大幅回调 巨震6.5美元",
+          "url": "https://flash.jin10.com/detail/20251229082224640800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "现货白银盘中一度跌破75美元/盎司关口，日内跌超5%。 现货黄金盘中一度跌破4480美元/盎司，日内跌超1%。 现货铂金跌超7%，现货钯金跌近7%。",
+          "url": "https://wallstreetcn.com/livenews/3027754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "现货白银跌破81美元，较纪录高位83.8美元/盎司回落近3美元，日内涨幅收窄至2.6%。",
+          "url": "https://flash.jin10.com/detail/20251229081120787800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "现货白银跳水！从涨6%到跌2%，短线走低超5美元",
+          "url": "https://wallstreetcn.com/livenews/3027750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "美元兑日元USD/JPY短线下挫近40点，最新报156.08。",
+          "url": "https://flash.jin10.com/detail/20251229080736282800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "现货钯金快速下跌，跌破1900美元/盎司，日内跌2%。",
+          "url": "https://flash.jin10.com/detail/20251229075835971800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "特朗普：不排除亲自前往乌克兰",
+          "url": "https://news.ifeng.com/c/8pTDPPdlvje",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "美国总统特朗普和内塔尼亚胡将于美国东部时间周一下午1点会面。",
+          "url": "https://wallstreetcn.com/livenews/3027760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "特朗普再次就泰柬停火邀功说了啥",
+          "url": "https://www.toutiao.com/trending/7589048685074320939/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "特朗普称俄乌“接近达成协议”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BF%84%E4%B9%8C%E2%80%9C%E6%8E%A5%E8%BF%91%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "特朗普称美军对委内瑞拉一目标实施秘密打击",
+          "url": "https://news.ifeng.com/c/8pTKjz1vjXV",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "法国总统马克龙：今晚，我与其他欧洲领导人一同参与了与泽连斯基总统、特朗普总统的交流。随后我又与泽连斯基进行了交谈。 我们在安全保障方面正取得进展，这些保障将是构建公正持久和平的核心要素。",
+          "url": "https://wallstreetcn.com/livenews/3027744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "特朗普称美军对委内瑞拉一目标实施秘密打击",
+          "url": "https://flash.jin10.com/detail/20251229080336515800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "特朗普称美军对委内瑞拉一目标实施秘密打击",
+          "url": "https://wallstreetcn.com/livenews/3027738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "美国将在特朗普任期内重返月球",
+          "url": "https://www.douyin.com/hot/2350218",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         }
       ]
     },
     {
       "keyword_group": "韩国",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "时隔3年7个月 韩国总统重返青瓦台",
+          "url": "https://wallstreetcn.com/livenews/3027759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "SK海力士股价上涨5.5%，领涨韩国芯片股。",
+          "url": "https://flash.jin10.com/detail/20251229080615548800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "韩国首尔综合指数涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3027742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日经225指数低开0.3%，韩国首尔综指高开0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3027739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "拉夫罗夫：欧盟是乌克兰和平的主要障碍",
+          "url": "https://news.ifeng.com/c/8pTJd96xw3n",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "法国总统马克龙：我们在乌克兰安全保证方面取得进展，而这些安全保证将是建立公正而持久和平的核心。将于一月初在巴黎召集“意愿联盟”各国，敲定各国的具体贡献。",
+          "url": "https://flash.jin10.com/detail/20251229080910768800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "中国电视剧在外国热度怎么样，接受度如何？例如韩国、泰国、越南等等？",
-          "url": "https://www.zhihu.com/question/486710914",
-          "source": "知乎",
+          "title": "ChatGPT帮他杀死83岁母亲？",
+          "url": "https://news.ifeng.com/c/8pTGEplZnSO",
+          "source": "凤凰网",
           "ranks": [
-            8
+            12
           ],
           "is_new": false,
           "appearance_count": 1,

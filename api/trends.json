@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-05T09:01:45.147917+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-01-05T20:24:57.028728+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 39,
       "titles": [
+        {
+          "title": "中方回应特朗普谈格陵兰岛涉华言论",
+          "url": "https://www.toutiao.com/trending/7591783882828431398/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
         {
           "title": "美国总统特朗普：一直都在讨论对俄罗斯实施更多制裁。",
           "url": "https://flash.jin10.com/detail/20260105085740221800",
@@ -28,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
+          "url": "https://news.ifeng.com/c/8pfcK5vNmj2",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "美国总统特朗普：是否派驻委内瑞拉地面部队的部署取决于他们（委内瑞拉）的行动。",
@@ -74,6 +96,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
+          "url": "https://wallstreetcn.com/articles/3762529",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "美国总统特朗普：必须就墨西哥问题采取行动，墨西哥必须整顿好自己。",
           "url": "https://flash.jin10.com/detail/20260105085457901800",
           "source": "金十数据",
@@ -83,6 +116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "委内瑞拉代总统喊话特朗普",
+          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%BB%A3%E6%80%BB%E7%BB%9F%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "开发委内瑞拉“全球第一的原油储备”？特朗普“理想很丰满”，但“现实很骨感”",
@@ -116,6 +160,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
+          "url": "https://www.zhihu.com/question/1991053595043390487",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "“如果她不做正确的事，可能比马杜罗更惨”！特朗普警告委内瑞拉“代总统”：必须听美国的",
+          "url": "https://wallstreetcn.com/articles/3762521",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
+          "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "美国总统特朗普：我们正密切关注伊朗，如果他们杀害抗议者，美国将予以严厉打击。",
@@ -261,6 +338,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "特朗普再度警告委政府：若不配合，或进行第二次军事打击！",
+          "url": "https://www.cls.cn/detail/2247951",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉副总统正在与美国合作。",
           "url": "https://flash.jin10.com/detail/20260105084415325800",
           "source": "金十数据",
@@ -281,6 +369,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "欧盟发言人：欧盟注意到特朗普关于格陵兰岛的言论。 仍与格陵兰和丹麦站在一起。",
+          "url": "https://wallstreetcn.com/livenews/3030844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "特朗普在抓捕马杜罗发布会上称已超越门罗主义，升级为唐罗主义，这反映了怎样的政策转向？核心主张是什么？",
@@ -314,12 +413,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "特朗普多次威胁，尼尔森发文回击：够了！不要再幻想吞并了",
+          "url": "https://wallstreetcn.com/livenews/3030821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "外交部回应特朗普对多国发出威胁",
+          "url": "https://www.toutiao.com/trending/7590815336937996329/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "马杜罗被美国“闪击”，委内瑞拉“传说中的600亿美元比特币”会流向何方？",
@@ -333,6 +454,28 @@
           "time_info": "09时01分"
         },
         {
+          "title": "段永平再晒苹果持仓，14 年累计收益率超 16 倍，狂赚超 3400 万美元，具有哪些参考性？",
+          "url": "https://www.zhihu.com/question/1991189102696091881",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "瑞穗银行：将沃尔玛百货(WMT.N)目标价从115美元上调至125美元。",
+          "url": "https://flash.jin10.com/detail/20260105200342247800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "现货铂金上涨逾5%，至每盎司2,253.15美元。",
           "url": "https://wallstreetcn.com/livenews/3030413",
           "source": "华尔街见闻-快讯",
@@ -342,6 +485,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "法兴银行：委内瑞拉变局难撼“去美元化”趋势",
+          "url": "https://flash.jin10.com/detail/20260105200144562800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "英矽智能宣布与施维雅达成价值 8.88 亿美元的抗肿瘤药物研发合作",
@@ -432,6 +586,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "委内瑞拉债务重组现曙光 马杜罗下台或引发 600 亿美元债市“淘金热”",
+          "url": "https://flash.jin10.com/detail/20260105194036090800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "美元兑日元USD/JPY升至157.08，创12月22日以来新高。",
           "url": "https://flash.jin10.com/detail/20260105080426341800",
           "source": "金十数据",
@@ -456,9 +621,203 @@
       ]
     },
     {
-      "keyword_group": "日本",
-      "match_count": 7,
+      "keyword_group": "韩国",
+      "match_count": 16,
       "titles": [
+        {
+          "title": "大外交｜韩国各大财团掌门人全数出动随总统访华 ，专家：从经济上重新认识中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32310756",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "【早报】韩国总统李在明访华；事关低空经济，上海发文",
+          "url": "https://www.cls.cn/detail/2247350",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "韩国四大财团掌门人在京集体亮相",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%9B%9B%E5%A4%A7%E8%B4%A2%E5%9B%A2%E6%8E%8C%E9%97%A8%E4%BA%BA%E5%9C%A8%E4%BA%AC%E9%9B%86%E4%BD%93%E4%BA%AE%E7%9B%B8%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "李在明谈韩国人“周五下班去上海”",
+          "url": "https://www.toutiao.com/trending/7591181909293367322/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "韩国总统李在明抵达北京，开启就任后首次对华国事访问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32310361",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "李在明谈韩国人周五下班去上海",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%B0%88%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%91%A8%E4%BA%94%E4%B8%8B%E7%8F%AD%E5%8E%BB%E4%B8%8A%E6%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "韩国高规格阵容访华有何深意",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E9%AB%98%E8%A7%84%E6%A0%BC%E9%98%B5%E5%AE%B9%E8%AE%BF%E5%8D%8E%E6%9C%89%E4%BD%95%E6%B7%B1%E6%84%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "李在明谈韩国人周五下班去上海",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%B0%88%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%91%A8%E4%BA%94%E4%B8%8B%E7%8F%AD%E5%8E%BB%E4%B8%8A%E6%B5%B7%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "韩国真顶流，突然去世(图)",
+          "url": "https://news.ifeng.com/c/8pfg27qX9k6",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "韩国四大财团掌门人在京集体亮相",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%9B%9B%E5%A4%A7%E8%B4%A2%E5%9B%A2%E6%8E%8C%E9%97%A8%E4%BA%BA%E5%9C%A8%E4%BA%AC%E9%9B%86%E4%BD%93%E4%BA%AE%E7%9B%B8",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "习近平同韩国总统李在明举行会谈",
+          "url": "https://wallstreetcn.com/livenews/3030732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "韩国总统李在明抵达北京，开启就任后首次对华国事访问，此行有哪些看点？会讨论哪些议题？",
+          "url": "https://www.zhihu.com/question/1991139494297113222",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "受三星、SK海力士上涨提振，韩国首尔综指上涨2.6%。",
+          "url": "https://wallstreetcn.com/livenews/3030400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "韩国国民演员安圣基去世",
+          "url": "https://www.douyin.com/hot/2357664",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "日经225指数高开1.5%，韩国首尔综指高开1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3030394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "韩国网友评骄阳似我",
+          "url": "https://www.douyin.com/hot/2357561",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日本",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "长泽雅美宣布结婚，日本「四大台柱」女演员全部成家，这宣告着一个时代的落幕吗？",
+          "url": "https://www.zhihu.com/question/1990116916128412469",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 20时24分]"
+        },
         {
           "title": "为什么我国音乐生和音乐学院超多，但亚洲的经典旋律，绝大多数都是坂本龙一、久石让等日本人写的？",
           "url": "https://www.zhihu.com/question/1989254218339614806",
@@ -482,15 +841,15 @@
           "time_info": "09时01分"
         },
         {
-          "title": "长泽雅美宣布结婚，日本「四大台柱」女演员全部成家，这宣告着一个时代的落幕吗？",
-          "url": "https://www.zhihu.com/question/1990116916128412469",
-          "source": "知乎",
+          "title": "李在明访华向日本发出明确信号",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%AE%BF%E5%8D%8E%E5%90%91%E6%97%A5%E6%9C%AC%E5%8F%91%E5%87%BA%E6%98%8E%E7%A1%AE%E4%BF%A1%E5%8F%B7",
+          "source": "百度热搜",
           "ranks": [
-            12
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时01分"
+          "time_info": "20时24分"
         },
         {
           "title": "日本2年期国债收益率上涨2.5个基点，至1.195%。",
@@ -539,74 +898,86 @@
       ]
     },
     {
-      "keyword_group": "韩国",
-      "match_count": 6,
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
       "titles": [
         {
-          "title": "大外交｜韩国各大财团掌门人全数出动随总统访华 ，专家：从经济上重新认识中国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32310756",
-          "source": "澎湃新闻",
+          "title": "尽管有OpenAI融资利好 分析师仍警告CoreWeave股票价值或将清零",
+          "url": "https://flash.jin10.com/detail/20260105200457445800",
+          "source": "金十数据",
           "ranks": [
-            1
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时01分"
+          "time_info": "20时24分"
         },
         {
-          "title": "【早报】韩国总统李在明访华；事关低空经济，上海发文",
-          "url": "https://www.cls.cn/detail/2247350",
-          "source": "财联社热门",
+          "title": "OpenAI巨额融资预期利好CoreWeave 分析师大幅上调目标价至68美元",
+          "url": "https://flash.jin10.com/detail/20260105200103118800",
+          "source": "金十数据",
           "ranks": [
-            1
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时01分"
-        },
+          "time_info": "20时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "韩国总统李在明抵达北京，开启就任后首次对华国事访问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32310361",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "韩国总统李在明抵达北京，开启就任后首次对华国事访问，此行有哪些看点？会讨论哪些议题？",
-          "url": "https://www.zhihu.com/question/1991139494297113222",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "受三星、SK海力士上涨提振，韩国首尔综指上涨2.6%。",
-          "url": "https://wallstreetcn.com/livenews/3030400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "日经225指数高开1.5%，韩国首尔综指高开1.8%。",
-          "url": "https://wallstreetcn.com/livenews/3030394",
-          "source": "华尔街见闻-快讯",
+          "title": "欧盟发言人：在自愿联盟中，关于乌克兰安全保证的工作正取得进展。",
+          "url": "https://flash.jin10.com/detail/20260105194303522800",
+          "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时01分"
+          "time_info": "20时24分"
+        },
+        {
+          "title": "据塔斯社：俄罗斯驻加拉加斯大使馆敦促俄罗斯公民暂勿前往委内瑞拉。",
+          "url": "https://flash.jin10.com/detail/20260105193932166800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欧盟",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "欧盟发言人：我们正朝着“很快”签署南方共同市场协议的正确轨道前进。",
+          "url": "https://flash.jin10.com/detail/20260105194603160800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "欧盟发言人：过去两周在南方共同市场协议上取得了进展。",
+          "url": "https://flash.jin10.com/detail/20260105194512806800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     }

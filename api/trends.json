@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T08:57:06.381402+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-01-07T20:24:57.636735+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 27,
       "titles": [
         {
           "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
@@ -52,15 +52,49 @@
           "time_info": "[08时56分 ~ 08时57分]"
         },
         {
+          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
+          "url": "https://www.cls.cn/detail/2250493",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "“除掉马杜罗”，特朗普早就下了决心",
+          "url": "https://news.ifeng.com/c/8pitP5OMhKi",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "特朗普的下一步，难了",
+          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
           "url": "https://www.zhihu.com/question/1991388819304510504",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 20时24分]"
         },
         {
           "title": "特朗普不到1年对7国动武",
@@ -173,15 +207,59 @@
           "time_info": "[08时56分 ~ 08时57分]"
         },
         {
+          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
+          "url": "https://www.zhihu.com/question/1992144765781840551",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
+          "url": "https://wallstreetcn.com/articles/3762696",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "特朗普称格陵兰岛“到处是俄中船只” 丹麦外相：不实",
           "url": "https://wallstreetcn.com/livenews/3031966",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "WTI原油期货短线走低，日内跌幅扩大至0.9%，此前特朗普称，委内瑞拉将向美国交付3000-5000万桶石油。",
@@ -190,7 +268,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -201,7 +279,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -212,15 +290,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "特朗普质疑丹麦维护格陵兰安全能力",
+          "url": "https://www.toutiao.com/trending/7592453163072900662/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 15,
+      "match_count": 24,
       "titles": [
         {
           "title": "加强两用物项对日本出口管制",
@@ -267,15 +356,49 @@
           "time_info": "[08时56分 ~ 08时57分]"
         },
         {
+          "title": "中方回应日本就出口管制提出抗议",
+          "url": "https://www.toutiao.com/trending/7591832562840764459/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "商务部：对原产于日本的进口二氯二氢硅发起反倾销立案调查",
+          "url": "https://www.cls.cn/detail/2250455",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "郭正亮：日本已经被打“脑震荡”了",
+          "url": "https://www.toutiao.com/trending/7592229822353604650/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "梅事变疣事,日本梅毒扩散加剧",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348761&amp;topic_name=%E6%A2%85%E4%BA%8B%E5%8F%98%E7%96%A3%E4%BA%8B%2C%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%89%A9%E6%95%A3%E5%8A%A0%E5%89%A7",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 20时24分]"
         },
         {
           "title": "高市早苗暗示或武力介入台海，中方：禁止向日本军事用户出口两用物项",
@@ -344,13 +467,57 @@
           "time_info": "[08时56分 ~ 08时57分]"
         },
         {
+          "title": "中国留学生讲述日本梅毒扩散乱象",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%AE%B2%E8%BF%B0%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%89%A9%E6%95%A3%E4%B9%B1%E8%B1%A1%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "中国留学生讲述“日本梅毒扩散”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%AE%B2%E8%BF%B0%E2%80%9C%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%89%A9%E6%95%A3%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "商务部：对原产于日本的进口二氯二氢硅发起反倾销立案调查",
+          "url": "https://news.ifeng.com/c/8pim8n4QlIk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "东大下通牒:日本应解除武装",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348781&amp;topic_name=%E4%B8%9C%E5%A4%A7%E4%B8%8B%E9%80%9A%E7%89%92%3A%E6%97%A5%E6%9C%AC%E5%BA%94%E8%A7%A3%E9%99%A4%E6%AD%A6%E8%A3%85",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "日本12月服务业PMI终值 51.6，初值 52.5。",
           "url": "https://wallstreetcn.com/livenews/3031976",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -361,9 +528,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "调查显示日本2026年约1.5万种食品将涨价",
+          "url": "https://wallstreetcn.com/livenews/3032440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "日本12月服务业PMI终值 51.6，前值52.5。",
@@ -372,7 +550,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -383,15 +561,26 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "日本就中方加强出口管制提出抗议",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%B1%E4%B8%AD%E6%96%B9%E5%8A%A0%E5%BC%BA%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E6%8F%90%E5%87%BA%E6%8A%97%E8%AE%AE%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 6,
+      "match_count": 14,
       "titles": [
         {
           "title": "当下商品交易两条主线——“去美元”买黄金，“强安全”买金属",
@@ -403,6 +592,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时56分 ~ 08时57分]"
+        },
+        {
+          "title": "阿根廷与国际银行达成30亿美元的回购协议。",
+          "url": "https://wallstreetcn.com/livenews/3032458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "现货黄金失守4440美元/盎司，日内跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3032455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "摩根士丹利预测：黄金将在2026年四季度升至4800美元",
@@ -422,9 +633,42 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "智利2025年12月锂出口额为1.91亿美元。",
+          "url": "https://flash.jin10.com/detail/20260107193228080800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "KKR据悉将投资15亿美元于欧洲数据中心服务商Global Technical Realty。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3032435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "伯恩斯坦：将美国联合航空(UAL.O)目标价从123美元上调至129美元。",
+          "url": "https://flash.jin10.com/detail/20260107193004573800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "WTI原油日内跌幅达2.00%，现报55.84美元/桶。",
@@ -433,9 +677,42 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "瑞银集团：将美光科技(MU.O)目标股价从300美元上调至400美元。",
+          "url": "https://flash.jin10.com/detail/20260107192032295800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "汇丰：将白银的平均价格预测全面上调，预计2026年为68.25美元/盎司，2027年为57.00美元/盎司。 预计白银供应缺口将缩小，2026年为1.4亿盎司，2027年为5900万盎司。",
+          "url": "https://wallstreetcn.com/livenews/3032432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "乌克兰2025年12月外汇储备为572.93亿美元。",
+          "url": "https://flash.jin10.com/detail/20260107190922839800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "现货黄金站上4500美元/盎司，日内涨约0.1%。",
@@ -444,7 +721,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -455,7 +732,57 @@
           "ranks": [
             29
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "韩国",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "海关总署副署长赵增连会见韩国食品药品安全部部长吴裕耕",
+          "url": "https://wallstreetcn.com/livenews/3031983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "韩国总统李在明结束访华",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%BB%93%E6%9D%9F%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "韩国总统李在明结束访华",
+          "url": "https://www.toutiao.com/trending/7592443775050452486/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "日经225指数低开0.7%，韩国首尔综指高开0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3031962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         }
@@ -501,36 +828,8 @@
       ]
     },
     {
-      "keyword_group": "韩国",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "海关总署副署长赵增连会见韩国食品药品安全部部长吴裕耕",
-          "url": "https://wallstreetcn.com/livenews/3031983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "日经225指数低开0.7%，韩国首尔综指高开0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3031962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "俄罗斯代表谴责美国",
@@ -550,15 +849,26 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "一架私人直升机在俄罗斯彼尔姆边疆区的巴尔德姆斯基区“阿沙特利公园”休闲基地坠毁。事故后果正在调查中。",
+          "url": "https://flash.jin10.com/detail/20260107192915272800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     },
     {
       "keyword_group": "欧盟",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "欧盟双标原形毕露",
@@ -570,6 +880,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时56分 ~ 08时57分]"
+        },
+        {
+          "title": "37名欧洲议会议员近日致信欧盟领导人，敦促欧盟谴责美国对委内瑞拉的军事行动。",
+          "url": "https://flash.jin10.com/detail/20260107193326331800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "37名欧洲议员敦促欧盟谴责美国对委军事行动",
+          "url": "https://wallstreetcn.com/livenews/3032424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     }

@@ -1,11 +1,270 @@
 {
-  "generated_at": "2026-01-12T08:59:37.364343+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-12T20:25:46.759019+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美元",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "现货白银日内大涨4.00%，现报83.14美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260112084037790800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "现货黄金突破4580美元/盎司，续创新高，日内涨1.56%。",
+          "url": "https://flash.jin10.com/detail/20260112083640253800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "美元兑日元跌0.2%报157.62，欧元兑美元升0.2%报1.1658。",
+          "url": "https://wallstreetcn.com/livenews/3034843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "美元指数DXY失守99，日内跌幅0.18%。",
+          "url": "https://flash.jin10.com/detail/20260112083545120800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "现货钯金涨逾3%，报每盎司1,873.50美元。",
+          "url": "https://wallstreetcn.com/livenews/3034841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "现货白银日内涨幅达3.00%，现报82.34美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260112083330553800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "Lululemon：预计第四财季净营收将达到此前指引的高端区间，为35亿美元至35.9亿美元。 预计第四财季每股收益（EPS）预计仍为4.66美元至4.76美元，市场预期为4.78美元。",
+          "url": "https://wallstreetcn.com/livenews/3035314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "纽约期金首次突破4600美元/盎司大关，日内上涨2.2%。现货黄金涨1.8%现报4592美元/盎司，续创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3034840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "现货白银涨4%站上83美元/盎司。 现货黄金涨1.66%报4584美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3034834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "多邻国：预计第四财季日活跃用户（DAU）同比增长约30%。 预计第四财季初步预订收入处于或略高于3.295亿美元至3.355亿美元区间的高端。 任命Gillian Munson为首席财务官。",
+          "url": "https://wallstreetcn.com/livenews/3035309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "现货白银涨幅超3%报82.35美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3034831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "Lululemon(LULU.O)预计第四季度净收入在35亿美元至35.9亿美元的高端区间，市场预测为35.8亿美元。",
+          "url": "https://flash.jin10.com/detail/20260112193152836800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "海纳国际：将台积电(TSM.N)目标价从400美元上调至415美元。",
+          "url": "https://flash.jin10.com/detail/20260112192824267800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "巴西经济学家预计，到2027年底，巴西雷亚尔兑美元汇率将为5.50，与此前的预测持平。",
+          "url": "https://flash.jin10.com/detail/20260112192632195800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "WTI原油期货日内下跌1.00%，现报58.52美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260112192237128800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "现货黄金升至4550美元大关，再创历史新高；现货白银涨幅扩大至2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3034818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "现货白银站上82美元/盎司，日内涨2.58%。",
+          "url": "https://flash.jin10.com/detail/20260112081252898800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "美元/日元升破158.185，创2025年1月来新高。",
+          "url": "https://wallstreetcn.com/livenews/3034817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "美元指数DXY短线下跌10点，现报99.13。",
+          "url": "https://flash.jin10.com/detail/20260112080938113800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "美元兑日元USD/JPY一度升至158.19，创2025年1月以来新高。",
+          "url": "https://flash.jin10.com/detail/20260112080852228800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "WTI原油期货日内下跌1%，现报58.52美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3035286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "4550美元 现货黄金再创新高",
+          "url": "https://flash.jin10.com/detail/20260112080736987800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "韩国海关：韩国1月1日至10日出口额同比下降2.3%，进口额同比下滑4.5%。贸易收支初值为逆差26.6亿美元。",
+          "url": "https://flash.jin10.com/detail/20260112080204308800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "又要动手了？美媒爆料：特朗普或向中东派航母战斗群",
@@ -19,6 +278,17 @@
           "time_info": "08时59分"
         },
         {
+          "title": "特朗普威胁古巴，委内瑞拉发声",
+          "url": "https://news.ifeng.com/c/8pqpuA2I7mV",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "特朗普，又要“抢东西”？",
           "url": "https://news.ifeng.com/c/8pqT2PyRVmx",
           "source": "凤凰网",
@@ -30,6 +300,17 @@
           "time_info": "08时59分"
         },
         {
+          "title": "特朗普发图自称“委内瑞拉代总统”",
+          "url": "https://news.ifeng.com/c/8pqpIh8lxzW",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "为「保护」美方所持委石油收入，特朗普宣布进入国家紧急状态，这意味着什么？将带来哪些影响？",
           "url": "https://www.zhihu.com/question/1993540481494311303",
           "source": "知乎",
@@ -39,6 +320,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
+          "url": "https://news.ifeng.com/c/8pr7YJccLIS",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
@@ -61,6 +353,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
+          "url": "https://wallstreetcn.com/articles/3763089",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "特朗普最新涉台表态：台湾问题是中国自己的事",
@@ -204,195 +507,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "现货白银日内大涨4.00%，现报83.14美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260112084037790800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
         },
         {
-          "title": "现货黄金突破4580美元/盎司，续创新高，日内涨1.56%。",
-          "url": "https://flash.jin10.com/detail/20260112083640253800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "美元兑日元跌0.2%报157.62，欧元兑美元升0.2%报1.1658。",
-          "url": "https://wallstreetcn.com/livenews/3034843",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "美元指数DXY失守99，日内跌幅0.18%。",
-          "url": "https://flash.jin10.com/detail/20260112083545120800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "现货钯金涨逾3%，报每盎司1,873.50美元。",
-          "url": "https://wallstreetcn.com/livenews/3034841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "现货白银日内涨幅达3.00%，现报82.34美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260112083330553800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "纽约期金首次突破4600美元/盎司大关，日内上涨2.2%。现货黄金涨1.8%现报4592美元/盎司，续创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3034840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "现货白银涨4%站上83美元/盎司。 现货黄金涨1.66%报4584美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3034834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "现货白银涨幅超3%报82.35美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3034831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "现货黄金升至4550美元大关，再创历史新高；现货白银涨幅扩大至2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3034818",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
+          "source": "澎湃新闻",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "现货白银站上82美元/盎司，日内涨2.58%。",
-          "url": "https://flash.jin10.com/detail/20260112081252898800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "美元/日元升破158.185，创2025年1月来新高。",
-          "url": "https://wallstreetcn.com/livenews/3034817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "美元指数DXY短线下跌10点，现报99.13。",
-          "url": "https://flash.jin10.com/detail/20260112080938113800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "美元兑日元USD/JPY一度升至158.19，创2025年1月以来新高。",
-          "url": "https://flash.jin10.com/detail/20260112080852228800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "4550美元 现货黄金再创新高",
-          "url": "https://flash.jin10.com/detail/20260112080736987800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "韩国海关：韩国1月1日至10日出口额同比下降2.3%，进口额同比下滑4.5%。贸易收支初值为逆差26.6亿美元。",
-          "url": "https://flash.jin10.com/detail/20260112080204308800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
+          "time_info": "20时25分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 4,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "为摆脱对华稀土依赖，日本派船出海探查海底稀土",
+          "url": "https://news.ifeng.com/c/8pqzcww1ile",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
         {
           "title": "日本造船巨头并购，能追赶中韩吗",
           "url": "https://news.ifeng.com/c/8pqUK16yYUX",
@@ -403,6 +546,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "日本第一代“不婚族”开始后悔了",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%AC%AC%E4%B8%80%E4%BB%A3%E2%80%9C%E4%B8%8D%E5%A9%9A%E6%97%8F%E2%80%9D%E5%BC%80%E5%A7%8B%E5%90%8E%E6%82%94%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "日媒称高市早苗或解散众议院提前大选，原因有哪些？她会成为日本最短命的首相之一吗？",
+          "url": "https://www.zhihu.com/question/1994067615191162961",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "日本派船出海探查海底稀土",
+          "url": "https://www.toutiao.com/trending/7593573829776326692/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "俄精准断供材料,日本产业被反杀",
@@ -436,23 +612,118 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "香港暂停进口日本和波兰部分地区禽肉及禽类产品",
+          "url": "https://wallstreetcn.com/livenews/3035275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "韩国",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "韩国空难失事前75秒黑匣子录音",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%A9%BA%E9%9A%BE%E5%A4%B1%E4%BA%8B%E5%89%8D75%E7%A7%92%E9%BB%91%E5%8C%A3%E5%AD%90%E5%BD%95%E9%9F%B3%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "韩国179死空难黑匣子录音首次公布",
+          "url": "https://www.toutiao.com/trending/7594237654141534217/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "WTT 多哈冠军赛，林诗栋 2-4 不敌韩国选手张禹珍，无缘男单决赛，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1993775652046919451",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "韩国179死空难黑匣子录音首次公布",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD179%E6%AD%BB%E7%A9%BA%E9%9A%BE%E9%BB%91%E5%8C%A3%E5%AD%90%E5%BD%95%E9%9F%B3%E9%A6%96%E6%AC%A1%E5%85%AC%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "韩国最大在野党将于下月更名，欲重塑形象",
+          "url": "https://wallstreetcn.com/livenews/3035297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "韩国1月1-10日出口同比下降2.3%，进口同比下降4.5%。",
+          "url": "https://wallstreetcn.com/livenews/3034811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，金银新高后涨幅扩大，铜逼近新高，油价回调",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
         {
           "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
           "url": "https://wallstreetcn.com/articles/3762924",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 20时25分]"
         },
         {
           "title": "报告称2026年中国科技巨头指数将首超美股七巨头",
@@ -468,26 +739,65 @@
       ]
     },
     {
-      "keyword_group": "韩国",
-      "match_count": 2,
+      "keyword_group": "欧盟",
+      "match_count": 3,
       "titles": [
         {
-          "title": "WTT 多哈冠军赛，林诗栋 2-4 不敌韩国选手张禹珍，无缘男单决赛，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1993775652046919451",
-          "source": "知乎",
+          "title": "欧盟基准即月天然气价格上涨5.14%，至29.88欧元/兆瓦时。",
+          "url": "https://flash.jin10.com/detail/20260112195657991800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "欧盟委员会发言人：我们随时准备对伊朗提出新的、更严厉的制裁。",
+          "url": "https://flash.jin10.com/detail/20260112194853075800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "欧盟委员会发言人：南方共同市场条约可在未经欧洲议会批准的情况下适用。",
+          "url": "https://flash.jin10.com/detail/20260112193344249800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时59分"
-        },
+          "time_info": "20时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "韩国1月1-10日出口同比下降2.3%，进口同比下降4.5%。",
-          "url": "https://wallstreetcn.com/livenews/3034811",
+          "title": "乌克兰首都基辅将实施紧急停电举措",
+          "url": "https://wallstreetcn.com/livenews/3035320",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "乌克兰军方：俄罗斯对基辅发动夜间空袭。",
+          "url": "https://flash.jin10.com/detail/20260112075457615800",
+          "source": "金十数据",
+          "ranks": [
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -513,19 +823,19 @@
       ]
     },
     {
-      "keyword_group": "俄罗斯 乌克兰",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "乌克兰军方：俄罗斯对基辅发动夜间空袭。",
-          "url": "https://flash.jin10.com/detail/20260112075457615800",
-          "source": "金十数据",
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
           "ranks": [
-            28
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时59分"
+          "time_info": "20时25分"
         }
       ]
     }

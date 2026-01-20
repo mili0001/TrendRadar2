@@ -1,11 +1,282 @@
 {
-  "generated_at": "2026-01-20T08:56:39.952202+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-01-20T20:26:26.453837+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 24,
+      "titles": [
+        {
+          "title": "特朗普“私信”震惊欧洲：“因未获诺贝尔和平奖，我不再只考虑“和平”，美国必须完全控制格陵兰”",
+          "url": "https://wallstreetcn.com/articles/3763623",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 20时26分]"
+        },
+        {
+          "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
+          "url": "https://news.ifeng.com/c/8q4QMT6vE0S",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "特朗普写了一封信，杀气腾腾，槽点满满",
+          "url": "https://news.ifeng.com/c/8q3qn0KjEks",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "比利时首相：将于周三在达沃斯会见美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260120201831086800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "会武力夺岛？特朗普：无可奉告",
+          "url": "https://news.ifeng.com/c/8q3HDvDloum",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
+          "url": "https://wallstreetcn.com/articles/3763675",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
+          "url": "https://www.cls.cn/detail/2262874",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "反制特朗普，马克龙冲最猛，默茨想拉住他",
+          "url": "https://news.ifeng.com/c/8q3GKEPO18N",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
+          "url": "https://wallstreetcn.com/articles/3763556",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
+          "url": "https://wallstreetcn.com/articles/3763642",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "普京被邀请加入特朗普“和平委员会”",
+          "url": "https://news.ifeng.com/c/8q2yFHRzsKV",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "“特朗普计划4月访华”，中方回应",
+          "url": "https://www.cls.cn/detail/2263523",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "不可能既要又要，诺贝尔和平奖得主批特朗普政府",
+          "url": "https://news.ifeng.com/c/8q4TQszY1yW",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
+          "url": "https://wallstreetcn.com/articles/3763591",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "关税、热战、AI！世界目光齐聚达沃斯 特朗普携“史上最大代表团”参会",
+          "url": "https://www.cls.cn/detail/2263371",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
+          "url": "https://www.zhihu.com/question/1995879633401374340",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "外交部回应特朗普计划4月访华",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%924%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "特朗普 2.0 任期与其上一届任期相比，他的执政思路有变化吗？背后有哪些深层的逻辑？",
+          "url": "https://www.zhihu.com/question/1996539214104322510",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32424436",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "特朗普：“解决俄罗斯对格陵兰岛威胁”时机已到",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414383",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "美国总统特朗普近日宣布成立所谓加沙「和平委员会」，如何看待此举？",
+          "url": "https://www.zhihu.com/question/1996500531343026047",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "特朗普计划于4月访华？外交部回应",
+          "url": "https://www.toutiao.com/trending/7596273635871031359/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "特朗普称英“愚蠢至极”",
+          "url": "https://www.douyin.com/hot/2374249",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "外媒：特朗普改口批英国将查戈斯群岛主权移交毛里求斯“非常愚蠢”，英国政府回应",
+          "url": "https://wallstreetcn.com/livenews/3040426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "日本",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "日本40年期国债收益率自2007年发行以来首次触及4%",
@@ -19,6 +290,17 @@
           "time_info": "08时56分"
         },
         {
+          "title": "中方代表：日本从没真正认罪悔过",
+          "url": "https://www.douyin.com/hot/2373937",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
           "title": "日本政府统计数据：去年12月赴日中国游客同比下降40%",
           "url": "https://m.thepaper.cn/newsDetail_forward_32415962",
           "source": "澎湃新闻",
@@ -28,6 +310,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "联合国会议上，中方痛批日本从未真正认罪悔过",
+          "url": "https://news.ifeng.com/c/8q4ZfIaBfxg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "花旗：日元疲软或导致日本央行在2026年加息三次",
@@ -85,6 +378,17 @@
           "time_info": "08时56分"
         },
         {
+          "title": "U23亚洲杯日本vs韩国",
+          "url": "https://www.douyin.com/hot/2374386",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
           "title": "10年期日本国债收益率上升3.0个基点，至2.3%，续刷1999年2月以来最高水平。",
           "url": "https://flash.jin10.com/detail/20260120081700752800",
           "source": "金十数据",
@@ -127,6 +431,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "日本首相高市早苗宣布将于 23 日解散众议院，这一决定出于哪些考虑？会产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1996630471031928598",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "市场预期日本央行将维持利率不变，交易员聚焦外汇干预风险",
@@ -175,125 +490,31 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "特朗普“私信”震惊欧洲：“因未获诺贝尔和平奖，我不再只考虑“和平”，美国必须完全控制格陵兰”",
-          "url": "https://wallstreetcn.com/articles/3763623",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "特朗普写了一封信，杀气腾腾，槽点满满",
-          "url": "https://news.ifeng.com/c/8q3qn0KjEks",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "会武力夺岛？特朗普：无可奉告",
-          "url": "https://news.ifeng.com/c/8q3HDvDloum",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
-          "url": "https://www.cls.cn/detail/2262874",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "反制特朗普，马克龙冲最猛，默茨想拉住他",
-          "url": "https://news.ifeng.com/c/8q3GKEPO18N",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
-          "url": "https://wallstreetcn.com/articles/3763556",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "普京被邀请加入特朗普“和平委员会”",
-          "url": "https://news.ifeng.com/c/8q2yFHRzsKV",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
-          "url": "https://wallstreetcn.com/articles/3763591",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
-          "url": "https://www.zhihu.com/question/1995879633401374340",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "特朗普：“解决俄罗斯对格陵兰岛威胁”时机已到",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32414383",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "美元兑瑞郎USD/CHF日内跌幅达1.00%，现报0.7887。",
+          "url": "https://flash.jin10.com/detail/20260120201958230800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "纽约银日内涨幅达8.0%，报95.63美元/盎司；现货白银日内涨幅达1.5%，报95.74美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3040470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
         {
           "title": "现货白银持续走低，日内跌幅达1.00%，现报93.34美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260120082625357800",
@@ -304,6 +525,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "WTI原油突破60美元/桶，日内涨0.77%。",
+          "url": "https://flash.jin10.com/detail/20260120200635004800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "西方石油：第四季度全球平均实现油价为每桶58.99美元。",
+          "url": "https://flash.jin10.com/detail/20260120200600802800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "美国合众银行第四季度调整后每股收益为1.26美元，预估1.19美元。 第四季度净利息收入为43.1亿美元，预估42.8亿美元。 美国合众银行盘前微跌。",
+          "url": "https://wallstreetcn.com/livenews/3040463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "现货白银日内跌1.4%，从此前触及的历史高点94.72美元/盎司回落。",
@@ -317,6 +571,39 @@
           "time_info": "08时56分"
         },
         {
+          "title": "市场消息：奈飞修改对华纳兄弟的收购要约，改为全现金交易，每股报价27.75美元。华纳兄弟将召开股东会议以批准该交易。",
+          "url": "https://flash.jin10.com/detail/20260120200126037800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "贝森特批评美联储资产购买时机不当引发一年1000亿美元亏损",
+          "url": "https://wallstreetcn.com/livenews/3040458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "俄罗斯财政部：截至1月1日，俄罗斯国家福利基金规模为1714.9亿美元，占GDP的6.2%，其中流动资产为522亿美元（占GDP的1.9%）。",
+          "url": "https://flash.jin10.com/detail/20260120200026789800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
           "title": "绕开美元？印度被曝提议金砖国家数字货币互联",
           "url": "https://flash.jin10.com/detail/20260120080859979800",
           "source": "金十数据",
@@ -326,6 +613,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "国际黄金价格突破每盎司4700美元",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E7%AA%81%E7%A0%B4%E6%AF%8F%E7%9B%8E%E5%8F%B84700%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "现货黄金突破4700美元",
+          "url": "https://www.toutiao.com/trending/7597306294105673225/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "MSCI规则调整或致印尼股市资金外流20亿美元",
@@ -352,9 +661,114 @@
       ]
     },
     {
-      "keyword_group": "韩国",
-      "match_count": 5,
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 8,
       "titles": [
+        {
+          "title": "俄罗斯遭暴雪侵袭 有人“跳楼”出门",
+          "url": "https://www.toutiao.com/trending/7595870902936813587/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "冯德莱恩：欧盟决定永久冻结俄罗斯资产",
+          "url": "https://news.ifeng.com/c/8q4aXVvC1hK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "乌克兰首都基辅响起多次爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260120083719954800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "俄罗斯一地居民挖通积雪才能回家",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%80%E5%9C%B0%E5%B1%85%E6%B0%91%E6%8C%96%E9%80%9A%E7%A7%AF%E9%9B%AA%E6%89%8D%E8%83%BD%E5%9B%9E%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "当地时间20日，乌克兰首都基辅响起多次爆炸声。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3039986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "欧盟决定永久冻结俄罗斯资产",
+          "url": "https://www.douyin.com/hot/2374373",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：留在乌克兰，而不是前往达沃斯。 有关达沃斯的计划可能会根据协议而改变。",
+          "url": "https://wallstreetcn.com/livenews/3040436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "冯德莱恩：欧盟决定永久冻结俄罗斯资产并保留使用权利",
+          "url": "https://wallstreetcn.com/livenews/3040430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "韩国",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "韩国将李在明2024年遇袭事件定性为“恐怖袭击”",
+          "url": "https://news.ifeng.com/c/8q4QArHsw7a",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
         {
           "title": "韩国KOSPI指数跌幅扩大至1%。",
           "url": "https://flash.jin10.com/detail/20260120082532955800",
@@ -413,52 +827,42 @@
       ]
     },
     {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 4,
+      "keyword_group": "美股",
+      "match_count": 3,
       "titles": [
         {
-          "title": "俄罗斯遭暴雪侵袭 有人“跳楼”出门",
-          "url": "https://www.toutiao.com/trending/7595870902936813587/",
-          "source": "今日头条",
+          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 20时26分]"
         },
         {
-          "title": "乌克兰首都基辅响起多次爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260120083719954800",
-          "source": "金十数据",
+          "title": "美股纳指期货跌2%，Applovin盘前大跌10%，日债引领全球国债抛售潮，黄金站上4700、白银95美元！",
+          "url": "https://wallstreetcn.com/articles/3763668",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "20时26分"
         },
         {
-          "title": "俄罗斯一地居民挖通积雪才能回家",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%80%E5%9C%B0%E5%B1%85%E6%B0%91%E6%8C%96%E9%80%9A%E7%A7%AF%E9%9B%AA%E6%89%8D%E8%83%BD%E5%9B%9E%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "当地时间20日，乌克兰首都基辅响起多次爆炸声。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/3039986",
+          "title": "3M四季度净销售额61亿美元，同比增长1.5%。 调整后持续经营业务每股收益为1.83美元，预估1.80美元。 3M预计2026年经调整后销售总额增长4%。 3M预计2026年调整后有机销售额同比增长约3%。 3M美股盘前跌0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3040459",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "20时26分"
         }
       ]
     },
@@ -491,19 +895,19 @@
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
+          "title": "谷歌 Gemini 准确率从 21% 提升至 97% 仅靠「复制粘贴」，这意味着什么？",
+          "url": "https://www.zhihu.com/question/1996233131175462349",
+          "source": "知乎",
           "ranks": [
-            1
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "20时26分"
         }
       ]
     }

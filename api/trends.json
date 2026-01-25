@@ -1,12 +1,340 @@
 {
-  "generated_at": "2026-01-25T09:02:46.715386+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-25T20:22:47.137823+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "日本",
-      "match_count": 19,
+      "keyword_group": "特朗普",
+      "match_count": 28,
       "titles": [
+        {
+          "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
+          "url": "https://wallstreetcn.com/articles/3764066",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "特朗普威胁对加拿大征收100%关税，加总理回应",
+          "url": "https://news.ifeng.com/c/8qBty1JuFMx",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "特朗普称美国将取得格陵兰岛美军基地所在区域“主权”",
+          "url": "https://flash.jin10.com/detail/20260125081127653800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "历史学大佬：特朗普“明抢格陵兰”，是为了“暗度伊朗和乌克兰”",
+          "url": "https://wallstreetcn.com/articles/3764090",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "特朗普嫌盟友在阿富汗没出力，英、澳等国“接受不了”",
+          "url": "https://news.ifeng.com/c/8qCeJxu5emm",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "俄总统新闻秘书：欧洲政坛“弱势一代”无法抵挡特朗普的强势",
+          "url": "https://flash.jin10.com/detail/20260125194457069800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
+          "url": "https://wallstreetcn.com/articles/3764068",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "意总理：特朗普有关北约盟友“脱离前线”言论“不可接受”",
+          "url": "https://wallstreetcn.com/livenews/3043386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "为何特朗普想要格陵兰岛",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E8%A6%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "特朗普施压后，英国突然叫停",
+          "url": "https://news.ifeng.com/c/8qBdM8lHY0b",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 20时22分]"
+        },
+        {
+          "title": "特朗普承认使用“秘密”武器",
+          "url": "https://www.cls.cn/detail/2268653",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 20时22分]"
+        },
+        {
+          "title": "相关谈判“进展顺利”，特朗普称美国将取得格陵兰岛美军基地所在区域“主权”",
+          "url": "https://wallstreetcn.com/articles/3764087",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
+          "url": "https://news.ifeng.com/c/8qClugB0Wf0",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "特朗普威胁“100%关税”，加拿大总理卡尼号召民众“购买国货”",
+          "url": "https://wallstreetcn.com/articles/3764088",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "冬季风暴来袭，特朗普称已批准美国多州进入紧急状态",
+          "url": "https://wallstreetcn.com/livenews/3043311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "据AXIOS：特朗普将于当地时间下周三出席有关“特朗普账户”的峰会。",
+          "url": "https://flash.jin10.com/detail/20260124214240253800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "美国总统特朗普：美国已从被扣押的委内瑞拉油轮上获取了石油。委内瑞拉石油将运往休斯顿炼油厂。",
+          "url": "https://flash.jin10.com/detail/20260124214134476800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "美国联邦移民执法中再次发生枪杀事件，特朗普指责明尼苏达州州长“煽动叛乱”",
+          "url": "https://wallstreetcn.com/livenews/3043320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "克里姆林宫：特朗普的做法与俄罗斯构建多极世界的方针不符。",
+          "url": "https://flash.jin10.com/detail/20260125181854471800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "特朗普抢夺格陵兰岛可能隐藏AI计划",
+          "url": "https://www.toutiao.com/trending/7599245110806580746/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "特朗普：美国将取得格陵兰岛美军基地所在区域“主权”",
+          "url": "https://wallstreetcn.com/livenews/3043325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "媒体：特朗普“新群”一股熟悉商业味",
+          "url": "https://www.toutiao.com/trending/7598137409695645738/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-25）",
+          "url": "https://flash.jin10.com/detail/20260125175340876800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "特朗普：美对贩毒集团陆地打击行动可覆盖墨西哥等中南美地区",
+          "url": "https://wallstreetcn.com/livenews/3043324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格斯表现非常出色。",
+          "url": "https://flash.jin10.com/detail/20260124211543155800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "美国州检察官起诉特朗普政府，指控其阻碍枪击案调查",
+          "url": "https://wallstreetcn.com/livenews/3043350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "特朗普上任一年为何引起各方不满",
+          "url": "https://www.toutiao.com/trending/7597959432397144106/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "美国财政部：特朗普将出席特朗普账户峰会",
+          "url": "https://wallstreetcn.com/livenews/3043301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日本",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "决赛不敌日本，中国队收获U23亚洲杯亚军，创历史最佳战绩",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32459344",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 20时22分]"
+        },
         {
           "title": "中国0-4不敌日本无缘U23亚洲杯冠军",
           "url": "https://www.toutiao.com/trending/7598947267541978651/",
@@ -52,42 +380,9 @@
           "time_info": "09时02分"
         },
         {
-          "title": "正视差距!国足0比4日本摘亚",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349626&amp;topic_name=%E6%AD%A3%E8%A7%86%E5%B7%AE%E8%B7%9D%21%E5%9B%BD%E8%B6%B30%E6%AF%944%E6%97%A5%E6%9C%AC%E6%91%98%E4%BA%9A",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
           "title": "U23国足vs日本",
           "url": "https://s.weibo.com/weibo?q=U23%E5%9B%BD%E8%B6%B3vs%E6%97%A5%E6%9C%AC&t=31&band_rank=1&Refer=top",
           "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "U23国足0:4日本获亚军",
-          "url": "https://www.douyin.com/hot/2377895",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "U23 男足亚洲杯决赛，国足 0:4 不敌日本获得亚军，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1998499370979522168",
-          "source": "知乎",
           "ranks": [
             1
           ],
@@ -129,17 +424,6 @@
           "time_info": "09时02分"
         },
         {
-          "title": "决赛不敌日本，中国队收获U23亚洲杯亚军，创历史最佳战绩",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32459344",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
           "title": "中国对日本提出越来越高的惩戒",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%AF%B9%E6%97%A5%E6%9C%AC%E6%8F%90%E5%87%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%AB%98%E7%9A%84%E6%83%A9%E6%88%92%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -149,6 +433,65 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "正视差距!国足0比4日本摘亚",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349626&amp;topic_name=%E6%AD%A3%E8%A7%86%E5%B7%AE%E8%B7%9D%21%E5%9B%BD%E8%B6%B30%E6%AF%944%E6%97%A5%E6%9C%AC%E6%91%98%E4%BA%9A",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 20时22分]"
+        },
+        {
+          "title": "U23国足0:4日本获亚军",
+          "url": "https://www.douyin.com/hot/2377895",
+          "source": "抖音",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 20时22分]"
+        },
+        {
+          "title": "U23 男足亚洲杯决赛，国足 0:4 不敌日本获得亚军，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1998499370979522168",
+          "source": "知乎",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 20时22分]"
+        },
+        {
+          "title": "冲击冠军！U23国足决战日本：王钰栋彭啸首发，拜合拉木替补",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32458763",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 20时22分]"
+        },
+        {
+          "title": "日本极端催生:不生娃就切子宫",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349632&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%9E%81%E7%AB%AF%E5%82%AC%E7%94%9F%3A%E4%B8%8D%E7%94%9F%E5%A8%83%E5%B0%B1%E5%88%87%E5%AD%90%E5%AE%AB",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "日本U23为U23国足列队鼓掌",
@@ -173,15 +516,37 @@
           "time_info": "09时02分"
         },
         {
-          "title": "冲击冠军！U23国足决战日本：王钰栋彭啸首发，拜合拉木替补",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32458763",
-          "source": "澎湃新闻",
+          "title": "有哪些日本动漫在引进翻译时，人物名字有出入？为什么？",
+          "url": "https://www.zhihu.com/question/24845022",
+          "source": "知乎",
           "ranks": [
-            19
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时02分"
+          "time_info": "20时22分"
+        },
+        {
+          "title": "U23 国足面对日本队一败涂地，为何邵佳一支持安东尼奥继续留任国字号球队当主教练？",
+          "url": "https://www.zhihu.com/question/1998560556005754136",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "日本民众想去中国看熊猫：请等着我",
+          "url": "https://www.toutiao.com/trending/7599232969735261747/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "日本U23亚洲杯6场比赛只丢1球",
@@ -219,202 +584,20 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 17,
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 11,
       "titles": [
         {
-          "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
-          "url": "https://wallstreetcn.com/articles/3764066",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "特朗普威胁对加拿大征收100%关税，加总理回应",
-          "url": "https://news.ifeng.com/c/8qBty1JuFMx",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "特朗普称美国将取得格陵兰岛美军基地所在区域“主权”",
-          "url": "https://flash.jin10.com/detail/20260125081127653800",
+          "title": "克里姆林宫：俄罗斯军方将密切关注美国的“金色圆顶”计划。",
+          "url": "https://flash.jin10.com/detail/20260125190632217800",
           "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
-          "url": "https://wallstreetcn.com/articles/3764068",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "为何特朗普想要格陵兰岛",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E8%A6%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "冬季风暴来袭，特朗普称已批准美国多州进入紧急状态",
-          "url": "https://wallstreetcn.com/livenews/3043311",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时02分"
+          "time_info": "20时22分"
         },
-        {
-          "title": "特朗普施压后，英国突然叫停",
-          "url": "https://news.ifeng.com/c/8qBdM8lHY0b",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "特朗普承认使用“秘密”武器",
-          "url": "https://www.cls.cn/detail/2268653",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "据AXIOS：特朗普将于当地时间下周三出席有关“特朗普账户”的峰会。",
-          "url": "https://flash.jin10.com/detail/20260124214240253800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "美国总统特朗普：美国已从被扣押的委内瑞拉油轮上获取了石油。委内瑞拉石油将运往休斯顿炼油厂。",
-          "url": "https://flash.jin10.com/detail/20260124214134476800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "美国联邦移民执法中再次发生枪杀事件，特朗普指责明尼苏达州州长“煽动叛乱”",
-          "url": "https://wallstreetcn.com/livenews/3043320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "特朗普：美国将取得格陵兰岛美军基地所在区域“主权”",
-          "url": "https://wallstreetcn.com/livenews/3043325",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "媒体：特朗普“新群”一股熟悉商业味",
-          "url": "https://www.toutiao.com/trending/7598137409695645738/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "特朗普：美对贩毒集团陆地打击行动可覆盖墨西哥等中南美地区",
-          "url": "https://wallstreetcn.com/livenews/3043324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格斯表现非常出色。",
-          "url": "https://flash.jin10.com/detail/20260124211543155800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "特朗普上任一年为何引起各方不满",
-          "url": "https://www.toutiao.com/trending/7597959432397144106/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "美国财政部：特朗普将出席特朗普账户峰会",
-          "url": "https://wallstreetcn.com/livenews/3043301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 9,
-      "titles": [
         {
           "title": "乌克兰总统泽连斯基：经过这几天的会谈，各方同意向各自首都汇报谈判的各个方面，并与各自领导人协调后续步骤。军方列出了一份可能在下次会议上讨论的议题清单。如果各方都做好了推进谈判的准备——而乌克兰已经做好了准备——下次会议将会举行，最早可能在下周。",
           "url": "https://flash.jin10.com/detail/20260124220313538800",
@@ -436,6 +619,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "克里姆林宫：俄罗斯永远不会与欧盟外交与安全政策高级代表卡拉斯讨论任何问题，只会等待她离职。",
+          "url": "https://flash.jin10.com/detail/20260125190159647800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "乌克兰总统泽连斯基：在阿联酋的会谈已经结束。这是很长一段时间以来首次举行为期两天的三方会谈。我们讨论了很多内容，重要的是，这些对话富有建设性。",
@@ -518,8 +712,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "10亿美元一席！特朗普任“主席”",
+          "url": "https://news.ifeng.com/c/8qCp5coUR2t",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
         {
           "title": "10亿美元、1269万盎司白银，这个男人提前一年押注贵金属赚翻了！",
           "url": "https://wallstreetcn.com/articles/3764077",
@@ -580,6 +785,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "韩国",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "韩国人赴华旅游需求激增",
+          "url": "https://wallstreetcn.com/livenews/3043384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "韩国人赴华旅游需求激增",
+          "url": "https://flash.jin10.com/detail/20260125185208353800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         }
       ]
     },

@@ -1,575 +1,215 @@
 {
-  "generated_at": "2026-01-28T20:27:19.818065+08:00",
-  "total_titles_processed": 596,
+  "generated_at": "2026-01-29T09:05:41.062760+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "日本",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "日本政府要求渔民避开钓鱼岛",
-          "url": "https://news.ifeng.com/c/8qFvc1m8X70",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "日本一女性在同一家公司上班近70年",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%A5%B3%E6%80%A7%E5%9C%A8%E5%90%8C%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8%E4%B8%8A%E7%8F%AD%E8%BF%9170%E5%B9%B4%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "中方呼吁各国认清日本真实面目",
-          "url": "https://www.douyin.com/hot/2381015",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "外交敲警钟:春节慎去日本蹦跶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349781&amp;topic_name=%E5%A4%96%E4%BA%A4%E6%95%B2%E8%AD%A6%E9%92%9F%3A%E6%98%A5%E8%8A%82%E6%85%8E%E5%8E%BB%E6%97%A5%E6%9C%AC%E8%B9%A6%E8%B7%B6",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 20时27分]"
-        },
-        {
-          "title": "日本电视全军覆没了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B5%E8%A7%86%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1%E4%BA%86%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        },
-        {
-          "title": "30年期日本国债收益率上行2个基点，至3.680%。",
-          "url": "https://wallstreetcn.com/livenews/3045078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "第1现场｜“晓晓”“蕾蕾”启程回家，日本大熊猫归零",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32471946",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "U23 国足的防守一直做的不错，为何日本队只用了 20 分钟就打穿咱们国足的防线？",
-          "url": "https://www.zhihu.com/question/1998544659715228295",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "大熊猫“晓晓”和“蕾蕾”今日中午从日本启程返回中国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32471753",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "日本央行12月政策会议纪要：一名委员称，日元、长期利率反映出政策利率过低。 部分委员称日本央行应考虑日元对物价趋势的影响。",
-          "url": "https://wallstreetcn.com/livenews/3045062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "日本东证指数日内跌幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3045061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "日本央行会议纪要：一名委员表示，随着工资增长势头预计得以维持，潜在通胀很可能逐步加速。",
-          "url": "https://flash.jin10.com/detail/20260128080527642800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "日本央行会议纪要：一名委员表示，近期食品价格上涨不仅由一次性供应因素推动，还受到劳动力和分销成本上升的影响。",
-          "url": "https://flash.jin10.com/detail/20260128080526525800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "日本央行会议纪要：多名委员表示，通胀在一定程度上超出了10月份的预测。一名委员表示，政府的刺激计划将在未来1至2年推高经济增长。",
-          "url": "https://flash.jin10.com/detail/20260128080401326800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "日本央行会议纪要：几位委员表示，在判断加息时机时，日本央行必须考虑日元疲软如何影响潜在通胀。",
-          "url": "https://flash.jin10.com/detail/20260128080202835800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "外交部回应“日本没有大熊猫了”",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E6%97%A5%E6%9C%AC%E6%B2%A1%E6%9C%89%E5%A4%A7%E7%86%8A%E7%8C%AB%E4%BA%86%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "日本央行会议纪要：一名委员表示，及时加息有助于抑制未来的通胀压力和长期利率上升。",
-          "url": "https://flash.jin10.com/detail/20260128080157162800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "日本央行会议纪要：一名委员表示，长期利率的变动有些迅速，但也可被解读为市场在计入日本央行持续实现价格目标的可能性。",
-          "url": "https://flash.jin10.com/detail/20260128080021069800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "日本央行会议纪要：一名委员表示，日本可以通过让财政政策补充宽松货币政策带来的成本压力，来确保通胀可持续地达到日本央行的物价目标。",
-          "url": "https://flash.jin10.com/detail/20260128080011483800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "日本央行12月政策会议纪要：委员们称，如果前景展望实现，继续加息是合适的。 一名委员表示，鉴于外汇对通胀的影响，若再等一次会议才加息将面临风险。 委员们一致认为，即便日本央行本次会议上调利率，货币政策环境仍将保持宽松。 有委员表示，若实际利率长期偏离均衡水平，可能会影响长期经济增长。 有委员表示，从全球标准来看日本实际政策利率处于极低水平，此时调整货币政策支持力度是恰当的。 一名委员表示，适时加息以避免快速紧缩。 一名委员表示，应以几个月时间为间隔，调整宽松力度。",
-          "url": "https://wallstreetcn.com/livenews/3045053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "日本2025年电影票房收入2744亿日元创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3045538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 18,
+      "match_count": 12,
       "titles": [
         {
-          "title": "科技巨头财报前标普五连阳，美元重挫创四年新低，黄金又新高，原油拉升，期银跳水",
-          "url": "https://wallstreetcn.com/articles/3764253",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 20时27分]"
-        },
-        {
-          "title": "现货黄金升破5200美元！芝商所上调白银、铂金、钯金保证金比例",
-          "url": "https://www.cls.cn/detail/2272212",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        },
-        {
-          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
-          "url": "https://wallstreetcn.com/articles/3764299",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        },
-        {
-          "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
-          "url": "https://www.cls.cn/detail/2271933",
+          "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
+          "url": "https://www.cls.cn/detail/2273420",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "09时05分"
         },
         {
-          "title": "美、布两油短线拉升0.7美元后快速回落，现分别报62.62美元/桶和66.63美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260128201433434800",
-          "source": "金十数据",
+          "title": "现货黄金首次突破5500美元",
+          "url": "https://www.toutiao.com/trending/7599573056431964223/",
+          "source": "今日头条",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时27分"
+          "time_info": "09时05分"
         },
         {
           "title": "未来几周看涨到150美元！花旗高喊白银是“打了兴奋剂的黄金”，中国主导、印度跟买，但全球ETF净流出",
           "url": "https://wallstreetcn.com/articles/3764316",
           "source": "华尔街见闻",
           "ranks": [
-            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "燃气轮机、电网设备需求爆发，GE Vernova Q4营收超预期，积压订单达到1500亿美元 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764381",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "高盛外汇交易员：下跌才刚刚开始，美元迎来新一轮贬值",
+          "url": "https://wallstreetcn.com/articles/3764318",
+          "source": "华尔街见闻",
+          "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
+          "url": "https://www.cls.cn/detail/2273332",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         },
         {
           "title": "黄金突破 5300 美元关口，国内金饰克价突破 1610 元，黄金还能涨多久？",
           "url": "https://www.zhihu.com/question/1999138722730500772",
           "source": "知乎",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        },
-        {
-          "title": "澳元兑美元AUD/USD短线拉升20点，升破0.7关口。",
-          "url": "https://flash.jin10.com/detail/20260128083133289800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "专家：银价或跌回90美元之下",
-          "url": "https://www.douyin.com/hot/2381235",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
-          "url": "https://wallstreetcn.com/articles/3764255",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "康宁(GLW.N)第四季度净利润5.4亿美元，四季度核心毛利率为38.1%，核心营业利润率为20.2%。",
-          "url": "https://flash.jin10.com/detail/20260128200437121800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "AT&T计划在2026年回购约80亿美元的股票。",
-          "url": "https://wallstreetcn.com/livenews/3045566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "康宁(GLW.N)第四季度销售额42.2亿美元，一季度核心收入预期为42亿至43亿美元。",
-          "url": "https://flash.jin10.com/detail/20260128200346344800",
-          "source": "金十数据",
-          "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时27分"
+          "time_info": "09时05分"
         },
         {
-          "title": "德意志银行表示，如果美元持续疲软，投资者将增加对非美元资产和实体资产的配置，那么2026年黄金价格可能会达到每盎司6000美元。",
-          "url": "https://wallstreetcn.com/livenews/3045069",
+          "title": "美元兑瑞郎下跌0.5%至0.7647。",
+          "url": "https://wallstreetcn.com/livenews/3045941",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "09时05分"
         },
         {
-          "title": "分析师：特朗普正在冒险打压美元 日元将试图收复150关口",
-          "url": "https://flash.jin10.com/detail/20260128081828750800",
-          "source": "金十数据",
+          "title": "现货黄金首次突破5500美元大关",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E9%A6%96%E6%AC%A1%E7%AA%81%E7%A0%B45500%E7%BE%8E%E5%85%83%E5%A4%A7%E5%85%B3",
+          "source": "百度热搜",
           "ranks": [
-            16
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "09时05分"
         },
         {
-          "title": "以色列新谢克尔兑美元汇率触及30年高点，报3.085。",
-          "url": "https://flash.jin10.com/detail/20260128195959634800",
+          "title": "美元兑日元USD/JPY跌破153，日内跌0.26%。",
+          "url": "https://flash.jin10.com/detail/20260129081954658800",
           "source": "金十数据",
           "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "马来西亚林吉特兑美元上涨0.5%至3.925，为2018年5月以来的最高水平。",
-          "url": "https://flash.jin10.com/detail/20260128081529521800",
-          "source": "金十数据",
-          "ranks": [
-            19
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "09时05分"
         },
         {
-          "title": "美元指数DXY涨回96关口，日内涨0.26%。",
-          "url": "https://flash.jin10.com/detail/20260128081223627800",
-          "source": "金十数据",
+          "title": "韩元兑美元涨0.7%，领涨亚洲新兴市场货币。美元兑日元跌破153，日内跌0.29%。",
+          "url": "https://wallstreetcn.com/livenews/3045928",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "09时05分"
+        },
+        {
+          "title": "新加坡元对美元涨幅收窄，之前新加坡金管局按兵不动。",
+          "url": "https://wallstreetcn.com/livenews/3045925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 6,
       "titles": [
         {
-          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
-          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        },
-        {
-          "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
-          "url": "https://news.ifeng.com/c/8qGeeqb7QRE",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "美国总统特朗普：一支庞大的舰队正快速驶向伊朗，规模比派往委内瑞拉的舰队更大。",
-          "url": "https://flash.jin10.com/detail/20260128201559045800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "美国总统特朗普：下一次对伊朗的袭击将比对核设施的袭击更糟。",
-          "url": "https://flash.jin10.com/detail/20260128201504330800",
-          "source": "金十数据",
+          "title": "特朗普：一支庞大的舰队正前往伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32482780",
+          "source": "澎湃新闻",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时27分"
+          "time_info": "09时05分"
         },
         {
-          "title": "特朗普：将很快宣布新的美联储主席人选",
-          "url": "https://news.ifeng.com/c/8qH7ZqPC79B",
-          "source": "凤凰网",
+          "title": "特朗普再施压伊朗：庞大舰队已部署在途 谈判时间所剩无几",
+          "url": "https://www.cls.cn/detail/2273193",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "欧盟高官：特朗普的威胁“敲响警钟”，欧洲应审视对美国的能源依赖",
+          "url": "https://wallstreetcn.com/livenews/3045953",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "09时05分"
         },
         {
-          "title": "美国总统特朗普：一支“庞大舰队”正迅速驶向伊朗，伊朗不能拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260128201349567800",
-          "source": "金十数据",
+          "title": "特朗普：一支庞大的舰队正前往伊朗",
+          "url": "https://www.cls.cn/detail/2273107",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时27分"
+          "time_info": "09时05分"
         },
         {
-          "title": "特朗普，两天内动手？",
-          "url": "https://news.ifeng.com/c/8qGwey6pidp",
-          "source": "凤凰网",
+          "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
+          "url": "https://www.cls.cn/detail/2273451",
+          "source": "财联社热门",
           "ranks": [
-            6
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "09时05分"
         },
         {
-          "title": "美国总统特朗普：对伊朗的下一次袭击将严重得多。",
-          "url": "https://flash.jin10.com/detail/20260128201325185800",
-          "source": "金十数据",
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://wallstreetcn.com/livenews/3045946",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "特朗普称一支舰队正向伊朗方向航行",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%80%E6%94%AF%E8%88%B0%E9%98%9F%E6%AD%A3%E5%90%91%E4%BC%8A%E6%9C%97%E6%96%B9%E5%90%91%E8%88%AA%E8%A1%8C",
-          "source": "百度热搜",
-          "ranks": [
-            7
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "美国总统特朗普：希望伊朗能尽快“坐到谈判桌前”，伊朗的时间不多了。",
-          "url": "https://flash.jin10.com/detail/20260128201304078800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
-          "url": "https://wallstreetcn.com/articles/3764257",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时26分"
+          "time_info": "09时05分"
         }
       ]
     },
@@ -578,188 +218,126 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "韩国首位被判刑的第一夫人：金建希一审宣判为何没获重刑？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32482031",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
           "title": "韩国特检组：难以理解、无法接受、提起上诉",
           "url": "https://news.ifeng.com/c/8qHk7p2Gg5m",
           "source": "凤凰网",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
+          "appearance_count": 1,
+          "time_info": "09时05分"
         },
         {
-          "title": "韩国素媛案凶手再入狱",
-          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E7%B4%A0%E5%AA%9B%E6%A1%88%E5%87%B6%E6%89%8B%E5%86%8D%E5%85%A5%E7%8B%B1&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        },
-        {
-          "title": "万斯当面警告韩国总理不得惩罚美国科技公司，否则加征关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32479888",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        },
-        {
-          "title": "韩国SK创新第四季度营收19.7万亿韩元，市场预估为19.9万亿韩元。第四季度净亏损4.2万亿韩元。",
-          "url": "https://flash.jin10.com/detail/20260128081746296800",
+          "title": "韩国财长：将密切关注金融市场。",
+          "url": "https://flash.jin10.com/detail/20260129083504791800",
           "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "韩国首尔综指回吐稍早1.6%的涨幅，因本地基金卖出。",
+          "url": "https://wallstreetcn.com/livenews/3045939",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "09时05分"
         },
         {
-          "title": "日经225指数低开0.6%，韩国首尔综指高开1.2%。",
-          "url": "https://wallstreetcn.com/livenews/3045058",
-          "source": "华尔街见闻-快讯",
+          "title": "韩国前总统夫人金建希首案一审宣判，获刑1年8个月",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32481156",
+          "source": "澎湃新闻",
           "ranks": [
-            26
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "前西班牙主帅因过度依赖 ChatGPT 做决策、战绩惨淡被解雇，如何看待此事？",
-          "url": "https://www.zhihu.com/question/1999186592472986900",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        },
-        {
-          "title": "消息人士称，软银就向OpenAI追加投资进行谈判，这是该初创公司寻求筹集高达1000亿美元新资本努力的一部分。",
-          "url": "https://flash.jin10.com/detail/20260128082816677800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "软银正商谈再向OpenAI投资高达300亿美元。",
-          "url": "https://flash.jin10.com/detail/20260128082714847800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "软银正商谈向OpenAI追加投资高达300亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3045072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "09时05分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
-          "title": "特朗普乐见贬值，美元跌至四年低位，美股盘前芯片股集体上涨，现货黄金站上5300，银、铜、铝集体上涨",
-          "url": "https://wallstreetcn.com/articles/3764338",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        },
-        {
-          "title": "美股收盘：六巨头走强标普创新高 美光等存储股重拾涨势",
-          "url": "https://www.cls.cn/detail/2271921",
+          "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
+          "url": "https://www.cls.cn/detail/2272925",
           "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "09时05分"
         },
         {
-          "title": "AT&T第四季度营收335亿美元，预估328.3亿美元。 第四季度调整后EBITDA 112亿美元，预估111.1亿美元。 第四季度调整后每股收益0.52美元，预估0.46美元。 第四季度自由现金流42亿美元。 AT&T预计2026年自由现金流至少180亿美元。 AT&T美股盘前涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3045563",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：存储股走强希捷劲升19% 费城半导体指数刷新高",
+          "url": "https://www.cls.cn/detail/2273407",
+          "source": "财联社热门",
           "ranks": [
-            14
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时27分"
+          "time_info": "09时05分"
         },
         {
-          "title": "GE Vernova美股盘前涨超7%，公司四季度营收超预期",
-          "url": "https://wallstreetcn.com/livenews/3045562",
-          "source": "华尔街见闻-快讯",
+          "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2273158",
+          "source": "财联社热门",
           "ranks": [
-            15
+            13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时27分"
+          "time_info": "09时05分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek",
+      "keyword_group": "日本",
       "match_count": 2,
       "titles": [
         {
-          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
-          "url": "https://wallstreetcn.com/articles/3764241",
-          "source": "华尔街见闻",
+          "title": "前日本央行官员竹内惇：日本可能暂时不干预日元汇率",
+          "url": "https://wallstreetcn.com/livenews/3045951",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "09时05分"
         },
         {
-          "title": "详解DeepSeek新模型OCR2",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
-          "source": "bilibili 热搜",
+          "title": "日本爱德万测试股价上涨13%。",
+          "url": "https://flash.jin10.com/detail/20260129081933185800",
+          "source": "金十数据",
           "ranks": [
-            5
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "09时05分"
         }
       ]
     },
@@ -768,44 +346,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "1名中国籍游客俄罗斯死亡",
-          "url": "https://s.weibo.com/weibo?q=%231%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%B1%8D%E6%B8%B8%E5%AE%A2%E4%BF%84%E7%BD%97%E6%96%AF%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=5&Refer=top",
+          "title": "东北人发现飞俄罗斯坐船回家更便宜",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E4%BA%BA%E5%8F%91%E7%8E%B0%E9%A3%9E%E4%BF%84%E7%BD%97%E6%96%AF%E5%9D%90%E8%88%B9%E5%9B%9E%E5%AE%B6%E6%9B%B4%E4%BE%BF%E5%AE%9C%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
+          "appearance_count": 1,
+          "time_info": "09时05分"
         },
         {
           "title": "东北人发现从俄罗斯坐船回家更便宜",
           "url": "https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E4%BA%BA%E5%8F%91%E7%8E%B0%E4%BB%8E%E4%BF%84%E7%BD%97%E6%96%AF%E5%9D%90%E8%88%B9%E5%9B%9E%E5%AE%B6%E6%9B%B4%E4%BE%BF%E5%AE%9C",
           "source": "百度热搜",
           "ranks": [
-            6
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
-          "url": "https://wallstreetcn.com/articles/3764292",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 20时27分]"
+          "appearance_count": 1,
+          "time_info": "09时05分"
         }
       ]
     },
@@ -814,15 +374,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "欧盟政府卫星通信项目已上线 IRIS²星座冲击2029年初步部署",
-          "url": "https://www.cls.cn/detail/2271551",
-          "source": "财联社热门",
+          "title": "印度和欧盟达成自贸协定，莫迪称该协议覆盖全球 GDP 的 25% 和全球贸易额的三分之一，这意味着什么？",
+          "url": "https://www.zhihu.com/question/1999501385453020037",
+          "source": "知乎",
           "ranks": [
-            2
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "09时05分"
         }
       ]
     }

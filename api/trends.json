@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T09:05:41.062760+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-01-29T20:31:57.177910+08:00",
+  "total_titles_processed": 606,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 12,
+      "match_count": 28,
       "titles": [
         {
           "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
@@ -41,6 +41,28 @@
           "time_info": "09时05分"
         },
         {
+          "title": "70美元油价难改欧佩克+本周的谨慎立场",
+          "url": "https://flash.jin10.com/detail/20260129201451017800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "燃气轮机、电网设备需求爆发，GE Vernova Q4营收超预期，积压订单达到1500亿美元 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3764381",
           "source": "华尔街见闻",
@@ -50,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "黑石集团第四季度每股可分配收益1.75美元，预估1.54美元。 黑石集团管理资产1.27万亿美元，同比增长13%，预估1.27万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3046461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "高盛外汇交易员：下跌才刚刚开始，美元迎来新一轮贬值",
@@ -74,6 +107,61 @@
           "time_info": "09时05分"
         },
         {
+          "title": "罗森布拉特证券：将Meta Platforms(META.O)目标价从1117美元上调至1144美元。",
+          "url": "https://flash.jin10.com/detail/20260129200923166800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "贝森特：美国一贯奉行强美元政策，“绝对不会”干预汇市支撑日元",
+          "url": "https://wallstreetcn.com/articles/3764398",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "路透调查：LME现货铅均价预计2026年为2,042美元/吨，2027年为2,100美元/吨，而2025年为1,962美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260129200908926800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "路透调查：LME现货铜均价预计2026年为11,975美元/吨，2027年为11,994美元/吨，而2025年为9,939美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260129200853225800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "德意志银行：将Meta Platforms(META.O)目标价从880美元上调至920美元。",
+          "url": "https://flash.jin10.com/detail/20260129200827470800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "黄金突破 5300 美元关口，国内金饰克价突破 1610 元，黄金还能涨多久？",
           "url": "https://www.zhihu.com/question/1999138722730500772",
           "source": "知乎",
@@ -85,6 +173,28 @@
           "time_info": "09时05分"
         },
         {
+          "title": "路透调查：LME现货镍均价预计2026年为15,988美元/吨，2027年为16,063美元/吨，而2025年为15,154美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260129200730593800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "路透调查：LME现货铝均价预计2026年和2027年均为2,946美元/吨，而2025年为2,630美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260129200653900800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "美元兑瑞郎下跌0.5%至0.7647。",
           "url": "https://wallstreetcn.com/livenews/3045941",
           "source": "华尔街见闻-快讯",
@@ -94,6 +204,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "路透调查：LME现货锌均价预计2026年为2,976美元/吨，2027年为2,866美元/吨，而2025年为2,867美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260129200631978800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "路透调查：LME现货锡均价预计2026年为39,613美元/吨，2027年为38,063美元/吨，而2025年为34,096美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260129200435569800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "乌克兰央行：外汇储备将在2026年底从目前的573亿美元增至650亿美元。",
+          "url": "https://flash.jin10.com/detail/20260129200221835800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "现货黄金首次突破5500美元大关",
@@ -129,6 +272,39 @@
           "time_info": "09时05分"
         },
         {
+          "title": "特斯拉：预计2026年资本支出超过200亿美元。 2025年资本支出总额达85.3亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3046428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "黑石集团(BX.N)四季度资金流入714.8亿美元，为三年多来最高水平。",
+          "url": "https://flash.jin10.com/detail/20260129195818830800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "黑石集团(BX.N)四季度末总资产规模为1.275万亿美元，市场预期为1.273万亿美元；四季度营收43.6亿美元，预期为37.2亿美元；四季度可分配收益为每股1.75美元，每股收益为1.30美元。",
+          "url": "https://flash.jin10.com/detail/20260129195745432800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "新加坡元对美元涨幅收窄，之前新加坡金管局按兵不动。",
           "url": "https://wallstreetcn.com/livenews/3045925",
           "source": "华尔街见闻-快讯",
@@ -143,7 +319,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -210,13 +386,234 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
+          "url": "https://www.zhihu.com/question/2000136531822794040",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-29）",
+          "url": "https://flash.jin10.com/detail/20260129200059103800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "乌克兰央行将关键利率下调50个基点至15%，符合预期。",
+          "url": "https://wallstreetcn.com/livenews/3046463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "俄罗斯贝加尔湖冰面翻车致中国游客 1 死 4 伤，目前情况如何？为什么会这么严重？",
+          "url": "https://www.zhihu.com/question/1999919764089303301",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "东北人发现飞俄罗斯坐船回家更便宜",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E4%BA%BA%E5%8F%91%E7%8E%B0%E9%A3%9E%E4%BF%84%E7%BD%97%E6%96%AF%E5%9D%90%E8%88%B9%E5%9B%9E%E5%AE%B6%E6%9B%B4%E4%BE%BF%E5%AE%9C%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "乌克兰央行：预计2026年CPI将放缓至7.5%，2025年为8.0%。",
+          "url": "https://flash.jin10.com/detail/20260129200150926800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "乌克兰央行：预计2027年GDP将增长2.8%，通胀率为6%。",
+          "url": "https://flash.jin10.com/detail/20260129200131743800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "乌克兰央行：由于物流中断和电力短缺，将乌克兰2026年GDP增长预期从2%下调至1.8%。",
+          "url": "https://flash.jin10.com/detail/20260129200109997800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "乌克兰央行将主要利率从15.5%下调至15%。",
+          "url": "https://flash.jin10.com/detail/20260129200049341800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "乌克兰至1月29日央行利率 15%，前值15.50%。",
+          "url": "https://flash.jin10.com/detail/20260129200002421800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "东北人发现从俄罗斯坐船回家更便宜",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E4%BA%BA%E5%8F%91%E7%8E%B0%E4%BB%8E%E4%BF%84%E7%BD%97%E6%96%AF%E5%9D%90%E8%88%B9%E5%9B%9E%E5%AE%B6%E6%9B%B4%E4%BE%BF%E5%AE%9C",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "黑石集团(BX.N)美股盘前涨1.1%，四季度利润和收入超出预期。",
+          "url": "https://flash.jin10.com/detail/20260129201634269800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
+          "url": "https://www.cls.cn/detail/2272925",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美股收盘：存储股走强希捷劲升19% 费城半导体指数刷新高",
+          "url": "https://www.cls.cn/detail/2273407",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2273158",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "卡特彼勒公司第四季度营收191.3亿美元，预估179.1亿美元。 第四季度调整后每股收益5.16美元，预估4.69美元。 第四季度每股收益5.12美元，上年同期5.78美元。 第四季度调整后运营收益29.8亿美元，预估27.6亿美元。 第四季度机械、能源与交通业务营收182.0亿美元。 卡特彼勒美股盘前涨近5%。",
+          "url": "https://wallstreetcn.com/livenews/3046443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "陶氏化学第四季度净销售额94.6亿美元，预期95亿美元。 第四季度调整后运营每股亏损0.34美元，去年同期为盈亏平衡。 第四季度调整后运营EBITDA为7.41亿美元，预期6.644亿美元。 陶氏化学美股盘前涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3046431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         }
       ]
     },
     {
       "keyword_group": "韩国",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "2026 年一月，中国连续接待韩国、爱尔兰、加拿大、英国等外国元首，全球外交局势发生了哪些变化？",
+          "url": "https://www.zhihu.com/question/1999857203272783816",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
         {
           "title": "韩国首位被判刑的第一夫人：金建希一审宣判为何没获重刑？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32482031",
@@ -275,47 +672,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
-          "url": "https://www.cls.cn/detail/2272925",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "美股收盘：存储股走强希捷劲升19% 费城半导体指数刷新高",
-          "url": "https://www.cls.cn/detail/2273407",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2273158",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "日本",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "前日本央行官员竹内惇：日本可能暂时不干预日元汇率",
@@ -327,6 +685,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "高市早苗与“统一教”相关团体有资金往来？日本政府回应",
+          "url": "https://news.ifeng.com/c/8qJJ8MKA0cY",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "东大发飙!日本熊猫库存清零",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349852&amp;topic_name=%E4%B8%9C%E5%A4%A7%E5%8F%91%E9%A3%99%21%E6%97%A5%E6%9C%AC%E7%86%8A%E7%8C%AB%E5%BA%93%E5%AD%98%E6%B8%85%E9%9B%B6",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "日本爱德万测试股价上涨13%。",
@@ -342,36 +722,8 @@
       ]
     },
     {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "东北人发现飞俄罗斯坐船回家更便宜",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E4%BA%BA%E5%8F%91%E7%8E%B0%E9%A3%9E%E4%BF%84%E7%BD%97%E6%96%AF%E5%9D%90%E8%88%B9%E5%9B%9E%E5%AE%B6%E6%9B%B4%E4%BE%BF%E5%AE%9C%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "东北人发现从俄罗斯坐船回家更便宜",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E4%BA%BA%E5%8F%91%E7%8E%B0%E4%BB%8E%E4%BF%84%E7%BD%97%E6%96%AF%E5%9D%90%E8%88%B9%E5%9B%9E%E5%AE%B6%E6%9B%B4%E4%BE%BF%E5%AE%9C",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "欧盟",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "印度和欧盟达成自贸协定，莫迪称该协议覆盖全球 GDP 的 25% 和全球贸易额的三分之一，这意味着什么？",
@@ -383,6 +735,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "捷克财政部：2025年捷克从欧盟资金中获得的净流入将达到779亿捷克克朗，其中包括从下一代欧盟基金中获取的资金。",
+          "url": "https://flash.jin10.com/detail/20260129201255864800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌DeepMind登Nature封面",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
+          "url": "https://www.zhihu.com/question/1994095464539255007",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         }
       ]
     }

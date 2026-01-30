@@ -1,391 +1,55 @@
 {
-  "generated_at": "2026-01-29T20:31:57.177910+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2026-01-30T09:06:10.456065+08:00",
+  "total_titles_processed": 316,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美元",
-      "match_count": 28,
+      "keyword_group": "特朗普",
+      "match_count": 16,
       "titles": [
         {
-          "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
-          "url": "https://www.cls.cn/detail/2273420",
-          "source": "财联社热门",
+          "title": "特朗普宣布国家紧急状态",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E5%9B%BD%E5%AE%B6%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
         },
         {
-          "title": "现货黄金首次突破5500美元",
-          "url": "https://www.toutiao.com/trending/7599573056431964223/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "未来几周看涨到150美元！花旗高喊白银是“打了兴奋剂的黄金”，中国主导、印度跟买，但全球ETF净流出",
-          "url": "https://wallstreetcn.com/articles/3764316",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "70美元油价难改欧佩克+本周的谨慎立场",
-          "url": "https://flash.jin10.com/detail/20260129201451017800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "燃气轮机、电网设备需求爆发，GE Vernova Q4营收超预期，积压订单达到1500亿美元 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764381",
+          "title": "美政府关门危机解除？特朗普与舒默接近达成协议，拆分DHS预算并重谈移民执法限制",
+          "url": "https://wallstreetcn.com/articles/3764456",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
         },
         {
-          "title": "黑石集团第四季度每股可分配收益1.75美元，预估1.54美元。 黑石集团管理资产1.27万亿美元，同比增长13%，预估1.27万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3046461",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "高盛外汇交易员：下跌才刚刚开始，美元迎来新一轮贬值",
-          "url": "https://wallstreetcn.com/articles/3764318",
-          "source": "华尔街见闻",
+          "title": "特朗普宣布国家紧急状态",
+          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
+          "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
         },
         {
-          "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
-          "url": "https://www.cls.cn/detail/2273332",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "罗森布拉特证券：将Meta Platforms(META.O)目标价从1117美元上调至1144美元。",
-          "url": "https://flash.jin10.com/detail/20260129200923166800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "贝森特：美国一贯奉行强美元政策，“绝对不会”干预汇市支撑日元",
-          "url": "https://wallstreetcn.com/articles/3764398",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "路透调查：LME现货铅均价预计2026年为2,042美元/吨，2027年为2,100美元/吨，而2025年为1,962美元/吨。",
-          "url": "https://flash.jin10.com/detail/20260129200908926800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "路透调查：LME现货铜均价预计2026年为11,975美元/吨，2027年为11,994美元/吨，而2025年为9,939美元/吨。",
-          "url": "https://flash.jin10.com/detail/20260129200853225800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "德意志银行：将Meta Platforms(META.O)目标价从880美元上调至920美元。",
-          "url": "https://flash.jin10.com/detail/20260129200827470800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "黄金突破 5300 美元关口，国内金饰克价突破 1610 元，黄金还能涨多久？",
-          "url": "https://www.zhihu.com/question/1999138722730500772",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "路透调查：LME现货镍均价预计2026年为15,988美元/吨，2027年为16,063美元/吨，而2025年为15,154美元/吨。",
-          "url": "https://flash.jin10.com/detail/20260129200730593800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "路透调查：LME现货铝均价预计2026年和2027年均为2,946美元/吨，而2025年为2,630美元/吨。",
-          "url": "https://flash.jin10.com/detail/20260129200653900800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "美元兑瑞郎下跌0.5%至0.7647。",
-          "url": "https://wallstreetcn.com/livenews/3045941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "路透调查：LME现货锌均价预计2026年为2,976美元/吨，2027年为2,866美元/吨，而2025年为2,867美元/吨。",
-          "url": "https://flash.jin10.com/detail/20260129200631978800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "路透调查：LME现货锡均价预计2026年为39,613美元/吨，2027年为38,063美元/吨，而2025年为34,096美元/吨。",
-          "url": "https://flash.jin10.com/detail/20260129200435569800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "乌克兰央行：外汇储备将在2026年底从目前的573亿美元增至650亿美元。",
-          "url": "https://flash.jin10.com/detail/20260129200221835800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "现货黄金首次突破5500美元大关",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E9%A6%96%E6%AC%A1%E7%AA%81%E7%A0%B45500%E7%BE%8E%E5%85%83%E5%A4%A7%E5%85%B3",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "美元兑日元USD/JPY跌破153，日内跌0.26%。",
-          "url": "https://flash.jin10.com/detail/20260129081954658800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "韩元兑美元涨0.7%，领涨亚洲新兴市场货币。美元兑日元跌破153，日内跌0.29%。",
-          "url": "https://wallstreetcn.com/livenews/3045928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "特斯拉：预计2026年资本支出超过200亿美元。 2025年资本支出总额达85.3亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3046428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "黑石集团(BX.N)四季度资金流入714.8亿美元，为三年多来最高水平。",
-          "url": "https://flash.jin10.com/detail/20260129195818830800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "黑石集团(BX.N)四季度末总资产规模为1.275万亿美元，市场预期为1.273万亿美元；四季度营收43.6亿美元，预期为37.2亿美元；四季度可分配收益为每股1.75美元，每股收益为1.30美元。",
-          "url": "https://flash.jin10.com/detail/20260129195745432800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "新加坡元对美元涨幅收窄，之前新加坡金管局按兵不动。",
-          "url": "https://wallstreetcn.com/livenews/3045925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "特朗普：一支庞大的舰队正前往伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32482780",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "特朗普再施压伊朗：庞大舰队已部署在途 谈判时间所剩无几",
-          "url": "https://www.cls.cn/detail/2273193",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "欧盟高官：特朗普的威胁“敲响警钟”，欧洲应审视对美国的能源依赖",
-          "url": "https://wallstreetcn.com/livenews/3045953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "特朗普：一支庞大的舰队正前往伊朗",
-          "url": "https://www.cls.cn/detail/2273107",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
-          "url": "https://www.cls.cn/detail/2273451",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://wallstreetcn.com/livenews/3045946",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普威胁对加拿大飞机加征50%关税",
+          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
+          "source": "凤凰网",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
         },
         {
           "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
@@ -394,326 +58,450 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
         },
         {
-          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
-          "url": "https://www.zhihu.com/question/2000136531822794040",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-29）",
-          "url": "https://flash.jin10.com/detail/20260129200059103800",
+          "title": "美国总统特朗普：正计划与伊朗对话。",
+          "url": "https://flash.jin10.com/detail/20260130083831162800",
           "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "乌克兰央行将关键利率下调50个基点至15%，符合预期。",
-          "url": "https://wallstreetcn.com/livenews/3046463",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时31分"
+          "time_info": "09时06分"
         },
         {
-          "title": "俄罗斯贝加尔湖冰面翻车致中国游客 1 死 4 伤，目前情况如何？为什么会这么严重？",
-          "url": "https://www.zhihu.com/question/1999919764089303301",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "东北人发现飞俄罗斯坐船回家更便宜",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E4%BA%BA%E5%8F%91%E7%8E%B0%E9%A3%9E%E4%BF%84%E7%BD%97%E6%96%AF%E5%9D%90%E8%88%B9%E5%9B%9E%E5%AE%B6%E6%9B%B4%E4%BE%BF%E5%AE%9C%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "乌克兰央行：预计2026年CPI将放缓至7.5%，2025年为8.0%。",
-          "url": "https://flash.jin10.com/detail/20260129200150926800",
+          "title": "美国总统特朗普：不知道政府是否会关门，正与国会合作。",
+          "url": "https://flash.jin10.com/detail/20260130082854842800",
           "source": "金十数据",
           "ranks": [
-            22
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时31分"
+          "time_info": "09时06分"
         },
         {
-          "title": "乌克兰央行：预计2027年GDP将增长2.8%，通胀率为6%。",
-          "url": "https://flash.jin10.com/detail/20260129200131743800",
+          "title": "美国总统特朗普：正计划与伊朗对话。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3046811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "美国总统特朗普：今晚就会知道政府停摆问题的最终结果。",
+          "url": "https://flash.jin10.com/detail/20260130082254328800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "美国总统特朗普称一个团队（指军队）正前往伊朗。",
+          "url": "https://flash.jin10.com/detail/20260130082247924800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "特朗普将于今晚公布美联储主席人选",
+          "url": "https://flash.jin10.com/detail/20260130081458404800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "特朗普：美联储主席人选不会太令人意外。不管美联储如何，利率仍在下降。美联储主席人选是候选人名单中的一位。",
+          "url": "https://wallstreetcn.com/livenews/3046808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "美国总统特朗普：并未从明尼苏达州撤回移民执法人员，完全不是这么回事。",
+          "url": "https://flash.jin10.com/detail/20260130081433884800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "特朗普：今晚将知道政府关门的进展如何。派了一个小组前往伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3046801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "美国总统特朗普：明天上午（北京时间今晚）宣布美联储主席人选。当选美联储主席的人选非常合适。",
+          "url": "https://wallstreetcn.com/livenews/3046798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "伊朗议会议长：难以信任特朗普",
+          "url": "https://wallstreetcn.com/livenews/3046796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "获利了结压顶贵金属剧烈震荡：白银一度跌超8% 黄金最大回撤500美元",
+          "url": "https://www.cls.cn/detail/2274893",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
+          "title": "美元指数上涨0.25%，报96.44。",
+          "url": "https://wallstreetcn.com/livenews/3046827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "现货黄金大幅跳水后再反弹，重新突破 5400 美元大关，为什么会出现如此大的震荡？",
+          "url": "https://www.zhihu.com/question/2000353838817882383",
+          "source": "知乎",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
+          "title": "微软市值蒸发3570亿美元",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E8%BD%AF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%913570%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
+          "title": "1美元vs10亿美元前沿科技",
+          "url": "https://search.bilibili.com/all?keyword=1%E7%BE%8E%E5%85%83vs10%E4%BA%BF%E7%BE%8E%E5%85%83%E5%89%8D%E6%B2%BF%E7%A7%91%E6%8A%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
+          "title": "特朗普起诉自己的政府部门 索赔100亿美元",
+          "url": "https://flash.jin10.com/detail/20260130083048645800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "特朗普起诉美国财政部和国税局 索赔至少100亿美元",
+          "url": "https://wallstreetcn.com/livenews/3046809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "美国总统特朗普起诉美国国税局和财政部，索赔100亿美元，理由是税表泄露。",
+          "url": "https://flash.jin10.com/detail/20260130080816203800",
           "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时31分"
+          "time_info": "09时06分"
         },
         {
-          "title": "乌克兰央行：由于物流中断和电力短缺，将乌克兰2026年GDP增长预期从2%下调至1.8%。",
-          "url": "https://flash.jin10.com/detail/20260129200109997800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "乌克兰央行将主要利率从15.5%下调至15%。",
-          "url": "https://flash.jin10.com/detail/20260129200049341800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "乌克兰至1月29日央行利率 15%，前值15.50%。",
-          "url": "https://flash.jin10.com/detail/20260129200002421800",
-          "source": "金十数据",
+          "title": "现货白银日内涨超2%，报117.87美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3046794",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "东北人发现从俄罗斯坐船回家更便宜",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E4%BA%BA%E5%8F%91%E7%8E%B0%E4%BB%8E%E4%BF%84%E7%BD%97%E6%96%AF%E5%9D%90%E8%88%B9%E5%9B%9E%E5%AE%B6%E6%9B%B4%E4%BE%BF%E5%AE%9C",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "黑石集团(BX.N)美股盘前涨1.1%，四季度利润和收入超出预期。",
-          "url": "https://flash.jin10.com/detail/20260129201634269800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
-          "url": "https://www.cls.cn/detail/2272925",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "美股收盘：存储股走强希捷劲升19% 费城半导体指数刷新高",
-          "url": "https://www.cls.cn/detail/2273407",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2273158",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "卡特彼勒公司第四季度营收191.3亿美元，预估179.1亿美元。 第四季度调整后每股收益5.16美元，预估4.69美元。 第四季度每股收益5.12美元，上年同期5.78美元。 第四季度调整后运营收益29.8亿美元，预估27.6亿美元。 第四季度机械、能源与交通业务营收182.0亿美元。 卡特彼勒美股盘前涨近5%。",
-          "url": "https://wallstreetcn.com/livenews/3046443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "陶氏化学第四季度净销售额94.6亿美元，预期95亿美元。 第四季度调整后运营每股亏损0.34美元，去年同期为盈亏平衡。 第四季度调整后运营EBITDA为7.41亿美元，预期6.644亿美元。 陶氏化学美股盘前涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3046431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "韩国",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "2026 年一月，中国连续接待韩国、爱尔兰、加拿大、英国等外国元首，全球外交局势发生了哪些变化？",
-          "url": "https://www.zhihu.com/question/1999857203272783816",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "韩国首位被判刑的第一夫人：金建希一审宣判为何没获重刑？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32482031",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "韩国特检组：难以理解、无法接受、提起上诉",
-          "url": "https://news.ifeng.com/c/8qHk7p2Gg5m",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "韩国财长：将密切关注金融市场。",
-          "url": "https://flash.jin10.com/detail/20260129083504791800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "韩国首尔综指回吐稍早1.6%的涨幅，因本地基金卖出。",
-          "url": "https://wallstreetcn.com/livenews/3045939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "韩国前总统夫人金建希首案一审宣判，获刑1年8个月",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32481156",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
+          "time_info": "09时06分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
-          "title": "前日本央行官员竹内惇：日本可能暂时不干预日元汇率",
-          "url": "https://wallstreetcn.com/livenews/3045951",
-          "source": "华尔街见闻-快讯",
+          "title": "国防部回应日本可能“强登钓鱼岛”",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%8F%AF%E8%83%BD%E2%80%9C%E5%BC%BA%E7%99%BB%E9%92%93%E9%B1%BC%E5%B2%9B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
+          "title": "国防部回应日本或强登钓鱼岛",
+          "url": "https://www.douyin.com/hot/2383451",
+          "source": "抖音",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
         },
         {
-          "title": "高市早苗与“统一教”相关团体有资金往来？日本政府回应",
-          "url": "https://news.ifeng.com/c/8qJJ8MKA0cY",
-          "source": "凤凰网",
+          "title": "熊猫在日本真的很火吗？",
+          "url": "https://www.zhihu.com/question/336697154",
+          "source": "知乎",
           "ranks": [
-            7
+            10,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
+          "title": "国防部回应“日本或强登钓鱼岛”",
+          "url": "https://www.toutiao.com/trending/7600339920788652038/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
         },
         {
           "title": "东大发飙!日本熊猫库存清零",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349852&amp;topic_name=%E4%B8%9C%E5%A4%A7%E5%8F%91%E9%A3%99%21%E6%97%A5%E6%9C%AC%E7%86%8A%E7%8C%AB%E5%BA%93%E5%AD%98%E6%B8%85%E9%9B%B6",
           "source": "贴吧",
           "ranks": [
-            22
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
+          "title": "日本12月工业产出年率初值 2.6%，预期2.10%，前值-2.20%。",
+          "url": "https://flash.jin10.com/detail/20260130075754256800",
+          "source": "金十数据",
+          "ranks": [
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时31分"
+          "time_info": "09时06分"
         },
         {
-          "title": "日本爱德万测试股价上涨13%。",
-          "url": "https://flash.jin10.com/detail/20260129081933185800",
+          "title": "日本12月库存月率 1%，前值-3%。",
+          "url": "https://flash.jin10.com/detail/20260130075626301800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "日本制造商预计1月工业生产较前月增加9.3%，预计2月工业生产较前月减少4.3%。",
+          "url": "https://flash.jin10.com/detail/20260130075534607800",
           "source": "金十数据",
           "ranks": [
             28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
+          "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
+          "url": "https://www.cls.cn/detail/2274922",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
+          "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2274635",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI计划四季度上市 已聘请新高管",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E8%AE%A1%E5%88%92%E5%9B%9B%E5%AD%A3%E5%BA%A6%E4%B8%8A%E5%B8%82+%E5%B7%B2%E8%81%98%E8%AF%B7%E6%96%B0%E9%AB%98%E7%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
+          "title": "软银集团股价上涨4.2%，因市场寄望OpenAI上市。",
+          "url": "https://flash.jin10.com/detail/20260130080955089800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "韩国",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "韩国首尔综合指数上涨1%，报5274.33点。",
+          "url": "https://wallstreetcn.com/livenews/3046812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "日经225指数开盘涨0.18%，报53470.93点。韩国首尔综合指数跌0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3046791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "时代少年团俄罗斯",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E4%BF%84%E7%BD%97%E6%96%AF&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
+          "title": "俄罗斯贝加尔湖冰面翻车致中国游客 1 死 4 伤，目前情况如何？为什么会这么严重？",
+          "url": "https://www.zhihu.com/question/1999919764089303301",
+          "source": "知乎",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -726,26 +514,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "印度和欧盟达成自贸协定，莫迪称该协议覆盖全球 GDP 的 25% 和全球贸易额的三分之一，这意味着什么？",
-          "url": "https://www.zhihu.com/question/1999501385453020037",
-          "source": "知乎",
+          "title": "欧盟将伊朗伊斯兰革命卫队列为“恐怖组织”",
+          "url": "https://news.ifeng.com/c/8qJyCJGShwb",
+          "source": "凤凰网",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
         },
         {
-          "title": "捷克财政部：2025年捷克从欧盟资金中获得的净流入将达到779亿捷克克朗，其中包括从下一代欧盟基金中获取的资金。",
-          "url": "https://flash.jin10.com/detail/20260129201255864800",
-          "source": "金十数据",
+          "title": "欧盟宣布制裁伊朗官员和实体，将伊斯兰革命卫队列为“恐怖组织”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32492325",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
         }
       ]
     },
@@ -758,28 +546,11 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
-          "url": "https://www.zhihu.com/question/1994095464539255007",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
         }
       ]
     }

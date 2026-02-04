@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-04T09:04:47.770380+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-04T20:35:03.759796+08:00",
+  "total_titles_processed": 593,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "AI颠覆性冲击引发担忧，纳指期货跌0.3%，欧股诺和诺德下挫18%，现货黄金一度触及5080美元，现货白银接近90美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 20时35分]"
+        },
         {
           "title": "印美达成贸易协议，分析人士：5000亿美元应被视为“政治信号”",
           "url": "https://news.ifeng.com/c/8qSAk7N1gWi",
@@ -30,6 +41,17 @@
           "time_info": "09时04分"
         },
         {
+          "title": "私募巨头阿波罗警告：“软件已死”！AI正重塑4400亿美元估值逻辑",
+          "url": "https://wallstreetcn.com/articles/3764867",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 20时35分]"
+        },
+        {
           "title": "市场消息：美国纽约和新泽西州就美国总统特朗普决定扣留160亿美元隧道项目资金提起诉讼。",
           "url": "https://flash.jin10.com/detail/20260204085800714800",
           "source": "金十数据",
@@ -39,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "德州仪器75亿美元收购芯科实验室 强化工业芯片布局",
+          "url": "https://flash.jin10.com/detail/20260204201829712800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "现货白银突破86美元/盎司，日内涨近1%。",
@@ -74,6 +107,17 @@
           "time_info": "09时04分"
         },
         {
+          "title": "德州仪器将以每股231美元现金收购Silicon Labs。",
+          "url": "https://wallstreetcn.com/livenews/3049870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "特朗普公布120亿美元“金库计划”",
           "url": "https://news.ifeng.com/c/8qSe1tjtzmx",
           "source": "凤凰网",
@@ -107,6 +151,17 @@
           "time_info": "09时04分"
         },
         {
+          "title": "芝商所（CME）集团：2025财年全年净利润为41亿美元。",
+          "url": "https://flash.jin10.com/detail/20260204200345258800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
           "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
           "source": "澎湃新闻",
@@ -116,6 +171,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "Alamos Gold：预计2026年产量将增长12%，到2028年将增长46%，达到75.5万至83.5万盎司之间。 计划在2026年资本支出为8.5亿至9.4亿美元。 预计到2028年产量将增长46%，且成本显著降低。 预计到2028年现金成本将下降24%。",
+          "url": "https://wallstreetcn.com/livenews/3049855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "现货白银日内转涨，此前跌超2%，现报85.4美元/盎司。",
@@ -142,8 +208,137 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 20时35分]"
+        },
+        {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 20时35分]"
+        },
+        {
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 20时35分]"
+        },
+        {
+          "title": "亚洲软件股跟随美股软件股大跌，AI颠覆性冲击引发担忧",
+          "url": "https://wallstreetcn.com/livenews/3049421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
+          "url": "https://www.cls.cn/detail/2279710",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
+          "url": "https://www.cls.cn/detail/2279689",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
+          "url": "https://wallstreetcn.com/articles/3764895",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 20时35分]"
+        },
+        {
+          "title": "美股爆发AI恐慌性抛售",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%88%86%E5%8F%91AI%E6%81%90%E6%85%8C%E6%80%A7%E6%8A%9B%E5%94%AE",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2279540",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "优步第一季度预计调整后EBITDA为23.7亿至24.7亿美元，市场预期为24.5亿美元。 第一季度预计总预订额为520亿至535亿美元，市场预期为513.7亿美元。 第四季度营收为143.7亿美元，同比增长20%，市场预期为142.9亿美元。 第四季度调整后EBITDA为24.9亿美元，同比增长35%，市场预期为24.8亿美元。 第四季度每股收益为0.14美元，去年同期为3.21美元。 第四季度净利润为2.96亿美元，同比下降96%。 优步美股盘前跌近9%。",
+          "url": "https://wallstreetcn.com/livenews/3049864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "礼来第四季度调整后每股收益7.54美元，去年同期为5.32美元。 第四季度营收为192.9亿美元，同比增长43%，市场预期为180.1亿美元。 预计全年营收为800亿至830亿美元，市场预期为777.1亿美元。 预计全球产品价格降幅在10%至15%之间。 礼来美股盘前涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3049858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "日本",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "日本公开采集稀土泥全过程",
@@ -155,6 +350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "日本多地强降雪致35死358伤",
+          "url": "https://www.douyin.com/hot/2389598",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 20时35分]"
         },
         {
           "title": "日本1月服务业PMI终值 53.7，初值 53.4。",
@@ -247,81 +453,142 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 7,
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 9,
       "titles": [
         {
-          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
+          "title": "克宫：发展与中国的关系是俄罗斯外交政策优先事项",
+          "url": "https://news.ifeng.com/c/8qTWr6Z36pA",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 20时35分]"
         },
         {
-          "title": "亚洲软件股跟随美股软件股大跌，AI颠覆性冲击引发担忧",
-          "url": "https://wallstreetcn.com/livenews/3049421",
+          "title": "俄罗斯外交部：（回应印度购买俄罗斯石油事宜）这有利于两国，并有助于维护国际能源市场的稳定。",
+          "url": "https://flash.jin10.com/detail/20260204202348600800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "俄罗斯外交部：（回应印度购买俄罗斯石油事宜）我们没有理由认为我们的印度朋友已经重新考虑其立场。",
+          "url": "https://flash.jin10.com/detail/20260204202256466800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "乌克兰统计局：乌克兰第四季度GDP同比增长3%。",
+          "url": "https://flash.jin10.com/detail/20260204202103949800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "俄总统新闻秘书：和平解决乌克兰危机的大门仍然敞开",
+          "url": "https://wallstreetcn.com/livenews/3049872",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "20时35分"
         },
         {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
+          "title": "俄罗斯总统助理乌沙科夫：俄罗斯愿意就军控问题与美国进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260204201206430800",
+          "source": "金十数据",
           "ranks": [
-            2
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "20时35分"
         },
         {
-          "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
-          "url": "https://www.cls.cn/detail/2279710",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
-          "url": "https://www.cls.cn/detail/2279689",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "美股爆发AI恐慌性抛售",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%88%86%E5%8F%91AI%E6%81%90%E6%85%8C%E6%80%A7%E6%8A%9B%E5%94%AE",
-          "source": "百度热搜",
+          "title": "俄罗斯总统助理乌沙科夫：我们尚未收到美方关于延长核条约期限的答复。",
+          "url": "https://flash.jin10.com/detail/20260204201111083800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "俄罗斯总统助理乌沙科夫：新削减战略武器条约明日到期后，我们将谨慎而负责任地采取行动。",
+          "url": "https://flash.jin10.com/detail/20260204201052726800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "习近平同俄罗斯总统普京举行视频会晤",
+          "url": "https://wallstreetcn.com/livenews/3049761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "特朗普回应爱泼斯坦案：我是清白的",
+          "url": "https://www.toutiao.com/trending/7602412254818140203/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 20时35分]"
+        },
+        {
+          "title": "美国贸易代表格里尔：特朗普签署法案，重新授权《非洲增长与机会法案》。 《非洲增长与机会法案》贸易优惠计划已获授权延长至2026年12月31日，且追溯效力至2025年9月30日。 政府将与国会合作，对非洲贸易优惠计划进行现代化改造。",
+          "url": "https://wallstreetcn.com/livenews/3049395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
         {
-          "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2279540",
-          "source": "财联社热门",
+          "title": "斯塔默和特朗普通话 讨论乌克兰局势",
+          "url": "https://wallstreetcn.com/livenews/3049385",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -369,6 +636,35 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国参议院Warren等参议员敦促美国联邦贸易委员会（FTC）审查科技行业的人工智能相关交易，涉及英伟达、Meta和谷歌。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3049876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "120倍回报、千亿美元浮盈，SpaceX上市的隐藏大赢家——谷歌！",
+          "url": "https://wallstreetcn.com/articles/3764858",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 20时35分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -397,54 +693,20 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
+      "keyword_group": "欧盟",
       "match_count": 2,
       "titles": [
         {
-          "title": "美国贸易代表格里尔：特朗普签署法案，重新授权《非洲增长与机会法案》。 《非洲增长与机会法案》贸易优惠计划已获授权延长至2026年12月31日，且追溯效力至2025年9月30日。 政府将与国会合作，对非洲贸易优惠计划进行现代化改造。",
-          "url": "https://wallstreetcn.com/livenews/3049395",
-          "source": "华尔街见闻-快讯",
+          "title": "欧盟宣布调查金风科技 外交部回应",
+          "url": "https://www.cls.cn/detail/2280238",
+          "source": "财联社热门",
           "ranks": [
-            24
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 20时35分]"
         },
-        {
-          "title": "斯塔默和特朗普通话 讨论乌克兰局势",
-          "url": "https://wallstreetcn.com/livenews/3049385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "120倍回报、千亿美元浮盈，SpaceX上市的隐藏大赢家——谷歌！",
-          "url": "https://wallstreetcn.com/articles/3764858",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欧盟",
-      "match_count": 1,
-      "titles": [
         {
           "title": "涉中国风电企业，欧盟又下黑手",
           "url": "https://news.ifeng.com/c/8qSAFJvgUiD",

@@ -1,714 +1,332 @@
 {
-  "generated_at": "2026-02-07T20:25:12.469670+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-02-08T09:26:48.265402+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 10,
       "titles": [
         {
-          "title": "特朗普称下周将再次与伊朗谈判",
-          "url": "https://wallstreetcn.com/livenews/3051664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "特朗普称下周将再次与伊朗谈判",
-          "url": "https://flash.jin10.com/detail/20260207085222681800",
-          "source": "金十数据",
+          "title": "两大日媒批特朗普干涉日本内政：前所未闻，不可容忍",
+          "url": "https://news.ifeng.com/c/8qY8hiEtDth",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "特朗普手机鸽了8个月还没上市 价格将上调 也不再是“美国制造”",
-          "url": "https://flash.jin10.com/detail/20260207200111862800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "美国法官批准各州请求，强制要求美国总统特朗普政府解冻纽约市隧道资金。",
-          "url": "https://flash.jin10.com/detail/20260207083916354800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "特朗普授权对与伊朗有贸易往来国家加征关税 但暂未实施",
-          "url": "https://flash.jin10.com/detail/20260207083533208800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "09时26分"
         },
         {
           "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
           "url": "https://wallstreetcn.com/articles/3765222",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
-          "title": "发奥巴马夫妇被P成猿猴视频翻车，特朗普：你们咋不关心选民欺诈",
-          "url": "https://news.ifeng.com/c/8qYEsnIMXAd",
-          "source": "凤凰网",
+          "title": "加拿大央行行长：若失去特朗普的CUSMA准入，加拿大经济将面临衰退",
+          "url": "https://wallstreetcn.com/livenews/3051756",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
-        },
-        {
-          "title": "特朗普再谈格陵兰岛：丹麦手里有块“冰”，我们想买它！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32550953",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
           "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
           "url": "https://www.cls.cn/detail/2283610",
           "source": "财联社热门",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
-          "title": "两大日媒批特朗普干涉日本内政：前所未闻，不可容忍",
-          "url": "https://news.ifeng.com/c/8qY8hiEtDth",
-          "source": "凤凰网",
+          "title": "特朗普：需要通过竞争来打击散播虚假新闻的电视网络",
+          "url": "https://flash.jin10.com/detail/20260207233303917800",
+          "source": "金十数据",
           "ranks": [
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
-          "title": "特朗普是否参与了爱泼斯坦萝莉岛的犯罪行为？",
-          "url": "https://www.zhihu.com/question/2001670984583902597",
-          "source": "知乎",
+          "title": "美国总统特朗普称，促成像Nexstar-Tegna这样的良性交易，将有助于打击假新闻。",
+          "url": "https://flash.jin10.com/detail/20260207232848013800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "美国联邦通信委员会（FCC）官员Carr谈及总统特朗普力挺Nexstar收购Tegna的交易，宣称：像康卡斯特和迪士尼这样的国家级网络已经聚集了太大的权力。 让我们完成这笔交易，给他们带去真正的竞争。",
+          "url": "https://wallstreetcn.com/livenews/3051751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "特朗普态度“大转变”：支持电视广播巨头Nexstar收购Tegna",
+          "url": "https://wallstreetcn.com/livenews/3051747",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
-          "title": "奥巴马夫妇成了大猩猩？特朗普麻烦大了(图)",
-          "url": "https://news.ifeng.com/c/8qXgc9osPZh",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗不得拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260207083216996800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "美国总统特朗普：正在与乌克兰进行非常良好的会谈。",
-          "url": "https://flash.jin10.com/detail/20260207083136238800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "美国总统特朗普：我们有充足的时间来处理伊朗协议。",
-          "url": "https://flash.jin10.com/detail/20260207083122839800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "尽管物价上涨 特朗普近来已20次声称通胀得到控制",
-          "url": "https://flash.jin10.com/detail/20260207191137605800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "据福克斯新闻：白宫发言人莱维特就美国总统特朗普关于奥巴马的推文一事表示，美国总统特朗普已就此事与立法者进行了沟通。",
-          "url": "https://flash.jin10.com/detail/20260207083052569800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "特朗普社媒账号删除与奥巴马有关视频片段，涉嫌种族歧视",
-          "url": "https://wallstreetcn.com/livenews/3051652",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "美国总统特朗普谈奥巴马视频：我没有犯错，我关注成千上万的事情。",
-          "url": "https://flash.jin10.com/detail/20260207083032901800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-07）",
-          "url": "https://flash.jin10.com/detail/20260207181103862800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "美国总统特朗普关于奥巴马视频的声明：我们一发现此事就立即删除了它。",
-          "url": "https://flash.jin10.com/detail/20260207083019927800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "特朗普在经济演讲中宣称通胀胜利近20次，尽管物价高企",
-          "url": "https://wallstreetcn.com/livenews/3051720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "美国总统特朗普谈奥巴马视频：我没把整个视频看完。",
-          "url": "https://flash.jin10.com/detail/20260207082926414800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗想达成协议。",
-          "url": "https://flash.jin10.com/detail/20260207082752636800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "白宫：美国总统特朗普签署关于扩大进口阿根廷牛肉的命令是为了美国消费者。",
-          "url": "https://wallstreetcn.com/livenews/3051632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "乌克兰安全局官员：乌克兰无人机袭击了一家生产导弹燃料组件的俄罗斯工厂。",
-          "url": "https://flash.jin10.com/detail/20260207180812543800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "国际原子能机构：在新一轮军事活动影响电力变电站后，乌克兰核电站今晨再次降低电力输出。",
-          "url": "https://flash.jin10.com/detail/20260207174744159800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "泽连斯基说乌克兰遭俄罗斯新一轮空袭",
-          "url": "https://wallstreetcn.com/livenews/3051713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "俄罗斯军队已夺取乌克兰东部的丘胡伊夫卡定居点。",
-          "url": "https://flash.jin10.com/detail/20260207170549531800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：已提出举行三方领导人峰会以讨论棘手问题的可能性。",
-          "url": "https://flash.jin10.com/detail/20260207170139678800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：如果俄罗斯同意，乌克兰已做好对等回应的准备。",
-          "url": "https://flash.jin10.com/detail/20260207170132164800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：美国希望乌克兰和俄罗斯在夏季前结束战争。",
-          "url": "https://flash.jin10.com/detail/20260207170124829800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "白宫：美国针对印度关税的调整将于2月7日生效。 披露与俄罗斯石油贸易相关的印度关税调整细节。",
-          "url": "https://wallstreetcn.com/livenews/3051634",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普拒为种族主义视频道歉",
+          "url": "https://www.toutiao.com/trending/7603770305999323142/",
+          "source": "今日头条",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "09时26分"
         },
         {
-          "title": "乌克兰总统泽连斯基：美国提议俄方和乌方代表团在一周后于迈阿密会面，基辅已同意。",
-          "url": "https://flash.jin10.com/detail/20260207170114763800",
+          "title": "特朗普手机鸽了8个月还没上市 价格将上调 也不再是“美国制造”",
+          "url": "https://flash.jin10.com/detail/20260207200111862800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：阿布扎比的谈判代表讨论了顿巴斯自由经济区。",
-          "url": "https://flash.jin10.com/detail/20260207170058661800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：与俄罗斯的战俘交换将继续进行。",
-          "url": "https://flash.jin10.com/detail/20260207170050439800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：美国再次提出了在能源领域缓和局势的举措。",
-          "url": "https://flash.jin10.com/detail/20260207170043273800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：俄罗斯与美国就乌克兰达成的双边协议不得违反乌克兰宪法。",
-          "url": "https://flash.jin10.com/detail/20260207170030821800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：关于扎波罗热核电站命运的问题仍未达成协议。",
-          "url": "https://flash.jin10.com/detail/20260207170016299800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "特朗普起诉美两部门索赔百亿美元，美财长：若胜诉，费用将由民众承担",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551398",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
-        },
-        {
-          "title": "贝森特和特朗普“表忠心”：澄清强美元政策，重申起诉沃什是玩笑，暗示鲍威尔失职",
-          "url": "https://wallstreetcn.com/articles/3765201",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
-        },
-        {
-          "title": "徐明浩3条iG创造了360万美元价值",
-          "url": "https://s.weibo.com/weibo?q=%E5%BE%90%E6%98%8E%E6%B5%A93%E6%9D%A1iG%E5%88%9B%E9%80%A0%E4%BA%86360%E4%B8%87%E7%BE%8E%E5%85%83%E4%BB%B7%E5%80%BC&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
-        },
-        {
-          "title": "2026年半导体产业有望首度冲破万亿美元大关",
-          "url": "https://flash.jin10.com/detail/20260207192154238800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "美财长承认在伊朗制造美元短缺",
-          "url": "https://news.ifeng.com/c/8qWsNTHopF6",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "周五（2月6日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9301元，较周四纽约尾盘涨104点，日内整体交投于6.9419-6.9297元区间。",
-          "url": "https://wallstreetcn.com/livenews/3051642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "印度和美国将扩大GPUs和数据中心商品的贸易规模。 印度有意从美国购买价值5000亿美元的美国能源、飞机、金属。",
-          "url": "https://wallstreetcn.com/livenews/3051639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "印度商业和工业部长皮尤什·戈亚尔：部分美国产品将面临最低进口价格限制。 预计未来印度与美国的双边贸易额将达到5000亿美元。 下周起，互惠关税将从25%降至18%。 电动汽车被排除在美国贸易协定范围之外。 将对葡萄酒设定最低进口价格。",
-          "url": "https://wallstreetcn.com/livenews/3051709",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "美联储：美国上周银行存款18.647万亿美元，之前一周18.610万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3051631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
-          "url": "https://wallstreetcn.com/articles/3765113",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 20时25分]"
-        },
-        {
-          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
-          "url": "https://www.cls.cn/detail/2283586",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 20时25分]"
-        },
-        {
-          "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2283417",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 20时25分]"
-        },
-        {
-          "title": "（美股）费城金银指数收涨5.18%，报391.95点，本周累涨2.52%。 （全球时段）纽约证交所ARCA金矿开采商指数涨3.94%，报2764.85点，本周累涨0.76%。 （美股）原材料指数收涨3.62%，本周累涨4.82%。 （美股）金属与矿业指数收涨3.92%，本周累涨6.03%。",
-          "url": "https://wallstreetcn.com/livenews/3051636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "美股KBW地区银行指数突破2022年所创收盘历史最高位。",
-          "url": "https://wallstreetcn.com/livenews/3051627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "09时26分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "日本教授警告：攻击外国人能拉票，但会加剧社会分裂",
           "url": "https://news.ifeng.com/c/8qY33XqGNml",
           "source": "凤凰网",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
-        },
-        {
-          "title": "日本强降雪已致45人死亡",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%99%8D%E9%9B%AA%E5%B7%B2%E8%87%B445%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
-        },
-        {
-          "title": "日本持续强降雪已致42人死亡",
-          "url": "https://www.douyin.com/hot/2391380",
-          "source": "抖音",
-          "ranks": [
-            11
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "09时26分"
         },
         {
-          "title": "敏感时刻，一个罕见情况在日本出现",
-          "url": "https://news.ifeng.com/c/8qXB1sQrQOA",
-          "source": "凤凰网",
+          "title": "日本今日大选 执政联盟有望获三分之二议席",
+          "url": "https://flash.jin10.com/detail/20260208084533451800",
+          "source": "金十数据",
           "ranks": [
-            12
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "09时26分"
         },
         {
-          "title": "日本再度达到流感流行警报级别",
-          "url": "https://wallstreetcn.com/livenews/3051648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欧盟",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "被欧盟认定存在上瘾式设计，TikTok回应：调查结果完全错误",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32557769",
-          "source": "澎湃新闻",
+          "title": "苏翊鸣疑似被日本裁判压分",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E7%96%91%E4%BC%BC%E8%A2%AB%E6%97%A5%E6%9C%AC%E8%A3%81%E5%88%A4%E5%8E%8B%E5%88%86%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
-          "title": "欧盟正在探索新的国防资金来源",
-          "url": "https://flash.jin10.com/detail/20260207172847273800",
+          "title": "日本在菲律宾培植代理人挑衅中国",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%A8%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%9F%B9%E6%A4%8D%E4%BB%A3%E7%90%86%E4%BA%BA%E6%8C%91%E8%A1%85%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "日本国会众议院选举开始投票",
+          "url": "https://flash.jin10.com/detail/20260208081246592800",
           "source": "金十数据",
           "ranks": [
-            16
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "09时26分"
         },
         {
-          "title": "被欧盟认定存在上瘾式设计，TikTok回应：调查结果完全错误",
-          "url": "https://wallstreetcn.com/livenews/3051711",
+          "title": "日本国会众议院选举开始投票",
+          "url": "https://wallstreetcn.com/livenews/3051760",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "09时26分"
+        },
+        {
+          "title": "日本众议院选举投票开始",
+          "url": "https://www.douyin.com/hot/2393372",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "专访｜“众院选举结果可能改变日本国家形态，进入相当危险阶段”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32557042",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "乌克兰外长否认乌方与俄中将遇袭案有关",
+          "url": "https://flash.jin10.com/detail/20260208080932220800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "泽连斯基：俄军袭击导致乌克兰多地大规模停电",
+          "url": "https://wallstreetcn.com/livenews/3051741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "乌克兰总参谋部表示，其部队袭击了俄罗斯萨拉托夫州的一个油库。",
+          "url": "https://flash.jin10.com/detail/20260207202750475800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "高市早苗喊话俄罗斯",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%96%8A%E8%AF%9D%E4%BF%84%E7%BD%97%E6%96%AF%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "韩国加密货币交易所Bithumb误发62万枚比特币，价值约440亿美元，已追回99.7%",
+          "url": "https://wallstreetcn.com/livenews/3051758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "马斯克：一旦太阳能发电、机器人制造、芯片制造、AI形成闭环，传统货币反而会成为障碍。真正重要的只剩下（发电）功率和产量，而不是美元。",
+          "url": "https://flash.jin10.com/detail/20260208081050471800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "币圈超级乌龙指：奖金单位错输成比特币 交易所狂撒逾400亿美元",
+          "url": "https://www.cls.cn/detail/2283800",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "韩国",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "韩官员称“进口越南女性嫁到韩国农村”，越方抗议",
+          "url": "https://news.ifeng.com/c/8qYTTLZmfrd",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "印度三姐妹沉迷韩国手游辍学，手机被父母没收后集体跳楼身亡",
+          "url": "https://news.ifeng.com/c/8qYGct6r9tL",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         }
       ]
     },
@@ -721,80 +339,45 @@
           "url": "https://wallstreetcn.com/articles/3765209",
           "source": "华尔街见闻",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "景林资产四季度减持英伟达超150万股，进一步增仓拼多多，重仓谷歌A、Meta、拼多多",
-          "url": "https://wallstreetcn.com/livenews/3051649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "09时26分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "美股",
       "match_count": 1,
       "titles": [
         {
-          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
-          "url": "https://wallstreetcn.com/articles/3765171",
-          "source": "华尔街见闻",
+          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
+          "url": "https://www.cls.cn/detail/2283586",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 20时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Claude新模型4.6来了！更多饭碗没了：华尔街财务、编译器、安全白帽、PPT…通通失守",
-          "url": "https://wallstreetcn.com/articles/3765116",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "09时26分"
         }
       ]
     },
     {
-      "keyword_group": "韩国",
+      "keyword_group": "欧盟",
       "match_count": 1,
       "titles": [
         {
-          "title": "印度三姐妹沉迷韩国手游辍学，手机被父母没收后集体跳楼身亡",
-          "url": "https://news.ifeng.com/c/8qYGct6r9tL",
-          "source": "凤凰网",
+          "title": "被欧盟认定存在上瘾式设计，TikTok回应：调查结果完全错误",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32557769",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
+          "appearance_count": 1,
+          "time_info": "09时26分"
         }
       ]
     }

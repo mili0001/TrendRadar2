@@ -1,27 +1,16 @@
 {
-  "generated_at": "2026-02-09T09:11:06.198247+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-02-09T20:41:56.527580+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "日本",
-      "match_count": 22,
+      "match_count": 30,
       "titles": [
         {
           "title": "高市赌赢了，日本更危险了",
           "url": "https://news.ifeng.com/c/8qaycfDg2d4",
           "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
-        },
-        {
-          "title": "王楚钦暴打张本,击溃日本夺冠",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350395&amp;topic_name=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%9A%B4%E6%89%93%E5%BC%A0%E6%9C%AC%2C%E5%87%BB%E6%BA%83%E6%97%A5%E6%9C%AC%E5%A4%BA%E5%86%A0",
-          "source": "贴吧",
           "ranks": [
             2
           ],
@@ -41,15 +30,48 @@
           "time_info": "[09时10分 ~ 09时11分]"
         },
         {
+          "title": "中国头号流失国宝 竟成日本国有财产",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%B4%E5%8F%B7%E6%B5%81%E5%A4%B1%E5%9B%BD%E5%AE%9D+%E7%AB%9F%E6%88%90%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%9C%89%E8%B4%A2%E4%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "中方对日强硬立场影响日本大选？外交部回应",
+          "url": "https://news.ifeng.com/c/8qbZw6QnGlM",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "日本五年期国债收益率上升3个基点，至1.715%。",
           "url": "https://flash.jin10.com/detail/20260209090120641800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "胡锡进：这次选举是高市个人忽悠术的胜利，而决非日本的胜利",
+          "url": "https://news.ifeng.com/c/8qbgybCJ8kB",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "日本两年期国债收益率上升1.5个基点，至1.29%。",
@@ -58,9 +80,79 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "王楚钦暴打张本,击溃日本夺冠",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350395&amp;topic_name=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%9A%B4%E6%89%93%E5%BC%A0%E6%9C%AC%2C%E5%87%BB%E6%BA%83%E6%97%A5%E6%9C%AC%E5%A4%BA%E5%86%A0",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 20时41分]"
+        },
+        {
+          "title": "日本众议院选举结果公布：由自民党和日本维新会组成的执政联盟获过半数议席",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32564947",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 20时41分]"
+        },
+        {
+          "title": "扶桑谈｜高市早苗和自民党众院选举大胜，对日本是福还是祸？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32565263",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "高市早苗大胜，日本民众：失望，年轻人的意见没被重视",
+          "url": "https://news.ifeng.com/c/8qblkorBAnB",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "日本众议院选举结果公布，执政联盟获得过半数议席，会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2003926420188000507",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 20时41分]"
+        },
+        {
+          "title": "日本执政联盟将获众议院过半议席",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%89%A7%E6%94%BF%E8%81%94%E7%9B%9F%E5%B0%86%E8%8E%B7%E4%BC%97%E8%AE%AE%E9%99%A2%E8%BF%87%E5%8D%8A%E8%AE%AE%E5%B8%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 20时41分]"
         },
         {
           "title": "日本众议院选举结果公布",
@@ -96,28 +188,6 @@
           "time_info": "[09时10分 ~ 09时11分]"
         },
         {
-          "title": "日本众议院选举结果公布，执政联盟获得过半数议席，会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2003926420188000507",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
-        },
-        {
-          "title": "日本众议院选举结果公布：由自民党和日本维新会组成的执政联盟获过半数议席",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32564947",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
-        },
-        {
           "title": "任天堂首次承认 Switch2 日本以外销量不及预期，可能的原因有哪些？",
           "url": "https://www.zhihu.com/question/2002526333016773459",
           "source": "知乎",
@@ -140,15 +210,37 @@
           "time_info": "[09时10分 ~ 09时11分]"
         },
         {
-          "title": "日本执政联盟将获众议院过半议席",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%89%A7%E6%94%BF%E8%81%94%E7%9B%9F%E5%B0%86%E8%8E%B7%E4%BC%97%E8%AE%AE%E9%99%A2%E8%BF%87%E5%8D%8A%E8%AE%AE%E5%B8%AD",
+          "title": "日本执政联盟赢得众议院选举过半议席，日元日债面临压力",
+          "url": "https://wallstreetcn.com/articles/3765261",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "日本众议院选举结果公布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            20
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "外交部回应日本自民党胜选",
+          "url": "https://www.douyin.com/hot/2394913",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "中金：日本自民党大胜 日元贬值过度会出现外汇干预",
@@ -157,7 +249,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -168,7 +260,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -179,7 +271,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -190,7 +282,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -201,7 +293,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -212,7 +304,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -223,7 +315,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -234,7 +326,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -245,7 +337,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         }
@@ -253,7 +345,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 9,
+      "match_count": 17,
       "titles": [
         {
           "title": "周末要闻汇总：我国成功发射可重复使用试验航天器；半导体行业有望首次迈入万亿美元时代",
@@ -311,15 +403,48 @@
           "time_info": "[09时10分 ~ 09时11分]"
         },
         {
+          "title": "英镑兑美元GBP/USD延续涨势，现涨0.3%至1.3649，创盘中新高。",
+          "url": "https://flash.jin10.com/detail/20260209202412444800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "瑞穗：高市早苗胜利令美元兑日元升至160-165区间的风险上升",
           "url": "https://wallstreetcn.com/livenews/3051945",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "假如你和全世界随机 100 人比一项能力，如果你赢了所有人，你获得 1 亿美元，你会比什么？",
+          "url": "https://www.zhihu.com/question/1987951909722690043",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "礼来将以最高24亿美元现金收购美国生物技术公司Orna Therapeutics，以推进细胞疗法。",
+          "url": "https://wallstreetcn.com/livenews/3052326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "机构：金价重返5000美元上方 投资者逢低买入",
@@ -328,9 +453,64 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "德意志银行：将礼来(LLY.N)目标价从1200美元上调至1285美元。",
+          "url": "https://flash.jin10.com/detail/20260209200515724800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "礼来(LLY.N)将斥资不超过24亿美元现金收购生物技术公司Orna Therapeutics。",
+          "url": "https://flash.jin10.com/detail/20260209200248683800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "美国天然气期货下跌7%，报3.17美元/百万英热。",
+          "url": "https://wallstreetcn.com/livenews/3052302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "欧元兑美元EUR/USD日内涨超0.50%，现报1.1872。",
+          "url": "https://flash.jin10.com/detail/20260209200059429800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "TD Cowen：将雅诗兰黛(EL.N)目标价从130美元下调至115美元。",
+          "url": "https://flash.jin10.com/detail/20260209195916184800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "现货白银站上80美元关口，日内涨超3%。",
@@ -339,7 +519,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -350,54 +530,15 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欧盟",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "欧盟各国如何应对美国威胁",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%9B%9F%E5%90%84%E5%9B%BD%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%A8%81%E8%83%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
-        },
-        {
-          "title": "文件显示，欧元区财长将于2月16日讨论如何通过发行欧元计价稳定币及增加欧盟共同债务，来提升欧元的全球地位并强化欧洲经济安全。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3051949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "洋抖太上瘾,欧盟开巨额罚单",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350383&amp;topic_name=%E6%B4%8B%E6%8A%96%E5%A4%AA%E4%B8%8A%E7%98%BE%2C%E6%AC%A7%E7%9B%9F%E5%BC%80%E5%B7%A8%E9%A2%9D%E7%BD%9A%E5%8D%95",
-          "source": "贴吧",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "特朗普为何积极干预俄乌冲突",
@@ -411,11 +552,112 @@
           "time_info": "[09时10分 ~ 09时11分]"
         },
         {
+          "title": "高市早苗“奇葩式获胜”与特朗普二次当选情况相似",
+          "url": "https://news.ifeng.com/c/8qbQFf1tpNt",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "特朗普被美国国鸟疯狂打脸",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%B8%9F%E7%96%AF%E7%8B%82%E6%89%93%E8%84%B8%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
             29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时10分 ~ 09时11分]"
+        },
+        {
+          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
+          "url": "https://wallstreetcn.com/articles/3765246",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时10分 ~ 09时11分]"
+        },
+        {
+          "title": "美股期货震荡回落，美债走跌，“高市交易”助推日股大涨6%，黄金涨至5040美元",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2285010",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欧盟",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "文件显示，欧元区财长将于2月16日讨论如何通过发行欧元计价稳定币及增加欧盟共同债务，来提升欧元的全球地位并强化欧洲经济安全。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3051949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "欧盟各国如何应对美国威胁",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%9B%9F%E5%90%84%E5%9B%BD%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%A8%81%E8%83%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 20时41分]"
+        },
+        {
+          "title": "洋抖太上瘾,欧盟开巨额罚单",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350383&amp;topic_name=%E6%B4%8B%E6%8A%96%E5%A4%AA%E4%B8%8A%E7%98%BE%2C%E6%AC%A7%E7%9B%9F%E5%BC%80%E5%B7%A8%E9%A2%9D%E7%BD%9A%E5%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -434,7 +676,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -445,9 +687,54 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "袭击俄军中将的嫌疑人在迪拜被拘捕，俄方称其受乌克兰指派",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32562805",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时10分 ~ 09时11分]"
+        },
+        {
+          "title": "俄方称乌克兰和波兰参与袭击俄军中将",
+          "url": "https://news.ifeng.com/c/8qbgVWdVcPn",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Kimi建议网友先用DeepSeek",
+          "url": "https://s.weibo.com/weibo?q=%23Kimi%E5%BB%BA%E8%AE%AE%E7%BD%91%E5%8F%8B%E5%85%88%E7%94%A8DeepSeek%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         }
       ]
     },
@@ -461,40 +748,6 @@
           "source": "华尔街见闻",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
-          "url": "https://wallstreetcn.com/articles/3765246",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "袭击俄军中将的嫌疑人在迪拜被拘捕，俄方称其受乌克兰指派",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32562805",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 2,

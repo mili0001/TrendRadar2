@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T09:19:46.217921+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-10T20:46:53.379569+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "日本",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "“这是中方给日本的预警”",
@@ -19,6 +19,28 @@
           "time_info": "09时19分"
         },
         {
+          "title": "是否担心高市大胜影响在华日企经营？中国日本商会答凤凰问",
+          "url": "https://news.ifeng.com/c/8qdMsKDThwR",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "专家：日本政局“一强多弱”，进入是否坚持和平的重要节点",
+          "url": "https://news.ifeng.com/c/8qdDQ7ppwvG",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "中道左派崩塌、自民党独大、股市狂飙，众议院选举重塑日本政经版图",
           "url": "https://m.thepaper.cn/newsDetail_forward_32566607",
           "source": "澎湃新闻",
@@ -28,6 +50,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "日本众议院选举结果公布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 20时46分]"
         },
         {
           "title": "扶桑谈｜高市早苗和自民党众院选举大胜，对日本是福还是祸？",
@@ -41,15 +75,15 @@
           "time_info": "09时19分"
         },
         {
-          "title": "日本众议院选举结果公布",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83",
-          "source": "bilibili 热搜",
+          "title": "国防部：日本政府为“再军事化”披上虚伪的“法治”外衣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32574685",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "20时46分"
         },
         {
           "title": "日本5年期国债收益率下跌2.5个基点，至1.715%。",
@@ -118,6 +152,17 @@
           "time_info": "09时19分"
         },
         {
+          "title": "自民党众院选举大胜，对日本是福还是祸？本次大选后他们的执政前景如何？",
+          "url": "https://www.zhihu.com/question/2004190292983703175",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "日本东证指数涨逾1%，至纪录高位。",
           "url": "https://wallstreetcn.com/livenews/3052581",
           "source": "华尔街见闻-快讯",
@@ -153,19 +198,180 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "WTI原油短线下跌0.4美元，失守64美元/桶，日内跌幅0.71%。",
+          "url": "https://flash.jin10.com/detail/20260210090642764800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "摩根士丹利：预计特斯拉(TSLA.O)太阳能业务有望为其能源板块增加200亿至500亿美元的股权价值。尽管这一投资本身不具变革性，但它可能开启长期增长空间，并缓解能源瓶颈，从而支持特斯拉更宏大的战略目标。",
+          "url": "https://flash.jin10.com/detail/20260210202612810800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "摩根士丹利：维持对特斯拉(TSLA.O)的中性评级及415美元目标价。",
+          "url": "https://flash.jin10.com/detail/20260210202541427800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "全球股市创历史新高，欧股奢侈品大涨，台积电夜盘涨超3%，金银下挫，美元企稳人民币走强",
+          "url": "https://wallstreetcn.com/articles/3765361",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "日经225股指延续早盘涨势，最新上涨1.88%，报57,400.95点。 美元兑日元汇率小幅下跌0.22%，报156.22。",
+          "url": "https://wallstreetcn.com/livenews/3052598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "在岸、离岸人民币对美元汇率双双升破6.91",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32573316",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "日股大涨 巴菲特单日浮盈近20亿美元",
+          "url": "https://flash.jin10.com/detail/20260210083033527800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "日本首席贸易谈判代表赤泽亮正与美国商务部长卢特尼克将于本周会晤，讨论通过5500亿美元投资工具支持的首个项目。",
+          "url": "https://flash.jin10.com/detail/20260210200940210800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "德意志银行：将美光科技(MU.O)目标价从300美元上调至500美元。",
+          "url": "https://flash.jin10.com/detail/20260210200835777800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "可口可乐(KO.N)预计2026年资本支出22亿美元，市场预估23.1亿美元。",
+          "url": "https://flash.jin10.com/detail/20260210200100472800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "西维斯健康（CVS）第四季度调整后每股收益为1.09美元，去年同期为1.19美元。 第四季度同店销售增长16%，去年同期增长10.2%，市场预期增长11.1%。 第四季度净收入1056.9亿美元，同比增长8.2%，市场预期1036.9亿美元。 西维斯健康盘前下跌2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3053011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "现货金银收复早间大部分跌幅，现货黄金接近回到5050美元/盎司，日跌幅收窄至0.28%；现货白银跌幅收窄至1.2%，此前跌超3%。",
+          "url": "https://flash.jin10.com/detail/20260210080521313800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "可口可乐(KO.N)第四季度净营收118亿美元，市场预估120.3亿美元。",
+          "url": "https://flash.jin10.com/detail/20260210195656250800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
           "url": "https://wallstreetcn.com/articles/3765262",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 20时46分]"
         },
         {
           "title": "美股收盘：三大指数集体上涨 道指再创新高 纳指涨近1%",
@@ -190,6 +396,28 @@
           "time_info": "09时19分"
         },
         {
+          "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2286272",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "可口可乐第四季度净营收118亿美元，市场预估120.3亿美元。 第四季度可比每股收益0.58美元，市场预估0.57美元。 预计2026年资本支出22亿美元，市场预估23.1亿美元。 可口可乐美股盘前一度跌超2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3053030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "美股收盘：道指再创历史新高",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E9%81%93%E6%8C%87%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
           "source": "百度热搜",
@@ -210,63 +438,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "WTI原油短线下跌0.4美元，失守64美元/桶，日内跌幅0.71%。",
-          "url": "https://flash.jin10.com/detail/20260210090642764800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
         },
         {
-          "title": "日经225股指延续早盘涨势，最新上涨1.88%，报57,400.95点。 美元兑日元汇率小幅下跌0.22%，报156.22。",
-          "url": "https://wallstreetcn.com/livenews/3052598",
+          "title": "法拉利预计2026年调整后EBITDA至少为29.3亿欧元，市场预期为29.1亿欧元。 第四季度EBITDA为7亿欧元，市场预期为6.62亿欧元。 第四季度净利润为3.81亿欧元，市场预期为3.83亿欧元。 第四季度稀释后每股收益为2.14欧元，市场预期为2.13欧元。 第四季度营收为18亿欧元，市场预期为17.7亿欧元。 第四季度交付量为3,152辆，市场预期为3,262辆。 法拉利美股盘前一度涨超9%。",
+          "url": "https://wallstreetcn.com/livenews/3053021",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "日股大涨 巴菲特单日浮盈近20亿美元",
-          "url": "https://flash.jin10.com/detail/20260210083033527800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "现货金银收复早间大部分跌幅，现货黄金接近回到5050美元/盎司，日跌幅收窄至0.28%；现货白银跌幅收窄至1.2%，此前跌超3%。",
-          "url": "https://flash.jin10.com/detail/20260210080521313800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "20时46分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "谷歌母公司Alphabet的100年期英镑债在各期限券种中获得最高认购。",
+          "url": "https://wallstreetcn.com/livenews/3053034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
         {
           "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
           "url": "https://www.cls.cn/detail/2285182",
@@ -277,13 +477,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "字节“乘胜追击”又发新一代图像模型 称可与谷歌旗舰产品对标",
+          "url": "https://www.cls.cn/detail/2285787",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "谷歌母公司Alphabet将通过发行英镑债券筹集创纪录的45亿英镑资金，其英镑债券发行吸引了创纪录的240亿英镑认购需求。",
+          "url": "https://wallstreetcn.com/livenews/3053029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "美国贸易代表格里尔：美国与加拿大的谈判主要针对跨国大桥议题。特朗普总统对这一问题存在合理关切。",
+          "url": "https://flash.jin10.com/detail/20260210201654942800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "谷爱凌回应特朗普大骂冬奥运动员",
+          "url": "https://www.toutiao.com/trending/7605068464549744178/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
         {
           "title": "特朗普称，鲍威尔不称职，但问题是他是否腐败。 当被问及对鲍威尔的调查是否值得推迟沃什的美联储主席任命时，特朗普回答：不知道，如果它发生了，那就发生了。",
           "url": "https://wallstreetcn.com/livenews/3052571",
@@ -298,9 +553,81 @@
       ]
     },
     {
-      "keyword_group": "韩国",
-      "match_count": 1,
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 4,
       "titles": [
+        {
+          "title": "俄罗斯表示，为扎波罗热核电站供电的两条外部电力线路中有一条已被切断。",
+          "url": "https://flash.jin10.com/detail/20260210202641606800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "法国表示已在技术层面与俄罗斯恢复对话渠道",
+          "url": "https://news.ifeng.com/c/8qdUnEggTjj",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "俄罗斯总统与南非总统通电话 讨论加强贸易合作",
+          "url": "https://wallstreetcn.com/livenews/3053031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "美国贸易代表格里尔：印度已开始逐步减少从俄罗斯购买能源。",
+          "url": "https://flash.jin10.com/detail/20260210201710675800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "韩国",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "韩国队无缘短道混接决赛",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%98%9F%E6%97%A0%E7%BC%98%E7%9F%AD%E9%81%93%E6%B7%B7%E6%8E%A5%E5%86%B3%E8%B5%9B%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "韩国申诉未果",
+          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E7%94%B3%E8%AF%89%E6%9C%AA%E6%9E%9C&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
         {
           "title": "日经225指数高开近1%，韩国首尔综指高开1%。",
           "url": "https://wallstreetcn.com/livenews/3052578",

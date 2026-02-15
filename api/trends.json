@@ -1,12 +1,183 @@
 {
-  "generated_at": "2026-02-15T09:13:11.080249+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-15T20:26:09.720142+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "日本",
-      "match_count": 8,
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 14,
       "titles": [
+        {
+          "title": "涉嫌腐败 乌克兰前司法部长加卢先科试图离境时被捕",
+          "url": "https://flash.jin10.com/detail/20260215191138310800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "乌克兰军方：袭击了位于俄罗斯克拉斯诺达尔地区的塔曼石油码头。",
+          "url": "https://flash.jin10.com/detail/20260215190206504800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "泽连斯基：美国老是要乌克兰让步",
+          "url": "https://wallstreetcn.com/livenews/3055572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "俄罗斯方面表示，其部队已占领乌克兰扎波罗热地区的茨维特科韦村。",
+          "url": "https://flash.jin10.com/detail/20260215170733519800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：感觉欧盟国家尚未准备好向乌克兰给出加入欧盟的具体日期。",
+          "url": "https://flash.jin10.com/detail/20260215170530114800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "俄副外长：俄愿与美方等讨论向乌克兰引入外部管理机制",
+          "url": "https://flash.jin10.com/detail/20260215165939680800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "俄副外长：俄愿与美方等讨论向乌克兰引入外部管理机制",
+          "url": "https://wallstreetcn.com/livenews/3055608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "泽连斯基：体面结束冲突对乌克兰至关重要 安全保障应先于停火协议",
+          "url": "https://flash.jin10.com/detail/20260215081400448800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "泽连斯基：美国老是要乌克兰让步",
+          "url": "https://flash.jin10.com/detail/20260215080904480800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：就乌克兰安全问题与泽连斯基会面，深化国防和经济伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20260215080410350800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "法国外交部长巴罗：俄罗斯著名反对派政治家阿列克谢·纳瓦尔尼被致命神经毒剂毒害，表明俄罗斯总统普京已准备好再次对自己的人民使用化学武器，以维持其对权力的掌控。",
+          "url": "https://flash.jin10.com/detail/20260214215745572800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "北约秘书长吕特：如果俄罗斯现在发动攻击，北约将在与俄罗斯的每一场战斗中获胜，必须确保这种情况在未来数年内依然如此。",
+          "url": "https://flash.jin10.com/detail/20260214210831742800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "英瑞法德荷联合声明：我们和我们的伙伴将动用我们掌握的一切政策工具，继续追究俄罗斯的责任。",
+          "url": "https://flash.jin10.com/detail/20260214210820346800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "英瑞法德荷联合声明：我们进一步对俄罗斯并未销毁其全部化学武器表示关切。",
+          "url": "https://flash.jin10.com/detail/20260214210810838800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日本",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "火力全开!王毅警告日本",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350718&amp;topic_name=%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80%21%E7%8E%8B%E6%AF%85%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 20时26分]"
+        },
         {
           "title": "王毅警告日本 现场爆发热烈掌声",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC+%E7%8E%B0%E5%9C%BA%E7%88%86%E5%8F%91%E7%83%AD%E7%83%88%E6%8E%8C%E5%A3%B0",
@@ -30,26 +201,37 @@
           "time_info": "[09时12分 ~ 09时13分]"
         },
         {
-          "title": "火力全开!王毅警告日本",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350718&amp;topic_name=%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80%21%E7%8E%8B%E6%AF%85%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC",
-          "source": "贴吧",
+          "title": "2026慕安会｜王毅在德国严正警告日本，150秒脱稿答问值得反复观看",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32612179",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时12分 ~ 09时13分]"
+          "time_info": "[20时25分 ~ 20时26分]"
         },
         {
-          "title": "王毅警告日本 现场爆发热烈掌声",
-          "url": "https://www.toutiao.com/trending/7605877620357762596/",
-          "source": "今日头条",
+          "title": "鲁比奥会见日本外相，协调两国首脑会谈",
+          "url": "https://news.ifeng.com/c/8qkpGZduu6P",
+          "source": "凤凰网",
           "ranks": [
-            5
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时12分 ~ 09时13分]"
+          "time_info": "[20时25分 ~ 20时26分]"
+        },
+        {
+          "title": "日本市场近期发生了什么？",
+          "url": "https://wallstreetcn.com/articles/3765744",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
         },
         {
           "title": "王毅警告日本现场爆发热烈掌声",
@@ -63,15 +245,50 @@
           "time_info": "[09时12分 ~ 09时13分]"
         },
         {
+          "title": "王毅警告日本 现场爆发热烈掌声",
+          "url": "https://www.toutiao.com/trending/7605877620357762596/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 20时26分]"
+        },
+        {
           "title": "息事宁人?日本释放中国船长",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350668&amp;topic_name=%E6%81%AF%E4%BA%8B%E5%AE%81%E4%BA%BA%3F%E6%97%A5%E6%9C%AC%E9%87%8A%E6%94%BE%E4%B8%AD%E5%9B%BD%E8%88%B9%E9%95%BF",
           "source": "贴吧",
           "ranks": [
-            25
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 20时26分]"
+        },
+        {
+          "title": "日本游客为免票背了1个月《滕王阁序》",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B8%B8%E5%AE%A2%E4%B8%BA%E5%85%8D%E7%A5%A8%E8%83%8C%E4%BA%861%E4%B8%AA%E6%9C%88%E3%80%8A%E6%BB%95%E7%8E%8B%E9%98%81%E5%BA%8F%E3%80%8B",
+          "source": "百度热搜",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时12分 ~ 09时13分]"
+          "time_info": "[20时25分 ~ 20时26分]"
+        },
+        {
+          "title": "大阪发生持刀伤人事件致1死2伤，中领馆提醒中国公民近期避免前往日本",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32615393",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
         },
         {
           "title": "Seedance2.0爆火日本官员急了",
@@ -91,101 +308,90 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         }
       ]
     },
     {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 8,
+      "keyword_group": "特朗普",
+      "match_count": 7,
       "titles": [
         {
-          "title": "泽连斯基：美国老是要乌克兰让步",
-          "url": "https://wallstreetcn.com/livenews/3055572",
-          "source": "华尔街见闻-快讯",
+          "title": "王毅：特朗普非常尊重中方，但还有人想打压中国",
+          "url": "https://news.ifeng.com/c/8qkKQCMOmTT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 09时13分]"
+        },
+        {
+          "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
+          "url": "https://news.ifeng.com/c/8qlaP330gp4",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
+        },
+        {
+          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
+        },
+        {
+          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
+          "url": "https://www.cls.cn/detail/2290201",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 09时13分]"
+        },
+        {
+          "title": "2026慕安会｜王毅：特朗普非常尊重中方，但还有人想打压中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32610423",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
+          "url": "https://flash.jin10.com/detail/20260215183847434800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "外媒：特朗普与内塔尼亚胡同意加大对伊朗的施压",
+          "url": "https://flash.jin10.com/detail/20260215082816543800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "泽连斯基：体面结束冲突对乌克兰至关重要 安全保障应先于停火协议",
-          "url": "https://flash.jin10.com/detail/20260215081400448800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "泽连斯基：美国老是要乌克兰让步",
-          "url": "https://flash.jin10.com/detail/20260215080904480800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：就乌克兰安全问题与泽连斯基会面，深化国防和经济伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20260215080410350800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "法国外交部长巴罗：俄罗斯著名反对派政治家阿列克谢·纳瓦尔尼被致命神经毒剂毒害，表明俄罗斯总统普京已准备好再次对自己的人民使用化学武器，以维持其对权力的掌控。",
-          "url": "https://flash.jin10.com/detail/20260214215745572800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "北约秘书长吕特：如果俄罗斯现在发动攻击，北约将在与俄罗斯的每一场战斗中获胜，必须确保这种情况在未来数年内依然如此。",
-          "url": "https://flash.jin10.com/detail/20260214210831742800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "英瑞法德荷联合声明：我们和我们的伙伴将动用我们掌握的一切政策工具，继续追究俄罗斯的责任。",
-          "url": "https://flash.jin10.com/detail/20260214210820346800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "英瑞法德荷联合声明：我们进一步对俄罗斯并未销毁其全部化学武器表示关切。",
-          "url": "https://flash.jin10.com/detail/20260214210810838800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         }
@@ -200,11 +406,12 @@
           "url": "https://www.cls.cn/detail/2290476",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 09时13分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 20时26分]"
         },
         {
           "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
@@ -235,46 +442,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "王毅：特朗普非常尊重中方，但还有人想打压中国",
-          "url": "https://news.ifeng.com/c/8qkKQCMOmTT",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 09时13分]"
-        },
-        {
-          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
-          "url": "https://www.cls.cn/detail/2290201",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 09时13分]"
-        },
-        {
-          "title": "外媒：特朗普与内塔尼亚胡同意加大对伊朗的施压",
-          "url": "https://flash.jin10.com/detail/20260215082816543800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时13分"
         }
@@ -282,8 +450,30 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
+          "url": "https://wallstreetcn.com/articles/3765749",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
+        },
+        {
+          "title": "哪怕投资者砸崩股价，2000亿美元也必须“烧下去”，亚马逊要“重整旗鼓”",
+          "url": "https://wallstreetcn.com/articles/3765748",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
+        },
         {
           "title": "美国2月13日当周高收益公司债销售160亿美元，之前一周供应56.9亿美元；发行人9家。 2月份迄今，垃圾债累计供应217亿美元，1月同期174亿美元。 2026年迄今，高收益债券累计发行591亿美元，上年同期发行457亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3055548",
@@ -291,7 +481,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         },
@@ -302,9 +492,65 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
+          "url": "https://wallstreetcn.com/articles/3765730",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 09时13分]"
+        },
+        {
+          "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
+          "url": "https://wallstreetcn.com/articles/3765742",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "韩国",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "17 岁韩国小将崔佳恩冬奥夺冠，可积分兑换终身养老金，约合人民币 4773 元 / 月，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2005911900773381751",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
+        },
+        {
+          "title": "2025年韩国证券公司净利润突破10万亿韩元，创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3055589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         }
       ]
     },
@@ -319,7 +565,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         },
@@ -330,26 +576,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
-          "url": "https://wallstreetcn.com/articles/3765730",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 09时13分]"
         }
       ]
     },
@@ -379,11 +608,12 @@
           "url": "https://www.cls.cn/detail/2290296",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 09时13分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 20时26分]"
         }
       ]
     }

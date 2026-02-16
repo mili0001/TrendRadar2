@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T09:10:17.794195+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-16T20:37:54.077239+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "日本",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "日本经济大臣：在负责任、积极的财政政策下，政府将推进大胆而具战略性的增长投资，实现强劲的经济。",
@@ -50,6 +50,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        },
+        {
+          "title": "火力全开!王毅警告日本",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350718&amp;topic_name=%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80%21%E7%8E%8B%E6%AF%85%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时10分 ~ 20时37分]"
         },
         {
           "title": "日本第四季度GDP增长乏力或促进一步财政宽松",
@@ -140,17 +152,6 @@
           "time_info": "09时10分"
         },
         {
-          "title": "火力全开!王毅警告日本",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350718&amp;topic_name=%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80%21%E7%8E%8B%E6%AF%85%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时10分"
-        },
-        {
           "title": "政府报告：日本2025年实际GDP同比增长1.1%。",
           "url": "https://flash.jin10.com/detail/20260216075844833800",
           "source": "金十数据",
@@ -195,6 +196,17 @@
           "time_info": "09时10分"
         },
         {
+          "title": "被王毅痛斥后日本急了",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E7%8E%8B%E6%AF%85%E7%97%9B%E6%96%A5%E5%90%8E%E6%97%A5%E6%9C%AC%E6%80%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "日本第四季度GDP私人消费季率初值 0.1%，预期0.10%，前值0.20%。",
           "url": "https://flash.jin10.com/detail/20260216075011538800",
           "source": "金十数据",
@@ -226,13 +238,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        },
+        {
+          "title": "日本流感病例数连续第二周达警报级别 部分学校停课",
+          "url": "https://wallstreetcn.com/livenews/3055709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 7,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "法国农业信贷银行：最新数据料显示市场对长期美元资产需求依然强劲",
+          "url": "https://wallstreetcn.com/livenews/3055738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
         {
           "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
           "url": "https://wallstreetcn.com/articles/3765749",
@@ -243,6 +277,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        },
+        {
+          "title": "欧元兑美元一周波动率达到4.93%，创1月22日以来最低水平。",
+          "url": "https://wallstreetcn.com/livenews/3055737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "欧元兑美元EUR/USD一周波动率达到4.93%，为1月22日以来新低。",
+          "url": "https://flash.jin10.com/detail/20260216195645484800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "哪怕投资者砸崩股价，2000亿美元也必须“烧下去”，亚马逊要“重整旗鼓”",
@@ -300,6 +356,39 @@
           "time_info": "09时10分"
         },
         {
+          "title": "印度1月石油进口额为133.9亿美元。",
+          "url": "https://flash.jin10.com/detail/20260216191050312800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "印度1月黄金进口额为120.7亿美元。",
+          "url": "https://flash.jin10.com/detail/20260216190751519800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "美元兑瑞郎USD/CHF站上0.77，日内涨0.32%。",
+          "url": "https://flash.jin10.com/detail/20260216190607735800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "比特币盘中走低，再度跌破7万美元关口，现报68988美元。",
           "url": "https://wallstreetcn.com/livenews/3055629",
           "source": "华尔街见闻-快讯",
@@ -309,12 +398,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        },
+        {
+          "title": "美元兑日元日内涨幅达0.5%，现报153.47。",
+          "url": "https://wallstreetcn.com/livenews/3055710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普或支持以色列打击伊朗",
@@ -361,6 +461,50 @@
           "time_info": "09时10分"
         },
         {
+          "title": "美国国务卿卢比奥：与匈牙利的关系极为紧密。 我们不想把任何和平协议强加于乌克兰。 如果匈牙利出现任何金融困难，美国总统唐纳德·特朗普将准备好提供协助。",
+          "url": "https://wallstreetcn.com/livenews/3055729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "匈牙利总理欧尔班：自美国总统特朗普上台以来，美匈关系中不存在任何冲突点。",
+          "url": "https://flash.jin10.com/detail/20260216192059299800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "欧盟委员会发言人：欧盟委员苏伊卡将作为观察员前往华盛顿，参加美国总统特朗普主持的“和平委员会”会议。",
+          "url": "https://flash.jin10.com/detail/20260216191824464800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国总统特朗普和匈牙利总理欧尔班有着非常亲密的个人关系，这对双边关系大有裨益。",
+          "url": "https://flash.jin10.com/detail/20260216191100927800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "特朗普边境事务主管驳回民主党改革ICE的要求",
           "url": "https://flash.jin10.com/detail/20260216075810272800",
           "source": "金十数据",
@@ -372,6 +516,17 @@
           "time_info": "09时10分"
         },
         {
+          "title": "特朗普签令决定对向古巴提供石油的国家采取关税措施，俄大使：完全疯狂",
+          "url": "https://wallstreetcn.com/livenews/3055714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "奥巴马回应被特朗普恶搞成猿猴",
           "url": "https://www.douyin.com/hot/2401829",
           "source": "抖音",
@@ -381,6 +536,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：如果匈牙利遇到麻烦，特朗普会考虑帮助欧尔班。",
+          "url": "https://flash.jin10.com/detail/20260216185958619800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "市场消息：特朗普政府取消了环保局为配备启停技术的车辆提供的排放积分，终止了一项旨在奖励汽车制造商安装等红灯时关闭发动机的节油系统的计划。",
@@ -396,8 +562,81 @@
       ]
     },
     {
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "俄军高官答凤凰：欧洲国家阻止乌克兰与俄达成协议",
+          "url": "https://news.ifeng.com/c/8qmh3Muu6JZ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时10分 ~ 20时37分]"
+        },
+        {
+          "title": "乌克兰前能源部长试图离境被拘捕",
+          "url": "https://news.ifeng.com/c/8qlzNMUACol",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "市场消息：在日内瓦谈判的俄罗斯代表团将扩大到大约20人。",
+          "url": "https://flash.jin10.com/detail/20260216193755618800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "匈牙利总理欧尔班：与美国国务卿卢比奥进行了友好而严肃的会谈。 仍然准备好主办乌克兰-俄罗斯和平峰会。",
+          "url": "https://wallstreetcn.com/livenews/3055728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "白俄罗斯总统卢卡申科：想与普京讨论明斯克参与“和平委员会”的事宜。",
+          "url": "https://flash.jin10.com/detail/20260216190604540800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "匈牙利总理欧尔班：乌克兰总统泽连斯基必须组织选举。",
+          "url": "https://flash.jin10.com/detail/20260216190546726800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "韩国",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "日经225指数开盘涨0.48%。韩国股市今日休市。",
@@ -416,6 +655,135 @@
           "source": "金十数据",
           "ranks": [
             11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "韩国成年人过年最怕什么？发压岁钱",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%88%90%E5%B9%B4%E4%BA%BA%E8%BF%87%E5%B9%B4%E6%9C%80%E6%80%95%E4%BB%80%E4%B9%88%EF%BC%9F%E5%8F%91%E5%8E%8B%E5%B2%81%E9%92%B1",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "韩国成年人过年最怕发压岁钱",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%88%90%E5%B9%B4%E4%BA%BA%E8%BF%87%E5%B9%B4%E6%9C%80%E6%80%95%E5%8F%91%E5%8E%8B%E5%B2%81%E9%92%B1%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
+          "url": "https://www.cls.cn/detail/2290476",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时10分 ~ 20时37分]"
+        },
+        {
+          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
+          "url": "https://wallstreetcn.com/articles/3765786",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "千问3.5成本仅为谷歌大模型5%",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE3.5%E6%88%90%E6%9C%AC%E4%BB%85%E4%B8%BA%E8%B0%B7%E6%AD%8C%E5%A4%A7%E6%A8%A1%E5%9E%8B5%25%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欧盟",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "多位知情人士透露，欧盟和由12个国家组成的印太经济体正在展开谈判，探讨组建全球最大的经济联盟之一。",
+          "url": "https://flash.jin10.com/detail/20260216200820315800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "欧盟或考虑加快敲定拉加德继任者 以避免法国极右翼上台的变数",
+          "url": "https://wallstreetcn.com/livenews/3055715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "默茨调侃英首相：希望不介意欧盟旗帜",
+          "url": "https://www.toutiao.com/trending/7606329710117896201/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
+          "url": "https://wallstreetcn.com/articles/3765755",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -441,70 +809,36 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "Qwen",
       "match_count": 1,
       "titles": [
         {
-          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
-          "url": "https://www.cls.cn/detail/2290476",
-          "source": "财联社热门",
+          "title": "阿里除夕夜发布 Qwen3.5 模型，哪些技术亮点值得关注？对大模型发展有何影响？",
+          "url": "https://www.zhihu.com/question/2004174915692172333",
+          "source": "知乎",
           "ranks": [
-            8
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时10分"
+          "time_info": "20时37分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "美股",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
-          "url": "https://wallstreetcn.com/articles/3765755",
+          "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
+          "url": "https://wallstreetcn.com/articles/3765769",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "俄军高官答凤凰：欧洲国家阻止乌克兰与俄达成协议",
-          "url": "https://news.ifeng.com/c/8qmh3Muu6JZ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欧盟",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "默茨调侃英首相：希望不介意欧盟旗帜",
-          "url": "https://www.toutiao.com/trending/7606329710117896201/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时10分"
+          "time_info": "20时37分"
         }
       ]
     }

@@ -1,593 +1,196 @@
 {
-  "generated_at": "2026-02-18T20:37:17.649598+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-02-19T09:11:00.447340+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "日本",
-      "match_count": 32,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "国际货币基金组织向日本发出三重警示",
-          "url": "https://news.ifeng.com/c/8qqUi7r46tA",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 20时37分]"
-        },
         {
           "title": "日本高市早苗内阁集体辞职",
           "url": "https://www.cls.cn/detail/2291375",
           "source": "财联社热门",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 20时37分]"
-        },
-        {
-          "title": "日本内阁官房长官：日本在美国的投资项目将促进两国互利共赢、推动经济增长并保障经济安全。",
-          "url": "https://flash.jin10.com/detail/20260218085221078800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "日本首相高市早苗：与美国就首批投资项目达成共识，项目将互利共赢。",
-          "url": "https://wallstreetcn.com/livenews/3056184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "日本出口额创下三年多来最快增速 芯片出口及汽车出口大幅增长",
-          "url": "https://flash.jin10.com/detail/20260218083954941800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
+          "appearance_count": 2,
+          "time_info": "[09时10分 ~ 09时11分]"
         },
         {
           "title": "高市早苗确认当选日本新任首相，将着手组建新内阁，此前旧内阁集体辞职，这会给日本政坛带来哪些影响？",
           "url": "https://www.zhihu.com/question/2007370042841462456",
           "source": "知乎",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 20时37分]"
-        },
-        {
-          "title": "日本挖到含稀土泥浆的真相来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8C%96%E5%88%B0%E5%90%AB%E7%A8%80%E5%9C%9F%E6%B3%A5%E6%B5%86%E7%9A%84%E7%9C%9F%E7%9B%B8%E6%9D%A5%E4%BA%86%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 20时37分]"
-        },
-        {
-          "title": "高市早苗当选日本新任首相",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32629209",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 20时37分]"
-        },
-        {
-          "title": "日本高市早苗内阁集体辞职",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%86%85%E9%98%81%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "日本高市早苗内阁集体辞职",
-          "url": "https://wallstreetcn.com/livenews/3056181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
+          "appearance_count": 2,
+          "time_info": "[09时10分 ~ 09时11分]"
         },
         {
-          "title": "国际货币基金组织驻日本代表团团长Rahul Anand：日本央行继续遵循数据依赖方法很重要。 日本央行明年应继续将利率调至中性。 日本央行的中性利率水平存在很大的不确定性。 日本央行独立有助于稳定通胀预期。 暂停征收消费税将削弱税基。 日本必须保障收入以保留财政空间。 美国关税对日本的影响远低于预期。",
-          "url": "https://wallstreetcn.com/livenews/3056179",
-          "source": "华尔街见闻-快讯",
+          "title": "日本若介入台湾问题 中方必迎头痛击",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%8B%A5%E4%BB%8B%E5%85%A5%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98+%E4%B8%AD%E6%96%B9%E5%BF%85%E8%BF%8E%E5%A4%B4%E7%97%9B%E5%87%BB",
+          "source": "百度热搜",
           "ranks": [
-            9
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
+          "appearance_count": 2,
+          "time_info": "[09时10分 ~ 09时11分]"
         },
         {
-          "title": "日本特别国会今日召开，高市早苗料将连任首相",
-          "url": "https://news.ifeng.com/c/8qq0M8TqGww",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "日本1月进口同比 -2.5%，前值 5.3%。",
-          "url": "https://wallstreetcn.com/livenews/3056178",
+          "title": "10年期日本国债收益率上升1个基点至2.145%。",
+          "url": "https://wallstreetcn.com/livenews/3056540",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
         {
-          "title": "日本1月未季调商品贸易帐 -11526.6亿日元，前值 1057亿日元。",
-          "url": "https://wallstreetcn.com/livenews/3056177",
-          "source": "华尔街见闻-快讯",
+          "title": "20年期日本国债收益率下跌0.5个基点，至2.965%。",
+          "url": "https://flash.jin10.com/detail/20260219082637064800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
         {
-          "title": "日本1月季调后商品贸易帐 4554.86亿日元，前值 -2086亿日元。",
-          "url": "https://wallstreetcn.com/livenews/3056176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "日本1月出口同比 16.8%，前值 5.1%。",
-          "url": "https://wallstreetcn.com/livenews/3056175",
+          "title": "日本2月13日当周外资净买进日本债券 -3930亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3056534",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
         {
-          "title": "日本高市早苗内阁集体辞职",
-          "url": "https://www.douyin.com/hot/2404552",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "国际货币基金组织表示，日本应避免降低消费税，以防止增加财政风险并侵蚀财政空间。",
-          "url": "https://wallstreetcn.com/livenews/3056174",
+          "title": "日本2月13日当周净买进国外股票 -258亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3056532",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
         {
-          "title": "10年期日本国债收益率跌1个基点至2.115%。",
-          "url": "https://flash.jin10.com/detail/20260218082044092800",
+          "title": "10年期日本国债收益率上升1个基点至2.145%。",
+          "url": "https://flash.jin10.com/detail/20260219081757489800",
           "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "日本2月13日当周净买进国外债券 -4895亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3056533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "日本2月13日当周外资净买进日本股票 14242亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3056531",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
         {
-          "title": "日本高市早苗内阁集体辞职",
-          "url": "https://flash.jin10.com/detail/20260218081901850800",
-          "source": "金十数据",
+          "title": "日本12月核心机械订单环比 19.1%，前值 -11%。",
+          "url": "https://wallstreetcn.com/livenews/3056530",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
         {
-          "title": "国际货币基金组织：日本应避免下调消费税以免加剧财政风险",
-          "url": "https://flash.jin10.com/detail/20260218080954192800",
-          "source": "金十数据",
+          "title": "日本12月核心机械订单同比 16.8%，前值 -6.4%。",
+          "url": "https://wallstreetcn.com/livenews/3056529",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
         {
-          "title": "国际货币基金组织日本代表团团长：（被问及日本当局在何种条件下可以进行外汇干预）我们无法推测当局未来的行动。",
-          "url": "https://flash.jin10.com/detail/20260218080233399800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "国际货币基金组织日本代表团团长：我们在预测中假设今年日本央行将加息两次，并在2027年再加息一次。",
-          "url": "https://flash.jin10.com/detail/20260218075638479800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "国际货币基金组织驻日本代表团团长：如果日元在较长时间内持续贬值，我们应会看到更高进口价格对整体通胀的传导效应增强。",
-          "url": "https://flash.jin10.com/detail/20260218075551832800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "日本1月对美出口同比增长5.0%。",
-          "url": "https://flash.jin10.com/detail/20260218075536780800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "日本1月对欧洲出口同比增长29.6%，日本1月对亚洲出口同比增长25.8%。",
-          "url": "https://flash.jin10.com/detail/20260218075524276800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "国际货币基金组织日本代表团团长：日元汇率由市场力量决定，我们认为日元名义汇率并不存在“合理水平”。",
-          "url": "https://flash.jin10.com/detail/20260218075322004800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "国际货币基金组织日本代表团团长：日元汇率波动不定，日本当局致力于实行灵活的汇率制度。",
-          "url": "https://flash.jin10.com/detail/20260218075310951800",
+          "title": "高市早苗将提名日本央行新委员 或安插通货复涨派人士",
+          "url": "https://flash.jin10.com/detail/20260219075723631800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
         {
-          "title": "国际货币基金组织日本代表团团长：不存在正确的汇率水平。",
-          "url": "https://flash.jin10.com/detail/20260218075210521800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "国际货币基金组织日本代表团团长：外国投资者参与度的提高支撑了日本国债市场的流动性和交易深度，尤其是在日本央行缩减其在市场中的足迹之际。",
-          "url": "https://flash.jin10.com/detail/20260218075143119800",
+          "title": "日本至2月13日当周外资买进日债 -3930亿日元，前值-4641亿日元。",
+          "url": "https://flash.jin10.com/detail/20260219075052596800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
         {
-          "title": "国际货币基金组织日本代表团团长：市场定价表明，尽管尚无证据表明外国投资者因财政担忧而撤回需求，投资者日益关注日本的财政管理问题。",
-          "url": "https://flash.jin10.com/detail/20260218075113162800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "日本1月季调后商品贸易帐 4554.86亿日元，前值-2086亿日元。",
-          "url": "https://flash.jin10.com/detail/20260218075034268800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "WTI原油日内大涨3.00%，现报64.17美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260218202239611800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "沙特AI公司Humain向xAI的E轮融资投资30亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3056311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "十年来最看空美元！机构蜂拥对冲美元头寸",
-          "url": "https://wallstreetcn.com/articles/3765798",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "WTI原油突破64美元/桶，日内涨2.73%。",
-          "url": "https://flash.jin10.com/detail/20260218201642302800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "市场消息：沙特人工智能企业Humain以30亿美元支持XAI投资。",
-          "url": "https://flash.jin10.com/detail/20260218201426477800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "布伦特原油日内涨幅达2%，报68.77美元/桶。 WTI原油日内涨幅达2.0%，报63.51美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3056305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "优步：投资超过1亿美元开发新的高容量电动汽车充电枢纽。",
-          "url": "https://flash.jin10.com/detail/20260218200049908800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "WTI原油日内涨幅达1.5%，报63.2美元/桶；布伦特原油日内涨幅达1.5%，报68.45美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3056299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "世界各国为什么都在准备去美元化？",
-          "url": "https://www.zhihu.com/question/593757938",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "WTI原油日内涨幅达2.00%，现报63.55美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260218194115514800",
+          "title": "日本至2月13日当周买进外国股票 -258亿日元，前值1627亿日元。",
+          "url": "https://flash.jin10.com/detail/20260219075043085800",
           "source": "金十数据",
           "ranks": [
             28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时37分"
+          "time_info": "09时11分"
         },
         {
-          "title": "周二（2月17日）纽约尾盘（周三北京时间05:59），离岸人民币（CNH）兑美元报6.8852元，较周一纽约尾盘跌8点，日内整体交投于6.8813-6.8922元区间。 日线图上，离岸人民币2月16日曾涨至6.8810元。",
-          "url": "https://wallstreetcn.com/livenews/3056157",
-          "source": "华尔街见闻-快讯",
+          "title": "日本至2月13日当周买进外国债券 -4895亿日元，前值由-3657亿日元修正为-3595亿日元。",
+          "url": "https://flash.jin10.com/detail/20260219075002722800",
+          "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "乌克兰对卢卡申科实施制裁",
-          "url": "https://news.ifeng.com/c/8qqYQOZLRPm",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 20时37分]"
-        },
-        {
-          "title": "向德国要1.3万亿欧元还不满足，波兰向俄罗斯伸手：赔钱",
-          "url": "https://news.ifeng.com/c/8qqWwEp6bah",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 20时37分]"
-        },
-        {
-          "title": "乌已对白俄罗斯总统实施制裁",
-          "url": "https://www.douyin.com/hot/2405093",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 20时37分]"
-        },
-        {
-          "title": "视频丨俄罗斯外交部发言人用中文送上新春祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32625470",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
         {
-          "title": "匈牙利外长：匈牙利已停止向乌克兰运输柴油。",
-          "url": "https://flash.jin10.com/detail/20260218200906523800",
+          "title": "日本至2月13日当周外资买进日股 14242亿日元，前值由5432亿日元修正为5914亿日元。",
+          "url": "https://flash.jin10.com/detail/20260219075002721800",
           "source": "金十数据",
           "ranks": [
-            10
+            30
           ],
           "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "俄罗斯因资金枯竭削减石油钻探活动",
-          "url": "https://flash.jin10.com/detail/20260218200215315800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "2025年俄罗斯石油钻井活动降至三年最低。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3056301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "俄罗斯外交部长拉夫罗夫：与古巴的合作并不威胁美国。",
-          "url": "https://wallstreetcn.com/livenews/3056292",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "俄罗斯民众冒雪看春晚",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%B0%91%E4%BC%97%E5%86%92%E9%9B%AA%E7%9C%8B%E6%98%A5%E6%99%9A",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         }
@@ -595,236 +198,262 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 7,
       "titles": [
         {
-          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
-          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
+          "title": "美媒：美军最早本周末打击伊朗，特朗普尚未决定",
+          "url": "https://news.ifeng.com/c/8qraTXTgXgI",
           "source": "凤凰网",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时36分 ~ 20时37分]"
+          "time_info": "[09时10分 ~ 09时11分]"
         },
         {
-          "title": "哈梅内伊回应特朗普威胁",
-          "url": "https://news.ifeng.com/c/8qpTdmSckn9",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
-          "url": "https://news.ifeng.com/c/8qpSyTc8q0c",
-          "source": "凤凰网",
+          "title": "加州就终止能源中心资金起诉特朗普",
+          "url": "https://flash.jin10.com/detail/20260219084435962800",
+          "source": "金十数据",
           "ranks": [
             4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "泽连斯基：特朗普只对乌克兰施压不公平",
-          "url": "https://news.ifeng.com/c/8qqlQxdDOZa",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 20时37分]"
-        },
-        {
-          "title": "特朗普宣布大消息，日本要当冤大头了",
-          "url": "https://news.ifeng.com/c/8qq0daMEvoo",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "美国食品药品管理局（FDA）主管Makary宣称：特朗普政府是“非常支持疫苗的”。",
-          "url": "https://wallstreetcn.com/livenews/3056166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "美国总统特朗普的内阁与顾问开会，讨论中期选举策略。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3056161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "泽连斯基称特朗普要求乌方单方让步“不公平”",
-          "url": "https://wallstreetcn.com/livenews/3056288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时37分"
+          "time_info": "09时11分"
+        },
+        {
+          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
+          "url": "https://wallstreetcn.com/livenews/3056538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
+          "url": "https://wallstreetcn.com/livenews/3056537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
+          "url": "https://flash.jin10.com/detail/20260219080811370800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260219080556837800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "特朗普援引国防生产法，保障磷与除草剂的国内供应",
+          "url": "https://wallstreetcn.com/livenews/3056519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 5,
       "titles": [
         {
-          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
-          "url": "https://wallstreetcn.com/articles/3765810",
+          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
+          "url": "https://wallstreetcn.com/articles/3765834",
           "source": "华尔街见闻",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时11分 ~ 20时37分]"
-        },
-        {
-          "title": "Analog Devices第一财季营收31.6亿美元，预估31.2亿美元。 第一财季每股收益1.69美元，预估1.61美元。 Analog Devices美股盘前涨近4%。",
-          "url": "https://wallstreetcn.com/livenews/3056309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291237",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时11分 ~ 20时37分]"
+          "appearance_count": 2,
+          "time_info": "[09时10分 ~ 09时11分]"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
           "url": "https://wallstreetcn.com/articles/3765829",
           "source": "华尔街见闻",
           "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时10分 ~ 09时11分]"
+        },
+        {
+          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291237",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时10分 ~ 09时11分]"
+        },
+        {
+          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291551",
+          "source": "财联社热门",
+          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时36分 ~ 20时37分]"
+          "time_info": "[09时10分 ~ 09时11分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
           "url": "https://www.cls.cn/detail/2291354",
           "source": "财联社热门",
           "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时10分 ~ 09时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "1万亿美元蒸发背后：垂直软件的护城河，正在被大模型重写",
+          "url": "https://wallstreetcn.com/articles/3765835",
+          "source": "华尔街见闻",
+          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时36分 ~ 20时37分]"
+          "time_info": "[09时10分 ~ 09时11分]"
         },
         {
-          "title": "美股三大指数均小幅收涨",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%9D%87%E5%B0%8F%E5%B9%85%E6%94%B6%E6%B6%A8",
-          "source": "百度热搜",
+          "title": "韩国首尔综指涨3%，创下历史新高。三星电子涨超4%，消息称其正就HBM4的700美元单价进行谈判。",
+          "url": "https://wallstreetcn.com/livenews/3056536",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
         {
-          "title": "电子设计自动化（EDA）软件公司铿腾电子（CDNS）美股盘后涨4.65%，报296.63美元，业绩报告发布后一度涨超7%至303.32美元，该公司所给业绩指引并没有分析师担忧的那么严重。",
-          "url": "https://wallstreetcn.com/livenews/3056169",
+          "title": "美国-东盟商业理事会：美印协议包括一项涉及Essence Global Group的48.9亿美元半导体合资项目。",
+          "url": "https://flash.jin10.com/detail/20260219081720763800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "三星电子韩股涨超4%，消息称其正就HBM4的700美元单价进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260219080334441800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "三星正在就HBM4的单价进行谈判，价格约为700美元。（韩国《朝鲜日报》）",
+          "url": "https://wallstreetcn.com/livenews/3056525",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时11分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "韩国",
       "match_count": 3,
       "titles": [
         {
-          "title": "据The Information：Anthropic预计到2029年将向亚马逊、谷歌和微软支付至少800亿美元，以在云服务器上运行Claude AI。",
-          "url": "https://flash.jin10.com/detail/20260218085113078800",
-          "source": "金十数据",
+          "title": "华尔街大佬Tepper押注存储：美光持仓激增200%，新买韩国ETF",
+          "url": "https://wallstreetcn.com/articles/3765840",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
+          "appearance_count": 2,
+          "time_info": "[09时10分 ~ 09时11分]"
         },
         {
-          "title": "谷歌母公司Alphabet首席执行官Pichai：投入人工智能合情合理，因为这是一个非凡的机遇。",
-          "url": "https://wallstreetcn.com/livenews/3056294",
-          "source": "华尔街见闻-快讯",
+          "title": "中国奖牌榜反超韩国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%96%E7%89%8C%E6%A6%9C%E5%8F%8D%E8%B6%85%E9%9F%A9%E5%9B%BD%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            20
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时10分 ~ 09时11分]"
         },
         {
-          "title": "谷歌计划在美国和印度之间建设新的光纤线路",
-          "url": "https://flash.jin10.com/detail/20260218194454103800",
-          "source": "金十数据",
+          "title": "韩国人第一次体验中国过年",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%93%E9%AA%8C%E4%B8%AD%E5%9B%BD%E8%BF%87%E5%B9%B4",
+          "source": "bilibili 热搜",
           "ranks": [
-            26
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时10分 ~ 09时11分]"
         }
       ]
     },
     {
-      "keyword_group": "欧盟",
+      "keyword_group": "俄罗斯 乌克兰",
       "match_count": 1,
       "titles": [
         {
-          "title": "欧盟通过一项全面战略以支持与俄乌接壤的成员国",
-          "url": "https://wallstreetcn.com/livenews/3056300",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗与俄罗斯将举行海上联合军演",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32629571",
+          "source": "澎湃新闻",
           "ranks": [
-            14
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时10分 ~ 09时11分]"
         }
       ]
     }

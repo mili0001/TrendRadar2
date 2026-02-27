@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-27T09:06:18.326007+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-02-27T20:33:56.732915+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "日本",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "87比80客场战胜日本，中国男篮世预赛上演半场逆转好戏",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32659345",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时06分 ~ 20时33分]"
+        },
         {
           "title": "FIBA竟称“中国男篮从日本偷走胜利”",
           "url": "https://www.toutiao.com/trending/7610756058185318454/",
@@ -19,15 +30,15 @@
           "time_info": "09时06分"
         },
         {
-          "title": "87比80客场战胜日本，中国男篮世预赛上演半场逆转好戏",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32659345",
-          "source": "澎湃新闻",
+          "title": "男篮世预赛中国队逆转战胜日本队，FIBA 官方社媒称「中国男篮偷走胜利」引发舆论，如何看待这一说法？",
+          "url": "https://www.zhihu.com/question/2010656685698598178",
+          "source": "知乎",
           "ranks": [
             1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时06分"
+          "time_info": "20时33分"
         },
         {
           "title": "世预赛中国男篮逆转战胜日本队",
@@ -52,17 +63,6 @@
           "time_info": "09时06分"
         },
         {
-          "title": "日本撞人族出没,女童惨遭肘击",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351051&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%92%9E%E4%BA%BA%E6%97%8F%E5%87%BA%E6%B2%A1%2C%E5%A5%B3%E7%AB%A5%E6%83%A8%E9%81%AD%E8%82%98%E5%87%BB",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        },
-        {
           "title": "男篮世界杯预选赛，中国男篮 87-80 逆转日本男篮，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2010391207130391871",
           "source": "知乎",
@@ -72,6 +72,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "日本撞人族出没,女童惨遭肘击",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351051&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%92%9E%E4%BA%BA%E6%97%8F%E5%87%BA%E6%B2%A1%2C%E5%A5%B3%E7%AB%A5%E6%83%A8%E9%81%AD%E8%82%98%E5%87%BB",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时06分 ~ 20时33分]"
         },
         {
           "title": "中国男篮战胜日本男篮",
@@ -94,6 +106,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "澳新银行：日本央行进一步加息的空间将会非常有限",
+          "url": "https://flash.jin10.com/detail/20260227194637304800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         },
         {
           "title": "日本1月零售销售 12.954万亿日元，前值14.825万亿日元。",
@@ -176,7 +199,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "现货黄金回落至5170美元/盎司下方，日内跌0.29%。",
@@ -201,6 +224,28 @@
           "time_info": "09时06分"
         },
         {
+          "title": "布伦特原油日内涨幅达2%，报72.26美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3060276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
+          "title": "渤海租赁：Avolon通过其下属子公司向南方航空购买10架B787-8飞机及2台GEnx-1B70备用发动机资产，上述飞机及发动机资产市场价格约为5.32亿美元，实际购买价格根据产权交易所竞价结果确定。",
+          "url": "https://wallstreetcn.com/livenews/3060274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
           "title": "据新浪报价，离岸人民币兑美元短线走低约100点。",
           "url": "https://flash.jin10.com/detail/20260227083537881800",
           "source": "金十数据",
@@ -223,6 +268,17 @@
           "time_info": "09时06分"
         },
         {
+          "title": "WTI原油突破67美元/桶，日内涨2.26%。",
+          "url": "https://flash.jin10.com/detail/20260227195852204800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
           "title": "最新报告揭露美用技术霸权收割全球虚拟货币资产，两案获利近200亿美元",
           "url": "https://m.thepaper.cn/newsDetail_forward_32657978",
           "source": "澎湃新闻",
@@ -232,13 +288,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "印度首席经济顾问：印度经济将在2026/27财年轻松突破4万亿美元大关。",
+          "url": "https://flash.jin10.com/detail/20260227194438381800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时06分 ~ 20时33分]"
+        },
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
           "url": "https://news.ifeng.com/c/8r3yuvat2ge",
@@ -251,22 +330,22 @@
           "time_info": "09时06分"
         },
         {
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
           "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
           "source": "澎湃新闻",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        },
-        {
-          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -287,8 +366,19 @@
     },
     {
       "keyword_group": "韩国",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "负责林孝埈的韩国籍康复教练被解雇",
+          "url": "https://s.weibo.com/weibo?q=%E8%B4%9F%E8%B4%A3%E6%9E%97%E5%AD%9D%E5%9F%88%E7%9A%84%E9%9F%A9%E5%9B%BD%E7%B1%8D%E5%BA%B7%E5%A4%8D%E6%95%99%E7%BB%83%E8%A2%AB%E8%A7%A3%E9%9B%87&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
         {
           "title": "韩国国民年金公团2025年度投资回报率达18.8%。",
           "url": "https://wallstreetcn.com/livenews/3059890",
@@ -336,8 +426,58 @@
       ]
     },
     {
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "比尔·盖茨承认与 2 名俄罗斯女子有婚外情，称与爱泼斯坦往来是「巨大错误」，如何评价这一道歉？",
+          "url": "https://www.zhihu.com/question/2010047778584224612",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
+          "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32653060",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "泽连斯基办公室：泽连斯基邀请斯洛伐克总理前往乌克兰，以讨论所有现存的问题。",
+          "url": "https://flash.jin10.com/detail/20260227194702548800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
+          "title": "泽连斯基办公室：乌克兰总统泽连斯基正与斯洛伐克总理通话。",
+          "url": "https://flash.jin10.com/detail/20260227194609550800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
@@ -360,6 +500,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "2025年沙特投资者大幅增加美股交易量，国内交易额近乎减半",
+          "url": "https://flash.jin10.com/detail/20260227200350341800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         }
       ]
     },
@@ -407,23 +558,6 @@
           "source": "财联社热门",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32653060",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 1,

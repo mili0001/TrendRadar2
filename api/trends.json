@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T09:15:34.826241+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-01T20:25:41.458318+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "实时更新丨特朗普宣布哈梅内伊已死",
@@ -50,6 +50,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
+          "url": "https://wallstreetcn.com/articles/3766454",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
+          "url": "https://wallstreetcn.com/articles/3766446",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
+          "url": "https://www.cls.cn/detail/2298666",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
+          "url": "https://wallstreetcn.com/articles/3766448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "华盛顿邮报报道称，特朗普受到以色列和沙特的施压，要求对伊朗采取军事行动。",
@@ -160,12 +204,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-01）",
+          "url": "https://flash.jin10.com/detail/20260301191237626800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗战火重启，布油会再次冲击80美元吗？",
@@ -179,6 +234,17 @@
           "time_info": "09时15分"
         },
         {
+          "title": "报道：布伦特原油场外交易价格涨8%-10%，报每桶80美元左右",
+          "url": "https://wallstreetcn.com/livenews/3061153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "Polymarket伊朗开战赌局规模达5.29亿美元，新注册钱包引发关注",
           "url": "https://wallstreetcn.com/livenews/3061000",
           "source": "华尔街见闻-快讯",
@@ -190,6 +256,17 @@
           "time_info": "09时15分"
         },
         {
+          "title": "两位交易消息人士表示，周日格林尼治时间11时（北京时间19时），布伦特原油场外交易价格较前一交易日上涨8%至10%，报每桶80美元左右。",
+          "url": "https://flash.jin10.com/detail/20260301191802521800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "韩国2月贸易帐初值 155.1亿美元，预期100亿美元，前值由87.4亿美元修正为87.15亿美元。",
           "url": "https://flash.jin10.com/detail/20260301080233400800",
           "source": "金十数据",
@@ -199,6 +276,107 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日本",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "“后巴菲特时代”首封股东信：巴菲特仍坐镇，手握3700亿现金，坚守日本投资策略",
+          "url": "https://wallstreetcn.com/articles/3766440",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 20时25分]"
+        },
+        {
+          "title": "世界上最完美的圆锥孤山是不是日本富士山？我国有没有媲美富士山的圆锥山？",
+          "url": "https://www.zhihu.com/question/1909395021217642085",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "中国男篮7月主场再战日本和中国台北",
+          "url": "https://www.toutiao.com/trending/7611371233438974003/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "残阵韩国断电2分钟惜败日本男篮",
+          "url": "https://www.toutiao.com/trending/7611347817369600036/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "俄罗斯、欧盟、法国、马来西亚等多方发声",
+          "url": "https://news.ifeng.com/c/8r7U1CGpeGY",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
+          "title": "俄罗斯大使馆：正寻求获取有关“埃塞拉”号油轮上是否有俄罗斯籍船员的信息。",
+          "url": "https://flash.jin10.com/detail/20260301194023599800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "俄罗斯驻比利时大使馆就“埃塞拉”号油轮被扣押一事表示，尚未收到关于扣押事实及原因的任何官方通知。",
+          "url": "https://flash.jin10.com/detail/20260301193716610800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "王毅同俄罗斯外长拉夫罗夫通电话",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%90%8C%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%96%E9%95%BF%E6%8B%89%E5%A4%AB%E7%BD%97%E5%A4%AB%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         }
       ]
     },
@@ -231,43 +409,20 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "日本",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“后巴菲特时代”首封股东信：巴菲特仍坐镇，手握3700亿现金，坚守日本投资策略",
-          "url": "https://wallstreetcn.com/articles/3766440",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "韩国",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "纪凌尘与韩国女友泰国度假",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%87%8C%E5%B0%98%E4%B8%8E%E9%9F%A9%E5%9B%BD%E5%A5%B3%E5%8F%8B%E6%B3%B0%E5%9B%BD%E5%BA%A6%E5%81%87%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
         {
           "title": "韩国2月出口年率 29%，预期24%，前值由33.90%修正为33.80%。",
           "url": "https://flash.jin10.com/detail/20260301080124562800",
@@ -282,19 +437,20 @@
       ]
     },
     {
-      "keyword_group": "俄罗斯 乌克兰",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "俄罗斯、欧盟、法国、马来西亚等多方发声",
-          "url": "https://news.ifeng.com/c/8r7U1CGpeGY",
-          "source": "凤凰网",
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
           "ranks": [
-            6
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 20时25分]"
         }
       ]
     }

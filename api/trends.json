@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-03-06T09:12:21.057022+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-03-06T20:31:48.446153+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
-          "url": "https://news.ifeng.com/c/8rGUp5Pquod",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
           "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
           "source": "凤凰网",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 20时31分]"
+        },
+        {
+          "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
+          "url": "https://news.ifeng.com/c/8rGUp5Pquod",
+          "source": "凤凰网",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -41,6 +41,29 @@
           "time_info": "09时12分"
         },
         {
+          "title": "美国24州联合起诉特朗普政府新关税政策",
+          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 20时31分]"
+        },
+        {
+          "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
+          "url": "https://wallstreetcn.com/articles/3766889",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "美国内政部长透露：特朗普政府正考虑“所有方案”来控制油价！",
           "url": "https://www.cls.cn/detail/2304524",
           "source": "财联社热门",
@@ -50,6 +73,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "特朗普：不接受哈梅内伊儿子担任伊朗新领导人，“我必须亲自参与任命”，伊朗外长：这完全是伊朗人民的事，任何人都无权干涉",
+          "url": "https://wallstreetcn.com/articles/3766863",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
@@ -63,15 +97,15 @@
           "time_info": "09时12分"
         },
         {
-          "title": "美国24州联合起诉特朗普政府新关税政策",
-          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
-          "source": "凤凰网",
+          "title": "特朗普夸梅西强过贝利，还称C罗也很棒！梅西在一旁表情亮了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32711665",
+          "source": "澎湃新闻",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时12分"
+          "time_info": "20时31分"
         },
         {
           "title": "Anthropic CEO Dario Amodei为一份泄露的批评特朗普政府的备忘录道歉。（AXIOS）",
@@ -98,6 +132,305 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "WTI原油日内涨幅达6.0%，报85.88美元/桶；布伦特原油日内涨幅达4.5%，报89.28美元/桶。 现货黄金5分钟内下跌11.22美元/盎司，报5070.73美元/盎司；纽约金5分钟内下跌11.59美元/盎司，报5079.1美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3065242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "现货黄金短线下挫70美元，报道：波兰拟售黄金储备为国防融资",
+          "url": "https://wallstreetcn.com/articles/3766831",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 20时31分]"
+        },
+        {
+          "title": "恒科蒸发6000亿美元，市场在怕什么",
+          "url": "https://wallstreetcn.com/articles/3766775",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "现货黄金跌破5070美元/盎司，日内跌0.23%。",
+          "url": "https://flash.jin10.com/detail/20260306090052961800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "布伦特原油日内涨幅达4%，报88.84美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3065235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "全球能源“大动脉”断流 美油期货近两年来首破85美元",
+          "url": "https://flash.jin10.com/detail/20260306200722167800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "WTI原油站上85美元/桶，为2024年4月以来首次",
+          "url": "https://wallstreetcn.com/livenews/3065227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "WTI原油日内暴涨9.00%，现报86.05美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260306195506047800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "布伦特原油日内暴涨6.00%，现报87.37美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260306195409023800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日本",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "日本20年期国债收益率上行1个基点，至2.990%。",
+          "url": "https://wallstreetcn.com/livenews/3064737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "日本频现“撞人族” 中国游客发声",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A2%91%E7%8E%B0%E2%80%9C%E6%92%9E%E4%BA%BA%E6%97%8F%E2%80%9D+%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "能源见底,日本斩杀线已到",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351391&amp;topic_name=%E8%83%BD%E6%BA%90%E8%A7%81%E5%BA%95%2C%E6%97%A5%E6%9C%AC%E6%96%A9%E6%9D%80%E7%BA%BF%E5%B7%B2%E5%88%B0",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "日本经济再生担当大臣木内康弘：正在密切关注原油和金融市场。",
+          "url": "https://wallstreetcn.com/livenews/3064723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "日本10年期国债收益率下行0.5个基点，至2.15%。",
+          "url": "https://wallstreetcn.com/livenews/3064717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "日本再次向海洋排放核污染水",
+          "url": "https://www.douyin.com/hot/2420623",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "韩国",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "高盛将韩国首尔综合指数的目标点位上调至7000点。 理由是存储芯片价格持续走强。策略师表示：此次股市的回调是一次修正，经过一段时间的盘整后，很可能会反弹并创下新高。此外，高盛将2026年韩国企业盈利预期从120%上调至130%，这是高盛今年第三次上调该预期。",
+          "url": "https://wallstreetcn.com/livenews/3064745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "高盛将韩国KOSPI指数目标点位上调至7000点",
+          "url": "https://flash.jin10.com/detail/20260306090444292800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "韩国紧急从阿联酋进口超600万桶原油",
+          "url": "https://flash.jin10.com/detail/20260306200351058800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "韩国首尔综合指数转涨，现涨0.03%，收复早盘2.14%的跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3064720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "股指期货大幅上涨后，韩国短暂暂停科斯达克市场程序化交易。",
+          "url": "https://wallstreetcn.com/livenews/3064715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "德国外长：匈牙利阻挠对乌克兰的援助不可接受。",
+          "url": "https://flash.jin10.com/detail/20260306201048387800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "德国外长：未来几周我们需要加大对乌克兰的支持。",
+          "url": "https://flash.jin10.com/detail/20260306201009172800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "德国外长：乌克兰仍然是我们的首要安全优先事项。",
+          "url": "https://flash.jin10.com/detail/20260306200848875800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "美国财长贝森特：预计印度将加大对美国石油的购买力度。 给予印度炼油商30天豁免期，允许其购买俄罗斯石油。 此举将缓解伊朗冲突带来的压力。",
+          "url": "https://wallstreetcn.com/livenews/3064722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "两名美国高级官员表示：美国已发布为期30天的临时豁免，允许将目前滞留在海上的俄罗斯原油出售给印度，以缓解全球石油市场压力。",
+          "url": "https://wallstreetcn.com/livenews/3064712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
@@ -106,11 +439,12 @@
           "url": "https://wallstreetcn.com/articles/3766762",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 20时31分]"
         },
         {
           "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
@@ -148,24 +482,24 @@
       ]
     },
     {
-      "keyword_group": "日本",
-      "match_count": 4,
+      "keyword_group": "欧盟",
+      "match_count": 3,
       "titles": [
         {
-          "title": "日本20年期国债收益率上行1个基点，至2.990%。",
-          "url": "https://wallstreetcn.com/livenews/3064737",
-          "source": "华尔街见闻-快讯",
+          "title": "欧盟委员会主席冯德莱恩、欧洲理事会主席科斯塔将于下周一与海湾国家领导人通话。",
+          "url": "https://flash.jin10.com/detail/20260306200236422800",
+          "source": "金十数据",
           "ranks": [
-            9
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时12分"
+          "time_info": "20时31分"
         },
         {
-          "title": "能源见底,日本斩杀线已到",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351391&amp;topic_name=%E8%83%BD%E6%BA%90%E8%A7%81%E5%BA%95%2C%E6%97%A5%E6%9C%AC%E6%96%A9%E6%9D%80%E7%BA%BF%E5%B7%B2%E5%88%B0",
-          "source": "贴吧",
+          "title": "普京称考虑主动给欧洲断气，欧盟迟早要禁运，不如主动断气，如何看待这一表态？若实施会引爆欧洲能源危机吗？",
+          "url": "https://www.zhihu.com/question/2012813441065320712",
+          "source": "知乎",
           "ranks": [
             19
           ],
@@ -174,139 +508,39 @@
           "time_info": "09时12分"
         },
         {
-          "title": "日本经济再生担当大臣木内康弘：正在密切关注原油和金融市场。",
-          "url": "https://wallstreetcn.com/livenews/3064723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "日本10年期国债收益率下行0.5个基点，至2.15%。",
-          "url": "https://wallstreetcn.com/livenews/3064717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "韩国",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "高盛将韩国首尔综合指数的目标点位上调至7000点。 理由是存储芯片价格持续走强。策略师表示：此次股市的回调是一次修正，经过一段时间的盘整后，很可能会反弹并创下新高。此外，高盛将2026年韩国企业盈利预期从120%上调至130%，这是高盛今年第三次上调该预期。",
-          "url": "https://wallstreetcn.com/livenews/3064745",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "高盛将韩国KOSPI指数目标点位上调至7000点",
-          "url": "https://flash.jin10.com/detail/20260306090444292800",
+          "title": "市场消息：欧盟委员会正在考虑可能的财政支持，以帮助恢复通过“友谊”输油管道的供应。",
+          "url": "https://flash.jin10.com/detail/20260306195231768800",
           "source": "金十数据",
           "ranks": [
-            4
+            30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "韩国首尔综合指数转涨，现涨0.03%，收复早盘2.14%的跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3064720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "股指期货大幅上涨后，韩国短暂暂停科斯达克市场程序化交易。",
-          "url": "https://wallstreetcn.com/livenews/3064715",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
+          "time_info": "20时31分"
         }
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "现货黄金短线下挫70美元，报道：波兰拟售黄金储备为国防融资",
-          "url": "https://wallstreetcn.com/articles/3766831",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "恒科蒸发6000亿美元，市场在怕什么",
-          "url": "https://wallstreetcn.com/articles/3766775",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "现货黄金跌破5070美元/盎司，日内跌0.23%。",
-          "url": "https://flash.jin10.com/detail/20260306090052961800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "俄罗斯 乌克兰",
+      "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
         {
-          "title": "美国财长贝森特：预计印度将加大对美国石油的购买力度。 给予印度炼油商30天豁免期，允许其购买俄罗斯石油。 此举将缓解伊朗冲突带来的压力。",
-          "url": "https://wallstreetcn.com/livenews/3064722",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
+          "url": "https://wallstreetcn.com/articles/3766836",
+          "source": "华尔街见闻",
           "ranks": [
-            22
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时12分"
+          "time_info": "20时31分"
         },
         {
-          "title": "两名美国高级官员表示：美国已发布为期30天的临时豁免，允许将目前滞留在海上的俄罗斯原油出售给印度，以缓解全球石油市场压力。",
-          "url": "https://wallstreetcn.com/livenews/3064712",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI发布最强专业模型GPT-5.4",
+          "url": "https://www.toutiao.com/trending/7613911179013918271/",
+          "source": "今日头条",
           "ranks": [
-            30
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -324,40 +558,6 @@
           "source": "知乎",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI发布最强专业模型GPT-5.4",
-          "url": "https://www.toutiao.com/trending/7613911179013918271/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欧盟",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "普京称考虑主动给欧洲断气，欧盟迟早要禁运，不如主动断气，如何看待这一表态？若实施会引爆欧洲能源危机吗？",
-          "url": "https://www.zhihu.com/question/2012813441065320712",
-          "source": "知乎",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 1,

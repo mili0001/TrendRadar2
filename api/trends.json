@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T20:24:33.239541+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-03-08T09:08:53.258906+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -8,426 +8,254 @@
       "match_count": 14,
       "titles": [
         {
-          "title": "特朗普：若满分10分，我给美对伊行动打15分",
-          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
+          "title": "特朗普：目前无计划在伊朗部署地面部队",
+          "url": "https://news.ifeng.com/c/8rJig12CHog",
           "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 09时04分]"
+          "appearance_count": 1,
+          "time_info": "09时08分"
         },
         {
-          "title": "美能源部长称将尽快开始护航，特朗普宣称“与伊朗不会达成任何协议”",
-          "url": "https://wallstreetcn.com/articles/3766927",
-          "source": "华尔街见闻",
+          "title": "特朗普称已排除库尔德武装参战可能",
+          "url": "https://wallstreetcn.com/livenews/3065786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "特朗普先“赢”上了：伊朗道歉都是我的功劳，今天伊朗将遭受重击",
+          "url": "https://news.ifeng.com/c/8rJ3FnhA3LI",
+          "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 09时04分]"
+          "appearance_count": 1,
+          "time_info": "09时08分"
         },
         {
-          "title": "特朗普：军工企业一致同意将“高精尖”武器产量提高四倍",
-          "url": "https://flash.jin10.com/detail/20260307082138210800",
-          "source": "金十数据",
+          "title": "专家：特朗普的麻烦还在后面，美国与伊朗的战争成本接近300:1",
+          "url": "https://news.ifeng.com/c/8rJ8cbEmAvH",
+          "source": "凤凰网",
           "ranks": [
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "09时08分"
         },
         {
-          "title": "特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番”",
-          "url": "https://wallstreetcn.com/articles/3766927",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "哥伦比亚总统佩特罗：特朗普必须远离内塔尼亚胡和那些向地球上的孩子发射导弹的人。",
-          "url": "https://flash.jin10.com/detail/20260307195848555800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "特朗普宣称考虑扩大打击范围 伊朗或遭受“非常沉重打击”",
-          "url": "https://wallstreetcn.com/livenews/3065718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
-          "url": "https://wallstreetcn.com/articles/3766889",
-          "source": "华尔街见闻",
+          "title": "委内瑞拉代总统致函特朗普",
+          "url": "https://www.toutiao.com/trending/7614119677836476458/",
+          "source": "今日头条",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 09时04分]"
+          "appearance_count": 1,
+          "time_info": "09时08分"
         },
         {
-          "title": "特朗普：不接受哈梅内伊儿子担任伊朗新领导人，“我必须亲自参与任命”，伊朗外长：这完全是伊朗人民的事，任何人都无权干涉",
-          "url": "https://wallstreetcn.com/articles/3766863",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 09时04分]"
-        },
-        {
-          "title": "“甩锅”特朗普，与下属传婚外情，她被开了",
-          "url": "https://news.ifeng.com/c/8rHRuIXQ6KL",
+          "title": "英国可能部署航母至中东，特朗普：不需要",
+          "url": "https://news.ifeng.com/c/8rJVEzbISO2",
           "source": "凤凰网",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 09时04分]"
+          "appearance_count": 1,
+          "time_info": "09时08分"
         },
         {
-          "title": "特朗普威胁下一个就是古巴",
-          "url": "https://www.douyin.com/hot/2420825",
-          "source": "抖音",
+          "title": "特朗普：目前无计划在伊朗部署地面部队",
+          "url": "https://flash.jin10.com/detail/20260308081705063800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "特朗普暗讽英国航母“姗姗来迟”：不需要在我们已经获胜后才加入战争的人",
+          "url": "https://flash.jin10.com/detail/20260308080925846800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "特朗普：“已经打赢”，美国不需要英国派遣航母参与对伊朗军事行动",
+          "url": "https://wallstreetcn.com/livenews/3065776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "特朗普：目前无意在伊朗部署地面部队，不希望库尔德武装介入伊朗战事",
+          "url": "https://wallstreetcn.com/livenews/3065774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "据卡塔尔国家通讯社：卡塔尔埃米尔与美国总统特朗普通电话，讨论局势及伊朗持续发动的袭击。卡塔尔埃米尔表示，多哈将毫不犹豫地采取一切必要措施，以维护其安全、主权和国家利益。",
+          "url": "https://flash.jin10.com/detail/20260308050246239800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 09时04分]"
-        },
-        {
-          "title": "特朗普和美国大军火商开会",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%86%9B%E7%81%AB%E5%95%86%E5%BC%80%E4%BC%9A%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 09时04分]"
-        },
-        {
-          "title": "特朗普：伊朗今日将遭受沉重打击",
-          "url": "https://flash.jin10.com/detail/20260307191516778800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时24分"
+          "time_info": "09时08分"
         },
         {
-          "title": "据The Verge：任天堂已起诉美国政府，要求退还特朗普时期征收的关税。",
-          "url": "https://flash.jin10.com/detail/20260307034359509800",
+          "title": "伊朗最高国家安全委员会秘书拉里贾尼：特朗普最好承认他犯了错误，被以色列欺骗了。",
+          "url": "https://flash.jin10.com/detail/20260308041630102800",
           "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "09时08分"
         },
         {
-          "title": "美国总统特朗普：（谈伊朗）无条件投降可能是（伊朗人）宣布无条件投降，也可能是他们再也无法战斗，没有人或东西可以战斗时。",
-          "url": "https://flash.jin10.com/detail/20260307033923007800",
+          "title": "伊朗最高国家安全委员会秘书拉里贾尼：特朗普的歇斯底里行为和非外交言辞，显示出他在战略上的僵局，以及对以色列政策的完全依赖。这使得“美国优先”的口号变成了“以色列优先”。",
+          "url": "https://flash.jin10.com/detail/20260308041606759800",
           "source": "金十数据",
           "ranks": [
-            29
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "卡塔尔：若战争持续数周，海湾国家将被迫停产，未来三周油价恐飙至150美元",
-          "url": "https://wallstreetcn.com/articles/3766900",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 09时04分]"
+          "time_info": "09时08分"
         },
         {
-          "title": "美以伊战争｜伊朗摧毁一套3亿美元“萨德”雷达",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "卡塔尔能源部长警告“油价或冲上150美元” 国际油价应声拉涨",
-          "url": "https://www.cls.cn/detail/2305412",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 09时04分]"
-        },
-        {
-          "title": "美国1月消费信贷 80.5亿美元，预期120亿美元，前值由240.45亿美元修正为252亿美元。",
-          "url": "https://flash.jin10.com/detail/20260307040008445800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "美国打伊朗4天成本近110亿美元",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%89%93%E4%BC%8A%E6%9C%974%E5%A4%A9%E6%88%90%E6%9C%AC%E8%BF%91110%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "预测市场平台Kalshi和Polymarket分别考虑获得大约200亿美元估值。 两家公司都已经与潜在的投资者们对话。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3065499",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "美国司法部：已针对据称与伊朗石油运输网络有关的逾1530万美元资金提起民事没收诉讼。",
-          "url": "https://flash.jin10.com/detail/20260307033934912800",
+          "title": "伊朗最高国家安全委员会秘书拉里贾尼：我们将为特朗普刺杀最高领袖哈梅内伊而惩罚他，绝不会让他逃脱。",
+          "url": "https://flash.jin10.com/detail/20260308041345021800",
           "source": "金十数据",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "09时08分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
-          "title": "日本再次向海洋排放核污染水",
-          "url": "https://www.douyin.com/hot/2420623",
-          "source": "抖音",
+          "title": "日本首次在冲绳部署新型反潜巡逻机，强化西南方向军事部署动作频频",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32721200",
+          "source": "澎湃新闻",
           "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 09时04分]"
-        },
-        {
-          "title": "日本NHK高层在闹市区性侵陌生女子",
-          "url": "https://www.toutiao.com/trending/7613968803771203593/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 09时04分]"
-        },
-        {
-          "title": "霍尔木兹海峡关闭阻碍从中东进口原材料，日本可能面临乙烯生产中断",
-          "url": "https://wallstreetcn.com/livenews/3065709",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "日本考虑在第二轮针对美国的投资中出资15万亿日元。（日本读卖新闻）",
-          "url": "https://wallstreetcn.com/livenews/3065508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "09时08分"
         },
         {
           "title": "日本频现“撞人族” 中国游客发声",
           "url": "https://www.toutiao.com/trending/7613541583115255871/",
           "source": "今日头条",
           "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "龃龉升级 匈牙利扣押乌克兰运钞车",
-          "url": "https://wallstreetcn.com/livenews/3065716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "“俄罗斯向伊朗分享美军坐标，又有核武大国进场”",
-          "url": "https://news.ifeng.com/c/8rIMtLaXKE2",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "印度政府消息人士：印度燃油库存逐日增加。若获供应，印度将考虑购买俄罗斯液化天然气。",
-          "url": "https://flash.jin10.com/detail/20260307190738675800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "克里姆林宫：普京向佩泽希齐扬重申，俄罗斯坚定主张必须立即停止中东地区的敌对行动。",
-          "url": "https://flash.jin10.com/detail/20260307035342742800",
-          "source": "金十数据",
-          "ranks": [
-            21
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "09时08分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
-          "url": "https://wallstreetcn.com/articles/3766935",
-          "source": "华尔街见闻",
+          "title": "OpenAI机器人团队主管辞职，因公司与五角大楼的AI交易",
+          "url": "https://wallstreetcn.com/livenews/3065778",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "甲骨文与OpenAI或放弃扩建得州大型AI数据中心",
-          "url": "https://flash.jin10.com/detail/20260307080857687800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "09时08分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "美股收盘：油价暴涨叠加就业数据疲软 三大指数集体收跌",
           "url": "https://www.cls.cn/detail/2305872",
           "source": "财联社热门",
           "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 20时24分]"
-        },
-        {
-          "title": "Vertiv、EchoStar美股盘后涨超3%，Lumentum、相干公司Coherent涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3065496",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "09时08分"
         }
       ]
     },
     {
-      "keyword_group": "Claude",
+      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "亚马逊：客户可以继续使用Anthropic的Claude。",
-          "url": "https://flash.jin10.com/detail/20260307034037320800",
-          "source": "金十数据",
+          "title": "美国打伊朗4天成本近110亿美元",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%89%93%E4%BC%8A%E6%9C%974%E5%A4%A9%E6%88%90%E6%9C%AC%E8%BF%91110%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "bilibili 热搜",
           "ranks": [
-            27
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "09时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "俄罗斯发动大规模袭击致乌多地停电",
+          "url": "https://www.toutiao.com/trending/7613561654849929225/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         }
       ]
     }

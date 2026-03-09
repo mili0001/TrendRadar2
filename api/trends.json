@@ -1,49 +1,38 @@
 {
-  "generated_at": "2026-03-08T20:25:26.699015+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-03-09T09:08:45.236325+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 18,
+      "keyword_group": "日本",
+      "match_count": 11,
       "titles": [
         {
-          "title": "特朗普要求赦免以色列总理 以总统：战争期间“不讨论”",
-          "url": "https://wallstreetcn.com/livenews/3065878",
+          "title": "日本经济产业大臣赤泽：与美国商务部长卢特尼克讨论了能源问题，但不便透露细节。 将采取一切可能措施，确保油价上涨不会对日本民众的生活产生负面影响。 正密切关注原油价格，将确保我们做好充分准备。",
+          "url": "https://wallstreetcn.com/livenews/3066008",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "09时08分"
         },
         {
-          "title": "特朗普：目前无计划在伊朗部署地面部队",
-          "url": "https://news.ifeng.com/c/8rJig12CHog",
-          "source": "凤凰网",
+          "title": "王毅向日本发出灵魂4问",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E5%90%91%E6%97%A5%E6%9C%AC%E5%8F%91%E5%87%BA%E7%81%B5%E9%AD%824%E9%97%AE%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
         {
-          "title": "特朗普称已排除库尔德武装参战可能",
-          "url": "https://wallstreetcn.com/livenews/3065786",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "特朗普先“赢”上了：伊朗道歉都是我的功劳，今天伊朗将遭受重击",
-          "url": "https://news.ifeng.com/c/8rJ3FnhA3LI",
-          "source": "凤凰网",
+          "title": "木柜子痴硬闯日本,晒照挑衅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351507&amp;topic_name=%E6%9C%A8%E6%9F%9C%E5%AD%90%E7%97%B4%E7%A1%AC%E9%97%AF%E6%97%A5%E6%9C%AC%2C%E6%99%92%E7%85%A7%E6%8C%91%E8%A1%85",
+          "source": "贴吧",
           "ranks": [
             4
           ],
@@ -52,9 +41,9 @@
           "time_info": "09时08分"
         },
         {
-          "title": "专家：特朗普的麻烦还在后面，美国与伊朗的战争成本接近300:1",
-          "url": "https://news.ifeng.com/c/8rJ8cbEmAvH",
-          "source": "凤凰网",
+          "title": "日本经济产业大臣赤泽亮正：将采取一切可能的措施，确保油价上涨不会对日本民众的生活造成负面影响。",
+          "url": "https://flash.jin10.com/detail/20260309084334165800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
@@ -63,76 +52,42 @@
           "time_info": "09时08分"
         },
         {
-          "title": "委内瑞拉代总统致函特朗普",
-          "url": "https://www.toutiao.com/trending/7614119677836476458/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时08分 ~ 20时25分]"
-        },
-        {
-          "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
-          "url": "https://wallstreetcn.com/articles/3766963",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "英国可能部署航母至中东，特朗普：不需要",
-          "url": "https://news.ifeng.com/c/8rJVEzbISO2",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "特朗普：目前无计划在伊朗部署地面部队",
-          "url": "https://flash.jin10.com/detail/20260308081705063800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
-          "url": "https://wallstreetcn.com/articles/3766970",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "特朗普暗讽英国航母“姗姗来迟”：不需要在我们已经获胜后才加入战争的人",
-          "url": "https://flash.jin10.com/detail/20260308080925846800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "特朗普：“已经打赢”，美国不需要英国派遣航母参与对伊朗军事行动",
-          "url": "https://wallstreetcn.com/livenews/3065776",
+          "title": "日本5年期国债收益率上行3个基点至1.645%。",
+          "url": "https://wallstreetcn.com/livenews/3066005",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正表示，已与美国商务部长卢特尼克就能源问题进行磋商，但他未透露细节。",
+          "url": "https://flash.jin10.com/detail/20260309084200729800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "日本寿险公司2月份抛售外债规模创2023年末以来新高",
+          "url": "https://wallstreetcn.com/livenews/3066000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "日本五年期国债收益率上涨3.0个基点至1.645%。",
+          "url": "https://flash.jin10.com/detail/20260309083310069800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
@@ -141,20 +96,9 @@
           "time_info": "09时08分"
         },
         {
-          "title": "特朗普：目前无意在伊朗部署地面部队，不希望库尔德武装介入伊朗战事",
-          "url": "https://wallstreetcn.com/livenews/3065774",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "据卡塔尔国家通讯社：卡塔尔埃米尔与美国总统特朗普通电话，讨论局势及伊朗持续发动的袭击。卡塔尔埃米尔表示，多哈将毫不犹豫地采取一切必要措施，以维护其安全、主权和国家利益。",
-          "url": "https://flash.jin10.com/detail/20260308050246239800",
-          "source": "金十数据",
+          "title": "两会外长会｜就涉台议题，王毅四问日本：有什么资格插手？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32726646",
+          "source": "澎湃新闻",
           "ranks": [
             15
           ],
@@ -163,42 +107,20 @@
           "time_info": "09时08分"
         },
         {
-          "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32726656",
-          "source": "澎湃新闻",
+          "title": "日本品牌正被中国大规模收购",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%93%81%E7%89%8C%E6%AD%A3%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%94%B6%E8%B4%AD",
+          "source": "bilibili 热搜",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书拉里贾尼：特朗普最好承认他犯了错误，被以色列欺骗了。",
-          "url": "https://flash.jin10.com/detail/20260308041630102800",
-          "source": "金十数据",
-          "ranks": [
-            25
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
         {
-          "title": "伊朗最高国家安全委员会秘书拉里贾尼：特朗普的歇斯底里行为和非外交言辞，显示出他在战略上的僵局，以及对以色列政策的完全依赖。这使得“美国优先”的口号变成了“以色列优先”。",
-          "url": "https://flash.jin10.com/detail/20260308041606759800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书拉里贾尼：我们将为特朗普刺杀最高领袖哈梅内伊而惩罚他，绝不会让他逃脱。",
-          "url": "https://flash.jin10.com/detail/20260308041345021800",
-          "source": "金十数据",
+          "title": "日经225指数、日本东证指数均跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3065979",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
@@ -209,70 +131,125 @@
       ]
     },
     {
-      "keyword_group": "日本",
-      "match_count": 6,
+      "keyword_group": "韩国",
+      "match_count": 11,
       "titles": [
         {
-          "title": "王毅表示中日关系取决于日方选择，日本没资格插手台湾事务，如何解读?",
-          "url": "https://www.zhihu.com/question/2013934915129974854",
-          "source": "知乎",
+          "title": "多架美军运输机相继离开韩国",
+          "url": "https://news.ifeng.com/c/8rKbi3CofVV",
+          "source": "凤凰网",
           "ranks": [
             5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "日本首次在冲绳部署新型反潜巡逻机，强化西南方向军事部署动作频频",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32721200",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
         {
-          "title": "王毅：台湾事务日本有什么资格插手",
-          "url": "https://www.toutiao.com/trending/7614053753309842963/",
-          "source": "今日头条",
+          "title": "多架美军机相继离开韩国基地，或向中东转移「爱国者」导弹系统，可能性多大？透露出什么信息？",
+          "url": "https://www.zhihu.com/question/2014094034088456298",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "韩国首尔综指日内跌幅扩大至7%。",
+          "url": "https://wallstreetcn.com/livenews/3065996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "三星电子领跌韩国芯片科技股，最新下跌8.9%。",
+          "url": "https://flash.jin10.com/detail/20260309082350452800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "韩国KOSPI指数日内暴跌7.00%，现报5192.39点。",
+          "url": "https://flash.jin10.com/detail/20260309082136787800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "09时08分"
         },
         {
-          "title": "两会外长会｜就涉台议题，王毅四问日本：有什么资格插手？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32726646",
-          "source": "澎湃新闻",
+          "title": "现代汽车领跌韩国汽车股板块，最新跌幅达9.4%。",
+          "url": "https://flash.jin10.com/detail/20260309082059825800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "09时08分"
         },
         {
-          "title": "日本品牌正被中国大规模收购",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%93%81%E7%89%8C%E6%AD%A3%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%94%B6%E8%B4%AD",
+          "title": "韩国10年期国债收益率上行16个基点至3.78%。",
+          "url": "https://wallstreetcn.com/livenews/3065988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "WBC中国台北击败韩国",
+          "url": "https://search.bilibili.com/all?keyword=WBC%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E5%87%BB%E8%B4%A5%E9%9F%A9%E5%9B%BD",
           "source": "bilibili 热搜",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "09时08分"
         },
         {
-          "title": "日本频现“撞人族” 中国游客发声",
-          "url": "https://www.toutiao.com/trending/7613541583115255871/",
-          "source": "今日头条",
+          "title": "韩国交易所：在经历五分钟的暂停后交易恢复。",
+          "url": "https://flash.jin10.com/detail/20260309081202524800",
+          "source": "金十数据",
           "ranks": [
-            29
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "韩国KOSPI 200指数期货下跌5%后，程序化交易暂停5分钟。",
+          "url": "https://wallstreetcn.com/livenews/3065980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "韩国交易所于KOSPI 200指数期货下跌5%后启动KOSPI指数熔断机制，程序化交易暂停5分钟。",
+          "url": "https://flash.jin10.com/detail/20260309080638174800",
+          "source": "金十数据",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -282,58 +259,80 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
-          "title": "埃及镑兑美元在当地银行业走弱至52埃及镑下方。",
-          "url": "https://wallstreetcn.com/livenews/3065868",
-          "source": "华尔街见闻-快讯",
+          "title": "国际油价突破每桶100美元",
+          "url": "https://www.toutiao.com/trending/7615024848342879750/",
+          "source": "今日头条",
           "ranks": [
-            7
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "09时08分"
         },
         {
-          "title": "以色列央行：2月份外汇储备为2345.53亿美元，1月份为2330.42亿美元。",
-          "url": "https://flash.jin10.com/detail/20260308193404154800",
+          "title": "美元兑日元USD/JPY日内涨幅扩大至0.50%，现报158.59。",
+          "url": "https://flash.jin10.com/detail/20260309084615892800",
           "source": "金十数据",
           "ranks": [
-            10
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "09时08分"
         },
         {
-          "title": "据知情人士透露，私募KKR寻求按至多30亿美元出售冷却公司CoolIT Systems。 该公司正与顾问们研究这个计划。 该公司的液冷系统应用于人工智能（AI）基础设施领域。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3065853",
+          "title": "美元/日元上涨0.5%至158.57。",
+          "url": "https://wallstreetcn.com/livenews/3066007",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "09时08分"
         },
         {
-          "title": "卡塔尔警告油价或升至每桶 150 美元，国内油价或迎四年来最大涨幅，后续还会涨吗？对经济有多大影响？",
-          "url": "https://www.zhihu.com/question/2013564376783799020",
-          "source": "知乎",
+          "title": "WTI原油涨幅重新扩大至20%，现报109.2美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260309084413302800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "中东停产潮冲击！油价暴涨20%突破110美元，全球股债双杀、韩股跌7%，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3766990",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "机构：在美元走强的背景下 黄金亚盘时段下跌",
+          "url": "https://flash.jin10.com/detail/20260309082815755800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "09时08分"
         },
         {
-          "title": "美国打伊朗4天成本近110亿美元",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%89%93%E4%BC%8A%E6%9C%974%E5%A4%A9%E6%88%90%E6%9C%AC%E8%BF%91110%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "bilibili 热搜",
+          "title": "英镑兑美元GBP/USD回落至1.33下方，日内跌0.84%。",
+          "url": "https://flash.jin10.com/detail/20260309081525216800",
+          "source": "金十数据",
           "ranks": [
-            20
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -342,121 +341,115 @@
       ]
     },
     {
-      "keyword_group": "韩国",
-      "match_count": 4,
+      "keyword_group": "特朗普",
+      "match_count": 7,
       "titles": [
         {
-          "title": "多架美军运输机相继离开韩国",
-          "url": "https://news.ifeng.com/c/8rKbi3CofVV",
-          "source": "凤凰网",
+          "title": "油价飙升 美媒：特朗普正面临越来越多的问题",
+          "url": "https://flash.jin10.com/detail/20260309085313681800",
+          "source": "金十数据",
           "ranks": [
-            7
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "09时08分"
         },
         {
-          "title": "多架美军运输机相继离开韩国",
-          "url": "https://wallstreetcn.com/livenews/3065867",
-          "source": "华尔街见闻-快讯",
+          "title": "王毅谈特朗普访华",
+          "url": "https://www.douyin.com/hot/2423029",
+          "source": "抖音",
           "ranks": [
-            8
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "09时08分"
         },
         {
-          "title": "多架美军运输机相继离开韩国",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E6%9E%B6%E7%BE%8E%E5%86%9B%E8%BF%90%E8%BE%93%E6%9C%BA%E7%9B%B8%E7%BB%A7%E7%A6%BB%E5%BC%80%E9%9F%A9%E5%9B%BD",
+          "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32726656",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
+          "url": "https://wallstreetcn.com/articles/3766987",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "伊朗高官：特朗普不懂伊朗",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%87%82%E4%BC%8A%E6%9C%97",
           "source": "百度热搜",
           "ranks": [
-            24
+            17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "09时08分"
         },
         {
-          "title": "多架美军机相继离开韩国基地",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%9E%B6%E7%BE%8E%E5%86%9B%E6%9C%BA%E7%9B%B8%E7%BB%A7%E7%A6%BB%E5%BC%80%E9%9F%A9%E5%9B%BD%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "评论员谈中国回绝特朗普“G2之邀”",
+          "url": "https://www.toutiao.com/trending/7614888612266311722/",
+          "source": "今日头条",
           "ranks": [
-            30
+            22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "09时08分"
+        },
+        {
+          "title": "据CBS：美国国防部长赫格塞思表示，特朗普将“设定伊朗投降的条件”。",
+          "url": "https://flash.jin10.com/detail/20260309081624843800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "美股收盘：油价暴涨叠加就业数据疲软 三大指数集体收跌",
-          "url": "https://www.cls.cn/detail/2305872",
-          "source": "财联社热门",
+          "title": "高盛数据显示 美股大跌之际对冲基金加码做空",
+          "url": "https://wallstreetcn.com/livenews/3066004",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
-        },
-        {
-          "title": "沙特阿美股票在沙特股市开盘时一度涨至4.3%，创下自2023年4月以来最大涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3065839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
         }
       ]
     },
     {
       "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "俄罗斯发动大规模袭击致乌多地停电",
-          "url": "https://www.toutiao.com/trending/7613561654849929225/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
         {
           "title": "美国考虑进一步解禁俄罗斯石油！中东断供威胁下 俄油成了香饽饽？",
           "url": "https://www.cls.cn/detail/2306207",
           "source": "财联社热门",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI机器人团队主管辞职，因公司与五角大楼的AI交易",
-          "url": "https://wallstreetcn.com/livenews/3065778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 1,

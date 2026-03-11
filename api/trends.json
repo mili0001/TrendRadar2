@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-03-11T09:04:27.873919+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-11T20:35:04.078278+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "美国2月CPI数据符合市场预期，美国国债保持稳定，美元指数波动不大，美国股指期货小幅走高。",
+          "url": "https://wallstreetcn.com/livenews/3068098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "福布斯年度富豪榜：马斯克8390亿美元蝉联全球首富，张一鸣中国首富",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32746579",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 20时35分]"
+        },
         {
           "title": "三星、SK集团将注销超140亿美元库存股，为韩国历史上最大股票注销规模之一",
           "url": "https://wallstreetcn.com/articles/3767160",
@@ -17,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "逸仙电商获1.2亿美元战略投资，创始人黄锦峰与信宸资本联合领投",
+          "url": "https://wallstreetcn.com/livenews/3068092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "三星、SK将注销140亿美元库存股",
@@ -107,6 +140,28 @@
           "time_info": "09时04分"
         },
         {
+          "title": "Nebius盘前涨超8%。英伟达将向Nebius投资20亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3068074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "英伟达将向云服务商Nebius投资20亿美元",
+          "url": "https://wallstreetcn.com/livenews/3068071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "美国优先炼油公司与印度信实达成3000亿美元项目合作，在得州新建炼油厂",
           "url": "https://flash.jin10.com/detail/20260311074935322800",
           "source": "金十数据",
@@ -127,13 +182,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "美国天然气期货日内涨幅扩大至3.00%，现报3.111美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260311195231191800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 7,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "国防部回应日本部署远程导弹",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E8%BF%9C%E7%A8%8B%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 20时35分]"
+        },
+        {
+          "title": "国防部回应日本部署远程导弹",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E8%BF%9C%E7%A8%8B%E5%AF%BC%E5%BC%B9%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 20时35分]"
+        },
+        {
+          "title": "国防部回应日本部署远程导弹",
+          "url": "https://www.toutiao.com/trending/7615891707490533402/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 20时35分]"
+        },
+        {
+          "title": "不怕断油,日本开吹石油储备",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351703&amp;topic_name=%E4%B8%8D%E6%80%95%E6%96%AD%E6%B2%B9%2C%E6%97%A5%E6%9C%AC%E5%BC%80%E5%90%B9%E7%9F%B3%E6%B2%B9%E5%82%A8%E5%A4%87",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 20时35分]"
+        },
+        {
+          "title": "日本贸易部官员：将对超过170日元/升的汽油价格提供补贴。",
+          "url": "https://flash.jin10.com/detail/20260311201448943800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
         {
           "title": "消息人士称，软银支持的日本支付应用PayPay的IPO定价料将位于推介区间的下限。（路透）",
           "url": "https://wallstreetcn.com/livenews/3067649",
@@ -144,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "日本一地下管道冲出地面18米",
+          "url": "https://www.toutiao.com/trending/7615854342016876586/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 20时35分]"
         },
         {
           "title": "学者：警惕日本南太军事布局野心",
@@ -166,6 +298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "日本：将对超过170日元/升的汽油价格进行补贴。",
+          "url": "https://wallstreetcn.com/livenews/3068081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "日本2月国内企业商品物价指数年率 2%，预期2.1%，前值2.30%。",
@@ -214,9 +357,138 @@
       ]
     },
     {
-      "keyword_group": "韩国",
-      "match_count": 5,
+      "keyword_group": "特朗普",
+      "match_count": 9,
       "titles": [
+        {
+          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
+          "url": "https://wallstreetcn.com/articles/3767194",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 20时35分]"
+        },
+        {
+          "title": "特朗普：有可能有条件同伊朗谈判",
+          "url": "https://www.cls.cn/detail/2308807",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司：美国总统特朗普周二与国际足联代表通话。",
+          "url": "https://flash.jin10.com/detail/20260311201219196800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司：美国总统特朗普告诉国际足联，欢迎伊朗在美国举行的世界杯上参赛。",
+          "url": "https://flash.jin10.com/detail/20260311201129117800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
+          "url": "https://wallstreetcn.com/articles/3767174",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 20时35分]"
+        },
+        {
+          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
+          "url": "https://wallstreetcn.com/articles/3767165",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 20时35分]"
+        },
+        {
+          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
+          "url": "https://wallstreetcn.com/articles/3767189",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 20时35分]"
+        },
+        {
+          "title": "市场消息：美国总统特朗普政府重启全球入境计划，该计划可加快低风险旅客的美国海关和移民通关手续。",
+          "url": "https://flash.jin10.com/detail/20260311200902602800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "市场消息：两名以色列官员称，以色列评估认为，美国总统特朗普尚未接近下令结束战争。",
+          "url": "https://flash.jin10.com/detail/20260311195046381800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "韩国",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "韩国萨德不保,被调往中东填坑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351675&amp;topic_name=%E9%9F%A9%E5%9B%BD%E8%90%A8%E5%BE%B7%E4%B8%8D%E4%BF%9D%2C%E8%A2%AB%E8%B0%83%E5%BE%80%E4%B8%AD%E4%B8%9C%E5%A1%AB%E5%9D%91",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 20时35分]"
+        },
+        {
+          "title": "AMD首席执行官将访问韩国会见三星、Naver高管",
+          "url": "https://wallstreetcn.com/livenews/3068089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
         {
           "title": "韩国首尔综指日内涨幅扩大至3%，日经225指数日内涨幅扩大至2%。",
           "url": "https://wallstreetcn.com/livenews/3067633",
@@ -275,47 +547,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "特朗普：有可能有条件同伊朗谈判",
-          "url": "https://www.cls.cn/detail/2308807",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
-          "url": "https://wallstreetcn.com/articles/3767174",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
-          "url": "https://wallstreetcn.com/articles/3767165",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
@@ -325,8 +558,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 20时35分]"
         },
         {
           "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
@@ -338,6 +571,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "亚马逊与Zoox达成自动驾驶出租车合作，Uber(UBER.N)美股盘前涨4.3%。",
+          "url": "https://flash.jin10.com/detail/20260311200444258800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "英伟达拟投资20亿美元，NEBIUS美股盘前大涨9%。",
+          "url": "https://flash.jin10.com/detail/20260311200239714800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         }
       ]
     },
@@ -366,6 +621,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Gemini五连绝世",
+          "url": "https://s.weibo.com/weibo?q=Gemini%E4%BA%94%E8%BF%9E%E7%BB%9D%E4%B8%96&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 20时35分]"
         }
       ]
     }

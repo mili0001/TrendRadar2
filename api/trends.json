@@ -1,769 +1,371 @@
 {
-  "generated_at": "2026-03-10T20:35:51.937068+08:00",
-  "total_titles_processed": 596,
+  "generated_at": "2026-03-11T09:04:27.873919+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 31,
+      "keyword_group": "美元",
+      "match_count": 11,
       "titles": [
         {
-          "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
-          "url": "https://wallstreetcn.com/articles/3766990",
+          "title": "三星、SK集团将注销超140亿美元库存股，为韩国历史上最大股票注销规模之一",
+          "url": "https://wallstreetcn.com/articles/3767160",
           "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 20时35分]"
-        },
-        {
-          "title": "美以伊战争｜特朗普：普京想帮忙，我说你先结束战争",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "美以伊战争｜特朗普称可能与伊朗对话",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
-          "title": "【早报】特朗普：将取消部分制裁，以平抑油价；国际油价高位跳水",
-          "url": "https://www.cls.cn/detail/2307815",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
-          "url": "https://news.ifeng.com/c/8rNxjUXwYy8",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
-          "title": "是时候卖原油了？美银Hartnett：特朗普要赢中期选举，美伊战争必须在3月“降级”",
-          "url": "https://wallstreetcn.com/articles/3767022",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "特朗普回应拉里贾尼威胁",
-          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "特朗普称伊朗战争已基本结束 国际油价高位跳水",
-          "url": "https://www.cls.cn/detail/2307782",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "专家预言“霍尔木兹危机”将持续更久，特朗普发出“20倍攻击力”警告！",
-          "url": "https://www.cls.cn/detail/2308078",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
-          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
-          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
-          "title": "特朗普：对伊行动或很快将结束，但不是在本周，将取消一些制裁以平抑油价",
-          "url": "https://wallstreetcn.com/articles/3767083",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 20时35分]"
-        },
-        {
-          "title": "媒体证实是美国「战斧」巡航导弹炸了伊朗小学，特朗普曾说是伊朗「自导自演」，究竟是怎么回事？",
-          "url": "https://www.zhihu.com/question/2014356299022821037",
-          "source": "知乎",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时03分"
+          "time_info": "09时04分"
         },
         {
-          "title": "美媒最新民调：特朗普支持率下滑至44%",
-          "url": "https://news.ifeng.com/c/8rNS9E6Ovmp",
-          "source": "凤凰网",
+          "title": "三星、SK将注销140亿美元库存股",
+          "url": "https://flash.jin10.com/detail/20260311082354739800",
+          "source": "金十数据",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
-          "title": "特朗普：将与以总理共同作出停战决定",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
-          "source": "凤凰网",
-          "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时03分"
+          "time_info": "09时04分"
         },
         {
-          "title": "美媒：特朗普没有对伊朗的“战后计划”",
-          "url": "https://news.ifeng.com/c/8rN9ezF5RPS",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
-          "title": "美国总统特朗普：如果伊朗做任何事情阻止霍尔木兹海峡的石油流动，他们将会遭到美国二十倍于目前的打击。此外，我们将摧毁那些极易被摧毁的目标，这将使伊朗作为一个国家几乎不可能再重建。",
-          "url": "https://flash.jin10.com/detail/20260310083128181800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "美国国防部长赫格塞思：（谈穆杰塔巴·哈梅内伊）他最好听听特朗普的话。至于他的地位，我现在无法评论。",
-          "url": "https://flash.jin10.com/detail/20260310202222700800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
-          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
-          "source": "凤凰网",
+          "title": "知名投资人阿克曼旗下潘兴广场寻求通过IPO募资至多100亿美元",
+          "url": "https://wallstreetcn.com/livenews/3067643",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时03分"
+          "time_info": "09时04分"
         },
         {
-          "title": "美国国防部长赫格塞思：美国处于“非常有利的地位”，为美国总统特朗普提供了最大选择空间。",
-          "url": "https://flash.jin10.com/detail/20260310202142671800",
+          "title": "WTI原油回落至82美元/桶下方，日内跌5.20%。",
+          "url": "https://flash.jin10.com/detail/20260311081737472800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
-          "title": "特朗普称对伊战事将很快结束 G7承诺必要时释放石油储备 | 环球市场",
-          "url": "https://www.cls.cn/detail/2307809",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时03分"
+          "time_info": "09时04分"
         },
         {
-          "title": "据华尔街日报：美国总统特朗普的顾问们敦促他为伊朗问题寻找退路，担心其引发政治上的反弹。",
-          "url": "https://flash.jin10.com/detail/20260310082749756800",
+          "title": "WTI原油回落至83美元/桶下方，日内跌4.04%。",
+          "url": "https://flash.jin10.com/detail/20260311081705872800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时03分"
+          "time_info": "09时04分"
         },
         {
-          "title": "布伦特原油期货跌幅扩大至10%，此前特朗普称美国对伊朗的军事行动“很快”会结束。",
-          "url": "https://wallstreetcn.com/livenews/3066842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "普京与特朗普通电话讨论伊朗局势",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D%E8%AE%A8%E8%AE%BA%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF",
-          "source": "百度热搜",
+          "title": "WTI原油日内下跌3.00%，现报83.74美元/桶。报道称，IEA提议史上最大规模的战略石油储备释放，规模将超1.82亿桶。",
+          "url": "https://flash.jin10.com/detail/20260311081533138800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时03分"
+          "time_info": "09时04分"
         },
         {
-          "title": "特朗普称有可能有条件同伊朗谈判",
-          "url": "https://wallstreetcn.com/livenews/3067289",
+          "title": "维权投资者Starboard建仓3.5亿美元美国最大二手车零售商CarMax股份。 Starboard认为在即将上任的CEO Keith Barr的领导下，这家二手车零售商有望加速转型。Starboard希望借助自身在汽车交易市场的投资经验来提升CarMax的业绩。 Starboard认为，CarMax可以通过提升客户体验（包括提高车辆翻新效率）以及削减超3亿美元的管理运营开支来提升业绩。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3067638",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "为何生化里的暴君 1.2 亿美元这么贵一只但仍扛不过军队常规武器狂轰滥炸，BOW 研发在实战中到底有何意义？",
+          "url": "https://www.zhihu.com/question/2012122338733290833",
+          "source": "知乎",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时35分"
+          "time_info": "09时04分"
         },
         {
-          "title": "普京与特朗普通电话讨论伊朗局势",
-          "url": "https://www.toutiao.com/trending/7614555226485948458/",
-          "source": "今日头条",
+          "title": "布伦特原油日内下跌1.00%，现报88.13美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260311080825560800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时03分"
+          "time_info": "09时04分"
         },
         {
-          "title": "伊朗革命卫队发言人称，美国总统特朗普关于伊朗的言论是“胡说八道”。",
-          "url": "https://flash.jin10.com/detail/20260310081419003800",
+          "title": "美国优先炼油公司与印度信实达成3000亿美元项目合作，在得州新建炼油厂",
+          "url": "https://flash.jin10.com/detail/20260311074935322800",
           "source": "金十数据",
           "ranks": [
-            19
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时03分"
+          "time_info": "09时04分"
         },
         {
-          "title": "普京特朗普再通话",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E9%80%9A%E8%AF%9D%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "据伊朗国家媒体：伊朗伊斯兰革命卫队针对美国总统特朗普的言论表示，决定战争终结的人是我们。",
-          "url": "https://flash.jin10.com/detail/20260310080604375800",
+          "title": "WTI原油日内下跌1.00%，现报85.60美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260311074909539800",
           "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "伊朗最高安全官员回应特朗普：伊朗人民不畏惧威胁",
-          "url": "https://wallstreetcn.com/livenews/3067276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
-          "title": "特朗普称美国正在调查伊朗小学遇袭事件",
-          "url": "https://wallstreetcn.com/livenews/3066825",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "普京与特朗普通话讨论伊朗局势",
-          "url": "https://www.douyin.com/hot/2424957",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
+          "time_info": "09时04分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 11,
+      "match_count": 7,
       "titles": [
         {
-          "title": "国台办评卓荣泰窜访日本：鸡鸣狗盗，令人不齿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32733378",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "日本五年期国债收益率下跌2.0个基点，至1.600%。",
-          "url": "https://flash.jin10.com/detail/20260310084053029800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "台湾当局官员窜访日本谋“独”，外交部：鬼鬼祟祟，令人不齿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32732853",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "日本10年期国债收益率下跌3.5个基点，至2.150%。",
-          "url": "https://flash.jin10.com/detail/20260310083751960800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "全球第三大战略原油储备！日本即将“放油”？",
-          "url": "https://wallstreetcn.com/articles/3766995",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "日本远程导弹已运抵其首个部署地",
-          "url": "https://www.douyin.com/hot/2424305",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "日本内阁官房长官木原稔：尚未决定是否释放战略石油储备。",
-          "url": "https://wallstreetcn.com/livenews/3066844",
+          "title": "消息人士称，软银支持的日本支付应用PayPay的IPO定价料将位于推介区间的下限。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3067649",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "学者：警惕日本南太军事布局野心",
+          "url": "https://www.toutiao.com/trending/7615760524634701865/",
+          "source": "今日头条",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时03分"
+          "time_info": "09时04分"
         },
         {
-          "title": "日本首次部署远程导弹，可攻击邻国沿海区域",
-          "url": "https://news.ifeng.com/c/8rMCypUDBZ8",
-          "source": "凤凰网",
+          "title": "日本是一个老龄化很严重的国家",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%98%AF%E4%B8%80%E4%B8%AA%E8%80%81%E9%BE%84%E5%8C%96%E5%BE%88%E4%B8%A5%E9%87%8D%E7%9A%84%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时03分"
+          "time_info": "09时04分"
         },
         {
-          "title": "木柜子痴硬闯日本,晒照挑衅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351507&amp;topic_name=%E6%9C%A8%E6%9F%9C%E5%AD%90%E7%97%B4%E7%A1%AC%E9%97%AF%E6%97%A5%E6%9C%AC%2C%E6%99%92%E7%85%A7%E6%8C%91%E8%A1%85",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "日本10年期国债收益率下行2.5个基点至2.160%。",
-          "url": "https://wallstreetcn.com/livenews/3066829",
-          "source": "华尔街见闻-快讯",
+          "title": "日本2月国内企业商品物价指数年率 2%，预期2.1%，前值2.30%。",
+          "url": "https://flash.jin10.com/detail/20260311075005671800",
+          "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时03分"
+          "time_info": "09时04分"
         },
         {
-          "title": "日本财务大臣片山皋月：G7能源部长今天将举行线上会议。",
-          "url": "https://wallstreetcn.com/livenews/3066827",
+          "title": "日本2月国内企业商品物价指数月率 -0.1%，预期0.1%，前值0.20%。",
+          "url": "https://flash.jin10.com/detail/20260311075005650800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "日本2月国内企业商品物价指数环比 -0.1%，预期 0.2%，前值 0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3067626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "日本2月国内企业商品物价指数同比 2%，预期 2.2%，前值 2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3067625",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时03分"
+          "time_info": "09时04分"
         }
       ]
     },
     {
       "keyword_group": "韩国",
-      "match_count": 7,
+      "match_count": 5,
       "titles": [
         {
-          "title": "韩国KOSPI指数日内暴涨6.00%，现报5568.56点。",
-          "url": "https://flash.jin10.com/detail/20260310084538909800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "韩国首尔综指日内涨6%，三星电子涨近10%，SK海力士涨12%。",
-          "url": "https://wallstreetcn.com/livenews/3066845",
+          "title": "韩国首尔综指日内涨幅扩大至3%，日经225指数日内涨幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3067633",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "韩国要求卡塔尔保持能源供应稳定",
-          "url": "https://wallstreetcn.com/livenews/3066841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "韩国最大在野党与尹锡悦切割",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32734868",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
-          "title": "韩国交易所于KOSPI 200指数期货上涨5%后启动KOSPI指数熔断机制，程序化交易暂停5分钟。",
-          "url": "https://flash.jin10.com/detail/20260310080736214800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "SK海力士引领韩国芯片股反弹，SK海力士股价最新上涨9.1%。",
-          "url": "https://flash.jin10.com/detail/20260310080720220800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "由于股指期货飙升，韩国短暂暂停KOSPI指数的程序化交易。",
-          "url": "https://wallstreetcn.com/livenews/3066822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美对伊军事打击首周花费 60 亿美元，属于什么水平？美国的军费还能支撑多久？",
-          "url": "https://www.zhihu.com/question/2014656017116395259",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
-          "title": "WTI原油短线拉升，现突破90美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3067291",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
-          "title": "市场消息：亚马逊计划发行250亿至300亿美元的美元债和100亿欧元的欧元债券。",
-          "url": "https://flash.jin10.com/detail/20260310201747783800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
-          "title": "1亿美元委内瑞拉黄金运抵美国",
-          "url": "https://s.weibo.com/weibo?q=%231%E4%BA%BF%E7%BE%8E%E5%85%83%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%BB%84%E9%87%91%E8%BF%90%E6%8A%B5%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时03分"
+          "time_info": "09时04分"
         },
         {
-          "title": "布伦特原油站上90美元/桶，日内涨4.38%。",
-          "url": "https://flash.jin10.com/detail/20260310081143057800",
+          "title": "韩国海关总署：韩国3月1日至10日出口同比增长55.6%；3月1日至10日进口同比增长21.7%。",
+          "url": "https://flash.jin10.com/detail/20260311080103334800",
           "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "韩国3月1-10日出口同比增长55.6%，进口增长21.7%。",
+          "url": "https://wallstreetcn.com/livenews/3067630",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时03分"
+          "time_info": "09时04分"
         },
         {
-          "title": "三星、SK海力士将注销超140亿美元库存股以推动公司治理改革",
-          "url": "https://wallstreetcn.com/livenews/3067279",
+          "title": "韩国将全面改革退休金制度，将于7月前决定有关基金型退休金的具体细节。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3067624",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时35分"
+          "time_info": "09时04分"
+        },
+        {
+          "title": "韩国财长：如有必要，韩国将采取额外的市场行动。 若有需要，韩国财政部和央行将就回购及国债购买进行协调。 韩国将动用包括追加预算在内的所有可用政策工具。",
+          "url": "https://wallstreetcn.com/livenews/3067619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         }
       ]
     },
     {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 6,
+      "keyword_group": "特朗普",
+      "match_count": 3,
       "titles": [
         {
-          "title": "油价暴涨,俄罗斯躺赢",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351569&amp;topic_name=%E6%B2%B9%E4%BB%B7%E6%9A%B4%E6%B6%A8%2C%E4%BF%84%E7%BD%97%E6%96%AF%E8%BA%BA%E8%B5%A2",
-          "source": "贴吧",
+          "title": "特朗普：有可能有条件同伊朗谈判",
+          "url": "https://www.cls.cn/detail/2308807",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 20时35分]"
-        },
-        {
-          "title": "欧盟委员会执行副主席东布罗夫斯基斯：无论如何我们都会落实对乌克兰的贷款。",
-          "url": "https://flash.jin10.com/detail/20260310202305249800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
-          "title": "俄罗斯总统普京任命的顿涅茨克地区负责人向俄罗斯总统普京表示，乌克兰控制着该地区约15%-17%的领土。",
-          "url": "https://flash.jin10.com/detail/20260310202155712800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
-          "title": "乌总统签署法令，制裁俄罗斯多名法官",
-          "url": "https://wallstreetcn.com/livenews/3067296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
-          "title": "泽连斯基称已有11国向乌克兰求助",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A7%B0%E5%B7%B2%E6%9C%8911%E5%9B%BD%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E6%B1%82%E5%8A%A9%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时03分"
+          "time_info": "09时04分"
         },
         {
-          "title": "欧盟委员会执行副主席东布罗夫斯基斯：亟需推进对乌克兰的贷款事宜。",
-          "url": "https://flash.jin10.com/detail/20260310201805204800",
-          "source": "金十数据",
+          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
+          "url": "https://wallstreetcn.com/articles/3767174",
+          "source": "华尔街见闻",
           "ranks": [
-            15
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时35分"
+          "time_info": "09时04分"
+        },
+        {
+          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
+          "url": "https://wallstreetcn.com/articles/3767165",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
-          "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2307796",
-          "source": "财联社热门",
+          "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时03分"
+          "time_info": "09时04分"
         },
         {
-          "title": "市场对伊朗战争结束信心减弱 美股反弹势头停滞",
-          "url": "https://flash.jin10.com/detail/20260310202457509800",
-          "source": "金十数据",
+          "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
+          "url": "https://www.cls.cn/detail/2309059",
+          "source": "财联社热门",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
-          "title": "特朗普释放停战对话信号，美股期指盘前回吐涨幅，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
-          "url": "https://wallstreetcn.com/articles/3767097",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
-          "title": "美股三大指数集体收涨",
-          "url": "https://www.toutiao.com/trending/7615396444580646454/",
-          "source": "今日头条",
-          "ranks": [
-            14
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时03分"
+          "time_info": "09时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国据悉约束以军对伊军事行动 乌克兰向海湾地区派出军事人员 | 环球市场",
+          "url": "https://www.cls.cn/detail/2309074",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
-          "title": "亚马逊：启动11部分的美国投资级债券发行，授权银行安排八部分欧元债券发行。 计划发行250亿至300亿美元的美元债券，以及100亿欧元的欧元债券。 亚马逊美股盘前转跌，现跌0.04%。",
-          "url": "https://wallstreetcn.com/livenews/3067269",
-          "source": "华尔街见闻-快讯",
+          "title": "油价暴涨,俄罗斯躺赢",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351569&amp;topic_name=%E6%B2%B9%E4%BB%B7%E6%9A%B4%E6%B6%A8%2C%E4%BF%84%E7%BD%97%E6%96%AF%E8%BA%BA%E8%B5%A2",
+          "source": "贴吧",
           "ranks": [
-            29
+            22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时35分"
+          "time_info": "09时04分"
         }
       ]
     }

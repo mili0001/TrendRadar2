@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-04-09T09:09:34.855451+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-04-09T20:57:49.923781+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 23,
       "titles": [
         {
           "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
           "url": "https://wallstreetcn.com/articles/3769517",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 20时57分]"
+        },
+        {
+          "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
+          "url": "https://www.cls.cn/detail/2338839",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时09分"
+          "time_info": "20时57分"
         },
         {
           "title": "特朗普威胁对向伊朗供武国家加税",
@@ -28,6 +40,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
+          "url": "https://wallstreetcn.com/articles/3769534",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
+          "url": "https://wallstreetcn.com/articles/3769537",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "特朗普提议与伊朗联合管理霍尔木兹海峡",
@@ -63,6 +97,28 @@
           "time_info": "09时09分"
         },
         {
+          "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
+          "url": "https://wallstreetcn.com/articles/3769556",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "在特朗普2.0任期内炒股竟有秘诀：标普十大涨幅日九个和TACO有关",
+          "url": "https://www.cls.cn/detail/2338928",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "美伊停火的关键斡旋者：与特朗普私交甚好的巴基斯坦陆军元帅",
           "url": "https://news.ifeng.com/c/8sA49KKqTTa",
           "source": "凤凰网",
@@ -96,6 +152,17 @@
           "time_info": "09时09分"
         },
         {
+          "title": "特朗普：提议美伊联管霍尔木兹海峡，威胁向伊朗供武国家征收50%关税",
+          "url": "https://wallstreetcn.com/articles/3769503",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "特朗普：若谈判不顺，美国能轻易恢复对伊军事行动，万斯：\"脆弱休战\"基础初步形成",
           "url": "https://wallstreetcn.com/articles/3769486",
           "source": "华尔街见闻",
@@ -105,6 +172,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "美媒披露特朗普发动伊朗战争内幕：“全凭直觉”，除万斯外无人反对",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32927020",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "特朗普：美军将“继续驻扎在伊朗境内及其周边”",
+          "url": "https://www.cls.cn/detail/2338861",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "尴尬！万斯演讲现场给特朗普打电话，手机那头传来：对不起…",
@@ -118,6 +207,17 @@
           "time_info": "09时09分"
         },
         {
+          "title": "关税战没有赢家！外交部回应特朗普关税言论",
+          "url": "https://www.cls.cn/detail/2339082",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "特朗普不满北约：还记得格陵兰岛吗",
           "url": "https://wallstreetcn.com/livenews/3084653",
           "source": "华尔街见闻-快讯",
@@ -127,12 +227,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32932623",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "白宫称特朗普考虑“退群”：北约背弃美国人民，没能通过考验",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32931462",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "外交部回应特朗普：关税战没有赢家！",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%85%B3%E7%A8%8E%E6%88%98%E6%B2%A1%E6%9C%89%E8%B5%A2%E5%AE%B6%EF%BC%81",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 10,
+      "match_count": 16,
       "titles": [
         {
           "title": "日本30年期国债收益率上行6个基点至3.655%。 日经225指数日内跌幅扩大至0.6%。",
@@ -146,15 +279,38 @@
           "time_info": "09时09分"
         },
         {
+          "title": "国防部回应日本部署远程导弹",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E8%BF%9C%E7%A8%8B%E5%AF%BC%E5%BC%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "日本 73 岁工程师向中国车企投递简历，这份活到老干到老的劲头带来哪些触动？HR 公开其简历侵犯隐私了吗？",
+          "url": "https://www.zhihu.com/question/2025327406819407576",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "日本老人在华求职,月薪要5w",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352960&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%80%81%E4%BA%BA%E5%9C%A8%E5%8D%8E%E6%B1%82%E8%81%8C%2C%E6%9C%88%E8%96%AA%E8%A6%815w",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 20时57分]"
         },
         {
           "title": "日本30年期国债收益率上行4个基点至3.635%。 日本20年期国债收益率上行4.5个基点至3.310%。",
@@ -179,6 +335,28 @@
           "time_info": "09时09分"
         },
         {
+          "title": "国防部回应日本部署远程导弹",
+          "url": "https://www.douyin.com/hot/2460761",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "日籍男留华安居,笑谈日本烂透",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353000&amp;topic_name=%E6%97%A5%E7%B1%8D%E7%94%B7%E7%95%99%E5%8D%8E%E5%AE%89%E5%B1%85%2C%E7%AC%91%E8%B0%88%E6%97%A5%E6%9C%AC%E7%83%82%E9%80%8F",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "日本10年期国债收益率上行1.5个基点至2.380%。",
           "url": "https://wallstreetcn.com/livenews/3084657",
           "source": "华尔街见闻-快讯",
@@ -188,6 +366,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "日媒炒作“中文喧哗声”，日学者：没素质的日本人比比皆是",
+          "url": "https://news.ifeng.com/c/8sBW0WWtfmd",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "日本30年期国债收益率上升4.0个基点，至3.635%。日本20年期国债收益率上升4.5个基点，至3.310%。",
@@ -243,23 +432,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "日本媒体夸孙颖莎是“绝对女王”",
+          "url": "https://www.toutiao.com/trending/7626612431775072299/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
           "url": "https://wallstreetcn.com/articles/3769443",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 20时57分]"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3085123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时09分"
+          "time_info": "20时57分"
         },
         {
           "title": "美股收盘：三大指数均涨超2% 芯片股全线爆发、能源巨头重挫",
@@ -271,6 +483,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "又现内幕交易？美伊停火前 神秘资金精准“空原油、多美股”",
+          "url": "https://www.cls.cn/detail/2338764",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "伊朗战争反复冲击市场 美股交易强度创历史新高",
@@ -320,7 +543,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "现货白银日内跌幅达1.00%，现报73.35美元/盎司。",
@@ -332,6 +555,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "伊朗要求以加密货币支付霍尔木兹海峡通行费，每桶原油 1 美元，对航运成本有多大影响？为何要用加密货币？",
+          "url": "https://www.zhihu.com/question/2025530652930435004",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "布伦特原油日内涨幅达1.00%，现报95.43美元/桶。",
@@ -348,7 +582,7 @@
     },
     {
       "keyword_group": "韩国",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "韩国首尔综指跌幅扩大至1%。",
@@ -371,6 +605,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "韩国拟2040年前逐步减少韩朝边境驻兵",
+          "url": "https://wallstreetcn.com/livenews/3085100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     },
@@ -422,6 +667,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欧盟",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧盟外交与安全政策高级代表Kallas：美伊停火虽脆弱，但其他选择更为暗淡。",
+          "url": "https://wallstreetcn.com/livenews/3085094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     }

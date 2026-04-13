@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T09:26:35.725748+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-13T20:59:26.335459+08:00",
+  "total_titles_processed": 595,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普：除核问题外谈判进展顺利 美将封锁霍尔木兹海峡",
@@ -15,8 +15,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 20时59分]"
+        },
+        {
+          "title": "美国总统特朗普：封锁伊朗后美国将能大卖石油",
+          "url": "https://www.cls.cn/detail/2342019",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "20时59分"
         },
         {
           "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
@@ -52,6 +63,39 @@
           "time_info": "09时26分"
         },
         {
+          "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
+          "url": "https://wallstreetcn.com/articles/3769785",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
+          "url": "https://www.cls.cn/detail/2342208",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "特朗普威胁封锁海峡，专家：看似可笑，实则精心算计",
+          "url": "https://v.ifeng.com/c/8sIKyU8UZmK",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "美国总统特朗普：我并不是教皇利奥的大粉丝。",
           "url": "https://flash.jin10.com/detail/20260413091435020800",
           "source": "金十数据",
@@ -61,6 +105,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "美伊谈判刚不欢而散，特朗普就下令海军封锁霍尔木兹海峡，有何意图？要效仿委内瑞拉模式吗？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2026779173369246174",
+          "source": "知乎",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 20时59分]"
+        },
+        {
+          "title": "特朗普“封锁霍尔木兹”，高盛：股市迎来“最终决战”",
+          "url": "https://wallstreetcn.com/articles/3769786",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "美媒：特朗普考虑恢复对伊朗的有限军事打击",
@@ -74,6 +141,17 @@
           "time_info": "09时26分"
         },
         {
+          "title": "美媒鼓噪：特朗普让美国利益遭四连击，中俄获利",
+          "url": "https://news.ifeng.com/c/8sI5EiH0EGq",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "特朗普重申对北约非常失望。",
           "url": "https://wallstreetcn.com/livenews/3086559",
           "source": "华尔街见闻-快讯",
@@ -85,15 +163,15 @@
           "time_info": "09时26分"
         },
         {
-          "title": "美伊谈判刚不欢而散，特朗普就下令海军封锁霍尔木兹海峡，有何意图？要效仿委内瑞拉模式吗？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2026779173369246174",
-          "source": "知乎",
+          "title": "特朗普宣布：今晚10点就封锁！霍尔木兹海峡再次完全中断，两艘船紧急掉头",
+          "url": "https://wallstreetcn.com/articles/3769804",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "20时59分"
         },
         {
           "title": "市场消息：特朗普称伊朗正处于困境，处境非常艰难。",
@@ -118,6 +196,17 @@
           "time_info": "09时26分"
         },
         {
+          "title": "美国民主党人欢呼：今日是欧尔班，11月是特朗普",
+          "url": "https://news.ifeng.com/c/8sIFIKmiRLn",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "市场消息：特朗普表示霍尔木兹海峡封锁将非常有效，大部分布雷器都被摧毁了。",
           "url": "https://flash.jin10.com/detail/20260413091306586800",
           "source": "金十数据",
@@ -129,6 +218,17 @@
           "time_info": "09时26分"
         },
         {
+          "title": "特朗普在采访中呼吁中国购买美国和委内瑞拉石油，外交部回应",
+          "url": "https://flash.jin10.com/detail/20260413204754549800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "市场消息：特朗普表示，伊朗将在美国封锁计划下被禁止出售石油。",
           "url": "https://flash.jin10.com/detail/20260413091245025800",
           "source": "金十数据",
@@ -138,6 +238,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "特朗普重申将封锁进出伊朗港口船只 中方回应",
+          "url": "https://www.cls.cn/detail/2342207",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "市场消息：美国总统特朗普称梵蒂冈教皇利奥在犯罪和外交政策方面很软弱。",
@@ -162,6 +273,17 @@
           "time_info": "09时26分"
         },
         {
+          "title": "中方回应特朗普重申将封锁伊朗港口",
+          "url": "https://www.toutiao.com/trending/7628108023306718761/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "特朗普：美国海军将开始阻止任何船只进出霍尔木兹海峡",
           "url": "https://m.thepaper.cn/newsDetail_forward_32956224",
           "source": "澎湃新闻",
@@ -182,13 +304,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "中方回应“特朗普称将封锁伊朗港口”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%B0%81%E9%94%81%E4%BC%8A%E6%9C%97%E6%B8%AF%E5%8F%A3%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "中方回应特朗普威胁加征关税",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "据市场消息：宁德时代正考虑在香港出售股份筹集最多50亿美元资金，已就此次配售与银行进行了初步谈判。宁德时代也在考虑发行可转换债券，以满足部分融资需求。目前相关考虑仍在进行中，尚未做出最终决定。",
+          "url": "https://flash.jin10.com/detail/20260413205043646800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
         {
           "title": "人民币兑美元中间价报6.8657，下调3点；上一交易日中间价6.8654，上一交易日官方收盘价6.8333，上日夜盘报收6.8305。",
           "url": "https://wallstreetcn.com/livenews/3086561",
@@ -221,6 +376,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "特朗普“封锁令”倒计时！霍尔木兹航运再陷中断 150美元油价警报拉响",
+          "url": "https://www.cls.cn/detail/2342301",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "复星国际2028年5月到期美元债涨幅势创纪录，该公司8.5%债券每1美元涨2.6美分，至102.1美分。",
@@ -270,7 +436,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "日本20年期国债收益率上行6个基点至3.39%。",
@@ -288,11 +454,23 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353105&amp;topic_name=san%E5%80%BC%E7%8B%82%E6%8E%89%2C%E6%97%A5%E6%9C%AC%E6%B4%BB%E8%99%AB%E7%AC%94%E8%B5%B0%E7%BA%A2",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            19
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 20时59分]"
+        },
+        {
+          "title": "为什么中国女人嫁日本男人就有很多人在背后指指点点，而中国男人娶日本女人却很少有人在背后议论?",
+          "url": "https://www.zhihu.com/question/399552221",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "20时59分"
         },
         {
           "title": "军媒：日本部署进攻性武器包藏祸心",
@@ -341,9 +519,181 @@
       ]
     },
     {
-      "keyword_group": "韩国",
-      "match_count": 2,
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 5,
       "titles": [
+        {
+          "title": "克里姆林宫：俄罗斯总统普京与印度尼西亚总统的会谈正在克里姆林宫进行，后者正在俄罗斯进行工作访问。议程包括深化俄印尼战略伙伴关系的现状和前景，以及谈论当前国际和地区问题。",
+          "url": "https://flash.jin10.com/detail/20260413204917945800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "据国际文传电讯社：俄罗斯国家原子能公司（Rosatom）表示，20名员工将留在伊朗布舍尔核电站。",
+          "url": "https://flash.jin10.com/detail/20260413203706365800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫将访华",
+          "url": "https://www.douyin.com/hot/2464797",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "据国际文传电讯社：俄罗斯国家原子能公司（Rosatom）从伊朗布舍尔核电站撤离108名员工。",
+          "url": "https://flash.jin10.com/detail/20260413203640835800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "俄罗斯国家原子能公司总裁：俄罗斯开始从布舍尔核电站进行最后一轮的撤离。",
+          "url": "https://flash.jin10.com/detail/20260413202353188800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美国“封锁”逼近，美股盘前科技股普跌，高盛跌近4%，布油破百，黄金回调，铝价四年新高",
+          "url": "https://wallstreetcn.com/articles/3769784",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "高盛美股盘前跌幅扩大至逾4%。",
+          "url": "https://wallstreetcn.com/livenews/3086963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "李大霄解读美股单周表现",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "高盛第一财季净利息收入35.6亿美元，预估35.2亿美元。 第一财季净营收172.3亿美元，每股收益17.55美元。 第一财季FICC业务销售和交易营收40.1亿美元，预估48.7亿美元。 第一财季股票销售和交易业务营收53.3亿美元，预估49亿美元。 高盛美股盘前跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3086933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欧盟",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "匈牙利 2026 年国会选举欧尔班败选，对欧盟和俄乌局势意味着什么？为何此次选举被视为亲俄与亲欧路线之争？",
+          "url": "https://www.zhihu.com/question/2026762263210582271",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "匈牙利反对派领袖毛焦尔：匈牙利外交部长正在销毁欧盟文件。",
+          "url": "https://flash.jin10.com/detail/20260413203936220800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "匈牙利反对派领袖毛焦尔：我们将是欧盟建设性的伙伴。",
+          "url": "https://flash.jin10.com/detail/20260413203440362800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "匈牙利反对派领袖毛焦尔：最重要的任务是解冻欧盟资金。",
+          "url": "https://flash.jin10.com/detail/20260413201954310800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "韩国",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "韩国中学生在上海观光廊大声打闹",
+          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E4%B8%AD%E5%AD%A6%E7%94%9F%E5%9C%A8%E4%B8%8A%E6%B5%B7%E8%A7%82%E5%85%89%E5%BB%8A%E5%A4%A7%E5%A3%B0%E6%89%93%E9%97%B9&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
         {
           "title": "日经225指数低开0.9%，韩国首尔综指低开2.1%。",
           "url": "https://wallstreetcn.com/livenews/3086534",
@@ -369,19 +719,19 @@
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "李大霄解读美股单周表现",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
-          "source": "bilibili 热搜",
+          "title": "据CNBC：OpenAI在备忘录中盛赞与亚马逊(AMZN.O)的联盟，称微软(MSFT.O)“限制了其触达客户的能力”。",
+          "url": "https://flash.jin10.com/detail/20260413203327986800",
+          "source": "金十数据",
           "ranks": [
-            12
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "20时59分"
         }
       ]
     }

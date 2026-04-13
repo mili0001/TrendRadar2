@@ -1,33 +1,22 @@
 {
-  "generated_at": "2026-04-12T20:36:57.551406+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-04-13T09:26:35.725748+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 16,
       "titles": [
         {
-          "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
-          "url": "https://www.cls.cn/detail/2341151",
-          "source": "财联社热门",
+          "title": "特朗普：除核问题外谈判进展顺利 美将封锁霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3769776",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "报道：特朗普与财长贝森特讨论如何应付伊朗战争持续8-12周",
-          "url": "https://wallstreetcn.com/livenews/3086412",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
+          "time_info": "09时26分"
         },
         {
           "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
@@ -36,406 +25,363 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时36分"
+          "time_info": "09时26分"
         },
         {
-          "title": "“大空头”做空后，特朗普亲自“站台”Palantir",
-          "url": "https://wallstreetcn.com/articles/3769735",
-          "source": "华尔街见闻",
+          "title": "特朗普：美军将封锁任何试图进出霍尔木兹海峡的船只",
+          "url": "https://www.cls.cn/detail/2341607",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "特朗普：美国将摧毁霍尔木兹海峡的水雷",
+          "url": "https://news.ifeng.com/c/8sGqabTjm0c",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "美国总统特朗普：我并不是教皇利奥的大粉丝。",
+          "url": "https://flash.jin10.com/detail/20260413091435020800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "美媒：特朗普考虑恢复对伊朗的有限军事打击",
+          "url": "https://news.ifeng.com/c/8sHT0I0yzy3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "特朗普重申对北约非常失望。",
+          "url": "https://wallstreetcn.com/livenews/3086559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "美伊谈判刚不欢而散，特朗普就下令海军封锁霍尔木兹海峡，有何意图？要效仿委内瑞拉模式吗？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2026779173369246174",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "市场消息：特朗普称伊朗正处于困境，处境非常艰难。",
+          "url": "https://flash.jin10.com/detail/20260413091316679800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "09时26分"
         },
         {
-          "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
-          "url": "https://wallstreetcn.com/articles/3769722",
-          "source": "华尔街见闻",
+          "title": "特朗普：霍尔木兹海峡正在发生非常好的事情。 伊朗的大部分布雷艇都不见了。 霍尔木兹海峡的封锁将非常有效。 我们的石油储量比俄罗斯和沙特加起来还多。 伊朗的处境非常糟糕，伊朗将不会有核武器。 伊朗导弹基本耗尽。 我们在伊朗并没有炸毁太多桥梁。",
+          "url": "https://wallstreetcn.com/livenews/3086557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "市场消息：特朗普表示霍尔木兹海峡封锁将非常有效，大部分布雷器都被摧毁了。",
+          "url": "https://flash.jin10.com/detail/20260413091306586800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "09时26分"
         },
         {
-          "title": "据美国哥伦比亚广播公司（CBS）：美伊会谈后，美国代表团无一人留在巴基斯坦；特朗普女婿库什纳、美国总统特使威特科夫及技术团队已离开伊斯兰堡。",
-          "url": "https://flash.jin10.com/detail/20260412191654767800",
+          "title": "市场消息：特朗普表示，伊朗将在美国封锁计划下被禁止出售石油。",
+          "url": "https://flash.jin10.com/detail/20260413091245025800",
           "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "仅3国掏钱，170亿就凑了个零头，特朗普的“和平委员会”要黄？",
-          "url": "https://news.ifeng.com/c/8sF8BSwcVz7",
-          "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "09时26分"
         },
         {
-          "title": "英国官员：特朗普的言论让英美关系紧张",
-          "url": "https://news.ifeng.com/c/8sGY3tCnh0U",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
-          "url": "https://wallstreetcn.com/articles/3769762",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-12）",
-          "url": "https://flash.jin10.com/detail/20260412182311550800",
+          "title": "市场消息：美国总统特朗普称梵蒂冈教皇利奥在犯罪和外交政策方面很软弱。",
+          "url": "https://flash.jin10.com/detail/20260413090547316800",
           "source": "金十数据",
           "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "一再遭特朗普嘲讽 英首相：我受够了",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%86%8D%E9%81%AD%E7%89%B9%E6%9C%97%E6%99%AE%E5%98%B2%E8%AE%BD+%E8%8B%B1%E9%A6%96%E7%9B%B8%EF%BC%9A%E6%88%91%E5%8F%97%E5%A4%9F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            16
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "09时26分"
         },
         {
-          "title": "特朗普：并不在意美伊会谈能否达成协议",
-          "url": "https://wallstreetcn.com/livenews/3086291",
-          "source": "华尔街见闻-快讯",
+          "title": "美伊对峙再升级！特朗普罕见承认：11月中期选举前油价或维持高位",
+          "url": "https://www.cls.cn/detail/2341748",
+          "source": "财联社热门",
           "ranks": [
-            16
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "09时26分"
         },
         {
-          "title": "迫于特朗普“强烈反对”，英国暂缓归还查戈斯群岛主权",
-          "url": "https://wallstreetcn.com/livenews/3086393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "特朗普：无论如何美国都赢了，达不达成协议无所谓",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32954237",
+          "title": "特朗普：美国海军将开始阻止任何船只进出霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32956224",
           "source": "澎湃新闻",
           "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "伊朗回应特朗普：封锁伊朗无法让霍尔木兹海峡“开放”",
-          "url": "https://flash.jin10.com/detail/20260412180522857800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "美国代表团成员在巴基斯坦磋商结束后悉数离境。 总统特朗普女婿库什纳、特使Witkoff、以及技术团队已经离开伊斯兰堡。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3086389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "特朗普：是否与伊朗达成协议对我来说无关紧要",
-          "url": "https://flash.jin10.com/detail/20260412045259857800",
-          "source": "金十数据",
-          "ranks": [
-            28
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "09时26分"
         },
         {
-          "title": "美国总统特朗普：我们有扫雷舰在那片海域，我们正在清扫海峡。",
-          "url": "https://flash.jin10.com/detail/20260412045245496800",
+          "title": "为什么特朗普要封锁一个伊朗已经在封锁的海峡？",
+          "url": "https://flash.jin10.com/detail/20260413084750323800",
           "source": "金十数据",
           "ranks": [
-            29
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "美国总统特朗普：（霍尔木兹海峡）水里可能有几枚水雷。",
-          "url": "https://flash.jin10.com/detail/20260412045228541800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "09时26分"
         }
       ]
     },
     {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 4,
+      "keyword_group": "美元",
+      "match_count": 7,
       "titles": [
         {
-          "title": "克里姆林宫：如果对“替代市场”的供应仍有剩余，俄罗斯准备向欧洲出售天然气。",
-          "url": "https://flash.jin10.com/detail/20260412174900504800",
-          "source": "金十数据",
+          "title": "人民币兑美元中间价报6.8657，下调3点；上一交易日中间价6.8654，上一交易日官方收盘价6.8333，上日夜盘报收6.8305。",
+          "url": "https://wallstreetcn.com/livenews/3086561",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时36分"
+          "time_info": "09时26分"
         },
         {
-          "title": "克里姆林宫：俄罗斯目前仅剩乌克兰顿涅茨克州的17%至18%尚未控制。",
-          "url": "https://flash.jin10.com/detail/20260412174431123800",
+          "title": "菲律宾比索跌至1美元兑59.984披索，为4月7日以来最低水平。",
+          "url": "https://wallstreetcn.com/livenews/3086560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "菲律宾比索兑美元跌至59.984，创4月7日以来新低。",
+          "url": "https://flash.jin10.com/detail/20260413091204401800",
           "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "复星国际2028年5月到期美元债涨幅势创纪录，该公司8.5%债券每1美元涨2.6美分，至102.1美分。",
+          "url": "https://wallstreetcn.com/livenews/3086543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "中金：从中长期看，美元“货币锚”弱化可能继续主导市场前景，美元贬值趋势未变",
+          "url": "https://wallstreetcn.com/livenews/3086539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "韩元兑美元日内跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3086536",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时36分"
+          "time_info": "09时26分"
         },
         {
-          "title": "克里姆林宫：即使俄罗斯不向欧盟出售天然气，欧盟也会找到购买途径。",
-          "url": "https://flash.jin10.com/detail/20260412174224104800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "乌克兰军方表示，自复活节停火协议生效以来，已记录到俄罗斯方面共计469次违反停火的行为。",
-          "url": "https://flash.jin10.com/detail/20260412045431099800",
+          "title": "多伦科技：参与众擎机器人2亿美元B轮融资",
+          "url": "https://flash.jin10.com/detail/20260413082553497800",
           "source": "金十数据",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "李大霄解读美股单周表现",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 20时36分]"
-        },
-        {
-          "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
-          "url": "https://www.cls.cn/detail/2341126",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "环球下周看点：中东两周停火暂稳市场 美股财报季检验盈利韧性",
-          "url": "https://www.cls.cn/detail/2341358",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "以色列央行：3月份外汇储备为2228.71亿美元，2月份为2345.45亿美元。（外媒更正，非“2236.97亿美元”与“2299.09亿美元”。）",
-          "url": "https://flash.jin10.com/detail/20260412193931563800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "分析师：美伊谈判无果将使美元获得进一步上涨动力",
-          "url": "https://flash.jin10.com/detail/20260412185611698800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "以色列3月外汇储备下滑至2282.7亿美元，2月份修正值2345.5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3086395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 20时36分]"
-        },
-        {
-          "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
-          "url": "https://wallstreetcn.com/articles/3769740",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "09时26分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "日本20年期国债收益率上行6个基点至3.39%。",
+          "url": "https://wallstreetcn.com/livenews/3086563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
         {
           "title": "san值狂掉,日本活虫笔走红",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353105&amp;topic_name=san%E5%80%BC%E7%8B%82%E6%8E%89%2C%E6%97%A5%E6%9C%AC%E6%B4%BB%E8%99%AB%E7%AC%94%E8%B5%B0%E7%BA%A2",
           "source": "贴吧",
           "ranks": [
-            4
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时36分"
+          "time_info": "09时26分"
+        },
+        {
+          "title": "军媒：日本部署进攻性武器包藏祸心",
+          "url": "https://www.toutiao.com/trending/7627641052857729065/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "日本5年期国债收益率上行4个基点至1.900%，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3086535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
           "title": "日本漠视民众,控产死保粮价",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353080&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%BC%A0%E8%A7%86%E6%B0%91%E4%BC%97%2C%E6%8E%A7%E4%BA%A7%E6%AD%BB%E4%BF%9D%E7%B2%AE%E4%BB%B7",
           "source": "贴吧",
           "ranks": [
-            17,
-            25
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 20时36分]"
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "日本3月货币存量M2同比 2%，前值 1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3086529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         }
       ]
     },
     {
-      "keyword_group": "Claude",
-      "match_count": 1,
+      "keyword_group": "韩国",
+      "match_count": 2,
       "titles": [
         {
-          "title": "马斯克：Grok要接近Claude Opus 4.6的水平，需要等到五月，而要达到甚至超越它则需等到六月。以常规标准来看，时间很短，但在人工智能领域，这已经算是很长时间了。",
-          "url": "https://wallstreetcn.com/livenews/3086308",
+          "title": "日经225指数低开0.9%，韩国首尔综指低开2.1%。",
+          "url": "https://wallstreetcn.com/livenews/3086534",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "09时26分"
+        },
+        {
+          "title": "韩国4月1-10日出口同比增长36.7%，进口增长12.7%。",
+          "url": "https://wallstreetcn.com/livenews/3086533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         }
       ]
     },
     {
-      "keyword_group": "欧盟",
+      "keyword_group": "美股",
       "match_count": 1,
       "titles": [
         {
-          "title": "佩斯科夫：若有富余，俄愿向欧盟国家供气",
-          "url": "https://wallstreetcn.com/livenews/3086397",
-          "source": "华尔街见闻-快讯",
+          "title": "李大霄解读美股单周表现",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
+          "source": "bilibili 热搜",
           "ranks": [
-            14
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时36分"
+          "time_info": "09时26分"
         }
       ]
     }

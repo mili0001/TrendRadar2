@@ -1,29 +1,30 @@
 {
-  "generated_at": "2026-04-14T09:24:35.606107+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-14T20:59:48.140460+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 20时59分]"
+        },
         {
           "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
           "url": "https://www.cls.cn/detail/2342892",
           "source": "财联社热门",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
-          "url": "https://wallstreetcn.com/articles/3769872",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -107,6 +108,17 @@
           "time_info": "09时24分"
         },
         {
+          "title": "特朗普赐两杯“毒酒”，万斯干了",
+          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "特朗普宣布：今晚10点就封锁！霍尔木兹海峡再次完全中断，两艘船紧急掉头",
           "url": "https://wallstreetcn.com/articles/3769804",
           "source": "华尔街见闻",
@@ -116,6 +128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027301230691596085",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "美英再现分歧！斯塔默：不支持特朗普封锁霍尔木兹海峡",
@@ -151,6 +174,17 @@
           "time_info": "09时24分"
         },
         {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "美媒：伊朗称最多暂停铀浓缩5年 特朗普拒绝",
           "url": "https://wallstreetcn.com/livenews/3087247",
           "source": "华尔街见闻-快讯",
@@ -175,8 +209,251 @@
       ]
     },
     {
+      "keyword_group": "日本",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "日产：全球市场战略以日本、美国和中国市场为核心。",
+          "url": "https://flash.jin10.com/detail/20260414091729692800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "日本饿熊袭人,开启猎杀新赛季",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353194&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%A5%BF%E7%86%8A%E8%A2%AD%E4%BA%BA%2C%E5%BC%80%E5%90%AF%E7%8C%8E%E6%9D%80%E6%96%B0%E8%B5%9B%E5%AD%A3",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "30年期日本国债收益率下行4.0个基点，至3.660%。",
+          "url": "https://wallstreetcn.com/livenews/3087261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "日本央行行长植田和男：将继续密切关注中东冲突对经济前景及金融状况的影响。",
+          "url": "https://flash.jin10.com/detail/20260414204154098800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "日本央行行长植田和男：应当注意，与以往相比，价格上涨机制可能正在增强这一可能性。",
+          "url": "https://flash.jin10.com/detail/20260414204134446800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "日本央行行长植田和男：如果油价上涨导致长期通胀预期上升，那么这将加速实际通胀水平的上升。",
+          "url": "https://flash.jin10.com/detail/20260414204117369800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "日本央行行长植田和男：如果油价上涨导致经济降温，那么这将促使通胀率下降。",
+          "url": "https://flash.jin10.com/detail/20260414204100892800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "日本央行行长植田和男：若中东冲突持续，企业活动可能会放缓。",
+          "url": "https://flash.jin10.com/detail/20260414203859624800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "san值狂掉,日本活虫笔走红",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353105&amp;topic_name=san%E5%80%BC%E7%8B%82%E6%8E%89%2C%E6%97%A5%E6%9C%AC%E6%B4%BB%E8%99%AB%E7%AC%94%E8%B5%B0%E7%BA%A2",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "日本央行行长植田和男：油价上涨可能会因贸易条件恶化而对经济增长造成负面影响。",
+          "url": "https://flash.jin10.com/detail/20260414203836431800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "日本央行行长植田和男：鉴于中东冲突已导致金融市场动荡，需谨慎应对。",
+          "url": "https://flash.jin10.com/detail/20260414203815412800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "日本央行行长植田和男：日本经济及物价目前基本与日本央行的预期相符。",
+          "url": "https://flash.jin10.com/detail/20260414203729780800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "德国国防部长：德国将向乌克兰的远程作战能力投资3亿欧元。",
+          "url": "https://flash.jin10.com/detail/20260414205041311800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "俄方：西方试图人为制造乌克兰危机",
+          "url": "https://www.toutiao.com/trending/7627991968311984191/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "乌克兰对克里米亚发动大规模袭击",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%AF%B9%E5%85%8B%E9%87%8C%E7%B1%B3%E4%BA%9A%E5%8F%91%E5%8A%A8%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%A2%AD%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "乌克兰国防部长：乌克兰与德国达成价值40亿欧元的国防合作协议。",
+          "url": "https://flash.jin10.com/detail/20260414204809977800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫将访华",
+          "url": "https://www.douyin.com/hot/2464797",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "俄罗斯再次提出接收伊朗浓缩铀的提议。",
+          "url": "https://flash.jin10.com/detail/20260414090343025800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "穆迪：匈牙利立场的转变将很可能使欧盟对乌克兰的援助计划得以获批并得以实施。",
+          "url": "https://flash.jin10.com/detail/20260414203431403800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "拉夫罗夫：西方试图制造乌克兰危机以使俄遭遇战略失败",
+          "url": "https://wallstreetcn.com/livenews/3087703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "俄罗斯呼吁金砖国家建立联合粮食储备，以应对中东危机风险",
+          "url": "https://wallstreetcn.com/livenews/3087244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "人民币兑美元中间价报6.8593，上调64点；上一交易日中间价6.8657，上一交易日官方收盘价6.8338，上日夜盘报收6.8300。",
@@ -188,6 +465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "埃及央行：埃及苏伊士运河2025年7月至12月的收入为22亿美元，上年同期为18亿美元。",
+          "url": "https://flash.jin10.com/detail/20260414204950984800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "人民币兑美元中间价较上日调升64点至6.8593，中间价升值至2023年3月24日以来最高。",
@@ -212,6 +500,28 @@
           "time_info": "09时24分"
         },
         {
+          "title": "美以打击致伊朗损失2700亿美元",
+          "url": "https://www.douyin.com/hot/2465908",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "礼来将以最高3亿美元现金收购生物技术公司CrossBridge Bio。",
+          "url": "https://wallstreetcn.com/livenews/3087714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "离岸人民币兑美元涨至6.8157元，创2023年3月23日以来新高，日内涨约40点。",
           "url": "https://wallstreetcn.com/livenews/3087249",
           "source": "华尔街见闻-快讯",
@@ -221,13 +531,107 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "美国PPI数据公布后，美元指数DXY继续下跌，最新下跌0.4%，至98.02点。",
+          "url": "https://flash.jin10.com/detail/20260414203158813800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美股收盘：标普纳指均涨超1% 高速互联、存储、CPU牛股领涨",
+          "url": "https://www.cls.cn/detail/2342867",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "伊朗谈判现曙光，美股期指拉升，亚太股市集体大涨，油价下挫，金银反弹",
+          "url": "https://wallstreetcn.com/articles/3769897",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-04-14）",
+          "url": "https://flash.jin10.com/detail/20260414204757643800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "大摩：美股处于调整最后阶段",
+          "url": "https://www.toutiao.com/trending/7628030977504084004/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "亚马逊美股盘前涨超1%，触及日内高点。",
+          "url": "https://wallstreetcn.com/livenews/3087715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "花旗集团第一季度固定收益、货币与商品（FICC）销售及交易收入为51.7亿美元，预期为50.2亿美元。 第一季度股票销售及交易收入为20.8亿美元，预期为17.3亿美元。 第一季度净利息收入157.4亿美元，预期为154.5亿美元。 第一季度财富管理收入30.7亿美元，预期为22.3亿美元。 花旗美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3087707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         }
       ]
     },
     {
       "keyword_group": "韩国",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "外交部回应韩国标注“中国台湾”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%9F%A9%E5%9B%BD%E6%A0%87%E6%B3%A8%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
         {
           "title": "韩国总统李在明：全球能源供应困难预计将持续。",
           "url": "https://wallstreetcn.com/livenews/3087273",
@@ -251,6 +655,17 @@
           "time_info": "09时24分"
         },
         {
+          "title": "外交部回应韩国标注中国台湾",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%9F%A9%E5%9B%BD%E6%A0%87%E6%B3%A8%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "韩国KOSPI指数突破6000点，日内涨3.30%。",
           "url": "https://flash.jin10.com/detail/20260414091257425800",
           "source": "金十数据",
@@ -267,112 +682,6 @@
           "source": "金十数据",
           "ranks": [
             24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "日本",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "日产：全球市场战略以日本、美国和中国市场为核心。",
-          "url": "https://flash.jin10.com/detail/20260414091729692800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "30年期日本国债收益率下行4.0个基点，至3.660%。",
-          "url": "https://wallstreetcn.com/livenews/3087261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "san值狂掉,日本活虫笔走红",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353105&amp;topic_name=san%E5%80%BC%E7%8B%82%E6%8E%89%2C%E6%97%A5%E6%9C%AC%E6%B4%BB%E8%99%AB%E7%AC%94%E8%B5%B0%E7%BA%A2",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "俄罗斯外长拉夫罗夫将访华",
-          "url": "https://www.douyin.com/hot/2464797",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "俄罗斯再次提出接收伊朗浓缩铀的提议。",
-          "url": "https://flash.jin10.com/detail/20260414090343025800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "俄罗斯呼吁金砖国家建立联合粮食储备，以应对中东危机风险",
-          "url": "https://wallstreetcn.com/livenews/3087244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股收盘：标普纳指均涨超1% 高速互联、存储、CPU牛股领涨",
-          "url": "https://www.cls.cn/detail/2342867",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "大摩：美股处于调整最后阶段",
-          "url": "https://www.toutiao.com/trending/7628030977504084004/",
-          "source": "今日头条",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 1,

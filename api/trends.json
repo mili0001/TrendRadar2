@@ -1,666 +1,282 @@
 {
-  "generated_at": "2026-04-15T21:43:08.595016+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-04-16T09:26:47.328722+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32975598",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
-        },
-        {
-          "title": "【早报】特朗普：与伊朗会谈可能未来两天内举行；国际油价重挫",
-          "url": "https://www.cls.cn/detail/2344222",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "伊朗战争丨特朗普称美国对伊朗的战争已结束",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "金十查证：特朗普说的是伊朗战争“接近”结束还是已经结束？",
-          "url": "https://flash.jin10.com/detail/20260415090719216800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
-          "url": "https://wallstreetcn.com/articles/3769962",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时21分 ~ 21时43分]"
-        },
-        {
-          "title": "特朗普：美国对伊朗的战争已经结束",
-          "url": "https://www.cls.cn/detail/2344245",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "特朗普：伊朗战事“接近结束”，未来两天或重启谈判",
-          "url": "https://flash.jin10.com/detail/20260415090511264800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "特朗普称美国对伊朗的战争已经结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时21分 ~ 21时43分]"
-        },
-        {
-          "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
-          "url": "https://www.cls.cn/detail/2344264",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "特朗普：没必要延长停火，接下来两天很精彩",
-          "url": "https://wallstreetcn.com/articles/3770009",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
-        },
-        {
-          "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
-          "url": "https://news.ifeng.com/c/8sLS5AcutoB",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
-        },
-        {
-          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
-          "url": "https://wallstreetcn.com/articles/3770032",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
-        },
-        {
-          "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32974811",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
-        },
-        {
-          "title": "欧洲正加速推进北约应急计划，以防美国总统特朗普退出。",
-          "url": "https://flash.jin10.com/detail/20260415090007347800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "4月15日投资避雷针：特朗普称美国对伊朗的战争已经结束",
-          "url": "https://www.cls.cn/detail/2344265",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "特朗普称伊朗非常想达成协议",
-          "url": "https://flash.jin10.com/detail/20260415084453293800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "波兰民调：近三分之二受访者认为特朗普威胁伊朗言论“不可接受”",
-          "url": "https://wallstreetcn.com/livenews/3088545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "特朗普：若美联储主席鲍威尔任期届满后仍留任 将对其解职",
-          "url": "https://wallstreetcn.com/livenews/3088541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "特朗普称伊朗战事“接近结束”",
-          "url": "https://flash.jin10.com/detail/20260415081224997800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "特朗普称伊朗战事“接近结束”",
-          "url": "https://wallstreetcn.com/livenews/3088036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "日本",
-      "match_count": 14,
+      "match_count": 11,
       "titles": [
         {
-          "title": "U20女足中国vs日本",
-          "url": "https://www.douyin.com/hot/2466817",
-          "source": "抖音",
+          "title": "媒体：日本拒不返还文物是反面典型",
+          "url": "https://www.toutiao.com/trending/7629135516709178926/",
+          "source": "今日头条",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
-          "title": "日本饿熊袭人,开启猎杀新赛季",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353194&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%A5%BF%E7%86%8A%E8%A2%AD%E4%BA%BA%2C%E5%BC%80%E5%90%AF%E7%8C%8E%E6%9D%80%E6%96%B0%E8%B5%9B%E5%AD%A3",
-          "source": "贴吧",
+          "title": "近三成日企向加息说“不”！日本央行的剧本要改写了？",
+          "url": "https://flash.jin10.com/detail/20260416090342226800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            29
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时21分 ~ 21时43分]"
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
           "title": "中国钨出口管制对日本影响几何",
           "url": "https://www.toutiao.com/trending/7628876812475498559/",
           "source": "今日头条",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
-          "title": "日本女足客场战胜美国女足",
-          "url": "https://www.toutiao.com/trending/7628831020675235883/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
-        },
-        {
-          "title": "日本20年期国债收益率下行2.5个基点至3.245%。",
-          "url": "https://wallstreetcn.com/livenews/3088054",
-          "source": "华尔街见闻-快讯",
+          "title": "中国U20女足0:2日本",
+          "url": "https://www.douyin.com/hot/2466817",
+          "source": "抖音",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "09时26分"
         },
         {
-          "title": "日本20年期国债收益率下跌2.5个基点，至3.245%。",
-          "url": "https://flash.jin10.com/detail/20260415084236054800",
+          "title": "环球时报社评：文物返还，法国的做法值得日本学习",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32981649",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "日本主要港口铝库存3月底为279,800吨，2月底为302,300吨。",
+          "url": "https://flash.jin10.com/detail/20260416085739730800",
           "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "09时26分"
         },
         {
-          "title": "日本将把私营部门原油储备释放期限延长1个月。（朝日电视台）",
-          "url": "https://wallstreetcn.com/livenews/3088050",
+          "title": "日本40年期国债收益率上行3.0个基点，至3.845%。",
+          "url": "https://wallstreetcn.com/livenews/3088853",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "09时26分"
         },
         {
-          "title": "日经225指数涨幅扩大至1.1%，日本东证指数涨1%。",
-          "url": "https://wallstreetcn.com/livenews/3088047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "据日本朝日新闻：日本将把释放战略石油储备的时间延长一个月。",
-          "url": "https://flash.jin10.com/detail/20260415081538705800",
+          "title": "日本40年期国债收益率上涨3.0个基点，至3.845%。",
+          "url": "https://flash.jin10.com/detail/20260416084117044800",
           "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "09时26分"
         },
         {
-          "title": "日本“新军国主义”正构成现实威胁",
-          "url": "https://www.toutiao.com/trending/7628474832447963146/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "日本2月核心机械订单环比 13.6%，预期 -1.1%，前值 -5.5%。",
-          "url": "https://wallstreetcn.com/livenews/3088041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "日本2月核心机械订单同比 24.7%，预期 8.7%，前值 13.7%。",
-          "url": "https://wallstreetcn.com/livenews/3088040",
+          "title": "日本大金工业股价上涨11%，此前维权投资者Elliott入股。",
+          "url": "https://wallstreetcn.com/livenews/3088845",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "09时26分"
         },
         {
-          "title": "英国、澳大利亚、日本、瑞典、荷兰、芬兰、西班牙、挪威、爱尔兰、波兰和新西兰的财政部长就中东问题发表联合声明。",
-          "url": "https://flash.jin10.com/detail/20260415211604272800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "加拿大、澳大利亚、日本、英国及其他国家就保护黎巴嫩境内援助工作者发表联合声明。",
-          "url": "https://flash.jin10.com/detail/20260415080341060800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "人民币兑美元中间价创2023年3月24日以来新高",
-          "url": "https://wallstreetcn.com/livenews/3088069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "现货白银突破80美元/盎司，为3月18日以来首次，日内涨0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3088067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "为什么奖金只有 1.38 万美元的菲尔兹奖地位那么崇高？",
-          "url": "https://www.zhihu.com/question/1921367137244653470",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
-        },
-        {
-          "title": "美伊释放继续谈判信号 油价跌破100美元 全球股市普涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2343966",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "中国3月按美元计出口同比增长2.5%，进口同比增27.8%",
-          "url": "https://wallstreetcn.com/articles/3769900",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "自动驾驶公司Wayve获得了来自AMD、Qualcomm和ARM的6000万美元融资。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3088560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "Coreweave(CRWV.O)股价上涨2.7%；此前Jane Street与公司签署60亿美元的人工智能云交易，并增持股份。",
-          "url": "https://flash.jin10.com/detail/20260415213506892800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "美国私募股权巨头KKR宣布，将通过收购可转换债券向三星SDS投资1.22万亿韩元（约合8.2亿美元）。",
-          "url": "https://wallstreetcn.com/livenews/3088049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "美元理财到期“高息变负息”",
-          "url": "https://www.toutiao.com/trending/7628468783543844907/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "国际油价短线走低，WTI原油期货一度跌至87美元下方，此前特朗普称他认为战争非常接近结束。",
-          "url": "https://wallstreetcn.com/livenews/3088037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "WTI原油跌幅收窄至1.2%，现报90.9美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260415080532509800",
+          "title": "日本30年期国债收益率上涨2.5个基点，至3.610%。",
+          "url": "https://flash.jin10.com/detail/20260416083214661800",
           "source": "金十数据",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "09时26分"
         },
         {
-          "title": "韩国将向伊朗提供50万美元人道主义援助",
-          "url": "https://wallstreetcn.com/livenews/3088032",
-          "source": "华尔街见闻-快讯",
+          "title": "日本饿熊袭人,开启猎杀新赛季",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353194&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%A5%BF%E7%86%8A%E8%A2%AD%E4%BA%BA%2C%E5%BC%80%E5%90%AF%E7%8C%8E%E6%9D%80%E6%96%B0%E8%B5%9B%E5%AD%A3",
+          "source": "贴吧",
           "ranks": [
-            30
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "09时26分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 8,
+      "keyword_group": "特朗普",
+      "match_count": 7,
       "titles": [
         {
-          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
-          "url": "https://wallstreetcn.com/articles/3769987",
+          "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32975598",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "特朗普：没必要延长停火，接下来两天很精彩",
+          "url": "https://wallstreetcn.com/articles/3770009",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
+          "url": "https://wallstreetcn.com/articles/3770032",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
-          "title": "谈判曙光提振市场，美股高开，阿斯麦跌3%，黄金重回4800美元，布油转跌",
-          "url": "https://wallstreetcn.com/articles/3770007",
+          "title": "特朗普威胁：如果任期结束后鲍威尔不离职，他将强行解雇鲍威尔",
+          "url": "https://www.cls.cn/detail/2345350",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "特朗普：鲍威尔若届满不走就解雇，沃什上任后利率可能会下降",
+          "url": "https://wallstreetcn.com/articles/3770050",
           "source": "华尔街见闻",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
-        },
-        {
-          "title": "美股收盘：纳指连涨十日 光通信、燃料电池、半导体牛股齐创新高",
-          "url": "https://www.cls.cn/detail/2344205",
-          "source": "财联社热门",
-          "ranks": [
-            2
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "09时26分"
         },
         {
-          "title": "美股三大指数集体高开，量子计算概念股普涨",
-          "url": "https://wallstreetcn.com/livenews/3088564",
+          "title": "美伊很快达成协议？特朗普给出“时间表”：4月下旬！",
+          "url": "https://www.cls.cn/detail/2345537",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32974811",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "人民币兑美元中间价报6.8616，下调34点；上一交易日中间价6.8582，上一交易日官方收盘价6.8185，上日夜盘报收6.8188。",
+          "url": "https://wallstreetcn.com/livenews/3088868",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时43分"
+          "time_info": "09时26分"
         },
         {
-          "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2345247",
-          "source": "财联社热门",
+          "title": "台股市值升至4.14万亿美元，超过英国股市。",
+          "url": "https://wallstreetcn.com/livenews/3088866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "美联储亮鹰，每月美债购买量大减近 40%，月规模降至 250 亿美元，此举远超市场预期，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027378015303157221",
+          "source": "知乎",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
-        },
-        {
-          "title": "美股开盘，道指涨0.22%，标普500指数涨0.13%，纳指涨0.18%，博通(AVGO.O)股价上涨1.4%，因其与Meta公司延长了定制芯片协议，阿斯麦(ASML.O)开跌3%。",
-          "url": "https://flash.jin10.com/detail/20260415213245498800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时43分"
+          "time_info": "09时26分"
         },
         {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3088552",
+          "title": "现货黄金上涨近1%，至每盎司4,837.09美元。",
+          "url": "https://wallstreetcn.com/livenews/3088852",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "美股收盘：中概股集体大涨",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%AD%E6%A6%82%E8%82%A1%E9%9B%86%E4%BD%93%E5%A4%A7%E6%B6%A8",
-          "source": "百度热搜",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "09时26分"
         }
       ]
     },
     {
       "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 7,
+      "match_count": 3,
       "titles": [
         {
-          "title": "习近平将会见俄罗斯外长拉夫罗夫",
-          "url": "https://flash.jin10.com/detail/20260415090630619800",
-          "source": "金十数据",
+          "title": "乌克兰首都基辅遭袭，已致多人死伤",
+          "url": "https://news.ifeng.com/c/8sMegeB2jMx",
+          "source": "凤凰网",
           "ranks": [
-            2
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "王毅同俄罗斯外长拉夫罗夫会谈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32970109",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时21分 ~ 21时43分]"
-        },
-        {
-          "title": "俄罗斯海军舰艇编队来华访问(图)",
-          "url": "https://news.ifeng.com/c/8sLP56zGhqb",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
+          "time_info": "09时26分"
         },
         {
           "title": "如何看待俄罗斯外长拉夫罗夫访华？中俄在热点问题上还有哪些对表空间？",
@@ -670,153 +286,92 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
-        },
-        {
-          "title": "俄罗斯与阿塞拜疆就阿克套坠机后续问题达成一致",
-          "url": "https://wallstreetcn.com/livenews/3088562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时43分"
+          "time_info": "09时26分"
         },
         {
-          "title": "全球氦气供应再受冲击！俄罗斯实施临时出口管制",
-          "url": "https://www.cls.cn/detail/2343935",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "俄罗斯与阿塞拜疆就阿克套坠机后续问题达成一致",
-          "url": "https://flash.jin10.com/detail/20260415212330233800",
+          "title": "乌克兰首都基辅遭袭 已致多人死伤",
+          "url": "https://flash.jin10.com/detail/20260416085849480800",
           "source": "金十数据",
           "ranks": [
-            18
+            15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时43分"
+          "time_info": "09时26分"
         }
       ]
     },
     {
-      "keyword_group": "韩国",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "韩国央行行长提名人申铉松：韩国通胀将加速。 经济面临下行压力，物价面临上行压力。 韩国央行将寻求实现物价和金融稳定。 将致力于实现韩元国际化。",
-          "url": "https://wallstreetcn.com/livenews/3088068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "韩国首尔综指涨超3%，SK海力士股价涨幅超5%，三星电子涨超4%。",
-          "url": "https://wallstreetcn.com/livenews/3088046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "日经225指数高开0.7%，韩国首尔综指高开2.9%。",
-          "url": "https://wallstreetcn.com/livenews/3088045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
+      "keyword_group": "美股",
       "match_count": 2,
       "titles": [
         {
-          "title": "DeepSeek招人去内蒙草原“守机房”",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%8B%9B%E4%BA%BA%E5%8E%BB%E5%86%85%E8%92%99%E8%8D%89%E5%8E%9F%E2%80%9C%E5%AE%88%E6%9C%BA%E6%88%BF%E2%80%9D",
-          "source": "百度热搜",
+          "title": "美股收盘：标普历史首次征服7000点 算力巨头携手冲高",
+          "url": "https://www.cls.cn/detail/2345486",
+          "source": "财联社热门",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
-        },
-        {
-          "title": "月薪3万，去内蒙草原给DeepSeek守机房",
-          "url": "https://wallstreetcn.com/articles/3769935",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欧盟",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "欧盟继续鼓吹“去风险”，盯上中国逆变器",
-          "url": "https://news.ifeng.com/c/8sKHbwJIO3q",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "09时26分"
         },
         {
-          "title": "欧盟计划削减电力税并加快推广清洁能源",
-          "url": "https://wallstreetcn.com/livenews/3088056",
-          "source": "华尔街见闻-快讯",
+          "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2345247",
+          "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "09时26分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "韩国",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "韩国：第一季度来韩外国游客达476万人次 中国游客约占三分之一",
+          "url": "https://wallstreetcn.com/livenews/3088865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "日经225指数高开0.6%，韩国首尔综指高开1%。",
+          "url": "https://wallstreetcn.com/livenews/3088839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI计划为ChatGPT广告推出新定价，并探索其他升级方案。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3088551",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek招人去内蒙草原“守机房”",
+          "url": "https://www.toutiao.com/trending/7628152198593691675/",
+          "source": "今日头条",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时43分"
+          "time_info": "09时26分"
         }
       ]
     }

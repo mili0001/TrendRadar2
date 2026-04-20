@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T09:27:17.530760+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-20T21:04:10.756746+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "日本",
-      "match_count": 8,
+      "match_count": 30,
       "titles": [
         {
           "title": "中国航司大面积取消日本航班",
@@ -19,6 +19,39 @@
           "time_info": "[09时26分 ~ 09时27分]"
         },
         {
+          "title": "日本地震震级修正为7.7级",
+          "url": "https://www.toutiao.com/trending/7630298147033468458/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "日本发生7.7级地震",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F7.7%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "日本7.5级地震",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC7.5%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
           "title": "日本启动十二年来最重大军售",
           "url": "https://www.douyin.com/hot/2471344",
           "source": "抖音",
@@ -28,6 +61,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时26分 ~ 09时27分]"
+        },
+        {
+          "title": "日本东北海域7.7级地震",
+          "url": "https://www.douyin.com/hot/2472798",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "日本火锅肉薄如纸,1盘不够塞牙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353492&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%81%AB%E9%94%85%E8%82%89%E8%96%84%E5%A6%82%E7%BA%B8%2C1%E7%9B%98%E4%B8%8D%E5%A4%9F%E5%A1%9E%E7%89%99",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "日本东北部沿海地区发生 7.7 级地震，已发布海啸警报，目前情况怎么样？",
+          "url": "https://www.zhihu.com/question/2029592121372362319",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "日本地震震级修正为7.7级",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
         },
         {
           "title": "中国航司大面积取消日本航班",
@@ -45,11 +122,79 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E5%A8%81%E8%83%81%E4%BF%A1",
           "source": "bilibili 热搜",
           "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时26分 ~ 21时04分]"
+        },
+        {
+          "title": "年薪3万,日本动画师为爱发电",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353435&amp;topic_name=%E5%B9%B4%E8%96%AA3%E4%B8%87%2C%E6%97%A5%E6%9C%AC%E5%8A%A8%E7%94%BB%E5%B8%88%E4%B8%BA%E7%88%B1%E5%8F%91%E7%94%B5",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时26分 ~ 21时04分]"
+        },
+        {
+          "title": "日本多地民众被要求立即避难逃生",
+          "url": "https://www.toutiao.com/trending/7630767220557155886/",
+          "source": "今日头条",
+          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "日本东北部沿海地区发生7.4级地震，已发布海啸警报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33010604",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "2名中国台湾游客在日本坠机身亡",
+          "url": "https://www.baidu.com/s?wd=2%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%9D%A0%E6%9C%BA%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "日本未来一周可能发生同等规模地震",
+          "url": "https://www.toutiao.com/trending/7630770612776209958/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "海啸预警,日本7.4级地震",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353495&amp;topic_name=%E6%B5%B7%E5%95%B8%E9%A2%84%E8%AD%A6%2C%E6%97%A5%E6%9C%AC7.4%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
         },
         {
           "title": "中国航司大面积取消日本航班",
@@ -63,15 +208,81 @@
           "time_info": "[09时26分 ~ 09时27分]"
         },
         {
-          "title": "年薪3万,日本动画师为爱发电",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353435&amp;topic_name=%E5%B9%B4%E8%96%AA3%E4%B8%87%2C%E6%97%A5%E6%9C%AC%E5%8A%A8%E7%94%BB%E5%B8%88%E4%B8%BA%E7%88%B1%E5%8F%91%E7%94%B5",
-          "source": "贴吧",
+          "title": "日本军舰过航台湾海峡参加军演，中方回应",
+          "url": "https://www.cls.cn/detail/2349323",
+          "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "日本地震引发海啸不会影响我国",
+          "url": "https://www.douyin.com/hot/2472917",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "日本地震震级修正为7.5级，观测到浪高70厘米海啸",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33010799",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "日本可能出现3米浪高海啸",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%8F%AF%E8%83%BD%E5%87%BA%E7%8E%B03%E7%B1%B3%E6%B5%AA%E9%AB%98%E6%B5%B7%E5%95%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "日本强震震中附近有多个核电站",
+          "url": "https://www.toutiao.com/trending/7630353610529849385/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "日本：未来一周或发生同等规模地震",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%EF%BC%9A%E6%9C%AA%E6%9D%A5%E4%B8%80%E5%91%A8%E6%88%96%E5%8F%91%E7%94%9F%E5%90%8C%E7%AD%89%E8%A7%84%E6%A8%A1%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "各国网民线上嘲讽日本人",
+          "url": "https://s.weibo.com/weibo?q=%E5%90%84%E5%9B%BD%E7%BD%91%E6%B0%91%E7%BA%BF%E4%B8%8A%E5%98%B2%E8%AE%BD%E6%97%A5%E6%9C%AC%E4%BA%BA&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
         },
         {
           "title": "日本萝莉毕业,V圈地震",
@@ -85,6 +296,17 @@
           "time_info": "[09时26分 ~ 09时27分]"
         },
         {
+          "title": "日本发生地震 留学生：感觉像喝醉一样",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87+%E7%95%99%E5%AD%A6%E7%94%9F%EF%BC%9A%E6%84%9F%E8%A7%89%E5%83%8F%E5%96%9D%E9%86%89%E4%B8%80%E6%A0%B7",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
           "title": "媒体：警惕日本“军事暴走”风险",
           "url": "https://www.toutiao.com/trending/7629571105527218219/",
           "source": "今日头条",
@@ -94,13 +316,46 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时26分 ~ 09时27分]"
+        },
+        {
+          "title": "日本地震暂未影响航空运行",
+          "url": "https://www.toutiao.com/trending/7630609481730326564/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "国际原子能机构：日本方面通知，截至UTC时间今日8时16分（北京时间16:16），在今日7.5级地震及海啸预警之后，其核设施未出现任何异常情况。",
+          "url": "https://flash.jin10.com/detail/20260420203749423800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
+          "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时26分 ~ 21时04分]"
+        },
         {
           "title": "停火“还剩三天”，以军袭击黎巴嫩，伊朗军方关闭霍尔木兹海峡，特朗普再召“战情室会议”",
           "url": "https://wallstreetcn.com/articles/3770334",
@@ -111,6 +366,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时26分 ~ 09时27分]"
+        },
+        {
+          "title": "伊朗战争丨巴方建议美解除对伊封锁，特朗普称会考虑",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
         },
         {
           "title": "美伊局势追踪：特朗普二轮和谈邀约“遭拒” 美军开火、伊朗誓言报复",
@@ -124,15 +390,15 @@
           "time_info": "[09时26分 ~ 09时27分]"
         },
         {
-          "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
-          "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
+          "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
+          "url": "https://news.ifeng.com/c/8sTsOA6jP1W",
           "source": "凤凰网",
           "ranks": [
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
+          "time_info": "[21时03分 ~ 21时04分]"
         },
         {
           "title": "美国代表抵达伊斯兰堡参加谈判，特朗普：美伊仍能达成协议",
@@ -166,12 +432,106 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时26分 ~ 09时27分]"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：特朗普说伊朗和平谈判将会举行。",
+          "url": "https://wallstreetcn.com/livenews/3091121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：特朗普的帖子反映了在伊朗问题上取得的进展。 阿联酋是重要的盟友，贝森特会在必要时提供帮助。 阿联酋外汇掉期可能没有必要。 美国从阿根廷外汇掉期中获利。 沃什听证会将证明他是一位强有力的候选人。",
+          "url": "https://wallstreetcn.com/livenews/3091118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "伊朗释放混乱信号，美股期货回落，油价飙升近8%，黄金小幅走软",
+          "url": "https://wallstreetcn.com/articles/3770361",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "美银Hartnett：本轮美股反弹正演变为\"多头陷阱\"",
+          "url": "https://wallstreetcn.com/articles/3770345",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 09时27分]"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3091132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "Adobe(ADBE.O)美股盘前拉升，涨超4%。",
+          "url": "https://flash.jin10.com/detail/20260420204739990800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "创纪录美股背后的虚假地基：两大\"一次性\"因素能撑多久？",
+          "url": "https://wallstreetcn.com/articles/3770342",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 09时27分]"
+        },
+        {
+          "title": "美股三大期指盘前集体走低 伊朗商船遭袭谈判迷雾笼罩 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2349767",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
         }
       ]
     },
     {
       "keyword_group": "韩国",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "韩国首尔综指涨幅扩大至1.1%，报6257.36点，创2月27日来新高。",
@@ -180,9 +540,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "韩国西瓜销量暴涨",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%A5%BF%E7%93%9C%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
         },
         {
           "title": "韩国KOSPI指数上涨至6,257.36点，最高涨幅达1.1%，为2月27日以来最高水平。",
@@ -191,7 +562,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -202,7 +573,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -213,7 +584,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -224,7 +595,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         }
@@ -241,7 +612,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -263,7 +634,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -274,7 +645,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         }
@@ -282,7 +653,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "如何看待网传 DeepSeek V4 即将发布并提出「去 CUDA 化」？",
@@ -294,6 +665,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时26分 ~ 09时27分]"
+        },
+        {
+          "title": "DeepSeek 被曝融资 20 亿，真实性如何？若属实，估值合理吗？一直说不融资的它，怎么突然松口了？",
+          "url": "https://www.zhihu.com/question/2029232145541980805",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
         },
         {
           "title": "DeepSeek 开启首次对外融资，其在多名核心研究员跳槽之下为何会选择此时，从商业资本角度你怎么看？",
@@ -309,36 +691,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美银Hartnett：本轮美股反弹正演变为\"多头陷阱\"",
-          "url": "https://wallstreetcn.com/articles/3770345",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
-        },
-        {
-          "title": "创纪录美股背后的虚假地基：两大\"一次性\"因素能撑多久？",
-          "url": "https://wallstreetcn.com/articles/3770342",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "俄罗斯一载 40 名中国公民大巴翻车，致 2 人死亡，具体是怎么回事？",
@@ -361,6 +715,62 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时26分 ~ 09时27分]"
+        },
+        {
+          "title": "市场消息：俄罗斯解除对前往阿联酋航班的限制。",
+          "url": "https://flash.jin10.com/detail/20260420204150585800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欧盟",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伊朗嘲讽欧盟外长：哦，你管那个叫国际法？",
+          "url": "https://news.ifeng.com/c/8sTnYkkWuL2",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "西班牙将正式提议欧盟终止与以色列联系国协议",
+          "url": "https://news.ifeng.com/c/8sSRBLDz9La",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 09时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据华尔街日报：Adobe(ADBE.O)的人工智能助手将助力提升客户参与度和销售额。Adobe将与微软、Anthropic、OpenAI、英伟达合作。",
+          "url": "https://flash.jin10.com/detail/20260420204808248800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         }
       ]
     },
@@ -374,23 +784,6 @@
           "source": "知乎",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欧盟",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "西班牙将正式提议欧盟终止与以色列联系国协议",
-          "url": "https://news.ifeng.com/c/8sSRBLDz9La",
-          "source": "凤凰网",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 2,

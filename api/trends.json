@@ -1,781 +1,281 @@
 {
-  "generated_at": "2026-04-21T21:05:33.554216+08:00",
-  "total_titles_processed": 593,
+  "generated_at": "2026-04-22T09:22:51.629548+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 17,
       "titles": [
         {
-          "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
-          "url": "https://wallstreetcn.com/articles/3770404",
-          "source": "华尔街见闻",
+          "title": "【早报】特朗普：延长停火期限；伊朗：拒绝出席伊美第二轮谈判",
+          "url": "https://www.cls.cn/detail/2351434",
+          "source": "财联社热门",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
-          "title": "美伊停火倒计时？特朗普敲定21日“二轮谈判”，伊朗仍未点头答应！",
-          "url": "https://www.cls.cn/detail/2350106",
+          "title": "伊朗战争丨特朗普宣布延长对伊朗停火，多方回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
+          "url": "https://wallstreetcn.com/articles/3770539",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
+          "url": "https://wallstreetcn.com/articles/3770525",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "特朗普宣布延长停火期限 直至伊朗拿出一份“统一谈判方案”",
+          "url": "https://www.cls.cn/detail/2351404",
           "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "美国总统特朗普：如果我们现在离开，伊朗需要20年才能重建。",
-          "url": "https://flash.jin10.com/detail/20260421204820144800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "09时22分"
         },
         {
-          "title": "特朗普批评最高法院允许退还关税",
-          "url": "https://wallstreetcn.com/livenews/3091864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "特朗普一顿迷惑操作搞懵美媒，美官员：只会添乱",
-          "url": "https://news.ifeng.com/c/8sVY7G7Z8bE",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "美国总统特朗普：如果新任美联储主席不降息，我将感到失望。",
-          "url": "https://flash.jin10.com/detail/20260421204527480800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "特朗普：我一直赞成提高利率以对抗通货膨胀",
-          "url": "https://wallstreetcn.com/livenews/3091860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
-          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 21时05分]"
-        },
-        {
-          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
-          "url": "https://wallstreetcn.com/articles/3770427",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 21时05分]"
-        },
-        {
-          "title": "特朗普：延长停火极不可能 在达成“协议”前不会解除对伊朗的封锁",
-          "url": "https://www.cls.cn/detail/2350029",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "最新民调显示，特朗普当前支持率为 37% ，超六成美国人反对扩大对伊军事行动，这一数据意味什么？",
-          "url": "https://www.zhihu.com/question/2029573491297395870",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "事关煤、气、油、电！特朗普动用“战时权力”",
-          "url": "https://www.cls.cn/detail/2350491",
-          "source": "财联社热门",
+          "title": "一图看懂｜特朗普执政一年后，美国科学界面临什么困境",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33015762",
+          "source": "澎湃新闻",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "特朗普赞扬蒂姆·库克和黄仁勋。",
-          "url": "https://wallstreetcn.com/livenews/3091858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "特朗普谈Anthropic：不想让他们干预军事事务。 在白宫与Anthropic进行了良好的会谈。 Anthropic的人智商很高，我觉得我们能相处融洽。 有可能达成协议。 用像SAM ALTMAN这样的人取代了ANTHROPIC。",
-          "url": "https://wallstreetcn.com/livenews/3091857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "美国总统特朗普：必须查明美联储大楼成本超支的原因。",
-          "url": "https://flash.jin10.com/detail/20260421204330821800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "特朗普赞扬其他国家从美国获取石油。 特朗普指出股市上涨。",
-          "url": "https://wallstreetcn.com/livenews/3091856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
-          "url": "https://news.ifeng.com/c/8sVQzCFVrqc",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "09时22分"
         },
         {
           "title": "5月1日——特朗普“任性打仗”的关键时限",
           "url": "https://wallstreetcn.com/articles/3770498",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "09时22分"
         },
         {
-          "title": "美国总统特朗普暗示鲍威尔在美联储建设成本问题上存在不当行为。",
-          "url": "https://flash.jin10.com/detail/20260421204253837800",
-          "source": "金十数据",
+          "title": "特朗普：预计美伊将达成“重大协议”，如果沃什不迅速降息将会感到失望",
+          "url": "https://wallstreetcn.com/articles/3770519",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "09时22分"
         },
         {
-          "title": "特朗普：“完全”赢得了伊朗战争。 如果我们现在离开伊朗，重建需要20年。 想就伊朗问题达成一项好的协议，不能操之过急。 不想被那些“叛国者”催促行事。",
-          "url": "https://wallstreetcn.com/livenews/3091852",
+          "title": "特朗普考虑延长对《琼斯法案》的豁免令，以简化美国石油运输。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3092185",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "09时22分"
         },
         {
-          "title": "美国总统特朗普：美联储主席提名人沃什对美联储大楼翻修感到不满。",
-          "url": "https://flash.jin10.com/detail/20260421204232112800",
+          "title": "特朗普一顿迷惑操作搞懵美媒，美官员：只会添乱",
+          "url": "https://news.ifeng.com/c/8sVY7G7Z8bE",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "特朗普拟延长放宽美国油运限制的措施",
+          "url": "https://flash.jin10.com/detail/20260422085324790800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "09时22分"
         },
         {
-          "title": "尽管对市场和石油造成影响，特朗普仍为在伊朗采取的行动辩护。",
-          "url": "https://wallstreetcn.com/livenews/3091851",
+          "title": "特朗普：如果美国解除海上封锁 就永远不可能与伊朗达成协议",
+          "url": "https://wallstreetcn.com/livenews/3092182",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "特朗普表示不想延长与伊朗的停火协议",
-          "url": "https://flash.jin10.com/detail/20260421204206307800",
-          "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "09时22分"
         },
         {
-          "title": "美国总统特朗普在采访中被问及美国司法部是否可能终止对美联储主席鲍威尔的调查。",
-          "url": "https://flash.jin10.com/detail/20260421204202798800",
+          "title": "据AXIOS网站：美国总统特朗普正考虑延长琼斯法案的豁免时间，以放宽美国石油运输限制。",
+          "url": "https://flash.jin10.com/detail/20260422084955380800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "09时22分"
         },
         {
-          "title": "技术刘Pro：突发双重利空压制国际现货金银，特朗普言论能否逆转行情？",
-          "url": "https://flash.jin10.com/detail/20260421204050334800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "特朗普为针对鲍威尔的调查辩护，批评美联储的建设成本。 特朗普暗示鲍威尔在美联储建设成本问题上存在不当行为。",
-          "url": "https://wallstreetcn.com/livenews/3091846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "美国总统特朗普：（关于美联储调查）我们必须了解建设情况。",
-          "url": "https://flash.jin10.com/detail/20260421204017760800",
+          "title": "中信证券：认为特朗普将撤销对鲍威尔的调查",
+          "url": "https://flash.jin10.com/detail/20260422084531470800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "09时22分"
         },
         {
-          "title": "美国总统特朗普：我预计伊朗会遭到轰炸，美军已做好进入伊朗的准备。",
-          "url": "https://flash.jin10.com/detail/20260421203925707800",
-          "source": "金十数据",
+          "title": "特朗普宣布延长同伊朗的停火",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33023082",
+          "source": "澎湃新闻",
           "ranks": [
-            16
+            18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "09时22分"
         },
         {
-          "title": "特朗普谈再次延长停火：我不想那么做。 伊朗可以通过协议重回正轨。 伊朗似乎“嗜血成性”。 伊朗必须运用理性和常识。 伊朗可以把自身变成一个正当的国家。 伊朗可能已经进行了一些补给。 打击基础设施可在军事上损害伊朗。 预计将对伊朗进行轰炸，我们已准备就绪。",
-          "url": "https://wallstreetcn.com/livenews/3091843",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "特朗普谈伊朗谈判：我认为我们最终会达成一项很棒的协议。 伊朗别无选择，只能派人参加谈判。 我们在与伊朗的谈判中处于非常有利的地位。 封锁取得了巨大成功。 美国完全控制了霍尔木兹海峡。",
-          "url": "https://wallstreetcn.com/livenews/3091840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "特朗普的伊朗难题：不退让可能再次开战，妥协仍有隐患，抽身最不现实",
-          "url": "https://flash.jin10.com/detail/20260421084602892800",
+          "title": "美国总统特朗普：四天前，有人找我说，“伊朗想立即开放海峡。”但如果我们这样做，就永远不可能与伊朗达成协议，除非摧毁他们国家的其他部分，包括他们的领导人！",
+          "url": "https://flash.jin10.com/detail/20260422083912394800",
           "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "09时22分"
         },
         {
-          "title": "美国总统特朗普：我们的姿态是准备轰炸伊朗，我们已做好准备。",
-          "url": "https://flash.jin10.com/detail/20260421203824320800",
+          "title": "美国总统特朗普：伊朗之所以说想关闭海峡，是因为我已经完全封锁（关闭）了这个海峡，所以他们只是想“保全面子”。",
+          "url": "https://flash.jin10.com/detail/20260422083826785800",
           "source": "金十数据",
           "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "美国总统特朗普：我们现在的设备比几周前多得多。",
-          "url": "https://flash.jin10.com/detail/20260421203802366800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗试图转移其导弹。",
-          "url": "https://flash.jin10.com/detail/20260421203756162800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "特朗普成油市最大操盘手？对冲基金高管感叹：他已改变“游戏规则”！",
-          "url": "https://flash.jin10.com/detail/20260421083040883800",
-          "source": "金十数据",
-          "ranks": [
-            23
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "美国总统特朗普：对基础设施的打击可能会对伊朗造成军事伤害。",
-          "url": "https://flash.jin10.com/detail/20260421203742847800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "特朗普连发4帖辩解对伊动武，抨击民主党和“假新闻”",
-          "url": "https://wallstreetcn.com/livenews/3091398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗可能已经补充了一些（武器）库存。",
-          "url": "https://flash.jin10.com/detail/20260421203729153800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗似乎“嗜血成性”。伊朗必须理性、讲常识。",
-          "url": "https://flash.jin10.com/detail/20260421203711159800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗可以使自己成为一个合法国家。",
-          "url": "https://flash.jin10.com/detail/20260421203647377800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗刚获准赴巴基斯坦参加会谈。",
-          "url": "https://flash.jin10.com/detail/20260421203643869800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "09时22分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 34,
+      "match_count": 17,
       "titles": [
         {
-          "title": "日本地震震级修正为7.5级，观测到浪高70厘米海啸",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33010799",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "日本正式允许出口杀伤性武器",
-          "url": "https://www.toutiao.com/trending/7631012975779778111/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "日本强震上调至7.7级，震中附近有多座核电站，媒体呼吁民众尽快逃生：请回想2011年大地震！",
-          "url": "https://wallstreetcn.com/articles/3770418",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "日本地震震级修正为7.7级",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "日学者：超级地震或致日本国家崩溃",
-          "url": "https://www.toutiao.com/trending/7630755864559960091/",
-          "source": "今日头条",
+          "title": "日本5年期国债收益率上行2个基点至1.825%。 日本30年期国债收益率上行1.5个基点至3.570%。",
+          "url": "https://wallstreetcn.com/livenews/3092195",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "日本通过内阁决议正式允许出口杀伤性武器",
-          "url": "https://flash.jin10.com/detail/20260421090423159800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "09时22分"
         },
         {
-          "title": "日本火锅肉薄如纸,1盘不够塞牙",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353492&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%81%AB%E9%94%85%E8%82%89%E8%96%84%E5%A6%82%E7%BA%B8%2C1%E7%9B%98%E4%B8%8D%E5%A4%9F%E5%A1%9E%E7%89%99",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 21时05分]"
-        },
-        {
-          "title": "媒体评日本军舰穿越台湾海峡",
-          "url": "https://www.douyin.com/hot/2473187",
+          "title": "日本10式坦克炸膛事故细节公布",
+          "url": "https://www.douyin.com/hot/2474315",
           "source": "抖音",
           "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 21时05分]"
-        },
-        {
-          "title": "日本正式允许出口杀伤性武器",
-          "url": "https://news.ifeng.com/c/8sUyRIoBVgh",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "日本修正地震震级为7.7级，中领馆紧急提醒",
-          "url": "https://www.cls.cn/detail/2349778",
-          "source": "财联社热门",
-          "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "日本强震等级调至 7.7 级，当局呼吁民众尽快逃离，震中附近有多个核电站，可能对当地造成哪些影响？",
-          "url": "https://www.zhihu.com/question/2029606564365889631",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "日本7.7级地震",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC7.7%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "日本东北部沿海地区发生7.4级地震，已发布海啸警报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33010604",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "日本可能出现3米浪高海啸",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%8F%AF%E8%83%BD%E5%87%BA%E7%8E%B03%E7%B1%B3%E6%B5%AA%E9%AB%98%E6%B5%B7%E5%95%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "海啸预警,日本7.4级地震",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353495&amp;topic_name=%E6%B5%B7%E5%95%B8%E9%A2%84%E8%AD%A6%2C%E6%97%A5%E6%9C%AC7.4%E7%BA%A7%E5%9C%B0%E9%9C%87",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "日本发生7.7级地震",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F7.7%E7%BA%A7%E5%9C%B0%E9%9C%87",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "2名中国台湾游客在日本坠机身亡",
-          "url": "https://www.baidu.com/s?wd=2%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%9D%A0%E6%9C%BA%E8%BA%AB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "日本曾给灾民送千纸鹤",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E6%9B%BE%E7%BB%99%E7%81%BE%E6%B0%91%E9%80%81%E5%8D%83%E7%BA%B8%E9%B9%A4&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "年薪3万,日本动画师为爱发电",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353435&amp;topic_name=%E5%B9%B4%E8%96%AA3%E4%B8%87%2C%E6%97%A5%E6%9C%AC%E5%8A%A8%E7%94%BB%E5%B8%88%E4%B8%BA%E7%88%B1%E5%8F%91%E7%94%B5",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "日本通过内阁决议正式允许出口杀伤性武器",
           "url": "https://m.thepaper.cn/newsDetail_forward_33016180",
           "source": "澎湃新闻",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "日本的挑衅只会让中国人同仇敌忾",
-          "url": "https://www.toutiao.com/trending/7631141292038176804/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "高市早苗吹嘘日本武器遭打脸",
-          "url": "https://news.ifeng.com/c/8sVcvuEgtHw",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "日本通过内阁决议正式允许出口杀伤性武器",
-          "url": "https://wallstreetcn.com/livenews/3091418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "日本突发7.4级地震，影响多家半导体公司",
-          "url": "https://wallstreetcn.com/articles/3770431",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "日本通过内阁决议正式允许出口杀伤性武器，这意味着什么？会给东北亚地区带来哪些变化？",
-          "url": "https://www.zhihu.com/question/2029848664269419073",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "09时22分"
         },
         {
           "title": "日本自卫队训练场爆炸事故致3死1重伤",
           "url": "https://m.thepaper.cn/newsDetail_forward_33017051",
           "source": "澎湃新闻",
           "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "日本陆上自卫队一训练场弹药爆炸，2人死亡1人昏迷",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33016657",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "日本通过内阁决议正式允许出口杀伤性武器，这意味着什么？会给东北亚地区带来哪些变化？",
+          "url": "https://www.zhihu.com/question/2029848664269419073",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "超八成受访者批日本“重返侵略”",
+          "url": "https://www.toutiao.com/trending/7631206296196530202/",
+          "source": "今日头条",
+          "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "日本挑衅只会让中国人民更同仇敌忾",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8C%91%E8%A1%85%E5%8F%AA%E4%BC%9A%E8%AE%A9%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%9B%B4%E5%90%8C%E4%BB%87%E6%95%8C%E5%BF%BE",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "日本自卫队训练场爆炸",
-          "url": "https://www.douyin.com/hot/2473520",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "09时22分"
         },
         {
           "title": "日本开发新脑洞:机器人拆开做",
@@ -784,103 +284,125 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "09时22分"
         },
         {
-          "title": "日本女主播遇7.7级地震一秒变脸",
-          "url": "https://www.toutiao.com/trending/7630863108064542774/",
+          "title": "日本自卫队炸膛的是10式主战坦克",
+          "url": "https://www.toutiao.com/trending/7631122239997116452/",
           "source": "今日头条",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "09时22分"
         },
         {
-          "title": "日本陆上自卫队一训练场弹药爆炸，2人死亡1人昏迷",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33016657",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "日本首相与墨西哥总统通话。（共同社）",
-          "url": "https://wallstreetcn.com/livenews/3091403",
+          "title": "日本3月对中国出口同比增长17.7%，对美国出口增长3.4%，对欧盟出口增长18.2%。",
+          "url": "https://wallstreetcn.com/livenews/3092167",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "09时22分"
         },
         {
-          "title": "日本地震冲击半导体链",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%86%B2%E5%87%BB%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%93%BE",
-          "source": "百度热搜",
+          "title": "日本3月季调后商品贸易帐 906.91亿日元，预期 2000亿日元，前值 -3742亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3092166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "日本火锅肉薄如纸,1盘不够塞牙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353492&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%81%AB%E9%94%85%E8%82%89%E8%96%84%E5%A6%82%E7%BA%B8%2C1%E7%9B%98%E4%B8%8D%E5%A4%9F%E5%A1%9E%E7%89%99",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "日本3月出口同比 11.7%，预期 11%，前值 4.2%。",
+          "url": "https://wallstreetcn.com/livenews/3092165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "日本3月未季调商品贸易帐 6669.77亿日元，预期 10582亿日元，前值 573亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3092164",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "09时22分"
         },
         {
-          "title": "日本自卫队训练时发生爆炸",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E8%AE%AD%E7%BB%83%E6%97%B6%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
-          "source": "bilibili 热搜",
+          "title": "半导体与电子零部件推动日本出口超预期回升",
+          "url": "https://flash.jin10.com/detail/20260422081930069800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "日本3月进口同比 10.9%，预期 7%，前值 10.2%。",
+          "url": "https://wallstreetcn.com/livenews/3092163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "日本7.7级强震影响有多大",
+          "url": "https://www.toutiao.com/trending/7631198112081514026/",
+          "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "09时22分"
         }
       ]
     },
     {
       "keyword_group": "韩国",
-      "match_count": 10,
+      "match_count": 5,
       "titles": [
         {
-          "title": "韩国央行行长：通过谨慎灵活的货币政策操作寻求通胀稳定和金融稳定。",
-          "url": "https://flash.jin10.com/detail/20260421090032956800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "韩国央行行长：由于中东冲突带来的供应冲击，通胀和增长前景的不确定性加大。",
-          "url": "https://flash.jin10.com/detail/20260421090028179800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "早期贸易数据显示韩国出口势头依然强劲",
-          "url": "https://wallstreetcn.com/livenews/3091411",
+          "title": "韩国首尔综指上涨0.2%，创下6,404.03点的历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3092181",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "09时22分"
         },
         {
           "title": "韩国电影哭声重构式解读",
@@ -889,353 +411,142 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "09时22分"
         },
         {
-          "title": "韩国首尔综指创下纪录新高",
-          "url": "https://wallstreetcn.com/livenews/3091399",
+          "title": "日经225指数低开0.35%，韩国首尔综指开盘基本持平。",
+          "url": "https://wallstreetcn.com/livenews/3092172",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "09时22分"
         },
         {
-          "title": "韩国4月前20天出口大增近50% 半导体出口猛增182.5%",
-          "url": "https://flash.jin10.com/detail/20260421081829187800",
-          "source": "金十数据",
+          "title": "中国外交部、韩国外交部同日表态",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E3%80%81%E9%9F%A9%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E5%90%8C%E6%97%A5%E8%A1%A8%E6%80%81",
+          "source": "百度热搜",
           "ranks": [
-            25
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "09时22分"
         },
         {
-          "title": "日经225指数高开0.4%，韩国首尔综指高开1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3091396",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "韩国4月进口20天同比 17.7%，前值 19.7%。",
-          "url": "https://wallstreetcn.com/livenews/3091393",
-          "source": "华尔街见闻-快讯",
+          "title": "韩国人选了个特别的日子逛西安",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E9%80%89%E4%BA%86%E4%B8%AA%E7%89%B9%E5%88%AB%E7%9A%84%E6%97%A5%E5%AD%90%E9%80%9B%E8%A5%BF%E5%AE%89",
+          "source": "bilibili 热搜",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "韩国KOSPI指数日内涨幅达2.00%，创下历史新高。",
-          "url": "https://flash.jin10.com/detail/20260421080936248800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "韩国4月出口20天同比 49.4%，前值 50.4%。",
-          "url": "https://wallstreetcn.com/livenews/3091392",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "美以伊冲突把500亿美元石油打没了",
-          "url": "https://news.ifeng.com/c/8sV2aVLnsaO",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "高盛CEO所罗门：7月每加仑80美元的汽油价格可能会影响第三季度的经济数据。",
-          "url": "https://flash.jin10.com/detail/20260421204627953800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "人民币兑美元中间价报6.8594，上调54点；上一交易日中间价6.8648，上一交易日官方收盘价6.8195，上日夜盘报收6.8172。",
-          "url": "https://wallstreetcn.com/livenews/3091422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "贝佐斯的AI实验室在融资交易中估值接近380亿美元",
-          "url": "https://wallstreetcn.com/livenews/3091421",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "纽约期银日内跌幅达2.00%，现报78.41美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260421204423277800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "爱奇艺股价从46美元跌到1.4美元",
-          "url": "https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA%E8%82%A1%E4%BB%B7%E4%BB%8E46%E7%BE%8E%E5%85%83%E8%B7%8C%E5%88%B01.4%E7%BE%8E%E5%85%83&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "美国总统特朗普：预计美联储大楼完工时可能耗资超过40亿美元。",
-          "url": "https://flash.jin10.com/detail/20260421204319247800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "特朗普：我认为美联储大楼翻修完成后可能要花费超过40亿美元。 必须查明美联储大楼翻修成本超支的原因。 （特朗普被问及新任美联储主席是否应该立即降息）如果新任美联储主席不降息，会感到失望。",
-          "url": "https://wallstreetcn.com/livenews/3091848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "美国3月零售销售数据公布后，美元指数短线小幅拉升",
-          "url": "https://wallstreetcn.com/livenews/3091836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "09时22分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 4,
       "titles": [
         {
-          "title": "美股收盘：三大指数小幅收跌 市场聚焦美伊紧张局势",
-          "url": "https://www.cls.cn/detail/2350040",
+          "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3770463",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "美股收盘：三大指数尾盘跳水集体收跌 中东战火阴影盖过财报利好",
+          "url": "https://www.cls.cn/detail/2351396",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
-          "url": "https://wallstreetcn.com/articles/3770361",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 21时05分]"
-        },
-        {
-          "title": "中东局势缓和叠加沃什听证会预期，美股期指回暖，半导体股普涨，油价续跌",
-          "url": "https://wallstreetcn.com/articles/3770463",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3091861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "美股三大期指盘前集体走低 伊朗商船遭袭谈判迷雾笼罩 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2349767",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "高盛交易员：美股已经做好本周回调的准备",
-          "url": "https://wallstreetcn.com/articles/3770364",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "对冲基金CIO预言：美股这轮行情见顶后，利率将归零，美联储资产负债表或将再度大幅膨胀！",
-          "url": "https://wallstreetcn.com/articles/3770421",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "09时22分"
         },
         {
           "title": "特朗普称美伊将达成重大协议 美股三大期指小幅上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2351163",
           "source": "财联社热门",
           "ranks": [
-            13
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "09时22分"
+        },
+        {
+          "title": "SpaceX压境前夜：美股IPO市场上演“疯狂冲刺”",
+          "url": "https://www.cls.cn/detail/2351256",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         }
       ]
     },
     {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 3,
+      "keyword_group": "美元",
+      "match_count": 4,
       "titles": [
         {
-          "title": "伊朗：将确保俄罗斯船只无障碍通过霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8sUM1xW13KV",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "乌克兰进入破产倒计时",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E8%BF%9B%E5%85%A5%E7%A0%B4%E4%BA%A7%E5%80%92%E8%AE%A1%E6%97%B6",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "乌克兰进入破产倒计时",
-          "url": "https://www.toutiao.com/trending/7629869082791329828/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欧盟",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "伊朗嘲讽欧盟外长：哦，你管那个叫国际法？",
-          "url": "https://news.ifeng.com/c/8sTnYkkWuL2",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "欧盟将强制手机平板配备可更换电池",
-          "url": "https://www.toutiao.com/trending/7630371983541141514/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "欧盟预计将出台措施应对航空燃油短缺",
-          "url": "https://wallstreetcn.com/livenews/3091405",
+          "title": "人民币兑美元中间价报6.8635，下调41点；上一交易日中间价6.8594，上一交易日官方收盘价6.8165，上日夜盘报收6.8316。",
+          "url": "https://wallstreetcn.com/livenews/3092196",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "09时22分"
+        },
+        {
+          "title": "美国防部拟斥资300亿美元增购关键弹药",
+          "url": "https://news.ifeng.com/c/8sWPx5prDq5",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "苹果或被印度罚款380亿美元",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%88%96%E8%A2%AB%E5%8D%B0%E5%BA%A6%E7%BD%9A%E6%AC%BE380%E4%BA%BF%E7%BE%8E%E5%85%83&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗并不想关闭霍尔木兹海峡，他们希望海峡开放，这样他们每天可以赚取5亿美元（因此，如果关闭，他们就会损失这笔钱！）。",
+          "url": "https://flash.jin10.com/detail/20260422083721213800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         }
       ]
     },
@@ -1244,15 +555,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "Google Chrome中的Gemini扩展至更多亚太地区国家/市场，其服务范围扩展至澳大利亚、印度尼西亚及日本。",
-          "url": "https://wallstreetcn.com/livenews/3091420",
+          "title": "报道：谷歌经营策略使其在AI编程领域处于追赶地位",
+          "url": "https://wallstreetcn.com/livenews/3092157",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "09时22分"
         }
       ]
     }

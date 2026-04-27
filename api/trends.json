@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T09:31:39.076447+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-27T21:16:42.440318+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普取消美方代表赴巴，称“想谈致电即可”，伊方称“若美方立场缓和，未来几天可能举行第二轮谈判”",
@@ -41,6 +41,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
+          "url": "https://news.ifeng.com/c/8sfY3xvuykb",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "特朗普将于周一召开关于伊朗问题的战情室会议。（AXIOS）",
           "url": "https://wallstreetcn.com/livenews/3094612",
           "source": "华尔街见闻-快讯",
@@ -61,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
+          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "特朗普谈枪击事件：原以为托盘掉地上 否认袭击与伊朗战争有关",
@@ -96,6 +118,30 @@
           "time_info": "09时31分"
         },
         {
+          "title": "简直尴尬！特朗普踉跄逃离枪击现场，竟还有人还在一旁偷酒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33057721",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 21时16分]"
+        },
+        {
+          "title": "白宫遭枪击,特朗普紧急撤离",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353736&amp;topic_name=%E7%99%BD%E5%AE%AB%E9%81%AD%E6%9E%AA%E5%87%BB%2C%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%A7%E6%80%A5%E6%92%A4%E7%A6%BB",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 21时16分]"
+        },
+        {
           "title": "特朗普夫人反应迅速",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%AB%E4%BA%BA%E5%8F%8D%E5%BA%94%E8%BF%85%E9%80%9F%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -129,6 +175,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "白宫记协晚宴枪手事发前有“宣言” 自称对特朗普政府不满",
           "url": "https://www.cls.cn/detail/2356161",
           "source": "财联社热门",
@@ -143,17 +200,6 @@
           "title": "晚宴现场枪击细节曝光：特朗普撤离时跌倒，万斯被一把带走",
           "url": "https://m.thepaper.cn/newsDetail_forward_33057646",
           "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "白宫遭枪击,特朗普紧急撤离",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353736&amp;topic_name=%E7%99%BD%E5%AE%AB%E9%81%AD%E6%9E%AA%E5%87%BB%2C%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%A7%E6%80%A5%E6%92%A4%E7%A6%BB",
-          "source": "贴吧",
           "ranks": [
             13
           ],
@@ -195,15 +241,15 @@
           "time_info": "09时31分"
         },
         {
-          "title": "简直尴尬！特朗普踉跄逃离枪击现场，竟还有人还在一旁偷酒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33057721",
+          "title": "一文读懂丨白宫记协晚宴突发枪击，特朗普紧急撤离始末",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33058593",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "21时16分"
         },
         {
           "title": "特朗普详述白宫记协晚宴枪击案情况：一度不愿撤离现场",
@@ -215,6 +261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "自导自演晚宴枪击事件？特朗普回应",
+          "url": "https://www.baidu.com/s?wd=%E8%87%AA%E5%AF%BC%E8%87%AA%E6%BC%94%E6%99%9A%E5%AE%B4%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%EF%BC%9F%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "Investinglive分析师Eamonn Sheridan：截至目前播出的内容，特朗普在CBS的采访节目中，尚未提及伊朗问题。",
@@ -231,7 +288,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
@@ -265,6 +322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
+          "url": "https://www.cls.cn/detail/2356575",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "一条视频看懂DeepSeek V4",
@@ -322,6 +390,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "DeepSeek“吓崩”智谱和MiniMax，但摩根大通认为：V4打破算力束缚，是行业利好",
+          "url": "https://wallstreetcn.com/articles/3770936",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "DeepSeekV4脱离英伟达了吗",
           "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E8%84%B1%E7%A6%BB%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%86%E5%90%97",
           "source": "bilibili 热搜",
@@ -346,8 +425,251 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "微软(MSFT.O)：OpenAI产品将优先在Azure上发布。",
+          "url": "https://flash.jin10.com/detail/20260427211114444800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "微软(MSFT.O)：与OpenAI将继续深化合作伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20260427211024958800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "微软与OpenAI修订合作协议：微软将不再向OpenAI支付收入分成，微软的OpenAI许可现将转为非独家许可",
+          "url": "https://wallstreetcn.com/livenews/3095041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "OpenAI：现在可以向任何云服务提供商的客户提供所有产品。",
+          "url": "https://flash.jin10.com/detail/20260427210816439800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "OpenAI和亚马逊云服务(AWS)高管将于4月28日举办客户活动。（The Information）",
+          "url": "https://flash.jin10.com/detail/20260427210717594800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "微软(MSFT.O)：将继续作为OpenAI的主要云合作伙伴，并将在2032年前继续持有OpenAI知识产权的许可。",
+          "url": "https://flash.jin10.com/detail/20260427210624388800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "微软(MSFT.O)：OpenAI现在可以在任何云服务提供商上提供其所有产品。",
+          "url": "https://flash.jin10.com/detail/20260427210554063800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "微软(MSFT.O)盘前跌2%，其将不再向OpenAI支付收入分成。",
+          "url": "https://flash.jin10.com/detail/20260427210457057800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "微软(MSFT.O)：这是微软与OpenAI合作伙伴关系的下一阶段。",
+          "url": "https://flash.jin10.com/detail/20260427210435844800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "微软(MSFT.O)获得的OpenAI授权现在将变为非独家性质。",
+          "url": "https://flash.jin10.com/detail/20260427210310494800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "OpenAI宣布修订协议，以简化与微软(MSFT.O)的合作关系。",
+          "url": "https://flash.jin10.com/detail/20260427210243059800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "微软(MSFT.O)将不再向OpenAI支付收入分成，来自OpenAI收入分成支付的安排将持续至2030年。",
+          "url": "https://flash.jin10.com/detail/20260427210208357800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "普京：俄罗斯将尽全力维护伊朗及该地区其他国家的利益",
+          "url": "https://wallstreetcn.com/livenews/3095051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "金正恩：朝鲜将一如既往支持俄罗斯",
+          "url": "https://news.ifeng.com/c/8sf0FM15aWF",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "俄罗斯总统普京：俄罗斯打算继续与伊朗保持战略关系。",
+          "url": "https://flash.jin10.com/detail/20260427210648636800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "俄罗斯国防部长抵达朝鲜",
+          "url": "https://www.toutiao.com/trending/7632053299101057067/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：俄罗斯与伊朗的关系构成战略伙伴关系，将继续得到加强。",
+          "url": "https://flash.jin10.com/detail/20260427210153631800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：感谢俄罗斯总统普京和俄罗斯的支持。",
+          "url": "https://flash.jin10.com/detail/20260427210132927800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "俄罗斯总统普京：俄罗斯将尽一切努力维护伊朗及该地区其他国家的利益。",
+          "url": "https://flash.jin10.com/detail/20260427205857698800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "俄罗斯总统普京：俄罗斯希望伊朗人民能够度过这个困难时期，和平能够实现。",
+          "url": "https://flash.jin10.com/detail/20260427205804103800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "俄罗斯总统普京请伊朗外长阿拉格齐向伊朗最高领袖转达他的良好祝愿和健康祝福。",
+          "url": "https://flash.jin10.com/detail/20260427205747052800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "日本",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "日本大佐归来",
@@ -370,6 +692,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "日本2025年“孤独死”人数超2.2万人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33058987",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "日本5年期国债收益率上行2个基点至1.850%。",
@@ -419,8 +752,19 @@
     },
     {
       "keyword_group": "韩国",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "韩国散户“扫货全球半导体”：中国PCB牛股进入TOP50龙虎榜",
+          "url": "https://www.cls.cn/detail/2356707",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
         {
           "title": "日韩股市均创新高，日经225指数现涨0.47%，韩国KOSPI指数涨超1%。",
           "url": "https://flash.jin10.com/detail/20260427080522040800",
@@ -469,7 +813,7 @@
     },
     {
       "keyword_group": "欧盟",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "周末要闻汇总：欧盟对俄制裁列单中国企业，中方发声；宁王重登主动基金头号重仓股",
@@ -503,12 +847,62 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "俄外交部大幅扩大禁止入境人员名单 回应欧盟第20轮制裁",
+          "url": "https://wallstreetcn.com/livenews/3095027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美伊谈判僵局难解，美股盘前小幅下跌，高通大涨10%，布油日内涨3%，镍价刷两年新高",
+          "url": "https://wallstreetcn.com/articles/3770961",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
+          "url": "https://wallstreetcn.com/articles/3770942",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "高盛称对冲基金利用美股上涨降低风险",
+          "url": "https://wallstreetcn.com/livenews/3095019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "高盛将第四季度布伦特油价预期上调至每桶90美元，因“霍尔木兹冲击”。 高盛表示，中东局势动荡引发了“极端”水平的库存消耗。 高盛预测受战争影响，本季度石油供应缺口将达960万桶/日。",
@@ -520,23 +914,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 1,
-      "titles": [
+        },
         {
-          "title": "俄罗斯国防部长抵达朝鲜",
-          "url": "https://www.toutiao.com/trending/7632053299101057067/",
-          "source": "今日头条",
+          "title": "英镑兑美元GBP/USD短线走低逾15点，现报1.3549。",
+          "url": "https://flash.jin10.com/detail/20260427210007563800",
+          "source": "金十数据",
           "ranks": [
-            15
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "21时16分"
+        },
+        {
+          "title": "壳牌同意以136亿美元收购加拿大的ARC能源",
+          "url": "https://wallstreetcn.com/livenews/3095007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         }
       ]
     }

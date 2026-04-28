@@ -1,863 +1,171 @@
 {
-  "generated_at": "2026-04-27T21:16:42.440318+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-04-28T09:51:20.950608+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "特朗普取消美方代表赴巴，称“想谈致电即可”，伊方称“若美方立场缓和，未来几天可能举行第二轮谈判”",
-          "url": "https://wallstreetcn.com/articles/3770904",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "现场视频丨突发安全事件，特朗普紧急撤离白宫记者晚宴",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056733",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "枪击案发生时，坐在特朗普旁边的华裔女记者是谁？",
-          "url": "https://v.ifeng.com/c/8sendYSbNWy",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
         {
           "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
           "url": "https://news.ifeng.com/c/8sfY3xvuykb",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "特朗普将于周一召开关于伊朗问题的战情室会议。（AXIOS）",
-          "url": "https://wallstreetcn.com/livenews/3094612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "特朗普：枪击案嫌疑人留下字条",
-          "url": "https://news.ifeng.com/c/8seILG9U4yn",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时51分"
         },
         {
-          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
-          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
-          "source": "凤凰网",
+          "title": "特朗普：希望白宫记者协会晚宴在“约30天内”重启",
+          "url": "https://wallstreetcn.com/livenews/3095346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "事关霍尔木兹！伊朗提出“重开新方案” 白宫证实特朗普与团队讨论",
+          "url": "https://www.cls.cn/detail/2357460",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "特朗普谈枪击事件：原以为托盘掉地上 否认袭击与伊朗战争有关",
-          "url": "https://www.cls.cn/detail/2355864",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "特朗普否认枪击事件与伊朗战争有关",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%A6%E8%AE%A4%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E6%9C%89%E5%85%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "特朗普回顾：一度不愿离开晚宴现场",
-          "url": "https://news.ifeng.com/c/8serCYd3qiN",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "简直尴尬！特朗普踉跄逃离枪击现场，竟还有人还在一旁偷酒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33057721",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 21时16分]"
-        },
-        {
-          "title": "白宫遭枪击,特朗普紧急撤离",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353736&amp;topic_name=%E7%99%BD%E5%AE%AB%E9%81%AD%E6%9E%AA%E5%87%BB%2C%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%A7%E6%80%A5%E6%92%A4%E7%A6%BB",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 21时16分]"
-        },
-        {
-          "title": "特朗普夫人反应迅速",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%AB%E4%BA%BA%E5%8F%8D%E5%BA%94%E8%BF%85%E9%80%9F%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "“早知这么危险就不当总统了”，特朗普撤离时摔倒，枪手系教师兼游戏开发者，作案目标是美政府官员",
-          "url": "https://wallstreetcn.com/articles/3770913",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "美伊和谈未重启？特朗普称想谈可致电美国，伊朗提出“三阶段谈判方案”！",
-          "url": "https://www.cls.cn/detail/2356165",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时51分"
         },
         {
           "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
           "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
           "source": "澎湃新闻",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "白宫记协晚宴枪手事发前有“宣言” 自称对特朗普政府不满",
-          "url": "https://www.cls.cn/detail/2356161",
-          "source": "财联社热门",
-          "ranks": [
-            12
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时51分"
         },
         {
-          "title": "晚宴现场枪击细节曝光：特朗普撤离时跌倒，万斯被一把带走",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33057646",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "为何你总被暗杀？特朗普回应：我研究过，杀手总挑大人物",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33058030",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "华盛顿宴会厅恐惧之夜：男子携多种武器冲向安检点开火，特朗普踉跄撤离",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33057032",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "特朗普从枪击现场撤离后声称：早知道这么危险就不当总统了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33057902",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "一文读懂丨白宫记协晚宴突发枪击，特朗普紧急撤离始末",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33058593",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "特朗普详述白宫记协晚宴枪击案情况：一度不愿撤离现场",
-          "url": "https://wallstreetcn.com/livenews/3094586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "自导自演晚宴枪击事件？特朗普回应",
-          "url": "https://www.baidu.com/s?wd=%E8%87%AA%E5%AF%BC%E8%87%AA%E6%BC%94%E6%99%9A%E5%AE%B4%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%EF%BC%9F%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "Investinglive分析师Eamonn Sheridan：截至目前播出的内容，特朗普在CBS的采访节目中，尚未提及伊朗问题。",
-          "url": "https://flash.jin10.com/detail/20260427073650881800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
-          "url": "https://www.zhihu.com/question/2031494133160861736",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "深入解读DeepSeek V1-V4",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%85%A5%E8%A7%A3%E8%AF%BBDeepSeek%20V1-V4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
-          "url": "https://www.cls.cn/detail/2356575",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "一条视频看懂DeepSeek V4",
-          "url": "https://www.douyin.com/hot/2479851",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
-          "url": "https://wallstreetcn.com/articles/3770923",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "DeepSeek V4发布意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%8F%91%E5%B8%83%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "沉默的DeepSeek，和不被定义的中国大模型",
-          "url": "https://wallstreetcn.com/articles/3770908",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "龙虾官宣接入DeepSeekV4",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BE%99%E8%99%BE%E5%AE%98%E5%AE%A3%E6%8E%A5%E5%85%A5DeepSeekV4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "DeepSeek“吓崩”智谱和MiniMax，但摩根大通认为：V4打破算力束缚，是行业利好",
-          "url": "https://wallstreetcn.com/articles/3770936",
-          "source": "华尔街见闻",
+          "title": "怕再和特朗普起冲突，北约拟取消2028年年度峰会",
+          "url": "https://news.ifeng.com/c/8sgWMgQ3gaL",
+          "source": "凤凰网",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时16分"
+          "time_info": "09时51分"
         },
         {
-          "title": "DeepSeekV4脱离英伟达了吗",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E8%84%B1%E7%A6%BB%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%86%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "为何万斯比特朗普更早撤离？华盛顿晚宴枪击事件安保问题受审视",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060737",
+          "source": "澎湃新闻",
           "ranks": [
-            19
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时51分"
         },
         {
-          "title": "中信建投：DeepSeek V4等多模型更新，算力需求持续紧张",
-          "url": "https://flash.jin10.com/detail/20260427075050627800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "微软(MSFT.O)：OpenAI产品将优先在Azure上发布。",
-          "url": "https://flash.jin10.com/detail/20260427211114444800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "微软(MSFT.O)：与OpenAI将继续深化合作伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20260427211024958800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "微软与OpenAI修订合作协议：微软将不再向OpenAI支付收入分成，微软的OpenAI许可现将转为非独家许可",
-          "url": "https://wallstreetcn.com/livenews/3095041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "OpenAI：现在可以向任何云服务提供商的客户提供所有产品。",
-          "url": "https://flash.jin10.com/detail/20260427210816439800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "OpenAI和亚马逊云服务(AWS)高管将于4月28日举办客户活动。（The Information）",
-          "url": "https://flash.jin10.com/detail/20260427210717594800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "微软(MSFT.O)：将继续作为OpenAI的主要云合作伙伴，并将在2032年前继续持有OpenAI知识产权的许可。",
-          "url": "https://flash.jin10.com/detail/20260427210624388800",
+          "title": "特朗普被曝不满意伊朗提案：因为接受就“赢麻”不了",
+          "url": "https://flash.jin10.com/detail/20260428092800071800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时16分"
+          "time_info": "09时51分"
         },
         {
-          "title": "微软(MSFT.O)：OpenAI现在可以在任何云服务提供商上提供其所有产品。",
-          "url": "https://flash.jin10.com/detail/20260427210554063800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "微软(MSFT.O)盘前跌2%，其将不再向OpenAI支付收入分成。",
-          "url": "https://flash.jin10.com/detail/20260427210457057800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "微软(MSFT.O)：这是微软与OpenAI合作伙伴关系的下一阶段。",
-          "url": "https://flash.jin10.com/detail/20260427210435844800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "微软(MSFT.O)获得的OpenAI授权现在将变为非独家性质。",
-          "url": "https://flash.jin10.com/detail/20260427210310494800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "OpenAI宣布修订协议，以简化与微软(MSFT.O)的合作关系。",
-          "url": "https://flash.jin10.com/detail/20260427210243059800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "微软(MSFT.O)将不再向OpenAI支付收入分成，来自OpenAI收入分成支付的安排将持续至2030年。",
-          "url": "https://flash.jin10.com/detail/20260427210208357800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "普京：俄罗斯将尽全力维护伊朗及该地区其他国家的利益",
-          "url": "https://wallstreetcn.com/livenews/3095051",
+          "title": "美官员：特朗普不满伊朗新提案 核问题须优先解决",
+          "url": "https://wallstreetcn.com/livenews/3095326",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "金正恩：朝鲜将一如既往支持俄罗斯",
-          "url": "https://news.ifeng.com/c/8sf0FM15aWF",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "俄罗斯总统普京：俄罗斯打算继续与伊朗保持战略关系。",
-          "url": "https://flash.jin10.com/detail/20260427210648636800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "俄罗斯国防部长抵达朝鲜",
-          "url": "https://www.toutiao.com/trending/7632053299101057067/",
-          "source": "今日头条",
-          "ranks": [
-            15
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时51分"
         },
         {
-          "title": "伊朗外长阿拉格齐：俄罗斯与伊朗的关系构成战略伙伴关系，将继续得到加强。",
-          "url": "https://flash.jin10.com/detail/20260427210153631800",
-          "source": "金十数据",
+          "title": "主持人读枪手宣言让特朗普破防",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%AF%BB%E6%9E%AA%E6%89%8B%E5%AE%A3%E8%A8%80%E8%AE%A9%E7%89%B9%E6%9C%97%E6%99%AE%E7%A0%B4%E9%98%B2",
+          "source": "百度热搜",
           "ranks": [
-            23
+            18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时16分"
+          "time_info": "09时51分"
         },
         {
-          "title": "伊朗外长阿拉格齐：感谢俄罗斯总统普京和俄罗斯的支持。",
-          "url": "https://flash.jin10.com/detail/20260427210132927800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "俄罗斯总统普京：俄罗斯将尽一切努力维护伊朗及该地区其他国家的利益。",
-          "url": "https://flash.jin10.com/detail/20260427205857698800",
+          "title": "美官员：特朗普不满伊朗新提案 核问题须优先解决",
+          "url": "https://flash.jin10.com/detail/20260428091425679800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "俄罗斯总统普京：俄罗斯希望伊朗人民能够度过这个困难时期，和平能够实现。",
-          "url": "https://flash.jin10.com/detail/20260427205804103800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "俄罗斯总统普京请伊朗外长阿拉格齐向伊朗最高领袖转达他的良好祝愿和健康祝福。",
-          "url": "https://flash.jin10.com/detail/20260427205747052800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
+          "time_info": "09时51分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "日本大佐归来",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BD%90%E5%BD%92%E6%9D%A5%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "日本5年期国债收益率上升2.0个基点，至1.850%。",
-          "url": "https://flash.jin10.com/detail/20260427084122670800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "日本2025年“孤独死”人数超2.2万人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33058987",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "日本5年期国债收益率上行2个基点至1.850%。",
-          "url": "https://wallstreetcn.com/livenews/3094598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "日本首相高市早苗：已确保一直到明年的石油供应稳定。 密切关注中东局势对经济的影响。",
-          "url": "https://wallstreetcn.com/livenews/3094595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "赛博抗日升级,日本人破防",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353730&amp;topic_name=%E8%B5%9B%E5%8D%9A%E6%8A%97%E6%97%A5%E5%8D%87%E7%BA%A7%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%A0%B4%E9%98%B2",
-          "source": "贴吧",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "日本10年期国债收益率上行1.5个基点至2.450%。",
-          "url": "https://wallstreetcn.com/livenews/3094587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "韩国",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "韩国散户“扫货全球半导体”：中国PCB牛股进入TOP50龙虎榜",
-          "url": "https://www.cls.cn/detail/2356707",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "日韩股市均创新高，日经225指数现涨0.47%，韩国KOSPI指数涨超1%。",
-          "url": "https://flash.jin10.com/detail/20260427080522040800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "日经225指数升至纪录新高，日内涨超0.6%，报60106.66点。 韩国首尔综指上涨逾1%，至纪录高位。",
-          "url": "https://wallstreetcn.com/livenews/3094584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "韩国KOSPI指数4月27日（周一）开盘上涨69.68点，涨幅1.08%，报6545.31点。",
-          "url": "https://flash.jin10.com/detail/20260427080118374800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "日经225指数高开0.2%，韩国首尔综指高开0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3094583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欧盟",
       "match_count": 4,
       "titles": [
         {
-          "title": "周末要闻汇总：欧盟对俄制裁列单中国企业，中方发声；宁王重登主动基金头号重仓股",
-          "url": "https://www.cls.cn/detail/2355924",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "商务部新闻发言人就欧盟《工业加速器法案》相关问题答记者问",
-          "url": "https://flash.jin10.com/detail/20260427085141191800",
-          "source": "金十数据",
+          "title": "日本央行明日开会：加息预期归零，但这才是危险的开始",
+          "url": "https://wallstreetcn.com/articles/3770991",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时51分"
         },
         {
-          "title": "商务部新闻发言人就欧盟《工业加速器法案》相关问题答记者问",
-          "url": "https://wallstreetcn.com/livenews/3094601",
-          "source": "华尔街见闻-快讯",
+          "title": "金十整理：日本央行利率决议前瞻——加息时点料延至6月，季度展望或透露线索",
+          "url": "https://flash.jin10.com/detail/20260428093020289800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时51分"
         },
         {
-          "title": "俄外交部大幅扩大禁止入境人员名单 回应欧盟第20轮制裁",
-          "url": "https://wallstreetcn.com/livenews/3095027",
+          "title": "日本央行决议前，日本财相称随时准备干预汇市",
+          "url": "https://flash.jin10.com/detail/20260428092357581800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：原油期货市场波动正影响外汇市场，已准备好采取果断行动。 将与美国紧密协调，必要时将采取行动。 全天候严阵以待。",
+          "url": "https://wallstreetcn.com/livenews/3095301",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时16分"
+          "time_info": "09时51分"
         }
       ]
     },
@@ -866,37 +174,37 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "美伊谈判僵局难解，美股盘前小幅下跌，高通大涨10%，布油日内涨3%，镍价刷两年新高",
-          "url": "https://wallstreetcn.com/articles/3770961",
-          "source": "华尔街见闻",
+          "title": "【早报】美股科技巨头冷暖不均，英伟达、英特尔齐创新高；一批A股公司一季度净利增超10倍",
+          "url": "https://www.cls.cn/detail/2357431",
+          "source": "财联社热门",
           "ranks": [
-            7
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时16分"
+          "time_info": "09时51分"
         },
         {
-          "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
-          "url": "https://wallstreetcn.com/articles/3770942",
-          "source": "华尔街见闻",
+          "title": "美股收盘：“双英”+三大内存股收创纪录 标普纳指再刷新高",
+          "url": "https://www.cls.cn/detail/2357399",
+          "source": "财联社热门",
           "ranks": [
-            9
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时16分"
+          "time_info": "09时51分"
         },
         {
-          "title": "高盛称对冲基金利用美股上涨降低风险",
-          "url": "https://wallstreetcn.com/livenews/3095019",
-          "source": "华尔街见闻-快讯",
+          "title": "美股三大存储股齐刷新高！分析师：存储强劲需求料持续至2030年",
+          "url": "https://www.cls.cn/detail/2357471",
+          "source": "财联社热门",
           "ranks": [
-            19
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时16分"
+          "time_info": "09时51分"
         }
       ]
     },
@@ -905,37 +213,132 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "高盛将第四季度布伦特油价预期上调至每桶90美元，因“霍尔木兹冲击”。 高盛表示，中东局势动荡引发了“极端”水平的库存消耗。 高盛预测受战争影响，本季度石油供应缺口将达960万桶/日。",
-          "url": "https://wallstreetcn.com/livenews/3094611",
-          "source": "华尔街见闻-快讯",
+          "title": "美稀土概念股全线走高！Critical Metals将以8.35亿美元收购European Lithium",
+          "url": "https://www.cls.cn/detail/2357278",
+          "source": "财联社热门",
           "ranks": [
-            2
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时51分"
         },
         {
-          "title": "英镑兑美元GBP/USD短线走低逾15点，现报1.3549。",
-          "url": "https://flash.jin10.com/detail/20260427210007563800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "壳牌同意以136亿美元收购加拿大的ARC能源",
-          "url": "https://wallstreetcn.com/livenews/3095007",
+          "title": "人民币兑美元中间价报6.8589，下调10点；上一交易日中间价6.8579，上一交易日官方收盘价6.8239，上日夜盘报收6.8275。",
+          "url": "https://wallstreetcn.com/livenews/3095329",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时16分"
+          "time_info": "09时51分"
+        },
+        {
+          "title": "机构：美元兑日元本周面临多重因素影响",
+          "url": "https://flash.jin10.com/detail/20260428091756340800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "韩国",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "沙特佬插手选人,韩国拒出战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353805&amp;topic_name=%E6%B2%99%E7%89%B9%E4%BD%AC%E6%8F%92%E6%89%8B%E9%80%89%E4%BA%BA%2C%E9%9F%A9%E5%9B%BD%E6%8B%92%E5%87%BA%E6%88%98",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "电竞国家杯官网已无韩国队，KeSPA 退出 ENC 赛事，这背后的原因是什么？",
+          "url": "https://www.zhihu.com/question/2032146840083285043",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "韩国首尔综指日内涨幅扩大至1%，报6681.43点，再创新高。",
+          "url": "https://wallstreetcn.com/livenews/3095309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek注册资本提高50%",
+          "url": "https://wallstreetcn.com/livenews/3095322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "如何评价小米 4 月 23 日发布的 MiMo-V2.5 系列模型，有可能比 DeepSeekV4 更强吗？",
+          "url": "https://www.zhihu.com/question/2030445160417510538",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2357129",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "OpenAI未能实现2025年ChatGPT营收目标，也未能实现到2025年底，周活跃用户达到10亿的目标。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3095321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         }
       ]
     }

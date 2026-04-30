@@ -1,33 +1,55 @@
 {
-  "generated_at": "2026-04-29T21:21:04.222309+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-04-30T09:53:02.750098+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 15,
       "titles": [
         {
-          "title": "英国国王当面嘲讽美国，特朗普表情亮了",
-          "url": "https://v.ifeng.com/c/8sfYAqkf9J7",
+          "title": "【早报】美联储“按兵不动”，鲍威尔重磅表态；特朗普：同伊朗的谈判正通过电话进行",
+          "url": "https://www.cls.cn/detail/2360318",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
+        },
+        {
+          "title": "普京与特朗普通话，谈及伊朗和乌克兰问题",
+          "url": "https://news.ifeng.com/c/8sjOWWpBUaQ",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时20分 ~ 21时21分]"
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
-          "title": "特朗普访问英国有何看点",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E8%8B%B1%E5%9B%BD%E6%9C%89%E4%BD%95%E7%9C%8B%E7%82%B9",
-          "source": "bilibili 热搜",
+          "title": "特朗普解雇 NSF 的国家科学委员会全体成员，释放出什么样的信号？",
+          "url": "https://www.zhihu.com/question/2032422954055776061",
+          "source": "知乎",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时20分 ~ 21时21分]"
+          "time_info": "[09时52分 ~ 09时53分]"
+        },
+        {
+          "title": "特朗普：乌克兰在军事上已被击败",
+          "url": "https://news.ifeng.com/c/8sjXJBe2YkG",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
           "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
@@ -38,341 +60,115 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时20分 ~ 21时21分]"
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
-          "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
-          "url": "https://news.ifeng.com/c/8sijEznYe70",
-          "source": "凤凰网",
+          "title": "特朗普：正与伊朗进行“电话谈判”，彻底放弃核武器是协议前提！",
+          "url": "https://www.cls.cn/detail/2360313",
+          "source": "财联社热门",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时20分 ~ 21时21分]"
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
-          "title": "特朗普：美国准备长期封锁伊朗",
-          "url": "https://www.toutiao.com/trending/7633982673785982506/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "伊朗战争丨特朗普：要准备好长期封锁伊朗",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "纪念建国250周年，美国将发行印有特朗普肖像的护照(图)",
-          "url": "https://news.ifeng.com/c/8si2qqUHRAp",
+          "title": "英国国王当面嘲讽美国，特朗普表情亮了",
+          "url": "https://v.ifeng.com/c/8sfYAqkf9J7",
           "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
-          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
+          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
-          "title": "美最新民调显示特朗普支持率跌至任内新低 | 环球市场",
-          "url": "https://www.cls.cn/detail/2358895",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "美国参议员沃伦：特朗普正在阻碍降低利率。 特朗普正在限制美联储的行动空间。",
-          "url": "https://wallstreetcn.com/livenews/3096692",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "美伊极致拉扯：伊朗或因特朗普不满调整方案，美国禁止向伊缴纳“通行费”！",
-          "url": "https://www.cls.cn/detail/2358925",
+          "title": "特朗普称同伊朗的谈判正通过电话进行 | 环球市场",
+          "url": "https://www.cls.cn/detail/2360339",
           "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
-          "title": "民调：特朗普支持率跌至任内新低",
-          "url": "https://www.toutiao.com/trending/7633688125021634602/",
-          "source": "今日头条",
+          "title": "美媒称特朗普准备长期封锁伊朗，旨在迫使伊朗做出「核让步」，如何看待美国这一举动？目前美伊局势如何？",
+          "url": "https://www.zhihu.com/question/2032758360743883157",
+          "source": "知乎",
           "ranks": [
-            13
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
-          "title": "特朗普再次无视英国王室规矩",
-          "url": "https://www.douyin.com/hot/2482526",
-          "source": "抖音",
+          "title": "普京与特朗普通话一个半小时，涉及众多议题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
+        },
+        {
+          "title": "普京与特朗普通话超一个半小时",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%E8%B6%85%E4%B8%80%E4%B8%AA%E5%8D%8A%E5%B0%8F%E6%97%B6",
+          "source": "百度热搜",
           "ranks": [
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
-          "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33069415",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "特朗普：美国准备长期封锁伊朗",
-          "url": "https://wallstreetcn.com/livenews/3096093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "美国总统特朗普表示，英国国王查尔斯三世同意他有关需确保伊朗永不拥有核武器的观点。",
-          "url": "https://wallstreetcn.com/livenews/3096087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "美国将发行印有特朗普肖像的护照",
-          "url": "https://www.toutiao.com/trending/7633903451563507739/",
+          "title": "普京与特朗普通话1个半小时",
+          "url": "https://www.toutiao.com/trending/7634319454465166874/",
           "source": "今日头条",
           "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "美国财长贝森特在声明中表示，总统特朗普打算提名G·亨特·麦克马斯特二世（G. Hunter McMaster II）担任主管金融市场的助理部长。",
-          "url": "https://wallstreetcn.com/livenews/3096080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "美国防部更名预计花5200万美元",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%E6%9B%B4%E5%90%8D%E9%A2%84%E8%AE%A1%E8%8A%B15200%E4%B8%87%E7%BE%8E%E5%85%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时20分 ~ 21时21分]"
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
-          "title": "美国国防部正式申请更名为战争部，预计成本5000万美元",
-          "url": "https://news.ifeng.com/c/8siIUtDas1d",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时20分 ~ 21时21分]"
-        },
-        {
-          "title": "现货黄金日内跌幅达1.0%，报4549.83美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3096697",
+          "title": "特朗普称正在研究削减驻德美军可能性",
+          "url": "https://wallstreetcn.com/livenews/3097085",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "南方航空：拟目录价约213.78亿美元购买137架A320NEO系列飞机",
-          "url": "https://wallstreetcn.com/livenews/3096694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "人民币兑美元中间价报6.8608，下调19点；上一交易日中间价6.8589，上一交易日官方收盘价6.8360，上日夜盘报收6.8372。",
-          "url": "https://wallstreetcn.com/livenews/3096095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
           "time_info": "09时53分"
         },
         {
-          "title": "WTI原油日内涨幅达4.0%，报103.98美元/桶；布伦特原油日内涨幅达3.5%，报108.08美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3096683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "现货白银日内跌幅达1%，报72.32美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3096681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "澳元兑美元AUD/USD短线下挫约10点，现报0.7171。",
-          "url": "https://flash.jin10.com/detail/20260429093423394800",
+          "title": "普京致电特朗普请缨“帮”谈伊朗，特朗普：你先结束乌克兰冲突",
+          "url": "https://flash.jin10.com/detail/20260430094807731800",
           "source": "金十数据",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "随着国际原油价格走高，美元指数DXY升至日内高点，最高至98.77。",
-          "url": "https://flash.jin10.com/detail/20260429205646119800",
-          "source": "金十数据",
-          "ranks": [
-            20
+            9
           ],
           "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "DeepTalk：全球市场“抗崩”真相，黄金或将冲至5000美元！",
-          "url": "https://flash.jin10.com/detail/20260429205625357800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "现货白银向下触及72美元/盎司，创4月7日来新低，日内跌1.53%。",
-          "url": "https://flash.jin10.com/detail/20260429205539480800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "中国台湾股市市值达到4.47万亿美元，超过加拿大。",
-          "url": "https://wallstreetcn.com/livenews/3096086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "美国3月商品贸易帐 -879亿美元，预期 -880亿美元，前值 -835亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3096672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "专注于AI Web Agent的明星初创公司Parallel Web Systems已完成1亿美元B轮融资 ，本轮融资由红杉资本领投，估值最高达20亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3096081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "潘兴广场宣布Pershing Square USA与Pershing Square Inc.合并IPO的定价，总发行规模为50亿美元，股票将于4月29日开始在纽约证券交易所（NYSE）交易。",
-          "url": "https://wallstreetcn.com/livenews/3096079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         }
@@ -380,324 +176,123 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 12,
+      "match_count": 8,
       "titles": [
         {
-          "title": "中国军号：日本打不起“长期战争”",
-          "url": "https://www.toutiao.com/trending/7634091296285593115/",
-          "source": "今日头条",
+          "title": "鸠山由纪夫：日本站错队了，应该联中抗美",
+          "url": "https://news.ifeng.com/c/8sj9vx25l9n",
+          "source": "凤凰网",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时20分 ~ 21时21分]"
-        },
-        {
-          "title": "中国军号：日本出兵都是作死",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8F%B7%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%87%BA%E5%85%B5%E9%83%BD%E6%98%AF%E4%BD%9C%E6%AD%BB",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时20分 ~ 21时21分]"
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
           "title": "偷国再现,宇树机器狗成日本货",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353878&amp;topic_name=%E5%81%B7%E5%9B%BD%E5%86%8D%E7%8E%B0%2C%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E7%8B%97%E6%88%90%E6%97%A5%E6%9C%AC%E8%B4%A7",
           "source": "贴吧",
           "ranks": [
-            3
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时20分 ~ 21时21分]"
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
-          "title": "根基太脆!国产抹茶冲击日本",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353842&amp;topic_name=%E6%A0%B9%E5%9F%BA%E5%A4%AA%E8%84%86%21%E5%9B%BD%E4%BA%A7%E6%8A%B9%E8%8C%B6%E5%86%B2%E5%87%BB%E6%97%A5%E6%9C%AC",
-          "source": "贴吧",
+          "title": "歼15喊话日本军机：你在我导弹射程内",
+          "url": "https://www.baidu.com/s?wd=%E6%AD%BC15%E5%96%8A%E8%AF%9D%E6%97%A5%E6%9C%AC%E5%86%9B%E6%9C%BA%EF%BC%9A%E4%BD%A0%E5%9C%A8%E6%88%91%E5%AF%BC%E5%BC%B9%E5%B0%84%E7%A8%8B%E5%86%85",
+          "source": "百度热搜",
           "ranks": [
-            8,
-            23
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 21时21分]"
-        },
-        {
-          "title": "法国小伙将携日本侵华军事档案回国",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B3%95%E5%9B%BD%E5%B0%8F%E4%BC%99%E5%B0%86%E6%90%BA%E6%97%A5%E6%9C%AC%E4%BE%B5%E5%8D%8E%E5%86%9B%E4%BA%8B%E6%A1%A3%E6%A1%88%E5%9B%9E%E5%9B%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 21时21分]"
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
           "title": "日本举办战争加害图文展，民众流泪向中国道歉",
           "url": "https://news.ifeng.com/c/8six5Zok88g",
           "source": "凤凰网",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时20分 ~ 21时21分]"
-        },
-        {
-          "title": "明查｜榫卯技术“日本特有”？非也",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33071522",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时20分 ~ 21时21分]"
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
           "title": "国人赏槟榔,日本学生嚼到沉迷",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353858&amp;topic_name=%E5%9B%BD%E4%BA%BA%E8%B5%8F%E6%A7%9F%E6%A6%94%2C%E6%97%A5%E6%9C%AC%E5%AD%A6%E7%94%9F%E5%9A%BC%E5%88%B0%E6%B2%89%E8%BF%B7",
           "source": "贴吧",
           "ranks": [
-            14
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时20分 ~ 21时21分]"
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
-          "title": "高市称为长期战争做好准备，外交部：日本是不是要重蹈历史覆辙？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33061755",
-          "source": "澎湃新闻",
+          "title": "中国军号：日本出兵都是作死",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8F%B7%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%87%BA%E5%85%B5%E9%83%BD%E6%98%AF%E4%BD%9C%E6%AD%BB",
+          "source": "百度热搜",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "日本广岛爆炸现场视频",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B9%BF%E5%B2%9B%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "白士杰将携日本侵华军事档案回国",
-          "url": "https://www.toutiao.com/trending/7633738542858112558/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "韩国首尔综指低开0.3%。 日本股市因假期休市。",
-          "url": "https://wallstreetcn.com/livenews/3096076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
-          "url": "https://wallstreetcn.com/articles/3771095",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 21时21分]"
-        },
-        {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时20分 ~ 21时21分]"
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
-          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2358855",
-          "source": "财联社热门",
+          "title": "根基太脆!国产抹茶冲击日本",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353842&amp;topic_name=%E6%A0%B9%E5%9F%BA%E5%A4%AA%E8%84%86%21%E5%9B%BD%E4%BA%A7%E6%8A%B9%E8%8C%B6%E5%86%B2%E5%87%BB%E6%97%A5%E6%9C%AC",
+          "source": "贴吧",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 21时21分]"
-        },
-        {
-          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032593268840600541",
-          "source": "知乎",
-          "ranks": [
-            15
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时20分 ~ 21时21分]"
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
-          "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2358592",
-          "source": "财联社热门",
+          "title": "法国小伙将携日本侵华军事档案回国",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%95%E5%9B%BD%E5%B0%8F%E4%BC%99%E5%B0%86%E6%90%BA%E6%97%A5%E6%9C%AC%E4%BE%B5%E5%8D%8E%E5%86%9B%E4%BA%8B%E6%A1%A3%E6%A1%88%E5%9B%9E%E5%9B%BD",
+          "source": "bilibili 热搜",
           "ranks": [
-            6
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
-          "title": "DeepSeekV4Pro优惠延期",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4Pro%E4%BC%98%E6%83%A0%E5%BB%B6%E6%9C%9F",
-          "source": "bilibili 热搜",
+          "title": "如何评价 DeepSeek 刚刚上线的多模态「识图模式」？",
+          "url": "https://www.zhihu.com/question/2032851960177631968",
+          "source": "知乎",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
-          "url": "https://www.cls.cn/detail/2359433",
-          "source": "财联社热门",
-          "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时20分 ~ 21时21分]"
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时20分 ~ 21时21分]"
-        },
-        {
-          "title": "DeepSeek上线识图模式",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%B8%8A%E7%BA%BF%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时20分 ~ 21时21分]"
-        },
-        {
-          "title": "揭秘DeepSeekV4背后的黑科技",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98DeepSeekV4%E8%83%8C%E5%90%8E%E7%9A%84%E9%BB%91%E7%A7%91%E6%8A%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时20分 ~ 21时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "阿联酋退出OPEC余震不断，俄罗斯表态：不退群",
-          "url": "https://flash.jin10.com/detail/20260429210136289800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "英国政府：俄罗斯的进一步行动将被视为升级，将以坚定和相称的方式作出回应。",
-          "url": "https://flash.jin10.com/detail/20260429205436542800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "英国政府：撤销一名俄罗斯外交官的认证。",
-          "url": "https://flash.jin10.com/detail/20260429205414766800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "英国外交部召见俄罗斯大使，强烈谴责俄罗斯上个月无端驱逐另一名英国外交官的决定。",
-          "url": "https://flash.jin10.com/detail/20260429205355505800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
+          "time_info": "[09时52分 ~ 09时53分]"
         }
       ]
     },
@@ -706,43 +301,71 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3096698",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储34年最大分歧叠加油价飙升，美债重挫，美股横盘，美元走强，黄金三连跌",
+          "url": "https://wallstreetcn.com/articles/3771214",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
-          "title": "美元指数短线小幅拉升，现报98.71。美股期货短线小幅走低，纳斯达克100指数期货涨幅收窄至1%。美国10年期国债收益率短线拉升，现报4.361%。现货黄金短线小幅走低，现报4561.55美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3096680",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：存储、光通信概念走强 纳指微涨道指连跌五天",
+          "url": "https://www.cls.cn/detail/2360291",
+          "source": "财联社热门",
           "ranks": [
-            18
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
         }
       ]
     },
     {
-      "keyword_group": "韩国",
-      "match_count": 1,
+      "keyword_group": "美元",
+      "match_count": 2,
       "titles": [
         {
-          "title": "沙特佬插手选人,韩国拒出战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353805&amp;topic_name=%E6%B2%99%E7%89%B9%E4%BD%AC%E6%8F%92%E6%89%8B%E9%80%89%E4%BA%BA%2C%E9%9F%A9%E5%9B%BD%E6%8B%92%E5%87%BA%E6%88%98",
-          "source": "贴吧",
+          "title": "美称伊朗战事已耗资250亿美元",
+          "url": "https://www.toutiao.com/trending/7633391016129298441/",
+          "source": "今日头条",
           "ranks": [
             23
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
+        },
+        {
+          "title": "人民币兑美元中间价报6.8628，下调20点；上一交易日中间价6.8608，上一交易日官方收盘价6.8329，上日夜盘报收6.8430。",
+          "url": "https://wallstreetcn.com/livenews/3097052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
         }
       ]
     }

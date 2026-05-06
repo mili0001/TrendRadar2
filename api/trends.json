@@ -1,23 +1,127 @@
 {
-  "generated_at": "2026-05-05T21:13:55.899365+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-05-06T09:47:58.891026+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 19,
+      "keyword_group": "美元",
+      "match_count": 9,
       "titles": [
         {
-          "title": "美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿",
-          "url": "https://wallstreetcn.com/articles/3771548",
-          "source": "华尔街见闻",
+          "title": "现货白银上涨近3%，至每盎司75.01美元。",
+          "url": "https://wallstreetcn.com/livenews/3099047",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.8562，创2023年3月24日以来新高，上调66点；上一交易日中间价6.8628，上一交易日官方收盘价6.8335，上日夜盘报收6.8310。",
+          "url": "https://wallstreetcn.com/livenews/3099028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "现货白银短线走高0.7美元，日内涨幅扩大至3%，现报74.97美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260506092929253800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "我们在开发 VR 独立游戏，快三年了，累计年底投入 45 万美元，内容是打丧尸，类似亚利桑那阳光，还能坚持吗？",
+          "url": "https://www.zhihu.com/question/2033300815583122067",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "澳元/美元、纽元/美元日内均涨超0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3099019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "现货白银日内涨2美元，现报74.79美元/盎司，涨幅2.75%。",
+          "url": "https://flash.jin10.com/detail/20260506092417410800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "三星电子市值突破1万亿美元关口，日内涨超11%。",
+          "url": "https://wallstreetcn.com/livenews/3099014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "韩元兑美元汇率突破1美元兑1460韩元，创下4月17日以来的最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3099010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "现货黄金盘中涨至4600.22美元/盎司，日内涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3099008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "伊朗战争丨特朗普：霍尔木兹海峡“自由行动”将暂停",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 21时13分]"
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
@@ -26,64 +130,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
-          "url": "https://www.cls.cn/detail/2362745",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "伊朗战争丨特朗普：美国与伊朗处于“迷你战争”状态",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
-          "url": "https://wallstreetcn.com/articles/3771515",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "特朗普要用卡塔尔送的豪华飞机当“空军一号”，国内舆论炸了",
-          "url": "https://news.ifeng.com/c/8ssQTax2qM1",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "日本怂恿特朗普访华途中访日",
-          "url": "https://www.toutiao.com/trending/7635392980899069998/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
+          "time_info": "09时47分"
         },
         {
           "title": "美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱",
@@ -92,20 +141,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时13分"
+          "time_info": "09时47分"
         },
         {
-          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
-          "url": "https://www.cls.cn/detail/2362404",
+          "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
+          "url": "https://www.cls.cn/detail/2362745",
           "source": "财联社热门",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时49分"
+          "time_info": "09时47分"
         },
         {
           "title": "特朗普关税退款引质疑，“简直令人抓狂”",
@@ -114,9 +163,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时13分"
+          "time_info": "09时47分"
         },
         {
           "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
@@ -125,585 +174,115 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时13分"
+          "time_info": "09时47分"
         },
         {
-          "title": "特朗普又有新绰号：NACHO",
-          "url": "https://news.ifeng.com/c/8srAt1fCSlE",
-          "source": "凤凰网",
+          "title": "特朗普承认自己曾“不得不”常买中国货",
+          "url": "https://www.cls.cn/detail/2363024",
+          "source": "财联社热门",
           "ranks": [
-            9
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "特朗普未明言伊朗违反停火协议",
-          "url": "https://wallstreetcn.com/livenews/3098681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "市场消息：美国防长赫格塞思称，关于特朗普正被以色列总理内塔尼亚胡“牵着鼻子走”的说法，是一个“错误的前提”。",
-          "url": "https://flash.jin10.com/detail/20260505203624297800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "特朗普出席活动白宫附近突发枪击， 一名枪手被击毙，具体情况如何？",
-          "url": "https://www.zhihu.com/question/2034903072279721909",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "特朗普准备“抛弃”台湾了吗",
-          "url": "https://www.toutiao.com/trending/7636182005881356307/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "伊朗外长：特朗普的霍尔木兹海峡“自由计划”是“僵局计划”",
-          "url": "https://wallstreetcn.com/livenews/3098668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "特朗普拒绝确认美伊停火协议是否仍然有效",
-          "url": "https://wallstreetcn.com/livenews/3098664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "特朗普：美国正从委内瑞拉攫取“数亿桶石油”",
-          "url": "https://wallstreetcn.com/livenews/3098663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "美国3月贸易帐 -603亿美元，预期-609亿美元，前值由-573亿美元修正为-578亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3098792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "现货黄金向上触及4540美元/盎司，日内涨0.36%。纽约期金站上4550美元/盎司，日内涨0.37%。",
-          "url": "https://flash.jin10.com/detail/20260505093734108800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "现货黄金日内涨幅扩大至1.00%，现报4568.72美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3098790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "WTI原油跌破103美元/桶，报102.94美元/桶，日内跌近3%。 布伦特原油跌破112美元/桶，报111.92美元/桶，日内跌约2%。",
-          "url": "https://wallstreetcn.com/livenews/3098786",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "曝印度2千万美元买世界杯转播权被拒",
-          "url": "https://www.toutiao.com/trending/7635140491135287305/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "美国3月出口 3209亿美元，前值3148亿美元。",
-          "url": "https://flash.jin10.com/detail/20260505203205690800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "美国3月进口 3812亿美元，前值3721亿美元。",
-          "url": "https://flash.jin10.com/detail/20260505203159088800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "现货黄金向上触及4530美元/盎司，日内涨0.14%。",
-          "url": "https://flash.jin10.com/detail/20260505085905623800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "美国贸易帐数据公布后，现货黄金、美元指数DXY短线波动暂不大。",
-          "url": "https://flash.jin10.com/detail/20260505203058365800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "PAYPAL 预计第二季度调整后每股收益将出现高个位数百分比下滑，或下降约9%。 预计第二季度每股收益预期为1.34美元。 预计2026财年每股收益预期为5.32美元，营收预期为340.6亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3098770",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "PAYPAL 第一季度调整后EPS为1.34美元，预期为1.27美元。 第一季度总支付额为4639.6亿美元，预期为4433.3亿美元。 第一季度调整后自由现金流为17.2亿美元。 第一季度净营收为83.5亿美元，预期为80.5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3098769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "WTI原油期货跌1.3%，报105.11美元，市场评估霍尔木兹海峡通行对供应面的影响。",
-          "url": "https://wallstreetcn.com/livenews/3098661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "亚太盘初，美国三大股指期货涨约0.1%。 WTI原油期货涨0.20%，暂报105.29美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3098660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "辉瑞：近期关于解决Vyndamax专利侵权的和解协议，有可能显著改变辉瑞2028年之后的增长格局。 近期比利时法院关于Comirnaty疫苗与欧盟成员国合同的裁决，对公司未来EPS和现金流是利好。 4月已完成最终TCJA（美国税改法案）海外利润汇回税支付，金额约26亿美元。 制造优化计划第一阶段预计可带来约7亿美元成本节约，相关进展持续符合预期。",
-          "url": "https://wallstreetcn.com/livenews/3098766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "辉瑞第一季度净利润26.87亿美元。 第一季度调整后EPS0.75美元，预期0.72美元。 第一季度营收144.51亿美元，预期137.85亿美元。 第一季度内部研发项目投资25亿美元。 2026年全年EPS预期2.96美元。 2026年全年营收预期614.2亿美元。 辉瑞表示，2026年财务指引未考虑任何股票回购计划。 自第一季度起，对全球生物制药业务的商业组织进行了调整。",
-          "url": "https://wallstreetcn.com/livenews/3098765",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
+          "time_info": "09时47分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 8,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "日本首相高市早苗：随着越南对日本食品的关注度上升，我希望能将更多高品质、富有魅力的日本食品送到越南家庭中。",
-          "url": "https://flash.jin10.com/detail/20260505093802164800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
         {
           "title": "日本网红店翻车,食客集体中毒",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354013&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%BD%91%E7%BA%A2%E5%BA%97%E7%BF%BB%E8%BD%A6%2C%E9%A3%9F%E5%AE%A2%E9%9B%86%E4%BD%93%E4%B8%AD%E6%AF%92",
           "source": "贴吧",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "专坑国人,日本阴阳菜单被扒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353968&amp;topic_name=%E4%B8%93%E5%9D%91%E5%9B%BD%E4%BA%BA%2C%E6%97%A5%E6%9C%AC%E9%98%B4%E9%98%B3%E8%8F%9C%E5%8D%95%E8%A2%AB%E6%89%92",
-          "source": "贴吧",
-          "ranks": [
-            18
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时49分"
+          "time_info": "09时47分"
         },
         {
           "title": "视频丨中方在联合国点名日本，呼吁国际社会警惕其涉核消极动向",
           "url": "https://m.thepaper.cn/newsDetail_forward_33098751",
           "source": "澎湃新闻",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "2名中国游客日本登山食物耗尽",
-          "url": "https://s.weibo.com/weibo?q=%232%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%97%A5%E6%9C%AC%E7%99%BB%E5%B1%B1%E9%A3%9F%E7%89%A9%E8%80%97%E5%B0%BD%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "为什么日本玩家痴迷抽卡手游，而欧美玩家更愿意为买断制单机一次性付费？",
-          "url": "https://www.zhihu.com/question/2024638246068520346",
-          "source": "知乎",
-          "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时49分"
+          "time_info": "09时47分"
         },
         {
-          "title": "两中国游客日本登山遇险 1人救助困难",
-          "url": "https://www.toutiao.com/trending/7635842961276370980/",
-          "source": "今日头条",
+          "title": "MSCI新兴市场股指上涨1.5%，创纪录新高。 MSCI亚太地区(除日本)股指上涨1.7%，创纪录新高。 MSCI全球市场股指上涨0.2%，创纪录新高。",
+          "url": "https://wallstreetcn.com/livenews/3099016",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "日本距离“拥核”还有哪些关口要过",
-          "url": "https://www.toutiao.com/trending/7636365313692405254/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
+          "time_info": "09时47分"
         }
       ]
     },
     {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 8,
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
       "titles": [
         {
-          "title": "欧洲又“狼来了”：美欧关系一团糟，俄罗斯要试探北约",
-          "url": "https://news.ifeng.com/c/8srNTU5Clf7",
-          "source": "凤凰网",
+          "title": "OpenAI或加速手机开发",
+          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E6%88%96%E5%8A%A0%E9%80%9F%E6%89%8B%E6%9C%BA%E5%BC%80%E5%8F%91%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "OpenAI推出GPT-5.5 Instant",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BAGPT-5.5+Instant",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "ClaudeCode之父：“全员编程”时代，企业真正领先在于“组织流程的代差”",
+          "url": "https://wallstreetcn.com/articles/3771572",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时49分"
+          "time_info": "09时47分"
         },
         {
-          "title": "乌克兰总统泽连斯基：会见巴林国王，讨论安全合作。",
-          "url": "https://flash.jin10.com/detail/20260505204649668800",
-          "source": "金十数据",
+          "title": "从0开始了解Claude Code",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E0%E5%BC%80%E5%A7%8B%E4%BA%86%E8%A7%A3Claude%20Code",
+          "source": "bilibili 热搜",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "俄罗斯与埃及外长通话讨论中东局势",
-          "url": "https://wallstreetcn.com/livenews/3098688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：提供巴林无人机交易及军事专业知识。",
-          "url": "https://flash.jin10.com/detail/20260505204614274800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：向巴林提供无人机交易。",
-          "url": "https://flash.jin10.com/detail/20260505204443750800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：已抵达巴林。",
-          "url": "https://flash.jin10.com/detail/20260505204347807800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "俄罗斯与埃及外长通话讨论中东局势",
-          "url": "https://flash.jin10.com/detail/20260505090742061800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "俄罗斯国防部宣布5月8日至9日停火",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%9B%BD%E9%98%B2%E9%83%A8%E5%AE%A3%E5%B8%835%E6%9C%888%E6%97%A5%E8%87%B39%E6%97%A5%E5%81%9C%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
-          "url": "https://wallstreetcn.com/articles/3771543",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
-          "url": "https://www.cls.cn/detail/2362725",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 21时13分]"
-        },
-        {
-          "title": "伊朗导弹搅动国际油市 冲突重燃担忧致美股指数全线下跌| 今夜看点",
-          "url": "https://www.cls.cn/detail/2362589",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "Shopify第一季度GMV为1007.43亿美元。 第一季度收入为31.7亿美元。 第一季度自由现金流为4.76亿美元。 预计2026年第二季度自由现金流利润率将在“十几”百分点的中段水平。 Shopify美股盘前跌超10%。",
-          "url": "https://wallstreetcn.com/livenews/3098774",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌母公司Alphabet正式启动为期四期的加拿大元债券的发售。",
-          "url": "https://wallstreetcn.com/livenews/3098789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "谷歌母公司Alphabet将在其创纪录的欧元债券发售中至少筹集90亿欧元。",
-          "url": "https://wallstreetcn.com/livenews/3098784",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "谷歌、xAI和微软同意对新人工智能模型进行美国国家安全审查。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3098780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欧盟",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "“以前对中国出阴招还嫌不够，欧盟正密谋新武器”",
-          "url": "https://news.ifeng.com/c/8sskGXKEV2N",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "三诺生物：欧盟临时禁令的裁定未导致公司CGM产品生产中断",
-          "url": "https://flash.jin10.com/detail/20260505204924823800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "欧盟能源专员：世界正面临有史以来最严重的能源危机",
-          "url": "https://wallstreetcn.com/livenews/3098782",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
+          "time_info": "09时47分"
         }
       ]
     },
@@ -716,45 +295,62 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
           "source": "bilibili 热搜",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据华尔街日报：OpenAI首席执行官Sam Altman去年年底曾讨论将公司机器人及消费硬件部门分拆出去。将OpenAI机器人及消费硬件部门分拆出去的计划被否决。",
-          "url": "https://flash.jin10.com/detail/20260505090141713800",
-          "source": "金十数据",
-          "ranks": [
-            21
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时49分"
+          "time_info": "09时47分"
         }
       ]
     },
     {
-      "keyword_group": "Claude",
+      "keyword_group": "美股",
       "match_count": 1,
       "titles": [
         {
-          "title": "ClaudeCode之父：“全员编程”时代，企业真正领先在于“组织流程的代差”",
-          "url": "https://wallstreetcn.com/articles/3771572",
-          "source": "华尔街见闻",
+          "title": "美股收盘：标普、纳指再创新高 美光、英特尔涨幅均超10%",
+          "url": "https://www.cls.cn/detail/2363187",
+          "source": "财联社热门",
           "ranks": [
-            10
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时13分"
+          "time_info": "09时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "俄罗斯外长与美国国务卿通话",
+          "url": "https://www.toutiao.com/trending/7636461551624568895/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欧盟",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“以前对中国出阴招还嫌不够，欧盟正密谋新武器”",
+          "url": "https://news.ifeng.com/c/8sskGXKEV2N",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         }
       ]
     }

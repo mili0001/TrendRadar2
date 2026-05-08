@@ -1,95 +1,34 @@
 {
-  "generated_at": "2026-05-08T09:56:41.726328+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-08T21:08:03.760363+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "特朗普回应打击伊朗：只是轻微敲打",
-          "url": "https://news.ifeng.com/c/8swugAgjYdA",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
-          "url": "https://news.ifeng.com/c/8swPaRUXu6L",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "特朗普访华前瞻——台湾怎么办？",
-          "url": "https://news.ifeng.com/c/8swQYqpheqc",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "美国贸易法院裁定特朗普10%全球关税无效",
-          "url": "https://wallstreetcn.com/articles/3771788",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "特朗普表示，他与巴西总统卢拉的会晤非常成功。",
-          "url": "https://wallstreetcn.com/livenews/3100279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "特朗普表示，他已听取有关汉坦病毒的情况汇报，希望疫情能得到有效控制。",
-          "url": "https://wallstreetcn.com/livenews/3100278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "特朗普：我们正在与伊朗进行谈判，伊朗停火协议依然有效。巴基斯坦已请求美国在与伊朗谈判期间不要执行“自由计划”。",
-          "url": "https://wallstreetcn.com/livenews/3100277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "韩国",
-      "match_count": 7,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "中国男团vs韩国",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%9B%A2vs%E9%9F%A9%E5%9B%BD&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "宇树机器人以佛弟子身份在韩国寺庙受戒，「五戒」要求「不过度充电、不顶撞人类」等，如何看待机器人皈依？",
+          "url": "https://www.zhihu.com/question/2035738175893714497",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
         {
           "title": "韩国总统李在明：囤积居奇是自毁前程的路。想赚点钱去囤积居奇，结果只会彻底失败。",
           "url": "https://flash.jin10.com/detail/20260508095024815800",
@@ -122,6 +61,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "世乒赛中国男团vs韩国对阵名单出炉",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E4%B9%92%E8%B5%9B%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%9B%A2vs%E9%9F%A9%E5%9B%BD%E5%AF%B9%E9%98%B5%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "国乒男团1/4决赛对阵韩国陪看",
+          "url": "https://www.toutiao.com/trending/7636684535199157803/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "重仓韩国芯片股，又跑出一只基金黑马，单日大涨12%",
+          "url": "https://www.cls.cn/detail/2365813",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "中国男团vs韩国对阵名单",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%9B%A2vs%E9%9F%A9%E5%9B%BD%E5%AF%B9%E9%98%B5%E5%90%8D%E5%8D%95%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "陪看世乒赛中国VS韩国",
+          "url": "https://search.bilibili.com/all?keyword=%E9%99%AA%E7%9C%8B%E4%B8%96%E4%B9%92%E8%B5%9B%E4%B8%AD%E5%9B%BDVS%E9%9F%A9%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
         },
         {
           "title": "辽宁铁人迎来韩国名帅",
@@ -170,13 +164,207 @@
       ]
     },
     {
-      "keyword_group": "日本",
-      "match_count": 5,
+      "keyword_group": "特朗普",
+      "match_count": 12,
       "titles": [
         {
-          "title": "日本一核电站蒸汽泄漏，工作人员约15分钟后停止反应堆",
-          "url": "https://news.ifeng.com/c/8sx4CwvoZHC",
+          "title": "特朗普全球关税又受阻！122关税被指缺乏依据，后续也能退款？",
+          "url": "https://news.ifeng.com/c/8sxspkZXRqe",
           "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "特朗普回应打击伊朗：只是轻微敲打",
+          "url": "https://news.ifeng.com/c/8swugAgjYdA",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
+          "url": "https://news.ifeng.com/c/8swPaRUXu6L",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "美国贸易法院裁定特朗普10%全球关税无效",
+          "url": "https://wallstreetcn.com/articles/3771788",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 21时08分]"
+        },
+        {
+          "title": "中方回应何时发布特朗普访华消息",
+          "url": "https://www.toutiao.com/trending/7637034985857810475/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "卢拉：和特朗普见面就像“一见钟情”，希望保持下去",
+          "url": "https://v.ifeng.com/c/8svJjy07D4M",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035771230985380677",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "中美双方就特朗普访华保持沟通",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BF%9D%E6%8C%81%E6%B2%9F%E9%80%9A",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "特朗普访华前瞻——台湾怎么办？",
+          "url": "https://news.ifeng.com/c/8swQYqpheqc",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "特朗普表示，他与巴西总统卢拉的会晤非常成功。",
+          "url": "https://wallstreetcn.com/livenews/3100279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "特朗普表示，他已听取有关汉坦病毒的情况汇报，希望疫情能得到有效控制。",
+          "url": "https://wallstreetcn.com/livenews/3100278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "特朗普：我们正在与伊朗进行谈判，伊朗停火协议依然有效。巴基斯坦已请求美国在与伊朗谈判期间不要执行“自由计划”。",
+          "url": "https://wallstreetcn.com/livenews/3100277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
+          "url": "https://www.cls.cn/detail/2366051",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "现货黄金突破4720美元/盎司，日内涨0.67%。现货白银日内涨幅达2%，现报80.20美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260508095006491800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "阶跃将完成近25亿美元融资：终端产业链资方集体入场，加速筹备赴港IPO",
+          "url": "https://www.cls.cn/detail/2365829",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "中国央行连续第18个月增持黄金，国际金价升破4700美元后贵不贵？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33109633",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "中国赞助商投入超 5 亿美元赞助美加墨世界杯，若世界杯不在中国转播，会造成哪些影响？谁该为此买单？",
+          "url": "https://www.zhihu.com/question/2035688647794635303",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "人民币兑美元中间价报6.8502，下调15点；上一交易日中间价6.8487，上一交易日官方收盘价6.8015，上日夜盘报收6.8068。",
+          "url": "https://wallstreetcn.com/livenews/3100299",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
@@ -185,11 +373,106 @@
           "time_info": "09时56分"
         },
         {
+          "title": "纽约期银日内涨幅扩大至2.00%，现报81.80美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260508203718133800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "现货黄金在非农数据公布后短线涨幅扩大至20美元，最高至4724.9美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260508203505351800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "现货白银突破81美元/盎司，日内涨3.02%。",
+          "url": "https://flash.jin10.com/detail/20260508203352975800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "美国非农数据和加拿大就业数据公布后，美元兑加元USD/CAD短线上扬逾20点，现报1.3675。",
+          "url": "https://flash.jin10.com/detail/20260508203130096800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "非农公布后，现货黄金短线小幅下跌后回升，波幅逾10美元，现报4709.26美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260508203109498800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日本",
+      "match_count": 7,
+      "titles": [
+        {
           "title": "麻辣烫席卷日本,被樱花妹当药膳",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354070&amp;topic_name=%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%B8%AD%E5%8D%B7%E6%97%A5%E6%9C%AC%2C%E8%A2%AB%E6%A8%B1%E8%8A%B1%E5%A6%B9%E5%BD%93%E8%8D%AF%E8%86%B3",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 21时08分]"
+        },
+        {
+          "title": "日本街头疑现芬太尼“丧尸”",
+          "url": "https://www.toutiao.com/trending/7637474154064875018/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "日本右翼重金炮制AI假视频抹黑中国",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%8F%B3%E7%BF%BC%E9%87%8D%E9%87%91%E7%82%AE%E5%88%B6AI%E5%81%87%E8%A7%86%E9%A2%91%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "日本一核电站蒸汽泄漏，工作人员约15分钟后停止反应堆",
+          "url": "https://news.ifeng.com/c/8sx4CwvoZHC",
+          "source": "凤凰网",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -231,19 +514,92 @@
       ]
     },
     {
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "中国将派谁出席俄罗斯阅兵？中方回应",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B0%86%E6%B4%BE%E8%B0%81%E5%87%BA%E5%B8%AD%E4%BF%84%E7%BD%97%E6%96%AF%E9%98%85%E5%85%B5%EF%BC%9F%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "俄国防部称击落200多架乌克兰无人机",
+          "url": "https://news.ifeng.com/c/8sxgVp5wGHO",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "俄罗斯莫斯科市长：四架飞向莫斯科的无人机已被摧毁。应急部门专家正在碎片坠落现场开展工作。",
+          "url": "https://flash.jin10.com/detail/20260508204233078800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "中国将派谁作为代表出席俄罗斯阅兵？外交部回应",
+          "url": "https://news.ifeng.com/c/8sxelmJvJ2m",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "泽连斯基：俄举办阅兵式都得靠乌克兰",
+          "url": "https://www.toutiao.com/trending/7636622708529266739/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "俄罗斯方面表示正在监测切尔诺贝利核电站的辐射状况，此前乌克兰媒体报道称，巨大的野火肆虐切尔诺贝利禁区。",
+          "url": "https://flash.jin10.com/detail/20260508203951625800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
           "url": "https://wallstreetcn.com/articles/3771708",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 21时08分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
@@ -255,6 +611,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "美国4月非农超预期，美股三大股指期货小幅走高，纳指期货日内涨1%，标普500指数期货涨0.65%；现货黄金短线拉升，日内涨幅扩大至0.36%；美元指数跌至日内低点，日内跌0.39%。",
+          "url": "https://wallstreetcn.com/livenews/3100730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
@@ -270,30 +637,19 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 2,
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
       "titles": [
         {
-          "title": "现货黄金突破4720美元/盎司，日内涨0.67%。现货白银日内涨幅达2%，现报80.20美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260508095006491800",
-          "source": "金十数据",
+          "title": "DeepSeek网页及API相关服务已恢复",
+          "url": "https://www.toutiao.com/trending/7637493213946711590/",
+          "source": "今日头条",
           "ranks": [
-            3
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "人民币兑美元中间价报6.8502，下调15点；上一交易日中间价6.8487，上一交易日官方收盘价6.8015，上日夜盘报收6.8068。",
-          "url": "https://wallstreetcn.com/livenews/3100299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
         }
       ]
     },

@@ -1,204 +1,116 @@
 {
-  "generated_at": "2026-05-28T23:24:35.202540+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2026-05-29T10:03:33.941485+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "韩国",
-      "match_count": 16,
+      "keyword_group": "美元",
+      "match_count": 8,
       "titles": [
         {
-          "title": "韩国央行：将实施政策以稳定通胀在目标水平。 将在监测通胀压力的同时做出决定。 需要关注汇率的剧烈波动。 中东战争加剧通胀压力和不确定性。 出口强劲推动经济增长强于预期。 金融稳定性风险依然存在。",
-          "url": "https://wallstreetcn.com/livenews/3110360",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "韩国央行：两名持异议的委员会成员呼吁加息。",
-          "url": "https://flash.jin10.com/detail/20260528093831184800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "韩国央行预估中值显示六个月后基准利率在3%",
-          "url": "https://wallstreetcn.com/livenews/3110359",
+          "title": "信达生物港股一度涨逾10%，创近一年来最大盘中涨幅。此前公司与辉瑞签署一项价值高达105亿美元的全球协议，用于开发抗癌药物。",
+          "url": "https://wallstreetcn.com/livenews/3111046",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时03分"
         },
         {
-          "title": "韩国央行：今天的利率决议并非一致通过，两位委员要求加息。",
-          "url": "https://wallstreetcn.com/livenews/3110356",
-          "source": "华尔街见闻-快讯",
+          "title": "登顶全球最值钱AI创企！Anthropic官宣估值升至9650亿美元",
+          "url": "https://www.cls.cn/detail/2384760",
+          "source": "财联社热门",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时03分"
         },
         {
-          "title": "涉嫌虐杀韩国大学生，6名中国电诈分子被柬埔寨法院判处终身监禁",
-          "url": "https://news.ifeng.com/c/8tUq2NbxiLQ",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "韩国3年期国债期货大幅下跌。",
-          "url": "https://flash.jin10.com/detail/20260528093739679800",
+          "title": "市场消息：SpaceX据悉将IPO估值目标下调到至少1.8万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260529093042135800",
           "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "韩国前总统尹锡悦涉嫌作伪证案一审被判无罪",
-          "url": "https://wallstreetcn.com/livenews/3110353",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时03分"
         },
         {
-          "title": "韩国央行：不确定性包括芯片繁荣对消费的溢出程度。",
-          "url": "https://flash.jin10.com/detail/20260528093718537800",
-          "source": "金十数据",
+          "title": "SpaceX据称将IPO估值目标下调到至少1.8万亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3111037",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时03分"
         },
         {
-          "title": "韩国央行：必须继续关注房地产市场和家庭债务的相关情况。",
-          "url": "https://flash.jin10.com/detail/20260528093650320800",
-          "source": "金十数据",
+          "title": "Anthropic官宣估值升至9650亿美元",
+          "url": "https://www.baidu.com/s?wd=Anthropic%E5%AE%98%E5%AE%A3%E4%BC%B0%E5%80%BC%E5%8D%87%E8%87%B39650%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时03分"
         },
         {
-          "title": "韩国央行：未来经济增长路径上既存在巨大的上行风险，也存在巨大的下行风险。",
-          "url": "https://flash.jin10.com/detail/20260528093641521800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "韩国央行：必须继续关注汇率的高度波动。",
-          "url": "https://flash.jin10.com/detail/20260528093606170800",
-          "source": "金十数据",
+          "title": "人民币兑美元中间价创2023年2月14日以来新高",
+          "url": "https://wallstreetcn.com/livenews/3111029",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时03分"
         },
         {
-          "title": "韩国央行：将评估通货膨胀压力的上升程度、国内经济的改善趋势以及金融稳定性状况。",
-          "url": "https://flash.jin10.com/detail/20260528093554227800",
+          "title": "交易员押注美联储加息推高美元，华尔街却集体唱空：别追！",
+          "url": "https://flash.jin10.com/detail/20260529092411278800",
           "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时03分"
         },
         {
-          "title": "韩国央行：委员会将决定加息的时机。",
-          "url": "https://flash.jin10.com/detail/20260528093505503800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "韩国央行点阵图显示，21名委员会成员中有2人预计未来六个月政策利率将为2.50%。",
-          "url": "https://flash.jin10.com/detail/20260528093440012800",
+          "title": "信达生物(01801.HK)开涨6.88%，公司和辉瑞签署价值高达105亿美元的肿瘤药物开发协议。",
+          "url": "https://flash.jin10.com/detail/20260529092203973800",
           "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "韩国央行点阵图显示，21名委员会成员中有7人预计未来六个月政策利率将为2.75%。",
-          "url": "https://flash.jin10.com/detail/20260528093331584800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "韩国央行：预计2027年CPI为2.3%，而2月份的预测值为2%。 预计2026年CPI为2.7%，而2月份的预测值为2.2%。 预计2027年GDP增速为2.1%，此前预测值为1.8%。 预计2026年GDP增速为2.6%，此前预测值为2.0%。",
-          "url": "https://wallstreetcn.com/livenews/3110330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时03分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 11,
+      "match_count": 8,
       "titles": [
         {
           "title": "美将在日本部署中程导弹系统，这次“不走了？",
           "url": "https://news.ifeng.com/c/8tVAfhosRsO",
           "source": "凤凰网",
           "ranks": [
-            3
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时24分"
+          "time_info": "10时03分"
         },
         {
           "title": "礼遇拉满，日本高调示好菲律宾，野心瞄准两大要道",
@@ -207,381 +119,114 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "日本10年期国债收益率下跌0.5个基点，报2.685%。",
-          "url": "https://flash.jin10.com/detail/20260528094215384800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时03分"
         },
         {
-          "title": "“中方一旦发现，美国在日本部署的中导就是活靶子”",
-          "url": "https://news.ifeng.com/c/8tTT40GyXrG",
+          "title": "菲总统日本国会演说：双方关系已达历史顶峰",
+          "url": "https://news.ifeng.com/c/8tVh63HVoHa",
           "source": "凤凰网",
           "ranks": [
-            5
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时03分"
         },
         {
-          "title": "日本财务大臣片山皋月：日本央行法要求在确保央行独立性的同时与政府进行充分沟通。",
-          "url": "https://flash.jin10.com/detail/20260528093806570800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：希望日本央行能够采取适当的货币政策，稳定、可持续地实现2%的价格目标，并伴随工资上涨。",
-          "url": "https://flash.jin10.com/detail/20260528093749112800",
-          "source": "金十数据",
+          "title": "为什么语文课本有其他国家的篇章但是不选取日本的文学作品呢？是因为日本的文学底蕴不深厚吗？",
+          "url": "https://www.zhihu.com/question/339280132",
+          "source": "知乎",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时03分"
         },
         {
           "title": "国防部：日本“新型军国主义”大有成为东亚“祸源”之势",
           "url": "https://m.thepaper.cn/newsDetail_forward_33254413",
           "source": "澎湃新闻",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：我们的内阁一致认为，具体的货币政策手段由日本央行决定。",
-          "url": "https://flash.jin10.com/detail/20260528093735015800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时03分"
         },
         {
-          "title": "日本财务大臣片山皋月：预计日本央行将与政府紧密协调。",
-          "url": "https://flash.jin10.com/detail/20260528093725379800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "俄联邦安全会议秘书：担忧日本“再军事化”进程",
-          "url": "https://wallstreetcn.com/livenews/3110811",
+          "title": "日本10年期国债收益率下行5.5个基点至2.64%。",
+          "url": "https://wallstreetcn.com/livenews/3111030",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "日本妄图威胁中国腹地",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A6%84%E5%9B%BE%E5%A8%81%E8%83%81%E4%B8%AD%E5%9B%BD%E8%85%B9%E5%9C%B0%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "特朗普警告盟友阿曼：不守规矩会被炸飞",
-          "url": "https://news.ifeng.com/c/8tTuRYfuC5R",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时03分"
         },
         {
-          "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
-          "url": "https://news.ifeng.com/c/8tTPXgoAD0P",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
-          "url": "https://wallstreetcn.com/articles/3773275",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 23时24分]"
-        },
-        {
-          "title": "中东波澜又起！白宫斥协议草案“纯属捏造” 特朗普称对谈判进程“不满意”",
-          "url": "https://www.cls.cn/detail/2383563",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "特朗普的两张稀土王牌，先打上“内战”了",
-          "url": "https://news.ifeng.com/c/8tUtQKMFq2T",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "特朗普调侃赫格塞思：他热衷战争",
-          "url": "https://v.ifeng.com/c/8tSottvMqyW",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "美媒称美伊达成60天谅解备忘录、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
-          "url": "https://wallstreetcn.com/articles/3773378",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "让家长帮子女理财 “特朗普账户”APP在美国各大应用商店上线",
-          "url": "https://flash.jin10.com/detail/20260528223945726800",
+          "title": "日本10年期国债收益率下跌5.5个基点，至2.640%；日本5年期国债收益率下跌3.0个基点，至1.875%。",
+          "url": "https://flash.jin10.com/detail/20260529092228898800",
           "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "美媒曝美伊就一份谅解备忘录达成一致，只待特朗普“点头”",
-          "url": "https://flash.jin10.com/detail/20260528223343667800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "特朗普政府正在就资助美国无人机公司进行谈判。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3110336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "韩国历史第二例！三星工会同意新薪酬方案：人均40万美元奖金！",
-          "url": "https://wallstreetcn.com/articles/3773207",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "AI初创公司Groq据悉正为新实体筹集6.5亿美元资金",
-          "url": "https://flash.jin10.com/detail/20260528225227812800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "Snowflake盘后暴涨超30%，与AWS签订60亿美元采购协议",
-          "url": "https://wallstreetcn.com/articles/3773285",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "资金疯狂涌入 这只存储ETF刷新最快破百亿美元规模纪录",
-          "url": "https://www.cls.cn/detail/2383340",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "5 月 28 日现货黄金跳水，盘中跌破 4400 美元 / 盎司，受到哪些因素影响？还会持续下跌吗？",
-          "url": "https://www.zhihu.com/question/2043314967013581849",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "国际原油价格抹去涨幅，WTI原油期货接近每桶87美元。",
-          "url": "https://wallstreetcn.com/livenews/3110816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "人民币对美元中间价报6.8240，调升51个点。前一交易日中间价报6.8291，在岸人民币16:30收盘价报6.7817，夜盘收报6.7793。",
-          "url": "https://wallstreetcn.com/livenews/3110341",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时03分"
         },
         {
-          "title": "SK海力士市值突破万亿美元",
-          "url": "https://www.douyin.com/hot/2513668",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "韩元兑美元维持跌势，此前韩国央行维持利率不变，符合预期。",
-          "url": "https://wallstreetcn.com/livenews/3110331",
+          "title": "日本10年期国债收益率下行3.5个基点至2.66%。 日本5年期国债收益率下行1.5个基点至1.89%。 日本2年期国债收益率下行1个基点至1.36%。",
+          "url": "https://wallstreetcn.com/livenews/3111017",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时03分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 5,
       "titles": [
         {
-          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
-          "url": "https://wallstreetcn.com/articles/3773196",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 23时24分]"
-        },
-        {
-          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
+          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
           "url": "https://wallstreetcn.com/articles/3773313",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时24分"
+          "time_info": "10时03分"
         },
         {
-          "title": "美股收盘：三大股指勉强收涨 美光市值压过伯克希尔",
-          "url": "https://www.cls.cn/detail/2383514",
+          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
+          "url": "https://www.cls.cn/detail/2384785",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
+          "url": "https://www.cls.cn/detail/2384768",
           "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2383334",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时03分"
         },
         {
           "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
@@ -590,70 +235,76 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时24分"
+          "time_info": "10时03分"
         },
         {
-          "title": "美股收盘：芯片股回调 高通跌6%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%8A%AF%E7%89%87%E8%82%A1%E5%9B%9E%E8%B0%83+%E9%AB%98%E9%80%9A%E8%B7%8C6%25",
-          "source": "百度热搜",
+          "title": "美股无人机概念全线暴涨 据称行业有望获美政府资金扶持",
+          "url": "https://www.cls.cn/detail/2384732",
+          "source": "财联社热门",
           "ranks": [
-            17
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "报道称伊朗与美国达成协议，油价、美元下跌，欧美股市一度走高",
-          "url": "https://wallstreetcn.com/livenews/3110810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
+          "time_info": "10时03分"
         }
       ]
     },
     {
-      "keyword_group": "欧盟",
-      "match_count": 3,
+      "keyword_group": "特朗普",
+      "match_count": 2,
       "titles": [
         {
-          "title": "事关中美关税谈判进展、欧盟拟对进口钢铁加税等，商务部回应",
-          "url": "https://www.cls.cn/detail/2384110",
-          "source": "财联社热门",
+          "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
+          "url": "https://wallstreetcn.com/articles/3773378",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时24分"
+          "time_info": "10时03分"
         },
         {
-          "title": "禁止中国厂商参与欧盟电信网络？德国西班牙带头反对",
-          "url": "https://news.ifeng.com/c/8tTaxJuw3y9",
+          "title": "特朗普调侃赫格塞思：他热衷战争",
+          "url": "https://v.ifeng.com/c/8tSottvMqyW",
           "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
-        },
+          "time_info": "10时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "韩国",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "德国经济部长：欧盟任何对华措施，都不能伤害出口",
-          "url": "https://news.ifeng.com/c/8tUNphsoPq1",
+          "title": "涉嫌虐杀韩国大学生，6名中国电诈分子被柬埔寨法院判处终身监禁",
+          "url": "https://news.ifeng.com/c/8tUq2NbxiLQ",
           "source": "凤凰网",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "10时03分"
+        },
+        {
+          "title": "据Yonhap Infomax报道，韩国国民年金公团将国内股票的战略资产配置区间从3个百分点上调至6个百分点。",
+          "url": "https://wallstreetcn.com/livenews/3111016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         }
       ]
     },
@@ -666,45 +317,45 @@
           "url": "https://wallstreetcn.com/articles/3773316",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时24分"
+          "time_info": "10时03分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "Claude",
       "match_count": 1,
       "titles": [
         {
-          "title": "Gemini联合SpaceX和xAI推出Command Center（指挥中心）。这是一项个性化的市场信息流（Market Feed）。",
-          "url": "https://wallstreetcn.com/livenews/3110808",
+          "title": "Claude Opus 4.8版本来了",
+          "url": "https://www.baidu.com/s?wd=Claude+Opus+4.8%E7%89%88%E6%9C%AC%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧盟与乌克兰已达成900亿欧元贷款协议",
+          "url": "https://wallstreetcn.com/livenews/3111019",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "SpaceX、OpenAI排队上市：华尔街开始提前“腾仓位”了",
-          "url": "https://flash.jin10.com/detail/20260528223736409800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
+          "time_info": "10时03分"
         }
       ]
     }

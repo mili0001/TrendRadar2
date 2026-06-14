@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-14T10:32:54.344583+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-14T21:26:15.819024+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
+          "url": "https://wallstreetcn.com/articles/3774599",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 21时26分]"
+        },
         {
           "title": "美伊协议何时签署 特朗普说14日 伊朗否认",
           "url": "https://wallstreetcn.com/livenews/3119179",
@@ -26,8 +37,41 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 21时26分]"
+        },
+        {
+          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 21时26分]"
+        },
+        {
+          "title": "白宫上演特技摩托车秀，庆祝特朗普80大寿",
+          "url": "https://v.ifeng.com/c/8twfTkgsM7l",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 21时26分]"
+        },
+        {
+          "title": "特朗普称美伊协议计划14日签署",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33376146",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 21时26分]"
         },
         {
           "title": "特朗普姓名被从肯尼迪中心外墙移除",
@@ -105,23 +149,185 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-14）",
+          "url": "https://flash.jin10.com/detail/20260614192509763800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日本",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "下周“超级央行周”：美联储利率决议沃什首秀、日本央行或加息、中国5月经济数据",
+          "url": "https://wallstreetcn.com/articles/3774492",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 21时26分]"
+        },
+        {
+          "title": "日本炸鸡店一锅油反复用 66 年，店主称「只要油好好保养，味道没问题」，这种油真的不会带来健康隐患吗？",
+          "url": "https://www.zhihu.com/question/2048711796341432495",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 21时26分]"
+        },
+        {
+          "title": "金十整理：下周重要事件与数据预告——“超级央行周”来袭，沃什首秀在即、日本或将加息",
+          "url": "https://flash.jin10.com/detail/20260614205725421800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
+          "title": "日本炸鸡秘方:一锅油用66年",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355135&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%82%B8%E9%B8%A1%E7%A7%98%E6%96%B9%3A%E4%B8%80%E9%94%85%E6%B2%B9%E7%94%A866%E5%B9%B4",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 21时26分]"
+        },
+        {
+          "title": "荷兰vs日本前瞻",
+          "url": "https://www.douyin.com/hot/2533915",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 21时26分]"
+        },
+        {
+          "title": "志在夺冠的日本 开局就迎恶战",
+          "url": "https://www.baidu.com/s?wd=%E5%BF%97%E5%9C%A8%E5%A4%BA%E5%86%A0%E7%9A%84%E6%97%A5%E6%9C%AC+%E5%BC%80%E5%B1%80%E5%B0%B1%E8%BF%8E%E6%81%B6%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 21时26分]"
+        },
+        {
+          "title": "日本天然气公司Inpex的企业高级副总裁：对澳大利亚法院驳回“请求阻挠罢工”感到失望。 证实正在为员工准备一份更新后的提议。 与员工达成公平且可持续的协议是我们的首要任务。 我们将据此制定计划，在维持安全和稳定运营的同时减轻相关影响。",
+          "url": "https://wallstreetcn.com/livenews/3119233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
+          "title": "日本公司请求阻止LNG罢工、宣称将危害澳洲经济，被澳大利亚法庭驳回",
+          "url": "https://wallstreetcn.com/livenews/3119232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
+          "title": "日本炸鸡店称一锅油反复用 66 年，从食品安全和健康角度看，这种做法存在哪些潜在风险？",
+          "url": "https://www.zhihu.com/question/2048692040377033581",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "大量日本民众抗议高市早苗政府军事扩张政策",
+          "url": "https://flash.jin10.com/detail/20260614195344098800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
+          "title": "日本核污染水排海再次因异常警报停止",
+          "url": "https://wallstreetcn.com/livenews/3119148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
           "url": "https://www.cls.cn/detail/2398996",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 21时26分]"
+        },
+        {
+          "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
+          "url": "https://wallstreetcn.com/articles/3774608",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 21时26分]"
+        },
+        {
+          "title": "C罗每分钟收入近447美元",
+          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E6%AF%8F%E5%88%86%E9%92%9F%E6%94%B6%E5%85%A5%E8%BF%91447%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 21时26分]"
         },
         {
           "title": "又一家万亿美元级别IPO！SK海力士计划8月在纳斯达克上市，募资高达140亿美元",
@@ -155,6 +361,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "科威特将7月对亚洲的石油出口官方销售价格（OSP）定在较阿曼/迪拜均价溢价/升水5.25美元/桶。 将7月销往亚洲的超级轻质石油OSP定在较阿曼/迪拜均价溢价/升水5.25美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3119230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         }
       ]
     },
@@ -163,22 +380,22 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
-          "url": "https://wallstreetcn.com/articles/3774577",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
           "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
           "url": "https://www.cls.cn/detail/2399163",
           "source": "财联社热门",
           "ranks": [
             2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 21时26分]"
+        },
+        {
+          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
+          "url": "https://wallstreetcn.com/articles/3774577",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -198,65 +415,27 @@
       ]
     },
     {
-      "keyword_group": "日本",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "日本炸鸡秘方:一锅油用66年",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355135&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%82%B8%E9%B8%A1%E7%A7%98%E6%96%B9%3A%E4%B8%80%E9%94%85%E6%B2%B9%E7%94%A866%E5%B9%B4",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "日本炸鸡店称一锅油反复用 66 年，从食品安全和健康角度看，这种做法存在哪些潜在风险？",
-          "url": "https://www.zhihu.com/question/2048692040377033581",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "日本核污染水排海再次因异常警报停止",
-          "url": "https://wallstreetcn.com/livenews/3119148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "韩国",
       "match_count": 3,
       "titles": [
+        {
+          "title": "亚洲骄傲!韩国2-1逆转捷克",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355106&amp;topic_name=%E4%BA%9A%E6%B4%B2%E9%AA%84%E5%82%B2%21%E9%9F%A9%E5%9B%BD2-1%E9%80%86%E8%BD%AC%E6%8D%B7%E5%85%8B",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 21时26分]"
+        },
         {
           "title": "Lisa 世界杯歌曲因充斥炫富歌词和性感舞蹈被批低俗，50 万韩国网友请愿「换人」，如何看待此事？",
           "url": "https://www.zhihu.com/question/2043273255205832365",
           "source": "知乎",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "亚洲骄傲!韩国2-1逆转捷克",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355106&amp;topic_name=%E4%BA%9A%E6%B4%B2%E9%AA%84%E5%82%B2%21%E9%9F%A9%E5%9B%BD2-1%E9%80%86%E8%BD%AC%E6%8D%B7%E5%85%8B",
-          "source": "贴吧",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -276,26 +455,31 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 1,
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 3,
       "titles": [
         {
-          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
-          "url": "https://www.cls.cn/detail/2398916",
-          "source": "财联社热门",
+          "title": "俄罗斯莫斯科市长：俄罗斯防空系统击落一架前往莫斯科的无人机。",
+          "url": "https://flash.jin10.com/detail/20260614202721632800",
+          "source": "金十数据",
           "ranks": [
-            1
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 1,
-      "titles": [
+          "time_info": "21时26分"
+        },
+        {
+          "title": "乌克兰：袭击了俄罗斯一处石油设施和一座化工厂",
+          "url": "https://wallstreetcn.com/livenews/3119228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
         {
           "title": "俄罗斯国防部：防空部队在12小时内击落了185架乌克兰无人机。",
           "url": "https://flash.jin10.com/detail/20260614060224750800",
@@ -306,6 +490,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
+          "url": "https://wallstreetcn.com/articles/3774610",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 21时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
+          "url": "https://www.cls.cn/detail/2398916",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 21时26分]"
         }
       ]
     }

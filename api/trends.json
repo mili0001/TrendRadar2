@@ -1,625 +1,55 @@
 {
-  "generated_at": "2026-06-19T22:40:04.059247+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-06-20T10:11:30.615097+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "日本",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "日本防相：“堤丰”导弹系统不会永久在日部署",
-          "url": "https://news.ifeng.com/c/8u5U7rhGbN1",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时39分 ~ 22时40分]"
-        },
-        {
-          "title": "日本春秋航空飞机在哈尔滨机场重着陆",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%98%A5%E7%A7%8B%E8%88%AA%E7%A9%BA%E9%A3%9E%E6%9C%BA%E5%9C%A8%E5%93%88%E5%B0%94%E6%BB%A8%E6%9C%BA%E5%9C%BA%E9%87%8D%E7%9D%80%E9%99%86",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时39分 ~ 22时40分]"
-        },
-        {
-          "title": "向鹏3-0零封日本全国冠军",
-          "url": "https://www.baidu.com/s?wd=%E5%90%91%E9%B9%8F3-0%E9%9B%B6%E5%B0%81%E6%97%A5%E6%9C%AC%E5%85%A8%E5%9B%BD%E5%86%A0%E5%86%9B",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时39分 ~ 22时40分]"
-        },
-        {
-          "title": "高市插不上话只能尬笑，日本发G7领导人热聊照被打脸",
-          "url": "https://news.ifeng.com/c/8u4IhcXt301",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "俄外交部再批日本再军事化",
-          "url": "https://flash.jin10.com/detail/20260619100432669800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：今年夏季前后，燃料价格上涨对CPI的影响可能会更大。 我们希望在7月份更新季度预测时，就石油对通胀的影响提供更全面的分析。 即使价格上涨是由供应冲击驱动的，如果这导致广泛的价格上涨并影响到潜在的通胀，我们也需要考虑采取政策行动。 近期价格上涨也有需求驱动因素，如强劲的企业利润、稳定的工资增长、活跃的AI相关需求，都支撑着日本经济。",
-          "url": "https://wallstreetcn.com/livenews/3121959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：将仔细监测加息对企业财务和工资设定行为的影响。",
-          "url": "https://flash.jin10.com/detail/20260619095846317800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：近期价格上涨也受到需求驱动因素的影响，强劲的企业利润、稳定的工资增长以及活跃的人工智能相关需求支撑了日本经济。",
-          "url": "https://flash.jin10.com/detail/20260619095604845800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：购买日本国债不是收紧或放松政策的手段。 在制定债券购买计划时，最重要的是允许市场自由设定价格。 我们积极地与海外当局交换意见，但最终我们在政策上做出自己的决定。 向市场仔细解释政策很重要。",
-          "url": "https://wallstreetcn.com/livenews/3121954",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：四月份生产者价格因油价上涨而上涨速度超出预期。",
-          "url": "https://flash.jin10.com/detail/20260619093712437800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "日本女护士杀人解压",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%8A%A4%E5%A3%AB%E6%9D%80%E4%BA%BA%E8%A7%A3%E5%8E%8B&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：即使价格上涨是由供应冲击引起的，但如果这导致普遍的价格上涨并影响基础通胀，我们需要考虑采取政策行动。",
-          "url": "https://flash.jin10.com/detail/20260619093710098800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：将留意日本央行的财务健康问题。",
-          "url": "https://wallstreetcn.com/livenews/3121948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：拖延应对价格风险可能导致通胀超调风险成为现实，长期来看会损害经济。",
-          "url": "https://wallstreetcn.com/livenews/3121947",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：今年夏季，燃料成本上升对消费者物价指数的影响可能会加大。",
-          "url": "https://flash.jin10.com/detail/20260619093539044800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：我们希望在七月更新季度预测时，提供更全面的石油对通胀影响的分析。",
-          "url": "https://flash.jin10.com/detail/20260619093536771800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：不会对未来加息的市场定价发表评论。",
-          "url": "https://flash.jin10.com/detail/20260619092959019800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：我们积极与海外当局交流意见，但最终我们会自行决定政策。",
-          "url": "https://flash.jin10.com/detail/20260619092908209800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：日本央行暂停缩减债券购买规模的决定，并非是为财政政策服务。",
-          "url": "https://wallstreetcn.com/livenews/3121943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：我们准备对外汇投机行为采取果断行动。 我们已经在七国集团会议上确认，我们可以采取果断行动。",
-          "url": "https://wallstreetcn.com/livenews/3121942",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：日本经济正在温和复苏。 日本央行预计将根据经济、价格和金融发展情况继续加息。 日本央行将考虑进一步加息的速度、时机，关注其基准情景实现的可能性，以及风险。 潜在通胀率接近2%。 最近的物价上涨不仅仅是由暂时的供应冲击驱动的，潜在通胀有偏离我们的价格目标的风险。 尽管油价上涨拖累经济增长，但由于企业利润和家庭收入高企，日本经济整体稳健。 外汇走势是影响日本经济和物价的关键因素之一。 货币政策不以外汇变动为目标，但与过去相比，由于企业行为的变化，外汇变动对通货膨胀的影响更大。 外汇走势可能对通胀预期和潜在通胀产生影响，因此我们将继续密切关注事态发展。",
-          "url": "https://wallstreetcn.com/livenews/3121939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "韩国",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "巨大失误！韩国门将接球脱手，罗莫进球，墨西哥1比0韩国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33414621",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时39分 ~ 22时40分]"
-        },
-        {
-          "title": "韩国国会启动选票短缺事件国政调查",
-          "url": "https://flash.jin10.com/detail/20260619101528272800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "墨西哥vs韩国",
-          "url": "https://www.douyin.com/hot/2539350",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "韩国国会启动选票短缺事件国政调查",
-          "url": "https://wallstreetcn.com/livenews/3121966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "墨西哥虐韩国,门将脱手送大礼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355281&amp;topic_name=%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%99%90%E9%9F%A9%E5%9B%BD%2C%E9%97%A8%E5%B0%86%E8%84%B1%E6%89%8B%E9%80%81%E5%A4%A7%E7%A4%BC",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时39分 ~ 22时40分]"
-        },
-        {
-          "title": "韩国门将复盘失误：没听清队友呼喊",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%97%A8%E5%B0%86%E5%A4%8D%E7%9B%98%E5%A4%B1%E8%AF%AF%EF%BC%9A%E6%B2%A1%E5%90%AC%E6%B8%85%E9%98%9F%E5%8F%8B%E5%91%BC%E5%96%8A",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时39分 ~ 22时40分]"
-        },
-        {
-          "title": "韩国门将曾有更离谱失误",
-          "url": "https://www.toutiao.com/trending/7652967481669078566/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时39分 ~ 22时40分]"
-        },
-        {
-          "title": "世界杯韩国还没出局但转播商破产了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E9%9F%A9%E5%9B%BD%E8%BF%98%E6%B2%A1%E5%87%BA%E5%B1%80%E4%BD%86%E8%BD%AC%E6%92%AD%E5%95%86%E7%A0%B4%E4%BA%A7%E4%BA%86%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时39分 ~ 22时40分]"
-        },
-        {
-          "title": "墨西哥1-0领先韩国",
-          "url": "https://www.toutiao.com/trending/7652345410623225907/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "墨西哥vs韩国",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%A5%BF%E5%93%A5vs%E9%9F%A9%E5%9B%BD%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "世界杯：墨西哥vs韩国",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E5%A2%A8%E8%A5%BF%E5%93%A5vs%E9%9F%A9%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "全球科技升温，公募加速布局韩国赛道",
-          "url": "https://wallstreetcn.com/livenews/3122110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
-        },
-        {
-          "title": "韩国工蜂经济下的年轻人现状",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E5%B7%A5%E8%9C%82%E7%BB%8F%E6%B5%8E%E4%B8%8B%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%8E%B0%E7%8A%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "韩国首尔综指日内涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3121944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "日经225指数高开0.5%，韩国首尔综指高开2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3121938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "提西瓜就急,韩国人原地破防",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355226&amp;topic_name=%E6%8F%90%E8%A5%BF%E7%93%9C%E5%B0%B1%E6%80%A5%2C%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%8E%9F%E5%9C%B0%E7%A0%B4%E9%98%B2",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
-          "url": "https://wallstreetcn.com/articles/3774963",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时50分 ~ 22时40分]"
-        },
-        {
-          "title": "美伊瑞士会谈生变，韩股收跌0.1%，印度IT股大跌，纳指期货跌1%，美元指数站上101关口",
-          "url": "https://wallstreetcn.com/articles/3775074",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时39分 ~ 22时40分]"
-        },
-        {
-          "title": "艾伯维接近达成近110亿美元收购Apogee Therapeutics的交易。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3122131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
-        },
-        {
-          "title": "现货黄金短线走低，跌破4180美元/盎司，日内跌0.68%。",
-          "url": "https://flash.jin10.com/detail/20260619100931526800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "美国五角大楼告诉议员，它需要800亿美元用于伊朗战争。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3121964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "美元指数升至一年多新高 美国电力监管下场推动数据中心入网 | 环球市场",
-          "url": "https://www.cls.cn/detail/2404205",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时50分 ~ 22时40分]"
-        },
-        {
-          "title": "如何看待 6 月 19 日人民币兑日元突破 23.8 、美元兑日元突破 161？",
-          "url": "https://www.zhihu.com/question/2051265976675604351",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时39分 ~ 22时40分]"
-        },
-        {
-          "title": "越南前女首富爱马仕包拍出44万美元",
-          "url": "https://www.toutiao.com/trending/7652907945642135082/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时39分 ~ 22时40分]"
-        },
-        {
-          "title": "国际金价再跳水失守4200美元，国内金饰克价破1300元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33415889",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时39分 ~ 22时40分]"
-        },
-        {
-          "title": "库克称苹果将涨价，网传 iPhone 18 Pro 涨 270 美元，价格上涨有哪些原因？你还会买吗？",
-          "url": "https://www.zhihu.com/question/2050884243694118342",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时39分 ~ 22时40分]"
-        },
-        {
-          "title": "纽约期金失守4200美元/盎司，日内跌幅1.08%。",
-          "url": "https://flash.jin10.com/detail/20260619100641534800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "英国金融时报：艾伯维接近以约110亿美元收购生物技术公司Apogee Therapy。交易预计最早将在周一宣布。",
-          "url": "https://flash.jin10.com/detail/20260619221829180800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
-        },
-        {
-          "title": "现货白银失守65美元/盎司，为6月11日来首次，日内跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3121961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "纽约期银向下触及65美元/盎司，日内跌2.00%。",
-          "url": "https://flash.jin10.com/detail/20260619100246687800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "现货白银失守65美元/盎司，为6月11日来首次，日内跌幅1.05%。",
-          "url": "https://flash.jin10.com/detail/20260619095208151800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
-          "title": "特朗普吐露的真相，比战争结局更让人警醒",
-          "url": "https://news.ifeng.com/c/8u4qoy7X1Wi",
+          "title": "特朗普和高市早苗被爆在G7因珍珠港争吵",
+          "url": "https://news.ifeng.com/c/8u5cA2CLh6U",
           "source": "凤凰网",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时50分"
+          "time_info": "10时11分"
+        },
+        {
+          "title": "美国白宫：特朗普总统做成了一件六个月前大多数专家认为不可能的事，我们已经取得了胜利。",
+          "url": "https://flash.jin10.com/detail/20260620091217880800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
+          "url": "https://wallstreetcn.com/articles/3775098",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "特朗普发表疑似嘲讽言论，梅洛尼回应：震惊",
           "url": "https://news.ifeng.com/c/8u5ipgperKS",
           "source": "凤凰网",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时39分 ~ 22时40分]"
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "特朗普和高市早苗因珍珠港发生争吵",
@@ -629,196 +59,312 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时39分 ~ 22时40分]"
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
-          "title": "特朗普被曝挪用特勤局资金建宴会厅",
-          "url": "https://news.ifeng.com/c/8u5UjkO0mtO",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时39分 ~ 22时40分]"
-        },
-        {
-          "title": "万斯警告以色列：只有特朗普同情你们",
-          "url": "https://www.toutiao.com/trending/7652359820477693994/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时39分 ~ 22时40分]"
-        },
-        {
-          "title": "万斯警告以色列：只有特朗普同情你们",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%87%E6%96%AF%E8%AD%A6%E5%91%8A%E4%BB%A5%E8%89%B2%E5%88%97%EF%BC%9A%E5%8F%AA%E6%9C%89%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E6%83%85%E4%BD%A0%E4%BB%AC",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时39分 ~ 22时40分]"
-        },
-        {
-          "title": "美以历史上十分罕见！“特朗普可能意识到自己被骗了”",
-          "url": "https://news.ifeng.com/c/8u33RqAGLKg",
-          "source": "凤凰网",
+          "title": "特朗普视察新专机，专家担心安全性可能不如现有的“空军一号”",
+          "url": "https://wallstreetcn.com/livenews/3122195",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时50分"
+          "time_info": "10时11分"
         },
         {
-          "title": "特朗普称要耗完美伊谈判60天期限",
-          "url": "https://wallstreetcn.com/livenews/3122113",
+          "title": "特朗普：美伊须60天内达成长期协议，否则将采取进一步行动",
+          "url": "https://wallstreetcn.com/livenews/3122194",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
-        },
-        {
-          "title": "西班牙首相桑切斯：在特朗普发表相关言论后，向意大利总理梅洛尼表达了声援。",
-          "url": "https://flash.jin10.com/detail/20260619220837004800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "乌克兰军方称已袭击俄罗斯控制的克里米亚地区的铁路桥梁。",
-          "url": "https://flash.jin10.com/detail/20260619222008203800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
-        },
-        {
-          "title": "法国总统马克龙：问题不在于谁将与俄罗斯谈判，而在于首先明确我们的立场。",
-          "url": "https://flash.jin10.com/detail/20260619221842706800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
-        },
-        {
-          "title": "如何看待乌克兰在 2026 年 6 月 18 日对俄罗斯莫斯科 Kapotnya 炼油厂发动的重大袭击？",
-          "url": "https://www.zhihu.com/question/2051068366954276096",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时39分 ~ 22时40分]"
-        },
-        {
-          "title": "法国总统马克龙：如果乌克兰战争和平谈判举行，欧洲人将参与其中。",
-          "url": "https://flash.jin10.com/detail/20260619221755424800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
-        },
-        {
-          "title": "法国总统马克龙：欧洲人并不是乌克兰冲突的调解者。",
-          "url": "https://flash.jin10.com/detail/20260619221636180800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
-        },
-        {
-          "title": "爆炸不断！俄罗斯多地遭袭，城市被巨大黑烟笼罩",
-          "url": "https://v.ifeng.com/c/8u3hSctrvjW",
-          "source": "凤凰网",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时50分"
+          "time_info": "10时11分"
         },
         {
-          "title": "比利时首相：尚未决定指派特使进行俄罗斯谈判。",
-          "url": "https://flash.jin10.com/detail/20260619220806208800",
+          "title": "特朗普：Anthropic曾构成国家安全威胁",
+          "url": "https://wallstreetcn.com/livenews/3122193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "美国总统特朗普：卡塔尔赠送的“空军一号”配置星链。",
+          "url": "https://wallstreetcn.com/livenews/3122178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "美国总统特朗普：与以色列关系一直都很好。",
+          "url": "https://wallstreetcn.com/livenews/3122177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "美国总统特朗普透露，卡塔尔赠予的空军一号专机已经搭载了星链通信网络。",
+          "url": "https://flash.jin10.com/detail/20260620040803014800",
           "source": "金十数据",
           "ranks": [
-            21
+            29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时40分"
+          "time_info": "10时11分"
+        },
+        {
+          "title": "美国总统特朗普：将前往土耳其。",
+          "url": "https://wallstreetcn.com/livenews/3122176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "特朗普为何称俄乌冲突与美“无关”",
+          "url": "https://www.toutiao.com/trending/7653236203671522825/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "美国总统特朗普：大约700艘船正在通过霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3122174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         }
       ]
     },
     {
-      "keyword_group": "欧盟",
-      "match_count": 3,
+      "keyword_group": "美元",
+      "match_count": 10,
       "titles": [
         {
-          "title": "德国总理默茨：当前欧盟预算提案不可承受且不可接受。",
-          "url": "https://flash.jin10.com/detail/20260619222117622800",
-          "source": "金十数据",
+          "title": "美伊瑞士会谈生变，韩股收跌0.1%，印度IT股大跌，纳指期货跌1%，美元指数站上101关口",
+          "url": "https://wallstreetcn.com/articles/3775074",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时40分"
+          "time_info": "10时11分"
         },
         {
-          "title": "天天喊对华“去风险”，欧盟自己犹豫了",
-          "url": "https://news.ifeng.com/c/8u5LAg86MOD",
-          "source": "凤凰网",
+          "title": "以黎局势挑动市场神经，欧股一度转涨，布油艰难反弹，美元跌落一年高位",
+          "url": "https://wallstreetcn.com/articles/3775100",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时39分 ~ 22时40分]"
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
-          "title": "法国总统马克龙：（谈欧盟预算）我们希望该预算能应对欧洲人在主权与安全方面面临的挑战。",
-          "url": "https://flash.jin10.com/detail/20260619221624568800",
-          "source": "金十数据",
+          "title": "周五（6月19日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7838元，较周四纽约尾盘跌54点，日内整体交投于6.7759-6.7980元区间。 本周，离岸人民币累计下挫大约200点，跌幅0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3122196",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时40分"
+          "time_info": "10时11分"
+        },
+        {
+          "title": "如何看待 6 月 19 日人民币兑日元突破 23.8 、美元兑日元突破 161？",
+          "url": "https://www.zhihu.com/question/2051265976675604351",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "国际金价再跳水失守4200美元，国内金饰克价破1300元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33415889",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "据知情人士透露，阿布扎比支持的AI投资者MGX一直在探索收购新加坡数据中心运营商DayOne的可行性，预计潜在交易金额（至少）数十亿美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3122191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "库克称苹果将涨价，网传 iPhone 18 Pro 涨 270 美元，价格上涨有哪些原因？你还会买吗？",
+          "url": "https://www.zhihu.com/question/2050884243694118342",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "周五（6月19日）纽约尾盘，美元兑日元跌0.05%，报161.30日元，本周累计上涨0.66%，整体持续走高，交投于159.74-161.81日元。 欧元兑日元涨0.06%，报185.05日元，本周累跌0.16%；英镑兑日元涨0.15%，报213.395日元，本周累跌0.66%。",
+          "url": "https://wallstreetcn.com/livenews/3122181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "美联储：美国上周银行存款19.354万亿美元，之前一周19.295万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3122180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "美元指数本周涨约1%",
+          "url": "https://wallstreetcn.com/livenews/3122179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日本",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "日本宣布：签证费涨到5倍",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%AE%A3%E5%B8%83%EF%BC%9A%E7%AD%BE%E8%AF%81%E8%B4%B9%E6%B6%A8%E5%88%B05%E5%80%8D",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "日本签证7月1日起涨价5倍",
+          "url": "https://www.douyin.com/hot/2540938",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "日本春秋航空飞机在哈尔滨机场重着陆",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%98%A5%E7%A7%8B%E8%88%AA%E7%A9%BA%E9%A3%9E%E6%9C%BA%E5%9C%A8%E5%93%88%E5%B0%94%E6%BB%A8%E6%9C%BA%E5%9C%BA%E9%87%8D%E7%9D%80%E9%99%86",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "日本签证7月1日起涨价5倍",
+          "url": "https://www.toutiao.com/trending/7652311692186779684/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "韩国",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "巨大失误！韩国门将接球脱手，罗莫进球，墨西哥1比0韩国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33414621",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "墨西哥虐韩国,门将脱手送大礼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355281&amp;topic_name=%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%99%90%E9%9F%A9%E5%9B%BD%2C%E9%97%A8%E5%B0%86%E8%84%B1%E6%89%8B%E9%80%81%E5%A4%A7%E7%A4%BC",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "世界杯韩国还没出局 但转播商破产了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E9%9F%A9%E5%9B%BD%E8%BF%98%E6%B2%A1%E5%87%BA%E5%B1%80+%E4%BD%86%E8%BD%AC%E6%92%AD%E5%95%86%E7%A0%B4%E4%BA%A7%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         }
       ]
     },
@@ -831,58 +377,67 @@
           "url": "https://www.cls.cn/detail/2404196",
           "source": "财联社热门",
           "ranks": [
-            3,
-            5
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时50分 ~ 22时40分]"
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
-          "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2403938",
+          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2404523",
           "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欧盟",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "天天喊对华“去风险”，欧盟自己犹豫了",
+          "url": "https://news.ifeng.com/c/8u5LAg86MOD",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "欧洲理事会主席：正建立渠道以直接向俄传递欧盟信息",
+          "url": "https://flash.jin10.com/detail/20260620075702651800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "亚马逊旗下电影部门放弃拍摄有关OpenAI的电影。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3122199",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "融资消息曝光后DeepSeek上线识图模式，但认不出梁文锋",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33408923",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Faker拍谷歌广告血赚7个亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355258&amp;topic_name=Faker%E6%8B%8D%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A%E8%A1%80%E8%B5%9A7%E4%B8%AA%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时50分 ~ 22时40分]"
+          "time_info": "10时11分"
         }
       ]
     }

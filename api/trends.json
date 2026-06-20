@@ -1,12 +1,79 @@
 {
-  "generated_at": "2026-06-20T10:11:30.615097+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-06-20T21:25:12.875944+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "特朗普：今年将再次访问中国",
+          "url": "https://news.ifeng.com/c/8u6mys1KcVF",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
+        },
+        {
+          "title": "外媒爆料：特朗普和高市早苗在G7会议上吵了起来",
+          "url": "https://news.ifeng.com/c/8u5cA2CLh6U",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
+        },
+        {
+          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
+          "url": "https://wallstreetcn.com/articles/3775098",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 21时25分]"
+        },
+        {
+          "title": "特朗普坚称伊朗无条件投降了",
+          "url": "https://news.ifeng.com/c/8u6jGmZtj71",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
+        },
+        {
+          "title": "特朗普乘新专机亮相",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%98%E6%96%B0%E4%B8%93%E6%9C%BA%E4%BA%AE%E7%9B%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
+        },
+        {
+          "title": "特朗普的新专机，首次亮相",
+          "url": "https://www.cls.cn/detail/2404514",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
+        },
         {
           "title": "特朗普和高市早苗被爆在G7因珍珠港争吵",
           "url": "https://news.ifeng.com/c/8u5cA2CLh6U",
@@ -30,15 +97,15 @@
           "time_info": "10时11分"
         },
         {
-          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
-          "url": "https://wallstreetcn.com/articles/3775098",
-          "source": "华尔街见闻",
+          "title": "据福克斯新闻：美国副总统万斯表示美国总统特使威特科夫和特朗普女婿库什纳已抵达与伊朗的谈判现场，谈判可能在周日举行。",
+          "url": "https://flash.jin10.com/detail/20260620210824596800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "21时25分"
         },
         {
           "title": "特朗普发表疑似嘲讽言论，梅洛尼回应：震惊",
@@ -94,6 +161,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "特朗普：伊朗已被打垮 民主党是一帮“蠢货”",
+          "url": "https://flash.jin10.com/detail/20260620195852892800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗在军事上正被“彻底击败”。",
+          "url": "https://wallstreetcn.com/livenews/3122240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "特朗普再嘲意大利总理：跟美国唱反调后又想套近乎，没门！",
+          "url": "https://flash.jin10.com/detail/20260620195418928800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         },
         {
           "title": "美国总统特朗普：卡塔尔赠送的“空军一号”配置星链。",
@@ -165,8 +265,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "鸿海董事长：每1GW Vera Rubin数据中心，资本开支高达470亿美元，每年电力成本13亿美元",
+          "url": "https://wallstreetcn.com/articles/3775108",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
+        },
         {
           "title": "美伊瑞士会谈生变，韩股收跌0.1%，印度IT股大跌，纳指期货跌1%，美元指数站上101关口",
           "url": "https://wallstreetcn.com/articles/3775074",
@@ -183,11 +294,12 @@
           "url": "https://wallstreetcn.com/articles/3775100",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 21时25分]"
         },
         {
           "title": "周五（6月19日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7838元，较周四纽约尾盘跌54点，日内整体交投于6.7759-6.7980元区间。 本周，离岸人民币累计下挫大约200点，跌幅0.3%。",
@@ -281,8 +393,41 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "泳装屈原!日本手游整狠活",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355298&amp;topic_name=%E6%B3%B3%E8%A3%85%E5%B1%88%E5%8E%9F%21%E6%97%A5%E6%9C%AC%E6%89%8B%E6%B8%B8%E6%95%B4%E7%8B%A0%E6%B4%BB",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
+        },
+        {
+          "title": "美国搞垮日本的“广场协议”，德总理竟呼吁用在中国身上",
+          "url": "https://news.ifeng.com/c/8u6kHUnoe6I",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
+        },
+        {
+          "title": "日本大肆囤积弹药备战",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A4%A7%E8%82%86%E5%9B%A4%E7%A7%AF%E5%BC%B9%E8%8D%AF%E5%A4%87%E6%88%98%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
+        },
         {
           "title": "日本宣布：签证费涨到5倍",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%AE%A3%E5%B8%83%EF%BC%9A%E7%AD%BE%E8%AF%81%E8%B4%B9%E6%B6%A8%E5%88%B05%E5%80%8D",
@@ -330,6 +475,47 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
+          "url": "https://www.cls.cn/detail/2404196",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 21时25分]"
+        },
+        {
+          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2404523",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 21时25分]"
+        },
+        {
+          "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
+          "url": "https://wallstreetcn.com/articles/3775107",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "韩国",
       "match_count": 3,
       "titles": [
@@ -349,11 +535,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355281&amp;topic_name=%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%99%90%E9%9F%A9%E5%9B%BD%2C%E9%97%A8%E5%B0%86%E8%84%B1%E6%89%8B%E9%80%81%E5%A4%A7%E7%A4%BC",
           "source": "贴吧",
           "ranks": [
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 21时25分]"
         },
         {
           "title": "世界杯韩国还没出局 但转播商破产了",
@@ -369,37 +556,20 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
-          "url": "https://www.cls.cn/detail/2404196",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2404523",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "欧盟",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "欧盟要和中国打贸易战吗",
+          "url": "https://www.toutiao.com/trending/7653439811302198790/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
+        },
         {
           "title": "天天喊对华“去风险”，欧盟自己犹豫了",
           "url": "https://news.ifeng.com/c/8u5LAg86MOD",
@@ -421,6 +591,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "高边疆之谋·74｜俄罗斯版“星链”上线，对俄乌冲突影响有多大？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33410329",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
+        },
+        {
+          "title": "泽连斯基向白俄罗斯撂狠话",
+          "url": "https://www.toutiao.com/trending/7652846168108154916/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek估值接近4000亿元",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%BC%B0%E5%80%BC%E6%8E%A5%E8%BF%914000%E4%BA%BF%E5%85%83%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
+          "url": "https://wallstreetcn.com/articles/3775105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
         }
       ]
     },

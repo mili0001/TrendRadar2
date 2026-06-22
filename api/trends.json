@@ -1,227 +1,278 @@
 {
-  "generated_at": "2026-06-22T10:39:19.368455+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-23T00:25:58.926184+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "日本",
-      "match_count": 8,
+      "match_count": 6,
       "titles": [
         {
-          "title": "日本日经225指数上涨2%。",
-          "url": "https://wallstreetcn.com/livenews/3122491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "队史世界杯最大赢球比分，但日本躲不过淘汰赛首轮强强对话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33424137",
-          "source": "澎湃新闻",
+          "title": "央视直播世界杯日本 vs 突尼斯比赛收视率超 3%，这是什么水平？可能受哪些因素影响？",
+          "url": "https://www.zhihu.com/question/2052060271871353728",
+          "source": "知乎",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时39分"
+          "time_info": "00时25分"
         },
         {
           "title": "全面压制,日本送突尼斯出局",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355314&amp;topic_name=%E5%85%A8%E9%9D%A2%E5%8E%8B%E5%88%B6%2C%E6%97%A5%E6%9C%AC%E9%80%81%E7%AA%81%E5%B0%BC%E6%96%AF%E5%87%BA%E5%B1%80",
           "source": "贴吧",
           "ranks": [
-            11
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时39分"
+          "time_info": "00时25分"
         },
         {
-          "title": "胡锡进：日本签证费涨5倍，影响最大的就是中国大陆游客群体",
-          "url": "https://news.ifeng.com/c/8u8rYyl6aYk",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "日本五大芯片设备商对华销售额下降",
-          "url": "https://www.toutiao.com/trending/7653783645736189958/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "泳装屈原!日本手游整狠活",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355298&amp;topic_name=%E6%B3%B3%E8%A3%85%E5%B1%88%E5%8E%9F%21%E6%97%A5%E6%9C%AC%E6%89%8B%E6%B8%B8%E6%95%B4%E7%8B%A0%E6%B4%BB",
-          "source": "贴吧",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "日学者：切断与华关系日本没有未来",
-          "url": "https://www.toutiao.com/trending/7653981094525829183/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "刘建宏聊日本足球的天花板",
-          "url": "https://www.douyin.com/hot/2542630",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
-          "url": "https://www.cls.cn/detail/2404722",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "万斯：特朗普致力于区域全面停火，希望改善与伊朗人的关系",
-          "url": "https://news.ifeng.com/c/8u90rSz0ftO",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "特朗普威胁伊朗,美伊谈判暂停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355324&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%2C%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "特朗普发文威胁伊朗 美伊谈判暂停",
-          "url": "https://www.toutiao.com/trending/7653992819803033138/",
-          "source": "今日头条",
+          "title": "报道：日本财务大臣与贝森特紧急举行线上会议",
+          "url": "https://wallstreetcn.com/livenews/3122948",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时39分"
+          "time_info": "00时25分"
         },
         {
-          "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
-          "url": "https://wallstreetcn.com/articles/3775145",
-          "source": "华尔街见闻",
+          "title": "钧正平：日本铁了心走军国主义不归路",
+          "url": "https://www.toutiao.com/trending/7654214119353188393/",
+          "source": "今日头条",
           "ranks": [
-            7
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时39分"
+          "time_info": "00时25分"
         },
         {
-          "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33425956",
+          "title": "日本财务大臣据悉与美财政部官员举行了紧急线上会议",
+          "url": "https://flash.jin10.com/detail/20260622233837271800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "视频丨辽宁舰编队专业稳妥处置应对日本舰机滋扰挑衅，画面公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33428369",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "特朗普称美国或收取中东地区20%的石油收益",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33425530",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
+          "time_info": "00时25分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
-          "title": "黄金跌破4150美元",
-          "url": "https://www.douyin.com/hot/2542967",
-          "source": "抖音",
+          "title": "布伦特原油跌破77美元/桶关口，报76.99美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3122938",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时39分"
+          "time_info": "00时25分"
         },
         {
-          "title": "人民币兑美元中间价报6.8150，下调20点；上一交易日中间价6.8130，上一交易日官方收盘价6.7623，上日夜盘报收6.7728。",
-          "url": "https://wallstreetcn.com/livenews/3122460",
+          "title": "布伦特原油日内跌幅达3.5%，报77.24美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3122936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "SpaceX与美国开源人工智能（AI）初创公司Reflection签署价值至多63亿美元的算力协议。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3122934",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时39分"
+          "time_info": "00时25分"
+        },
+        {
+          "title": "美元/日元5分钟内下跌0.2199，报161.1。",
+          "url": "https://wallstreetcn.com/livenews/3122929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "印度央行4月净卖出89亿美元外汇，黄金储备维持不变",
+          "url": "https://wallstreetcn.com/livenews/3122924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
         }
       ]
     },
     {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 1,
+      "keyword_group": "特朗普",
+      "match_count": 4,
       "titles": [
         {
-          "title": "乌克兰无人机超远程突袭俄炼油厂",
-          "url": "https://www.toutiao.com/trending/7653881871847132691/",
-          "source": "今日头条",
+          "title": "美国加利福尼亚州起诉特朗普政府，原因是后者将该州的车辆排放法规提交给国会，寻求可能将其废除。",
+          "url": "https://flash.jin10.com/detail/20260623000245016800",
+          "source": "金十数据",
           "ranks": [
-            23
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时39分"
+          "time_info": "00时25分"
+        },
+        {
+          "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
+          "url": "https://wallstreetcn.com/articles/3775145",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "美国加州起诉特朗普政府，因后者将州级车辆排放规则提交国会以寻求废除。",
+          "url": "https://wallstreetcn.com/livenews/3122953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33425956",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美伊达成协议文件，美股盘初涨跌互现，半导体股普涨，油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2405983",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "RBC策略师称美股能够承受美联储进行两次左右的加息",
+          "url": "https://wallstreetcn.com/livenews/3122940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
+          "url": "https://wallstreetcn.com/articles/3775170",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Getty Images一度涨超133%，公司与OpenAI达成“展示协议”。",
+          "url": "https://wallstreetcn.com/livenews/3122931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欧盟",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比利时外交部长发言人：比利时向塔利班代表团发放了五张签证，以便其参加欧盟会议。",
+          "url": "https://flash.jin10.com/detail/20260622234428302800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
         }
       ]
     }

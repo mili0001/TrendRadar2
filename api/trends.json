@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-06-24T22:10:11.395019+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-06-25T10:07:40.174744+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 23,
+      "match_count": 11,
       "titles": [
         {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
+          "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
+          "url": "https://wallstreetcn.com/articles/3775351",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 22时10分]"
+          "appearance_count": 1,
+          "time_info": "10时07分"
         },
         {
           "title": "GTA6开预购,80美元买空气",
@@ -27,79 +26,46 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
-        },
-        {
-          "title": "WTI原油跌破70美元/桶",
-          "url": "https://wallstreetcn.com/livenews/3124076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "10时07分"
         },
         {
-          "title": "现货黄金短线反弹20美元，现报3994美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260624213346963800",
-          "source": "金十数据",
+          "title": "黄金盘中跌3.6%破4000美元，期银大跌10%，三年金银牛市戛然而止?",
+          "url": "https://wallstreetcn.com/articles/3775429",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "10时07分"
         },
         {
-          "title": "现货黄金价格跌破4000美元大关",
-          "url": "https://www.douyin.com/hot/2546511",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
-        },
-        {
-          "title": "黄金跌破 4000 美元，白银跌破 60 美元，近 7 个月入场的投资者都已被套，普通投资者该如何应对？",
-          "url": "https://www.zhihu.com/question/2052784601471493284",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
-        },
-        {
-          "title": "现货黄金跌破4000美元/盎司关口",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B44000%E7%BE%8E%E5%85%83%2F%E7%9B%8E%E5%8F%B8%E5%85%B3%E5%8F%A3",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
-        },
-        {
-          "title": "哔哩哔哩(BILI.O)股价上涨2.9%，此前公司宣布了新的3亿美元股票回购计划。",
-          "url": "https://flash.jin10.com/detail/20260624213244424800",
-          "source": "金十数据",
+          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
+          "url": "https://wallstreetcn.com/articles/3775448",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "10时07分"
         },
         {
-          "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
-          "url": "https://wallstreetcn.com/articles/3775294",
-          "source": "华尔街见闻",
+          "title": "黄金跌破4000美元关口 美元走强与加息预期重创贵金属市场",
+          "url": "https://www.cls.cn/detail/2408371",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
+          "url": "https://www.cls.cn/detail/2408544",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
@@ -108,307 +74,9 @@
           "time_info": "10时07分"
         },
         {
-          "title": "WTI原油期货跌破70美元关口",
-          "url": "https://flash.jin10.com/detail/20260624213158796800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "WTI原油日内跌幅达4%，报70.28美元/桶。 布伦特原油跌近4%，报73.89美元/桶。 纽约金日内跌幅达4.0%，报3983.3美元/盎司。 现货黄金跌超3%，报3965.04美元/盎司。 现货白银跌超5%，报58.31美元/盎司。 纽约银跌近6%，报58.84美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3124069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "人民币兑美元中间价报6.8195，下调24点；上一交易日中间价6.8171，上一交易日官方收盘价6.7865，上日夜盘报收6.7938。",
-          "url": "https://wallstreetcn.com/livenews/3123720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "现货黄金跌破4000美元/盎司关口，加息忧虑升温",
-          "url": "https://wallstreetcn.com/livenews/3124058",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "伦铜日内跌幅达2.00%，现报13105.80美元/吨。",
-          "url": "https://flash.jin10.com/detail/20260624212159851800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "Meta与微软领跑 带动数据中心租赁承诺突破8500亿美元",
-          "url": "https://wallstreetcn.com/livenews/3124056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "美国财长贝森特：强势美元的概念与货币升值有所不同。 解决美国住房问题需要更低的利率和更多的供应。",
-          "url": "https://wallstreetcn.com/livenews/3123711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "伦敦金属交易所（LME）三个月期铝下跌3.2%，报每公吨3,129.50美元，为3月19日以来最低水平。",
-          "url": "https://flash.jin10.com/detail/20260624211918206800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "现货白银日内跌幅达4.5%，报58.74美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3124052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "WTI原油期货日内大跌4.00%，现报70.28美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260624211841033800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "美国一季度经常帐 -2268亿美元，预期 -2106亿美元，前值 -1907亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3124049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "法兴银行：欧元兑美元跌势或将放缓",
-          "url": "https://flash.jin10.com/detail/20260624211752831800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "布伦特原油日内跌幅达3.0%，报74.46美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3124043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "特朗普对福克斯表示：视察人员将获准前往伊朗的铀所在地。 不急于派遣视察人员进入伊朗设施。 伊朗初期将获5亿美元，用于购买美国商品。",
-          "url": "https://wallstreetcn.com/livenews/3124039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
-          "url": "https://wallstreetcn.com/articles/3775351",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
-        },
-        {
-          "title": "【早报】美股半导体指数，暴跌超7%！芯片股全线重挫，闪迪、美光科技跌超13%；黄金、原油齐跌；C罗双响葡萄牙5球大胜、英格兰0-0战平加纳",
-          "url": "https://www.cls.cn/detail/2407391",
+          "title": "布油3月以来首次失守75美元！霍尔木兹持续通航推低战事溢价",
+          "url": "https://www.cls.cn/detail/2408290",
           "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
-          "url": "https://www.cls.cn/detail/2407361",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "美股盘初：黄金股普跌，SpaceX跌约1%",
-          "url": "https://wallstreetcn.com/livenews/3124074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
-          "url": "https://www.zhihu.com/question/2052869201178652833",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
-        },
-        {
-          "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
-          "url": "https://www.cls.cn/detail/2408279",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
-        },
-        {
-          "title": "6月24日投资避雷针：美股半导体指数暴跌超7% 闪迪、美光科技跌超13%",
-          "url": "https://www.cls.cn/detail/2407435",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "SpaceX美股盘前跌幅扩大至2.7%，至日内低点。",
-          "url": "https://wallstreetcn.com/livenews/3124063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "美股芯片股全线重挫",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E5%85%A8%E7%BA%BF%E9%87%8D%E6%8C%AB",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3124055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
-          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
-        },
-        {
-          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
-        },
-        {
-          "title": "史上首次！美参众两院通过决议，共同限制特朗普战争权力",
-          "url": "https://news.ifeng.com/c/8uClVTnMwCW",
-          "source": "凤凰网",
           "ranks": [
             9
           ],
@@ -417,41 +85,8 @@
           "time_info": "10时07分"
         },
         {
-          "title": "美参议院通过决议要求特朗普结束对伊朗战事",
-          "url": "https://wallstreetcn.com/livenews/3123726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "特朗普最新支持率公布",
-          "url": "https://news.ifeng.com/c/8uD1v25JY2x",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "白宫：特朗普将于周五在华盛顿主持会议。",
-          "url": "https://wallstreetcn.com/livenews/3124067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "美参议院通过涉伊战争权力决议 特朗普遭遇象征性挫败",
-          "url": "https://www.cls.cn/detail/2407367",
+          "title": "美财长贝森特：美元主导地位至关重要 降息未必会削弱美元",
+          "url": "https://www.cls.cn/detail/2408518",
           "source": "财联社热门",
           "ranks": [
             12
@@ -461,114 +96,81 @@
           "time_info": "10时07分"
         },
         {
-          "title": "美国会两院历史性通过撤军决议，特朗普对伊军事政策遭遇强力制衡",
-          "url": "https://flash.jin10.com/detail/20260624093242995800",
+          "title": "现货白银日内跌超1.00%，现报56.89美元/盎司。纽约期银日内跌超2.00%，现报56.92美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260625093553756800",
           "source": "金十数据",
           "ranks": [
-            22
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
         {
-          "title": "美国财长贝森特：特朗普和我明白债券市场的力量",
-          "url": "https://wallstreetcn.com/livenews/3123707",
+          "title": "布伦特原油期货下跌1美元至每桶72.74美元，受更多油轮离开霍尔木兹海峡导致供应承压的影响。",
+          "url": "https://wallstreetcn.com/livenews/3124336",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
         {
-          "title": "美国白宫：美国总统特朗普将于周五在华盛顿特区举行新闻发布会。",
-          "url": "https://flash.jin10.com/detail/20260624211811566800",
-          "source": "金十数据",
+          "title": "人民币兑美元中间价报6.8209，下调14点；上一交易日中间价6.8195，上一交易日官方收盘价6.8052，上日夜盘报收6.8092。",
+          "url": "https://wallstreetcn.com/livenews/3124334",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "10时07分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
-          "title": "2名日本人被中方拘留，外交部回应",
-          "url": "https://news.ifeng.com/c/8uDdI76KjZE",
+          "title": "不是日本相机坏了 是中国航母太快了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E6%98%AF%E6%97%A5%E6%9C%AC%E7%9B%B8%E6%9C%BA%E5%9D%8F%E4%BA%86+%E6%98%AF%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%AF%8D%E5%A4%AA%E5%BF%AB%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "日本政府警告：未来一周或再次强震",
+          "url": "https://news.ifeng.com/c/8uEq2g1xl0o",
           "source": "凤凰网",
           "ranks": [
-            1
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
+          "appearance_count": 1,
+          "time_info": "10时07分"
         },
         {
-          "title": "“日本驻华大使多次请求与中方会面，均未成功”",
-          "url": "https://news.ifeng.com/c/8uDaPJKLJkd",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
-        },
-        {
-          "title": "中国海军的“御用摄影师”不灵了，日本防卫省跟丢辽宁舰编队",
-          "url": "https://news.ifeng.com/c/8uDm1JreVxF",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
-        },
-        {
-          "title": "外交部：两名日本人因违反中国法律被拘留",
-          "url": "https://www.cls.cn/detail/2407880",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
-        },
-        {
-          "title": "美银：日本股市年底前可能进一步上涨",
-          "url": "https://flash.jin10.com/detail/20260624094349775800",
+          "title": "日本央行审议委员田村直树：我担心企业会比2022年更快、更大幅度地转嫁成本。",
+          "url": "https://flash.jin10.com/detail/20260625093356114800",
           "source": "金十数据",
           "ranks": [
-            9
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
         {
-          "title": "中国赴日游客连续 6 个月减少，5 月同比暴跌 60.4%，原因为何？客流断崖下滑，日本旅游业会受多大冲击？",
-          "url": "https://www.zhihu.com/question/2052721837830935858",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "日本民间团体呼吁返还所掠中国文物",
-          "url": "https://www.toutiao.com/trending/7653751615333924891/",
-          "source": "今日头条",
+          "title": "日本20年期国债收益率下降2.5个基点，至3.540%。",
+          "url": "https://flash.jin10.com/detail/20260625093246332800",
+          "source": "金十数据",
           "ranks": [
             22
           ],
@@ -577,8 +179,30 @@
           "time_info": "10时07分"
         },
         {
-          "title": "日本央行6月货币政策会议摘要：一位委员表示，金融环境依然宽松。 一位委员表示，需尽早将利率提升至接近中性水平。 一位委员表示，中性利率约为2%。 一位委员表示，每隔几个月考虑一次利率变动是可取的。 一位委员表示，必须更加警惕企业积极的定价行为推高整体通胀。 一位委员表示，日本央行完全没有理由停止缩减日本国债的购买规模。",
-          "url": "https://wallstreetcn.com/livenews/3123705",
+          "title": "日本岩手县6.9级地震 东京震感明显",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B2%A9%E6%89%8B%E5%8E%BF6.9%E7%BA%A7%E5%9C%B0%E9%9C%87+%E4%B8%9C%E4%BA%AC%E9%9C%87%E6%84%9F%E6%98%8E%E6%98%BE",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "日本近海6.9级地震 东京震感明显",
+          "url": "https://www.toutiao.com/trending/7655103440732818971/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "日本央行委员田村直树：现在开始具体讨论还为时过早，但在未来的某个时间点，日本央行应该就合适的准备金水平展开辩论。",
+          "url": "https://wallstreetcn.com/livenews/3124333",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
@@ -588,11 +212,33 @@
           "time_info": "10时07分"
         },
         {
-          "title": "日本5月企业服务价格指数同比 3.3%，预期 3.3%，前值 3%。",
-          "url": "https://wallstreetcn.com/livenews/3123702",
+          "title": "日本央行委员田村直树：从长远来看，日本央行必须从负债端的角度，审慎评估其资产负债表的合适水平。",
+          "url": "https://wallstreetcn.com/livenews/3124332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "日本岩手县附近海域地震 暂未发现周边核电站异常",
+          "url": "https://wallstreetcn.com/livenews/3124331",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "日本央行委员田村直树：近期长期利率的上升符合经济基本面，反映了市场参与者对通胀、货币政策以及财政政策前景的看法。",
+          "url": "https://wallstreetcn.com/livenews/3124330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -602,22 +248,122 @@
     },
     {
       "keyword_group": "韩国",
-      "match_count": 6,
+      "match_count": 5,
       "titles": [
         {
-          "title": "韩国军方拘押1名越界朝鲜士兵",
-          "url": "https://news.ifeng.com/c/8uDtnGtYWGE",
-          "source": "凤凰网",
+          "title": "南非vs韩国",
+          "url": "https://www.douyin.com/hot/2546677",
+          "source": "抖音",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
+          "appearance_count": 1,
+          "time_info": "10时07分"
         },
         {
-          "title": "韩国总统府官员：三星与SK海力士新芯片集群规划进入收尾阶段",
-          "url": "https://wallstreetcn.com/livenews/3123744",
+          "title": "世界杯：南非vs韩国",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E5%8D%97%E9%9D%9Evs%E9%9F%A9%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "南非vs韩国",
+          "url": "https://www.toutiao.com/trending/7654131719067549706/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "韩国交易所宣布推迟推出个股周度期权。",
+          "url": "https://wallstreetcn.com/livenews/3124345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "韩国交易所宣布推迟推出个股周度期权",
+          "url": "https://flash.jin10.com/detail/20260625093320927800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
+          "url": "https://www.cls.cn/detail/2408547",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
+          "url": "https://www.zhihu.com/question/2052869201178652833",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
+          "url": "https://www.cls.cn/detail/2408510",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2408279",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美媒：就涉伊朗问题，特朗普与共和党籍议员比尔·卡西迪当面发生激烈争吵",
+          "url": "https://wallstreetcn.com/livenews/3124377",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
@@ -627,195 +373,15 @@
           "time_info": "10时07分"
         },
         {
-          "title": "韩国引爆“黑色星期二”，全球芯片股大牛市遭“当头棒喝”，只是“技术性调整”吗？",
-          "url": "https://wallstreetcn.com/articles/3775350",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
-        },
-        {
-          "title": "韩国女消防员被强迫陪酒后死亡，李在明怒斥：竟把下属当玩物",
-          "url": "https://news.ifeng.com/c/8uDZogEtyto",
+          "title": "美参议院以50∶48通过决议，特朗普愤怒回应",
+          "url": "https://news.ifeng.com/c/8uEoIOrELpr",
           "source": "凤凰网",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
-        },
-        {
-          "title": "韩国首尔综指涨幅扩大至3%，三星电子涨6.6%。",
-          "url": "https://wallstreetcn.com/livenews/3123709",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
-        },
-        {
-          "title": "韩国首尔综指开盘涨1.9%。日经225指数开盘跌0.25%。",
-          "url": "https://wallstreetcn.com/livenews/3123706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "普京：准备与乌克兰进行和平谈判",
-          "url": "https://news.ifeng.com/c/8uCTlqYZbjx",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "泽连斯基发出“最后通牒”，俄罗斯和白俄罗斯密集回应",
-          "url": "https://news.ifeng.com/c/8uD0JRmKyCB",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "据国际文传电讯社：俄罗斯副总理下令优先向受季节性因素影响的地区提供燃料供应。",
-          "url": "https://flash.jin10.com/detail/20260624212946653800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "据俄罗斯新闻社援引莫斯科当局的消息称，克里米亚塞瓦斯托波尔在遭无人机袭击后断电。",
-          "url": "https://flash.jin10.com/detail/20260624093812201800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股开盘，道指平开、标普500指数涨0.1%、纳指涨0.15%。博通(AVGO.O)开涨1%，公司宣布与OpenAI发布AI芯片，旨在更快、更经济地运行模型；美光科技(MU.O)开涨0.5%，公司即将公布三季度财报，SpaceX(SPCX.O)开跌0.98%。",
-          "url": "https://flash.jin10.com/detail/20260624213116594800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "OpenAI和博通发布AI芯片，旨在更快、更经济地运行模型",
-          "url": "https://wallstreetcn.com/livenews/3124062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "40天不睡、5人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕",
-          "url": "https://wallstreetcn.com/articles/3775315",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌(GOOG.O)上涨1.3%；公司将取代Verizon Communications成为道琼斯工业平均指数成分股。",
-          "url": "https://flash.jin10.com/detail/20260624213729325800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价 Anthropic 最新发布的 Claude Tag？",
-          "url": "https://www.zhihu.com/question/2053047749281690000",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欧盟",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“脱欧”十年后，英国会否重回欧盟？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33438542",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 22时10分]"
         }
       ]
     }

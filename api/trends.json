@@ -1,16 +1,149 @@
 {
-  "generated_at": "2026-06-26T22:02:33.726572+08:00",
-  "total_titles_processed": 592,
-  "failed_sources": [
-    "wallstreetcn-hot",
-    "bilibili-hot-search",
-    "cls-hot",
-    "tieba"
-  ],
+  "generated_at": "2026-06-27T10:04:23.069922+08:00",
+  "total_titles_processed": 310,
+  "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "韩国",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "韩国排名滑至第7 出线概率跌破5成",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%8E%92%E5%90%8D%E6%BB%91%E8%87%B3%E7%AC%AC7+%E5%87%BA%E7%BA%BF%E6%A6%82%E7%8E%87%E8%B7%8C%E7%A0%B45%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "外资出逃、散户爆买！摩根大通详解韩国股市巨震背后的资金博弈",
+          "url": "https://wallstreetcn.com/articles/3775570",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "4张图拆解急涨急跌的韩国股市：两只股的狂欢和全市场的不安",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454989",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "韩国有便利店贴告示禁止主帅入内",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%9C%89%E4%BE%BF%E5%88%A9%E5%BA%97%E8%B4%B4%E5%91%8A%E7%A4%BA%E7%A6%81%E6%AD%A2%E4%B8%BB%E5%B8%85%E5%85%A5%E5%86%85",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "为什么韩国生育率起来了?",
+          "url": "https://www.zhihu.com/question/2037198195294462384",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "韩国民众怒火滔天",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%B0%91%E4%BC%97%E6%80%92%E7%81%AB%E6%BB%94%E5%A4%A9%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "韩国危!德国输球坑惨太极虎",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355657&amp;topic_name=%E9%9F%A9%E5%9B%BD%E5%8D%B1%21%E5%BE%B7%E5%9B%BD%E8%BE%93%E7%90%83%E5%9D%91%E6%83%A8%E5%A4%AA%E6%9E%81%E8%99%8E",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "韩国美女主持穿西班牙球衣助威",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BE%8E%E5%A5%B3%E4%B8%BB%E6%8C%81%E7%A9%BF%E8%A5%BF%E7%8F%AD%E7%89%99%E7%90%83%E8%A1%A3%E5%8A%A9%E5%A8%81%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "命悬一线！韩国小组第3排名跌至第7",
+          "url": "https://www.toutiao.com/trending/7655815514534727195/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "韩国有便利店贴告示禁止主帅入内",
+          "url": "https://www.toutiao.com/trending/7654782996301971466/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "高开低走,韩国小组赛两连败",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355637&amp;topic_name=%E9%AB%98%E5%BC%80%E4%BD%8E%E8%B5%B0%2C%E9%9F%A9%E5%9B%BD%E5%B0%8F%E7%BB%84%E8%B5%9B%E4%B8%A4%E8%BF%9E%E8%B4%A5",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "难不成德国输球是为了报复韩国",
+          "url": "https://www.douyin.com/hot/2548595",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "日本",
-      "match_count": 26,
+      "match_count": 6,
       "titles": [
         {
           "title": "日本对华外交是否在朝错误方向发展？岸田文雄答凤凰",
@@ -20,19 +153,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时02分]"
-        },
-        {
-          "title": "如何看待韩国网友怒骂德国故意输球，日本不帮韩国队出线？客观分析，韩国出线概率真的很渺茫吗？",
-          "url": "https://www.zhihu.com/question/2053827210838893606",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时02分]"
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
           "title": "日本多个经济团体来华参观访问，外交部回应",
@@ -42,745 +164,108 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时02分]"
-        },
-        {
-          "title": "日本1-1瑞典",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC1-1%E7%91%9E%E5%85%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时08分"
+          "time_info": "10时04分"
         },
         {
-          "title": "世界杯小组赛 F 组，日本 1-1 瑞典，埃兰加精彩世界波，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2053452665523279859",
-          "source": "知乎",
+          "title": "财晓得丨委内瑞拉地震7.5级，日本地震7.2级，灾情为什么相差这么大？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33459170",
+          "source": "澎湃新闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "日本1比1瑞典 淘汰赛将战巴西",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC1%E6%AF%941%E7%91%9E%E5%85%B8+%E6%B7%98%E6%B1%B0%E8%B5%9B%E5%B0%86%E6%88%98%E5%B7%B4%E8%A5%BF",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "日本也在报复韩国",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B9%9F%E5%9C%A8%E6%8A%A5%E5%A4%8D%E9%9F%A9%E5%9B%BD%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "强势之组,荷兰日本瑞典携手晋级",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355656&amp;topic_name=%E5%BC%BA%E5%8A%BF%E4%B9%8B%E7%BB%84%2C%E8%8D%B7%E5%85%B0%E6%97%A5%E6%9C%AC%E7%91%9E%E5%85%B8%E6%90%BA%E6%89%8B%E6%99%8B%E7%BA%A7",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 21时59分]"
-        },
-        {
-          "title": "新加坡学者：我们都被日本人骗了",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%AD%A6%E8%80%85%EF%BC%9A%E6%88%91%E4%BB%AC%E9%83%BD%E8%A2%AB%E6%97%A5%E6%9C%AC%E4%BA%BA%E9%AA%97%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时02分]"
-        },
-        {
-          "title": "如何看待日本签证费涨5倍",
-          "url": "https://www.toutiao.com/trending/7655671953717464617/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时02分]"
-        },
-        {
-          "title": "日本队小组赛不放水将在淘汰赛硬刚巴西，怎样看待这一选择？日本有赢球晋级的可能吗？",
-          "url": "https://www.zhihu.com/question/2053788614824129085",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时02分]"
+          "time_info": "10时04分"
         },
         {
           "title": "不挑对手直面巴西，日本挑战世界杯淘汰赛魔咒",
           "url": "https://m.thepaper.cn/newsDetail_forward_33458371",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时02分]"
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
-          "title": "知情人称因出口管制对日本企业造成冲击，日本驻华大使多次请求与中方会面，但均未成功，传递了什么信号？",
-          "url": "https://www.zhihu.com/question/2053182874514364148",
+          "title": "近期日本经济界人士接连访华，商务部回应希望日本经济界从自身利益出发，敦促政府反思纠错，传递了什么信号？",
+          "url": "https://www.zhihu.com/question/2053501597641086813",
           "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时02分]"
-        },
-        {
-          "title": "辽宁舰编队完成远海实战化训练，让号称中国海军「御用摄影师」的日本防卫省拍不到、跟不上，反映出哪些信息？",
-          "url": "https://www.zhihu.com/question/2053125507613470786",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时02分]"
-        },
-        {
-          "title": "韩媒集体慌了：连日本队都不帮忙",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%AA%92%E9%9B%86%E4%BD%93%E6%85%8C%E4%BA%86%EF%BC%9A%E8%BF%9E%E6%97%A5%E6%9C%AC%E9%98%9F%E9%83%BD%E4%B8%8D%E5%B8%AE%E5%BF%99",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时02分]"
-        },
-        {
-          "title": "日本1:1瑞典",
-          "url": "https://www.douyin.com/hot/2547468",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时02分]"
-        },
-        {
-          "title": "日本1-1瑞典：淘汰赛首轮将战巴西",
-          "url": "https://www.toutiao.com/trending/7654797767533071935/",
-          "source": "今日头条",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时08分"
+          "time_info": "10时04分"
         },
         {
-          "title": "日本1比1瑞典",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC1%E6%AF%941%E7%91%9E%E5%85%B8%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "主导电动车之后，中国发动机也对日本穷追不舍",
-          "url": "https://news.ifeng.com/c/8uFLQzUmjSj",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "亲历日本7.2级地震的中国游客住14楼",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%B2%E5%8E%86%E6%97%A5%E6%9C%AC7.2%E7%BA%A7%E5%9C%B0%E9%9C%87%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E4%BD%8F14%E6%A5%BC",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：不会限制用于投资的预算申请。 在投资时会将财政可持续性铭记于心。 不会依靠举债来为调降食品消费税提供资金。 需要通过评估补贴和支出来为减税筹集资金。",
-          "url": "https://wallstreetcn.com/livenews/3124919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "日本放送协会NHK：日本地震未构成海啸威胁。",
-          "url": "https://flash.jin10.com/detail/20260626213603231800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "日本山梨县附近发生地震 东京震感强烈",
-          "url": "https://flash.jin10.com/detail/20260626213546979800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "日本30年期国债收益率上行1.5个基点至3.840%。",
-          "url": "https://wallstreetcn.com/livenews/3124916",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "韩国首尔综指日内跌幅扩大至3%。 日本东证指数日内跌幅扩大至1%， MSCI亚太指数下跌1%至276.01点。",
-          "url": "https://wallstreetcn.com/livenews/3124915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "日本气象厅：日本时间22:28:59据报发生地震，日本山梨县据报发生地震。",
-          "url": "https://flash.jin10.com/detail/20260626213149402800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "韩国",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "韩国最“疯”财阀是谁",
-          "url": "https://www.toutiao.com/trending/7655662551589457459/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时02分]"
-        },
-        {
-          "title": "韩国队被曝发生内讧，金玟哉被换下后对教练组非常不满，是真的吗？韩国队内问题有多严重？",
-          "url": "https://www.zhihu.com/question/2053588599673549319",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时02分]"
-        },
-        {
-          "title": "韩国 5200 万人竟开了 1.08 亿股票账户，如何看待韩国股市当前的氛围？",
-          "url": "https://www.zhihu.com/question/2053782944448082432",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时02分]"
-        },
-        {
-          "title": "德国爆冷输球坑惨韩国",
-          "url": "https://www.toutiao.com/trending/7655468808333934601/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "德国爆冷输球坑苦韩国",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E7%88%86%E5%86%B7%E8%BE%93%E7%90%83%E5%9D%91%E8%8B%A6%E9%9F%A9%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "德国 报复韩国",
-          "url": "https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%20%E6%8A%A5%E5%A4%8D%E9%9F%A9%E5%9B%BD&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "面对“打平即出线”，韩国队又输了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33449649",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "德国爆冷输球坑了韩国",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E7%88%86%E5%86%B7%E8%BE%93%E7%90%83%E5%9D%91%E4%BA%86%E9%9F%A9%E5%9B%BD%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "高开低走,韩国小组赛两连败",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355637&amp;topic_name=%E9%AB%98%E5%BC%80%E4%BD%8E%E8%B5%B0%2C%E9%9F%A9%E5%9B%BD%E5%B0%8F%E7%BB%84%E8%B5%9B%E4%B8%A4%E8%BF%9E%E8%B4%A5",
+          "title": "强势之组,荷兰日本瑞典携手晋级",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355656&amp;topic_name=%E5%BC%BA%E5%8A%BF%E4%B9%8B%E7%BB%84%2C%E8%8D%B7%E5%85%B0%E6%97%A5%E6%9C%AC%E7%91%9E%E5%85%B8%E6%90%BA%E6%89%8B%E6%99%8B%E7%BA%A7",
           "source": "贴吧",
           "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 21时59分]"
-        },
-        {
-          "title": "韩国队一天被“坑”三次",
-          "url": "https://www.toutiao.com/trending/7655539296639749642/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时02分]"
-        },
-        {
-          "title": "外资出逃、散户爆买！摩根大通详解韩国股市巨震背后的资金博弈",
-          "url": "https://wallstreetcn.com/articles/3775570",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "韩国危!德国输球坑惨太极虎",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355657&amp;topic_name=%E9%9F%A9%E5%9B%BD%E5%8D%B1%21%E5%BE%B7%E5%9B%BD%E8%BE%93%E7%90%83%E5%9D%91%E6%83%A8%E5%A4%AA%E6%9E%81%E8%99%8E",
-          "source": "贴吧",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "韩国将扩充无人机部队，拟培训50万名无人机作战人员",
-          "url": "https://wallstreetcn.com/livenews/3124928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "韩国队1胜2负有望获得11亿韩元奖金",
-          "url": "https://www.toutiao.com/trending/7655246703536242715/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "韩国KOSPI指数日内大跌4.00%，现报8572.69点。",
-          "url": "https://flash.jin10.com/detail/20260626095324027800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "韩国首尔综指跌幅扩大至2%。",
-          "url": "https://wallstreetcn.com/livenews/3124911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "日经225指数低开近1%，韩国首尔综指低开1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3124909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "现货黄金日内涨幅达1.00%，现报4067.05美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260626215108460800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "苹果正式涨价！MacBook、iPad最高涨300美元 iPhone未来或跟进",
-          "url": "https://www.cls.cn/detail/2409516",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时08分 ~ 22时02分]"
-        },
-        {
-          "title": "现货白银日内涨幅达2.0%，报59.1美元/盎司。 现货黄金日内涨幅达1%，报4064.56美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3125333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "美光长协的含金量：客户先押220亿美元，合同不可取消，还锁定“史上最赚钱”的毛利率！",
-          "url": "https://wallstreetcn.com/articles/3775569",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "沃什重创\"美元贬值交易\"！黄金崩了，比特币重挫，芯片狂欢还能撑多久？",
-          "url": "https://wallstreetcn.com/articles/3775489",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "巴克莱：将2026年布伦特原油价格预期下调至每桶96美元，2027年预期下调至每桶85美元。",
-          "url": "https://flash.jin10.com/detail/20260626214348378800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "人民币兑美元中间价报6.8166，上调43点；上一交易日中间价6.8209，上一交易日官方收盘价6.7995，上日夜盘报收6.7990。",
-          "url": "https://wallstreetcn.com/livenews/3124927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "SK 海力士将赴美上市，募资 290 亿美元，韩股一年涨 10 倍，为何此时赴美上市？HBM 超级周期能持续多久？",
-          "url": "https://www.zhihu.com/question/2053210030825125850",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "GTA6开预购,80美元买空气",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355624&amp;topic_name=GTA6%E5%BC%80%E9%A2%84%E8%B4%AD%2C80%E7%BE%8E%E5%85%83%E4%B9%B0%E7%A9%BA%E6%B0%94",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "美国5月商品贸易帐 -1058亿美元，预期 -850亿美元，前值 -824亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3125316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "Polymarket年化营收突破10亿美元。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3125307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
+          "time_info": "10时04分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 4,
       "titles": [
         {
-          "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
-          "url": "https://www.cls.cn/detail/2409666",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "美股盘初：纳指跌1.1%，费城半导体指数跌超4%，美光科技跌约6%",
-          "url": "https://wallstreetcn.com/livenews/3125341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
-          "url": "https://www.cls.cn/detail/2409639",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
+          "title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
           "url": "https://wallstreetcn.com/articles/3775571",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时59分"
+          "time_info": "10时04分"
         },
         {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3125328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2410602",
+          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
+          "url": "https://www.cls.cn/detail/2410784",
           "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "金十图示：2026年06月26日（周五）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260626214134858800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
-          "source": "澎湃新闻",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时02分]"
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
-          "title": "全速扩容！DeepSeek“招兵买马”扩编一倍",
-          "url": "https://www.cls.cn/detail/2409672",
+          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
+          "url": "https://www.cls.cn/detail/2410765",
           "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时08分"
+          "time_info": "10时04分"
         },
         {
-          "title": "DeepSeek为何大规模招人",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B8%BA%E4%BD%95%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E4%BA%BA%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
+          "title": "周五（6月26日），美股纳斯达克生物科技指数收涨超2.2%，连续五天创收盘历史新高。 成分股Pyxis Oncology收涨24.22%，Humacyte、ATAI Beckley、Moderna（莫德纳）、Immunitybio Inc.、GH Research、Abcellera Biologics涨18.05%-10.81%，Compass Pathways涨9.20%紧随其后。 Kymera则收跌7.26%、表现倒数第四，Ardelyx跌8.50%，Mesoblast跌9.03%，奥麦罗制药（OMER）跌19.17%。",
+          "url": "https://wallstreetcn.com/livenews/3125495",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时02分]"
-        },
-        {
-          "title": "DeepSeek大规模招聘",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "DeepSeek大规模招聘：至少扩大一倍",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%EF%BC%9A%E8%87%B3%E5%B0%91%E6%89%A9%E5%A4%A7%E4%B8%80%E5%80%8D",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
+          "time_info": "10时04分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 4,
       "titles": [
         {
           "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
@@ -790,102 +275,80 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时02分]"
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
-          "title": "据白宫官员透露，特朗普将首次乘坐卡塔尔政府赠送的新总统专机，计划于7月1日前往北达科他州参加活动。",
-          "url": "https://wallstreetcn.com/livenews/3124934",
+          "title": "伊朗高级官员：特朗普不遵守谈判和停火原则",
+          "url": "https://wallstreetcn.com/livenews/3125517",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "伊朗高级官员：特朗普不遵守谈判和停火原则",
+          "url": "https://flash.jin10.com/detail/20260627092527227800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时08分"
+          "time_info": "10时04分"
         },
         {
-          "title": "美最高法院裁决支持特朗普强硬移民政策",
-          "url": "https://news.ifeng.com/c/8uFtfSi0LYE",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
-          "url": "https://news.ifeng.com/c/8uFlkiiXNU5",
-          "source": "凤凰网",
+          "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
+          "url": "https://www.cls.cn/detail/2410771",
+          "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "特朗普称将用伊朗的钱买美国农产品",
-          "url": "https://wallstreetcn.com/livenews/3124906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
+          "time_info": "10时04分"
         }
       ]
     },
     {
-      "keyword_group": "欧盟",
-      "match_count": 4,
+      "keyword_group": "美元",
+      "match_count": 3,
       "titles": [
         {
-          "title": "欧盟急着甩开中美，拿“更有利”方案拉拢巴西",
-          "url": "https://news.ifeng.com/c/8uGXXidlQJm",
-          "source": "凤凰网",
+          "title": "美光长协的含金量：客户先押220亿美元，合同不可取消，还锁定“史上最赚钱”的毛利率！",
+          "url": "https://wallstreetcn.com/articles/3775569",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时08分"
+          "time_info": "10时04分"
         },
         {
-          "title": "美国画饼，欧盟走过场，立陶宛挑衅中国最后却落得一地尴尬",
-          "url": "https://news.ifeng.com/c/8uFRcPy7a64",
-          "source": "凤凰网",
+          "title": "比特币跌向 5.9 万美元，散户大军撤退暴露了哪些市场新脆弱性？",
+          "url": "https://www.zhihu.com/question/2053308041852884352",
+          "source": "知乎",
           "ranks": [
-            12
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时08分"
+          "time_info": "10时04分"
         },
         {
-          "title": "欧盟拟对铝废料征收15%出口税",
-          "url": "https://flash.jin10.com/detail/20260626214121888800",
-          "source": "金十数据",
+          "title": "南美洲玻利维亚将转向浮动汇率制度，结束长达十五年的美元挂钩机制",
+          "url": "https://wallstreetcn.com/livenews/3125493",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "据英国金融时报：欧盟计划对铝废料出口征收15%的关税，费用将于9月9日生效。",
-          "url": "https://flash.jin10.com/detail/20260626213403187800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
+          "time_info": "10时04分"
         }
       ]
     },
@@ -894,71 +357,60 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "曝 OpenAI GPT-5.6 系列即将登场，可能带来哪些技术突破和影响？",
-          "url": "https://www.zhihu.com/question/2051692980243894309",
-          "source": "知乎",
+          "title": "内存涨价反噬终端需求！苹果涨价+OpenAI IPO推迟引爆亚洲芯片股崩盘",
+          "url": "https://wallstreetcn.com/articles/3775589",
+          "source": "华尔街见闻",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时02分]"
-        },
-        {
-          "title": "受OpenAI IPO可能推迟影响，软银股价暴跌",
-          "url": "https://flash.jin10.com/detail/20260626095032489800",
-          "source": "金十数据",
-          "ranks": [
-            21
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "白俄罗斯总统向泽连斯基发出警告",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E5%90%91%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时02分]"
+          "time_info": "10时04分"
         },
         {
-          "title": "乌克兰远程无人机袭击加剧，俄罗斯燃料供应遭绞杀",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33451456",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "网传 Google 内部称 Gemini 模型竞争力下降至行业第四，具体情况如何？下降原因可能有哪些？",
-          "url": "https://www.zhihu.com/question/2052444159282082405",
+          "title": "如何评价 OpenAI 发布 GPT-5.6 系列模型？这次更新最值得关注的是什么？",
+          "url": "https://www.zhihu.com/question/2054058863066886644",
           "source": "知乎",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时08分"
+          "time_info": "10时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek 宣布所有部门至少扩大一倍，进行大规模招聘，这一举动意味着什么？",
+          "url": "https://www.zhihu.com/question/2053625552725079594",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "乌克兰会不会迫使俄罗斯从克里米亚撤军？",
+          "url": "https://www.zhihu.com/question/2053255513677337793",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         }
       ]
     }

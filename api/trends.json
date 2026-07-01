@@ -1,537 +1,343 @@
 {
-  "generated_at": "2026-06-30T21:53:19.662847+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-07-01T10:14:11.921566+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "日本",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "世界杯赛后日本球迷在现场清理垃圾，被嘲「每四年表演一次文明」，你怎么看？这种行为真的是有组织的吗？",
+          "url": "https://www.zhihu.com/question/2055329815301813727",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
+        },
+        {
+          "title": "日本政坛，发生稀奇一幕(图)",
+          "url": "https://news.ifeng.com/c/8uNzhjnVAG3",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
+        },
         {
           "title": "输球捡垃圾,日本人又开演",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355747&amp;topic_name=%E8%BE%93%E7%90%83%E6%8D%A1%E5%9E%83%E5%9C%BE%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%8F%88%E5%BC%80%E6%BC%94",
           "source": "贴吧",
           "ranks": [
-            12
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
         },
         {
           "title": "惊险翻盘,巴西绝杀日本",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355744&amp;topic_name=%E6%83%8A%E9%99%A9%E7%BF%BB%E7%9B%98%2C%E5%B7%B4%E8%A5%BF%E7%BB%9D%E6%9D%80%E6%97%A5%E6%9C%AC",
           "source": "贴吧",
           "ranks": [
-            13
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "日本淘汰赛白卷,四强全靠吹",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355756&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%B7%98%E6%B1%B0%E8%B5%9B%E7%99%BD%E5%8D%B7%2C%E5%9B%9B%E5%BC%BA%E5%85%A8%E9%9D%A0%E5%90%B9",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
         },
         {
           "title": "日本为什么会流行起来枯山水，毕竟这风格很容易招流浪猫过来上厕所？",
           "url": "https://www.zhihu.com/question/2050396904736002428",
           "source": "知乎",
           "ranks": [
-            17
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
         },
         {
-          "title": "日本队获17亿日元奖金",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%98%9F%E8%8E%B717%E4%BA%BF%E6%97%A5%E5%85%83%E5%A5%96%E9%87%91",
-          "source": "百度热搜",
+          "title": "日本淘汰赛白卷,四强全靠吹",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355756&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%B7%98%E6%B1%B0%E8%B5%9B%E7%99%BD%E5%8D%B7%2C%E5%9B%9B%E5%BC%BA%E5%85%A8%E9%9D%A0%E5%90%B9",
+          "source": "贴吧",
           "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
         },
         {
-          "title": "补时绝杀！巴西2-1淘汰日本，桑巴军团晋级16强",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33481442",
-          "source": "澎湃新闻",
+          "title": "日本球迷被披上巴西国旗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%90%83%E8%BF%B7%E8%A2%AB%E6%8A%AB%E4%B8%8A%E5%B7%B4%E8%A5%BF%E5%9B%BD%E6%97%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            20
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
+        },
+        {
+          "title": "球评巴西绝杀逆转日本",
+          "url": "https://search.bilibili.com/all?keyword=%E7%90%83%E8%AF%84%E5%B7%B4%E8%A5%BF%E7%BB%9D%E6%9D%80%E9%80%86%E8%BD%AC%E6%97%A5%E6%9C%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
         },
         {
           "title": "火药味浓!日本巴西激情互怼",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355742&amp;topic_name=%E7%81%AB%E8%8D%AF%E5%91%B3%E6%B5%93%21%E6%97%A5%E6%9C%AC%E5%B7%B4%E8%A5%BF%E6%BF%80%E6%83%85%E4%BA%92%E6%80%BC",
           "source": "贴吧",
           "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "巴西2:1绝杀日本",
-          "url": "https://www.douyin.com/hot/2551903",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "内马尔安慰日本球员",
-          "url": "https://www.douyin.com/hot/2553088",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "日本遭绝杀 韩国解说开心到跳舞",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%81%AD%E7%BB%9D%E6%9D%80+%E9%9F%A9%E5%9B%BD%E8%A7%A3%E8%AF%B4%E5%BC%80%E5%BF%83%E5%88%B0%E8%B7%B3%E8%88%9E",
-          "source": "百度热搜",
-          "ranks": [
             25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
         },
         {
-          "title": "巴西2-1绝杀日本",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%A5%BF2-1%E7%BB%9D%E6%9D%80%E6%97%A5%E6%9C%AC",
+          "title": "如何评价日本对战巴西表现",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%97%A5%E6%9C%AC%E5%AF%B9%E6%88%98%E5%B7%B4%E8%A5%BF%E8%A1%A8%E7%8E%B0",
           "source": "bilibili 热搜",
           "ranks": [
             29
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
+        },
+        {
+          "title": "凯投宏观：日本央行短观调查强化了其快速加息的理由",
+          "url": "https://flash.jin10.com/detail/20260701095643588800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时53分"
+          "time_info": "10时14分"
+        },
+        {
+          "title": "日本东证指数日内涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3127059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         }
       ]
     },
     {
       "keyword_group": "韩国",
-      "match_count": 10,
+      "match_count": 6,
       "titles": [
         {
-          "title": "韩国国会6月30日投票通过任命案，同意韩圣淑出任韩国国务总理。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3126826",
+          "title": "韩国KOSPI指数日内跌幅扩大至3.00%，现报8221.88点。",
+          "url": "https://flash.jin10.com/detail/20260701100431871800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "韩国首尔综指日内跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3127101",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "“黄金一代”倒在小组赛！“荒唐”背后的韩国足球“密室行政”与财阀控局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33479214",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "韩国主帅洪明甫辞职",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%B8%BB%E5%B8%85%E6%B4%AA%E6%98%8E%E7%94%AB%E8%BE%9E%E8%81%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "被戏称“惊悚恐怖片”的中国纪录片出第二季了，曾令韩国震惊",
-          "url": "https://news.ifeng.com/c/8uNXXF79nJg",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "如何看待孙兴慜发长文向韩国民众致歉，恳请不要过度批评球员？",
-          "url": "https://www.zhihu.com/question/2055212796250256751",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "time_info": "10时14分"
         },
         {
           "title": "还吹吗?韩国黄金时代光速崩塌",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355743&amp;topic_name=%E8%BF%98%E5%90%B9%E5%90%97%3F%E9%9F%A9%E5%9B%BD%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3%E5%85%89%E9%80%9F%E5%B4%A9%E5%A1%8C",
           "source": "贴吧",
           "ranks": [
-            18
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "韩国国会通过对韩圣淑的总理任命",
-          "url": "https://flash.jin10.com/detail/20260630210544679800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "韩国队丢人到家,总统发飙痛批",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355717&amp;topic_name=%E9%9F%A9%E5%9B%BD%E9%98%9F%E4%B8%A2%E4%BA%BA%E5%88%B0%E5%AE%B6%2C%E6%80%BB%E7%BB%9F%E5%8F%91%E9%A3%99%E7%97%9B%E6%89%B9",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
         },
         {
           "title": "韩国队前主帅在机场遭球迷怒吼还钱",
           "url": "https://www.toutiao.com/trending/7656793404958965803/",
           "source": "今日头条",
           "ranks": [
-            26
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
         },
         {
-          "title": "韩国队回国 球迷在机场举遗照",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%9B%9E%E5%9B%BD+%E7%90%83%E8%BF%B7%E5%9C%A8%E6%9C%BA%E5%9C%BA%E4%B8%BE%E9%81%97%E7%85%A7",
-          "source": "百度热搜",
+          "title": "韩国队丢人到家,总统发飙痛批",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355717&amp;topic_name=%E9%9F%A9%E5%9B%BD%E9%98%9F%E4%B8%A2%E4%BA%BA%E5%88%B0%E5%AE%B6%2C%E6%80%BB%E7%BB%9F%E5%8F%91%E9%A3%99%E7%97%9B%E6%89%B9",
+          "source": "贴吧",
           "ranks": [
-            28
+            29
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
+        },
+        {
+          "title": "韩国首尔综指日内跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3127061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时53分"
+          "time_info": "10时14分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 5,
       "titles": [
         {
-          "title": "美股三大股指盘初小幅走高，道指涨0.1%，标普500指数涨0.07%，纳指涨0.17%。太阳能板块普涨，Enphase Energy涨超7%，SolarEdge Technologies涨超7%；闪迪涨1.2%，伯恩斯坦将其目标价从1700美元上调至3000美元。",
-          "url": "https://wallstreetcn.com/livenews/3126840",
-          "source": "华尔街见闻-快讯",
+          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
         },
         {
-          "title": "美股开盘，道指涨0.1%，标普500指数、纳指接近平开。明星科技股涨跌不一，英伟达(NVDA.O)涨0.6%，甲骨文(ORCL.N)跌0.2%，SpaceX(SPCX.O)涨0.4%，特斯拉(TSLA.O)跌0.9%。闪迪(SNDK.O)上涨1.2%，伯恩斯坦将该股目标价从1700美元大幅上调至3000美元。",
-          "url": "https://flash.jin10.com/detail/20260630213047300800",
-          "source": "金十数据",
+          "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
+          "url": "https://www.cls.cn/detail/2413612",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
+        },
+        {
+          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
+          "url": "https://www.cls.cn/detail/2413598",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
         },
         {
-          "title": "AI热情驱动，美股冲击六年来最强季度，日元创40年新低，金银油齐涨",
-          "url": "https://wallstreetcn.com/articles/3775797",
+          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3775893",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
         },
         {
           "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
           "url": "https://www.cls.cn/detail/2413394",
           "source": "财联社热门",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3126823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "当美股杠杆狂欢撞上融资天花板",
-          "url": "https://flash.jin10.com/detail/20260630211945262800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "芝商所7月27日推出单只股票期货，覆盖英伟达、SpaceX等50余只美股",
-          "url": "https://wallstreetcn.com/livenews/3126797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "日元跌破 1 美元兑 162 日元关口，创下近 40 年来新低，日本央行已加息至 1%，为何完全挡不住日元贬值颓势？",
-          "url": "https://www.zhihu.com/question/2055222122289558459",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "美国常驻北约代表：美国通过援乌，已“变现”60亿美元",
-          "url": "https://news.ifeng.com/c/8uNlbOj0m8e",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "美光科技(MU.O)：作为该计划的一部分，公司将推出员工匹配福利，对每名18岁以下儿童的账户缴款提供最高1,000美元的匹配资金。",
-          "url": "https://flash.jin10.com/detail/20260630212420181800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "美光科技(MU.O)：“特朗普账户”计划将为符合条件的儿童提供一次性250美元的种子资金。",
-          "url": "https://flash.jin10.com/detail/20260630212350152800",
-          "source": "金十数据",
-          "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "美光科技(MU.O)：对“特朗普账户”投资2.5亿美元，覆盖100万人。",
-          "url": "https://flash.jin10.com/detail/20260630212301846800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "美元兑日元短线下挫，现回升至162.35。",
-          "url": "https://wallstreetcn.com/livenews/3126804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
-          "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
-          "url": "https://news.ifeng.com/c/8uNrdCXnoF5",
+          "title": "美国驻印大使爆料：特朗普想早上6点给莫迪打电话",
+          "url": "https://v.ifeng.com/c/8uNtTRMWXNr",
           "source": "凤凰网",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
         },
         {
-          "title": "美最高法院裁定库克暂时留任，特朗普称将确保其不影响重大货币政策决定",
-          "url": "https://wallstreetcn.com/articles/3775773",
-          "source": "华尔街见闻",
+          "title": "特朗普政府，遭全美半数州集体起诉",
+          "url": "https://news.ifeng.com/c/8uO4jG3X5zq",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
         },
         {
-          "title": "美伊谈判前途未卜：特朗普称周二将在多哈谈，伊朗否认计划会谈，以防长称以伊明天就可能重开战火",
-          "url": "https://wallstreetcn.com/articles/3775765",
+          "title": "特朗普在最高法院输了，为什么又扯上中国？",
+          "url": "https://news.ifeng.com/c/8uOgMuQGNSM",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "高盛警告：三星+SK海力士权重再升1%，外资将撤出20亿美元",
+          "url": "https://wallstreetcn.com/articles/3775840",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
         },
         {
-          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
-          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
-          "source": "凤凰网",
+          "title": "人民币兑美元中间价创2023年2月10日来新高",
+          "url": "https://wallstreetcn.com/livenews/3127063",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "路透调查：俄罗斯2026年GDP增长预计为0.6%（上次调查为0.8%）。俄罗斯通胀中位数预计到2026年底为5.7%（上次调查为5.5%）。分析师预计俄罗斯央行将在2026年第四季度将基准利率从当前的14.25%下调至13%。",
-          "url": "https://flash.jin10.com/detail/20260630213202072800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "“乌克兰先是点头，后来又反悔了”",
-          "url": "https://news.ifeng.com/c/8uNpgMXAeCc",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "民调显示，俄罗斯民众的经济悲观情绪达到至少20年来的最高水平",
-          "url": "https://flash.jin10.com/detail/20260630212348098800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "俄罗斯原油出口创纪录，与此同时油价大幅下跌",
-          "url": "https://flash.jin10.com/detail/20260630211948829800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
-          "url": "https://www.zhihu.com/question/2055040930516824522",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
-          "url": "https://wallstreetcn.com/articles/3775727",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "time_info": "10时14分"
         }
       ]
     },
@@ -540,15 +346,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "欧盟分楼层开空调惹争议",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%9B%9F%E5%88%86%E6%A5%BC%E5%B1%82%E5%BC%80%E7%A9%BA%E8%B0%83%E6%83%B9%E4%BA%89%E8%AE%AE",
-          "source": "bilibili 热搜",
+          "title": "“跟风欧盟，美国也要对中国逆变器下手”",
+          "url": "https://news.ifeng.com/c/8uOfeyeJNUh",
+          "source": "凤凰网",
           "ranks": [
-            26
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
         }
       ]
     }

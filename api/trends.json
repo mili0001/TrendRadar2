@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T10:06:54.108585+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-07-02T21:27:50.933015+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "日本",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
         {
           "title": "日本市民大排长龙买中国相机",
@@ -30,6 +30,17 @@
           "time_info": "10时06分"
         },
         {
+          "title": "中方能否证实在大连的日本人被拘留，外交部回应",
+          "url": "https://news.ifeng.com/c/8uQuJQoxg2r",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "日本市民大排长龙买中国相机",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B8%82%E6%B0%91%E5%A4%A7%E6%8E%92%E9%95%BF%E9%BE%99%E4%B9%B0%E4%B8%AD%E5%9B%BD%E7%9B%B8%E6%9C%BA",
           "source": "百度热搜",
@@ -45,11 +56,45 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355796&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E7%90%83%E8%BF%B7%E5%85%AC%E7%84%B6%E7%8C%A5%E4%BA%B5%E5%A5%B3%E8%AE%B0%E8%80%85",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            30
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 21时27分]"
+        },
+        {
+          "title": "中国男篮将战日本 杨瀚森领衔大名单",
+          "url": "https://www.toutiao.com/trending/7657906601327595059/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时06分"
+          "time_info": "21时27分"
+        },
+        {
+          "title": "老外开中国车遭日本人骚扰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355826&amp;topic_name=%E8%80%81%E5%A4%96%E5%BC%80%E4%B8%AD%E5%9B%BD%E8%BD%A6%E9%81%AD%E6%97%A5%E6%9C%AC%E4%BA%BA%E9%AA%9A%E6%89%B0",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "馋哭,国产豆花饭征服日本胃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355819&amp;topic_name=%E9%A6%8B%E5%93%AD%2C%E5%9B%BD%E4%BA%A7%E8%B1%86%E8%8A%B1%E9%A5%AD%E5%BE%81%E6%9C%8D%E6%97%A5%E6%9C%AC%E8%83%83",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "日本物价三连跳,老百姓麻了",
@@ -63,6 +108,17 @@
           "time_info": "10时06分"
         },
         {
+          "title": "世预赛中国男篮主场对战日本队",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E9%A2%84%E8%B5%9B%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%BB%E5%9C%BA%E5%AF%B9%E6%88%98%E6%97%A5%E6%9C%AC%E9%98%9F",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "库尼亚赛后解释伸五个手指嘲讽日本队「巴西人可以说巴西足球不行，但外国人说就不同了」，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2055327604551278855",
           "source": "知乎",
@@ -72,13 +128,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "日本竟抗议中方要求其测量船停止作业",
+          "url": "https://www.toutiao.com/trending/7657739157381316646/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         }
       ]
     },
     {
       "keyword_group": "韩国",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "五千亿级投资来袭！韩国两大芯片巨头建厂计划官宣",
+          "url": "https://www.cls.cn/detail/2415140",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
         {
           "title": "韩国半导体基板厂商：三星、SK海力士拟要求下半年降价，年初3%~4%涨幅或将撤回",
           "url": "https://wallstreetcn.com/articles/3775950",
@@ -133,52 +211,140 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "韩国迎来史上第二位女总理",
+          "url": "https://www.toutiao.com/trending/7657763385777425983/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "徐明浩韩国打歌舞台唱中文",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%98%8E%E6%B5%A9%E9%9F%A9%E5%9B%BD%E6%89%93%E6%AD%8C%E8%88%9E%E5%8F%B0%E5%94%B1%E4%B8%AD%E6%96%87%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         }
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 3,
+      "keyword_group": "美股",
+      "match_count": 7,
       "titles": [
         {
-          "title": "美联储主席沃什拒绝释放7月会议信号 但称通胀风险已降低 黄金爆拉站上4100美元",
-          "url": "https://www.cls.cn/detail/2414658",
+          "title": "美股收盘：软硬件轮动费城指数暴跌6% 三大指数集体收低",
+          "url": "https://www.cls.cn/detail/2414790",
           "source": "财联社热门",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
         {
-          "title": "人民币兑美元中间价报6.8088，下调21点；上一交易日中间价6.8067，上一交易日官方收盘价6.7935，上日夜盘报收6.7880。",
-          "url": "https://wallstreetcn.com/livenews/3127707",
+          "title": "非农打击加息预期，美股期指拉升，Nebius盘前上涨3%，美债收益率直线走低，黄金涨幅扩大",
+          "url": "https://wallstreetcn.com/articles/3776024",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "特斯拉第二季度交付量480126辆，同比增长25%，预估396466辆。 第二季度Model 3/Y 交付量467762辆，同比增长25%，预估380699辆。 第二季度汽车产量451758辆，同比增长10%，预估408142辆。 第二季Model 3/Y 产量442936辆，同比增长12%，预估361034辆。 特斯拉美股盘前涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3128066",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3128064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "非农今日公布，美股明日休市",
+          "url": "https://flash.jin10.com/detail/20260702094153357800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
         {
-          "title": "现货黄金上涨近1%，至每盎司4,068.43美元。",
-          "url": "https://wallstreetcn.com/livenews/3127701",
+          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
+          "url": "https://www.zhihu.com/question/2055934590297150773",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "美国非农数据公布后，美股股指期货快速拉升",
+          "url": "https://wallstreetcn.com/livenews/3128043",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时06分"
+          "time_info": "21时27分"
         }
       ]
     },
     {
       "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "刘国中会见白俄罗斯第一副总理斯诺普科夫",
+          "url": "https://flash.jin10.com/detail/20260702210618041800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "刘国中会见白俄罗斯第一副总理斯诺普科夫",
+          "url": "https://wallstreetcn.com/livenews/3128069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
         {
           "title": "乌克兰，更能打了？",
           "url": "https://news.ifeng.com/c/8uPjPbPr0I2",
@@ -211,30 +377,96 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "乌克兰又向全球征兵说明什么",
+          "url": "https://www.toutiao.com/trending/7657844161340509705/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "普京为何说俄罗斯到了命运攸关时刻",
+          "url": "https://www.toutiao.com/trending/7657550168787763206/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 2,
+      "keyword_group": "美元",
+      "match_count": 6,
       "titles": [
         {
-          "title": "美股收盘：软硬件轮动费城指数暴跌6% 三大指数集体收低",
-          "url": "https://www.cls.cn/detail/2414790",
+          "title": "美联储主席沃什拒绝释放7月会议信号 但称通胀风险已降低 黄金爆拉站上4100美元",
+          "url": "https://www.cls.cn/detail/2414658",
           "source": "财联社热门",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
         {
-          "title": "非农今日公布，美股明日休市",
-          "url": "https://flash.jin10.com/detail/20260702094153357800",
+          "title": "俄罗斯至6月30日当周央行黄金和外汇储备 7152亿美元，前值7438亿美元。",
+          "url": "https://flash.jin10.com/detail/20260702210003459800",
           "source": "金十数据",
           "ranks": [
-            11
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "现货黄金短线回落逾20美元，现报4114.81美元/盎司。美元指数DXY短线上涨近20点，现报100.72。",
+          "url": "https://flash.jin10.com/detail/20260702205814848800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "美元指数在非农公布后跌至两周低点100.58。 日元兑美元延续涨势，上涨1.2%至160.64高位。",
+          "url": "https://wallstreetcn.com/livenews/3128054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.8088，下调21点；上一交易日中间价6.8067，上一交易日官方收盘价6.7935，上日夜盘报收6.7880。",
+          "url": "https://wallstreetcn.com/livenews/3127707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "现货黄金上涨近1%，至每盎司4,068.43美元。",
+          "url": "https://wallstreetcn.com/livenews/3127701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -244,8 +476,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
         {
           "title": "特朗普又来：绝不让中国接管巴拿马运河",
           "url": "https://news.ifeng.com/c/8uQHApVzfAw",
@@ -272,7 +515,7 @@
     },
     {
       "keyword_group": "欧盟",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中欧贸易战按下暂停键？欧盟留了一手",
@@ -290,11 +533,23 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355806&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E8%B0%83%E5%8D%96%E7%88%86%2C%E6%AC%A7%E7%9B%9F%E5%8F%8D%E6%89%8B%E5%B0%B1ban",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            26
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 21时27分]"
+        },
+        {
+          "title": "谁愿承受中方的反制后果？欧盟内部分歧难解",
+          "url": "https://news.ifeng.com/c/8uQuGzhY6bc",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时06分"
+          "time_info": "21时27分"
         }
       ]
     },

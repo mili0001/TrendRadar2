@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T09:48:23.641313+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-10T21:55:05.523661+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "日本",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "评论员：日本要习惯中国不再惯着",
@@ -39,6 +39,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "中赴日游客暴跌,日本顶不住了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356077&amp;topic_name=%E4%B8%AD%E8%B5%B4%E6%97%A5%E6%B8%B8%E5%AE%A2%E6%9A%B4%E8%B7%8C%2C%E6%97%A5%E6%9C%AC%E9%A1%B6%E4%B8%8D%E4%BD%8F%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
+        },
+        {
+          "title": "日本拟为六代机取绰号“烈风”，翻着军国主义“花名册”搞招魂",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33555754",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
         },
         {
           "title": "日本敦促养老金增加本土投资，日元应声走高",
@@ -209,7 +231,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
         {
           "title": "现货黄金回落至4110美元/盎司下方，日内跌0.34%。",
@@ -223,15 +245,38 @@
           "time_info": "09时48分"
         },
         {
+          "title": "SK海力士美国存托凭证预示开盘价或为180美元，发行价为149美元。",
+          "url": "https://flash.jin10.com/detail/20260710215204806800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "报道：SK海力士ADR指导价149美元，较韩股收盘价溢价3.1%",
           "url": "https://wallstreetcn.com/articles/3776593",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 21时55分]"
+        },
+        {
+          "title": "美国天然气期货日内跌幅达3.00%，现报2.921美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260710214203255800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "21时55分"
         },
         {
           "title": "美国空军动用最大战略运输机，运了500万美元毒品",
@@ -278,6 +323,39 @@
           "time_info": "09时48分"
         },
         {
+          "title": "现货黄金跌破4090美元/盎司，日内跌0.82%。纽约期金向下触及4100美元/盎司，日内跌0.79%。",
+          "url": "https://flash.jin10.com/detail/20260710212811599800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "杰富瑞：将雪佛龙公司目标价从236美元下调至216美元。",
+          "url": "https://flash.jin10.com/detail/20260710212754606800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "宏观对冲基金Deem从阿布扎比投资委员会（ADIC）筹集了10亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3132096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "日本20年期国债收益率下行7个基点至3.795%。 日元兑美元走强，一度涨至162.09。",
           "url": "https://wallstreetcn.com/livenews/3131615",
           "source": "华尔街见闻-快讯",
@@ -287,23 +365,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "英镑兑美元GBP/USD一年期隐含波动率降至6.9275%，为2020年2月以来最低水平。",
+          "url": "https://flash.jin10.com/detail/20260710211012380800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 12,
       "titles": [
         {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
           "url": "https://wallstreetcn.com/articles/3776523",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 21时55分]"
         },
         {
           "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
@@ -317,6 +407,39 @@
           "time_info": "09时48分"
         },
         {
+          "title": "静待SK海力士IPO，美股科技股盘前小幅下挫，日元走强，布油企稳，黄金承压",
+          "url": "https://wallstreetcn.com/articles/3776623",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
+        },
+        {
+          "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
+          "url": "https://www.cls.cn/detail/2423160",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
+        },
+        {
+          "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2423243",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
+        },
+        {
           "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
           "url": "https://www.cls.cn/detail/2422268",
           "source": "财联社热门",
@@ -328,6 +451,28 @@
           "time_info": "09时48分"
         },
         {
+          "title": "美股三大股指开盘涨跌不一，道指开涨0.26%，标普500指数开涨0.08%，纳指跌0.15%。闪迪跌超4%，美光科技跌超3%；Meta涨4.9%；加密货币概念股Circle涨超11%，公司已获美国货币监理署（OCC）批准，可设立国家信托银行。沃达丰大涨12%，尼尔溢价收购阿联酋电信股权。",
+          "url": "https://wallstreetcn.com/livenews/3132112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "金十图示：2026年07月10日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260710214134614800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
           "url": "https://www.cls.cn/detail/2422043",
           "source": "财联社热门",
@@ -337,34 +482,113 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "美股开盘，道指开涨0.26%，标普500指数开涨0.08%，纳指跌0.15%。美光科技(MU.O)跌3%，高通(QCOM.O)跌2%，闪迪(SNDK.O)跌4%，西部数据(WDC.O)跌1.9%，Meta Platforms(META.O)涨4.9%。",
+          "url": "https://flash.jin10.com/detail/20260710213029119800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3132101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-07-10）",
+          "url": "https://flash.jin10.com/detail/20260710211707060800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "白宫官员：特朗普将允许住房法案成为法律。",
+          "url": "https://flash.jin10.com/detail/20260710215324506800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
         {
           "title": "特朗普称“日本导弹”打美国航母，白宫回应",
           "url": "https://news.ifeng.com/c/8udg4food2U",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 21时55分]"
         },
         {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
           "url": "https://news.ifeng.com/c/8udchHV60GP",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 21时55分]"
+        },
+        {
+          "title": "特朗普“把自己困住了”，陷入两难",
+          "url": "https://news.ifeng.com/c/8uddEUs34xh",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
+        },
+        {
+          "title": "特朗普政府被曝拒绝以色列介入局势，卡塔尔代表飞往伊朗斡旋",
+          "url": "https://flash.jin10.com/detail/20260710214522106800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "21时55分"
+        },
+        {
+          "title": "特朗普：我不会签署住房法案。",
+          "url": "https://wallstreetcn.com/livenews/3132108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
@@ -387,6 +611,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "特朗普：我不会签署住房法案",
+          "url": "https://flash.jin10.com/detail/20260710211741637800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         }
       ]
     },
@@ -395,22 +630,23 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+          "url": "https://wallstreetcn.com/articles/3776605",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 21时55分]"
+        },
+        {
           "title": "如何评价 OpenAI 正式推出的 GPT-5.6 系列模型？使用体验如何？",
           "url": "https://www.zhihu.com/question/2058734226548250080",
           "source": "知乎",
           "ranks": [
             5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
-          "url": "https://wallstreetcn.com/articles/3776605",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -443,6 +679,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据阿拉伯卫星电视台：俄罗斯正转向从印度进口柴油。",
+          "url": "https://flash.jin10.com/detail/20260710214819559800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "市场消息：欧盟各国同意开启乌克兰入盟谈判新阶段。",
+          "url": "https://flash.jin10.com/detail/20260710212508362800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         }
       ]
     },

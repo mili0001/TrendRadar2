@@ -1,380 +1,344 @@
 {
-  "generated_at": "2026-07-12T20:53:39.379096+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-07-13T09:31:54.128797+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "日本",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "你跑不过我!日本少年制服窃贼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356119&amp;topic_name=%E4%BD%A0%E8%B7%91%E4%B8%8D%E8%BF%87%E6%88%91%21%E6%97%A5%E6%9C%AC%E5%B0%91%E5%B9%B4%E5%88%B6%E6%9C%8D%E7%AA%83%E8%B4%BC",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "中方：日本没资格说三道四",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%B2%A1%E8%B5%84%E6%A0%BC%E8%AF%B4%E4%B8%89%E9%81%93%E5%9B%9B",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "美银Hartnett：日本银行股是“全球避险情绪领先指标”，下半年有“四大逆向交易机会”",
-          "url": "https://wallstreetcn.com/articles/3776713",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "又赢?日本可回收火箭仅飞11米",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356098&amp;topic_name=%E5%8F%88%E8%B5%A2%3F%E6%97%A5%E6%9C%AC%E5%8F%AF%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD%E4%BB%85%E9%A3%9E11%E7%B1%B3",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 20时53分]"
-        },
-        {
-          "title": "日本可回收火箭小型实验机 RV-X「着陆成功」，日媒报道只飞了 11 米，这是什么水平？对其有何意义？",
-          "url": "https://www.zhihu.com/question/2058854448244454744",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
-        },
-        {
-          "title": "中赴日游客暴跌,日本顶不住了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356077&amp;topic_name=%E4%B8%AD%E8%B5%B4%E6%97%A5%E6%B8%B8%E5%AE%A2%E6%9A%B4%E8%B7%8C%2C%E6%97%A5%E6%9C%AC%E9%A1%B6%E4%B8%8D%E4%BD%8F%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
-        },
-        {
-          "title": "市场消息：日本呼吁日本政府养老金投资基金（GPIF）在投资策略中增加另类资产配置。",
-          "url": "https://flash.jin10.com/detail/20260712084645401800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "日本死要面子,拟禁吃猫狗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356111&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%AD%BB%E8%A6%81%E9%9D%A2%E5%AD%90%2C%E6%8B%9F%E7%A6%81%E5%90%83%E7%8C%AB%E7%8B%97",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "外交部发言人就日本外务大臣炒作“南海仲裁案裁决”出台十年发表谈话",
-          "url": "https://wallstreetcn.com/livenews/3132421",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "外交部发言人就日本外务大臣炒作“南海仲裁案裁决”出台十年发表谈话",
-          "url": "https://flash.jin10.com/detail/20260712182857525800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "日本三大车商在华新车销量集体下滑",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%89%E5%A4%A7%E8%BD%A6%E5%95%86%E5%9C%A8%E5%8D%8E%E6%96%B0%E8%BD%A6%E9%94%80%E9%87%8F%E9%9B%86%E4%BD%93%E4%B8%8B%E6%BB%91",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "特朗普：1000枚导弹已瞄准伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
-        },
-        {
-          "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
-          "url": "https://news.ifeng.com/c/8uheASr3DB8",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "伊朗最高领袖称将报复美以，特朗普：1000枚导弹已瞄准伊朗",
-          "url": "https://wallstreetcn.com/articles/3776705",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
-        },
-        {
-          "title": "特朗普为何一改态度向德出售战斧导弹",
-          "url": "https://www.toutiao.com/trending/7661297504571457578/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
-        },
-        {
-          "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
-          "url": "https://news.ifeng.com/c/8uhQRko1ti1",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "泽连斯基提议乌克兰现任总理斯维里坚科卸任",
-          "url": "https://wallstreetcn.com/livenews/3132429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "与美合作、加速入盟 乌克兰宣布全面调整国家政治战略",
-          "url": "https://wallstreetcn.com/livenews/3132427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "乌克兰启动政治战略调整，内阁将重组、总理斯维里登科获新任命",
-          "url": "https://flash.jin10.com/detail/20260712192230919800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基提议更换总理斯维里登科职务。",
-          "url": "https://flash.jin10.com/detail/20260712192009988800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股处于“极度脆弱”的时候，财报季开启了",
-          "url": "https://wallstreetcn.com/articles/3776694",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
-        },
-        {
-          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
-          "url": "https://www.cls.cn/detail/2423438",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 20时53分]"
-        },
-        {
-          "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2423243",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "韩国",
-      "match_count": 2,
+      "match_count": 9,
       "titles": [
         {
-          "title": "韩国人撤印度神王应援输不起",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356104&amp;topic_name=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%92%A4%E5%8D%B0%E5%BA%A6%E7%A5%9E%E7%8E%8B%E5%BA%94%E6%8F%B4%E8%BE%93%E4%B8%8D%E8%B5%B7",
-          "source": "贴吧",
+          "title": "韩国首尔综指日内跌幅扩大至4%。",
+          "url": "https://wallstreetcn.com/livenews/3132515",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "韩国首尔综指日内跌幅扩大至3.1%。",
+          "url": "https://wallstreetcn.com/livenews/3132498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "输不起!韩国人撤印度神王应援",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356104&amp;topic_name=%E8%BE%93%E4%B8%8D%E8%B5%B7%21%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%92%A4%E5%8D%B0%E5%BA%A6%E7%A5%9E%E7%8E%8B%E5%BA%94%E6%8F%B4",
           "source": "贴吧",
           "ranks": [
-            17
+            19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时53分"
+          "time_info": "09时31分"
+        },
+        {
+          "title": "韩国首尔综指日内跌幅扩大至2.1%。",
+          "url": "https://wallstreetcn.com/livenews/3132494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "中国游客在韩国救下一车人",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E9%9F%A9%E5%9B%BD%E6%95%91%E4%B8%8B%E4%B8%80%E8%BD%A6%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "韩国KOSPI指数跌幅扩大至2%，SK海力士跌近7%，三星电子跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260713084129898800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "中国女生在韩国救下一车人",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%9C%A8%E9%9F%A9%E5%9B%BD%E6%95%91%E4%B8%8B%E4%B8%80%E8%BD%A6%E4%BA%BA%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "韩国7月1-10日出口同比增长53.9%，进口增长17.4%。",
+          "url": "https://wallstreetcn.com/livenews/3132485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "日经225指数低开0.1%，韩国首尔综指低开0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3132483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "keyword_group": "日本",
+      "match_count": 6,
       "titles": [
         {
-          "title": "DeepSeek V4 正式版将于 7 月中旬上线，你有什么期待？",
-          "url": "https://www.zhihu.com/question/2055029429290771542",
-          "source": "知乎",
+          "title": "你跑不过我!日本少年制服窃贼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356119&amp;topic_name=%E4%BD%A0%E8%B7%91%E4%B8%8D%E8%BF%87%E6%88%91%21%E6%97%A5%E6%9C%AC%E5%B0%91%E5%B9%B4%E5%88%B6%E6%9C%8D%E7%AA%83%E8%B4%BC",
+          "source": "贴吧",
           "ranks": [
-            20
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "美银Hartnett：日本银行股是“全球避险情绪领先指标”，下半年有“四大逆向交易机会”",
+          "url": "https://wallstreetcn.com/articles/3776713",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "日本死要面子,拟禁吃猫狗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356111&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%AD%BB%E8%A6%81%E9%9D%A2%E5%AD%90%2C%E6%8B%9F%E7%A6%81%E5%90%83%E7%8C%AB%E7%8B%97",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "评论员：现在的日本变得十分危险",
+          "url": "https://www.toutiao.com/trending/7660944439904944191/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "外交部：奉劝日本停止污蔑攻击中国，停止在南海问题上搬弄是非",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33570981",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "又赢?日本可回收火箭仅飞11米",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356098&amp;topic_name=%E5%8F%88%E8%B5%A2%3F%E6%97%A5%E6%9C%AC%E5%8F%AF%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD%E4%BB%85%E9%A3%9E11%E7%B1%B3",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "【早报】美国对伊朗发动打击；油价大涨，黄金跌破4100美元；半导体设备龙头，今日复牌",
+          "url": "https://www.cls.cn/detail/2423960",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "英伟达路演：季度收入近千亿美元、增速还在加快，Rubin Ultra没有延期",
+          "url": "https://wallstreetcn.com/articles/3776726",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.7972，上调17点；上一交易日中间价6.7989，上一交易日官方收盘价6.7784，上日夜盘报收6.7770。",
+          "url": "https://wallstreetcn.com/livenews/3132507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "布伦特原油日内大涨4.00%，现报79美元/桶，WTI原油涨近4%。",
+          "url": "https://flash.jin10.com/detail/20260713085309896800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "华尔街巨头集体看多美元，美国例外论的“吸血风暴”已成定局？",
+          "url": "https://flash.jin10.com/detail/20260713084424483800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
           "url": "https://wallstreetcn.com/articles/3776720",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时53分"
+          "time_info": "09时31分"
+        },
+        {
+          "title": "印度本土为何跑不出一家OpenAI",
+          "url": "https://www.toutiao.com/trending/7661777860511665706/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 1,
+      "keyword_group": "特朗普",
+      "match_count": 2,
       "titles": [
         {
-          "title": "英伟达路演：季度收入近千亿美元、增速还在加快，Rubin Ultra没有延期",
-          "url": "https://wallstreetcn.com/articles/3776726",
-          "source": "华尔街见闻",
+          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
+          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
+          "source": "凤凰网",
           "ranks": [
-            9
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时53分"
+          "time_info": "09时31分"
+        },
+        {
+          "title": "美国总统特朗普：59%的支持率。通胀下降，油气价格也在降低。",
+          "url": "https://flash.jin10.com/detail/20260713090402054800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
     {
       "keyword_group": "欧盟",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "欧盟发表单独声明，中方严厉表态",
+          "url": "https://news.ifeng.com/c/8ui0yIldrPe",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "担心中国反制，欧盟又搞“新工具”",
+          "url": "https://news.ifeng.com/c/8uigXKi93b1",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "俄罗斯 乌克兰",
       "match_count": 1,
       "titles": [
         {
-          "title": "环球时报社评：拿“北京鸭”开刀，欧盟是有多不自信",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33564501",
-          "source": "澎湃新闻",
+          "title": "泽连斯基提议乌克兰现任总理卸任",
+          "url": "https://www.toutiao.com/trending/7661099455701909523/",
+          "source": "今日头条",
           "ranks": [
-            18
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T09:27:19.663671+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-16T21:16:22.006780+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 11,
+      "match_count": 23,
       "titles": [
         {
           "title": "美国持续打击伊朗，战争成本预测高达1000亿美元",
@@ -25,9 +25,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "尼日利亚央行行长：尼日利亚净外汇储备从2023年的约30亿至40亿美元，增长至超过400亿美元。",
+          "url": "https://flash.jin10.com/detail/20260716211149636800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "世界杯冠军奖金5000万美元 历史最高",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%A5%96%E9%87%915000%E4%B8%87%E7%BE%8E%E5%85%83+%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "伦锡日内跌幅达2.00%，现报52400.00美元/吨。",
@@ -36,9 +58,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "现货黄金跌破4000美元/盎司，日内跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3135091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "现货白银日内跌超1.00%，现报57.18美元/盎司。",
@@ -47,9 +80,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "台积电法说会：全年营收增速上调至40%，资本支出加码至640亿美元，“很嫉妒”存储厂商86%的毛利率",
+          "url": "https://wallstreetcn.com/articles/3777098",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
@@ -91,9 +135,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "破发！SpaceX股价首次跌穿135美元IPO发行价，公司债一路下跌，收益率高达7.5%堪比垃圾债",
+          "url": "https://wallstreetcn.com/articles/3777047",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "现货黄金跌势不止，失守3990美元/盎司，日内跌幅1.72%。",
+          "url": "https://flash.jin10.com/detail/20260716210234922800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "天风证券：预计下半年布伦特原油价格中枢为70美元/桶—75美元/桶",
@@ -102,9 +168,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "纽约期银向下触及56美元/盎司，日内跌3.63%。",
+          "url": "https://flash.jin10.com/detail/20260716210022322800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "俄罗斯至7月10日当周央行黄金和外汇储备 7224亿美元，前值7217亿美元。",
+          "url": "https://flash.jin10.com/detail/20260716210004476800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "做空者蜂拥做空SpaceX，账面利润逼近40亿美元",
@@ -113,9 +201,42 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "SpaceX 上市仅一个月跌破 135 美元发行价，市值缩水三分之一，星舰第 13 次试飞将至，能否挽救股价？",
+          "url": "https://www.zhihu.com/question/2061111911014470002",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "现货白银日内跌幅达2.5%，报56.22美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3135074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "纽约期金跌破4000美元/盎司，日内跌1.65%。",
+          "url": "https://flash.jin10.com/detail/20260716205442536800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "现货黄金失守4050美元/盎司，日内跌幅0.25%。",
@@ -124,16 +245,38 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "德意志银行：若美联储选择量化紧缩而非加息，美元可能走软",
+          "url": "https://flash.jin10.com/detail/20260716205005391800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         }
       ]
     },
     {
       "keyword_group": "韩国",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "韩国叫停新单一股票杠杆ETF产品上市，提高现有ETF保证金门槛至3000万韩元",
+          "url": "https://wallstreetcn.com/articles/3777104",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
         {
           "title": "高盛韩国一线评论：IBM暴跌验证了存储短缺，散户投降但韩股关键支撑位挺住了，机构相信存储扩产不会太猛",
           "url": "https://wallstreetcn.com/articles/3776969",
@@ -152,9 +295,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "史上最大牛市，让32万韩国人一夜破产？",
+          "url": "https://news.ifeng.com/c/8unlPPoTh99",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "韩国KOSPI指数日内重挫7.00%，现报6774.06点。",
@@ -163,7 +317,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -174,7 +328,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -185,7 +339,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -196,9 +350,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "韩国股市暴涨暴跌 散户快疯了",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E6%9A%B4%E6%B6%A8%E6%9A%B4%E8%B7%8C+%E6%95%A3%E6%88%B7%E5%BF%AB%E7%96%AF%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "日经225指数日内跌幅扩大至2.9%。 韩国首尔综指跌幅扩大至6%。",
@@ -207,7 +372,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -218,7 +383,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -229,9 +394,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "韩国股民从暴富到一夜归零",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%82%A1%E6%B0%91%E4%BB%8E%E6%9A%B4%E5%AF%8C%E5%88%B0%E4%B8%80%E5%A4%9C%E5%BD%92%E9%9B%B6%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "Kospi200指数期货下跌超过5%，韩国交易所启动“sidecar”机制，暂停Kospi程序化交易。",
@@ -240,9 +416,197 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概跑赢大盘，美光、闪迪暴跌8%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 09时27分]"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
+          "url": "https://www.cls.cn/detail/2427818",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 09时27分]"
+        },
+        {
+          "title": "韩国股市大反弹，SK 海力士美股隔夜暴涨 27%，散户大规模爆仓强平后指数强势反弹，为何波动如此极端？",
+          "url": "https://www.zhihu.com/question/2060658036918719165",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 09时27分]"
+        },
+        {
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2427604",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 09时27分]"
+        },
+        {
+          "title": "半导体抛售潮重创全球股市，美股盘前存储芯片股普跌，台积电跌近5%，现货黄金日内跌1.5%",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "美元指数短线波动不大，现报100.56。美股期货短线走低，纳斯达克100指数期货跌1%。美国10年期国债收益率短线波动不大，现报4.580%。现货黄金短线小幅拉升，现报4028.21美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3135086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2428765",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-07-16）",
+          "url": "https://flash.jin10.com/detail/20260716205524477800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "雅培第二季度净销售额为125.9亿美元，市场预期为125.4亿美元。 第二季度调整后每股收益为1.31美元，市场预期为1.28美元。 雅培预计2026年全年调整后每股收益为5.45至5.60美元，此前预期为5.38至5.58美元。 雅培预计第三季度调整后每股收益为1.38至1.46美元，市场预期为1.42美元。 雅培美股盘前涨4%。",
+          "url": "https://wallstreetcn.com/livenews/3135057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
+          "url": "https://wallstreetcn.com/articles/3776989",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 09时27分]"
+        },
+        {
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时26分 ~ 21时16分]"
+        },
+        {
+          "title": "霍尔木兹爆发激烈交火！特朗普：伊朗像伟大拳击手，你以为击败他，结果被重拳反击；若伊朗不回来谈判，将轰炸电厂桥梁，不排除派地面部队",
+          "url": "https://wallstreetcn.com/articles/3776985",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 09时27分]"
+        },
+        {
+          "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592968",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 09时27分]"
+        },
+        {
+          "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33588226",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 09时27分]"
+        },
+        {
+          "title": "美媒：特朗普在买入股票数日后便在“真实社交”平台上为相关公司“带货”",
+          "url": "https://flash.jin10.com/detail/20260716210812657800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         }
       ]
     },
@@ -279,7 +643,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -290,7 +654,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -301,7 +665,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -312,126 +676,65 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
-          "url": "https://wallstreetcn.com/articles/3776989",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
-        },
-        {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
-        },
-        {
-          "title": "霍尔木兹爆发激烈交火！特朗普：伊朗像伟大拳击手，你以为击败他，结果被重拳反击；若伊朗不回来谈判，将轰炸电厂桥梁，不排除派地面部队",
-          "url": "https://wallstreetcn.com/articles/3776985",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
-        },
-        {
-          "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33592968",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
-        },
-        {
-          "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33588226",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
+      "keyword_group": "俄罗斯 乌克兰",
       "match_count": 4,
       "titles": [
         {
-          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概跑赢大盘，美光、闪迪暴跌8%",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
+          "title": "武契奇公开表示支持乌克兰",
+          "url": "https://www.toutiao.com/trending/7662252081797546027/",
+          "source": "今日头条",
           "ranks": [
-            1
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
-          "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
-          "url": "https://www.cls.cn/detail/2427818",
-          "source": "财联社热门",
+          "title": "市场消息：乌克兰议会投票决定继续任命谢尔希·马尔琴科为财政部长。",
+          "url": "https://flash.jin10.com/detail/20260716210525408800",
+          "source": "金十数据",
           "ranks": [
-            3
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
-          "title": "韩国股市大反弹，SK 海力士美股隔夜暴涨 27%，散户大规模爆仓强平后指数强势反弹，为何波动如此极端？",
-          "url": "https://www.zhihu.com/question/2060658036918719165",
-          "source": "知乎",
+          "title": "市场消息：乌克兰议会批准新政府。",
+          "url": "https://flash.jin10.com/detail/20260716210357685800",
+          "source": "金十数据",
           "ranks": [
-            3
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
-          "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2427604",
-          "source": "财联社热门",
+          "title": "乌克兰确认接收501具遇难人员遗体 将确认身份",
+          "url": "https://flash.jin10.com/detail/20260716205123144800",
+          "source": "金十数据",
           "ranks": [
-            11
+            26
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
@@ -454,13 +757,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时26分 ~ 09时27分]"
+        },
+        {
+          "title": "【DeepSeek估值超3500亿元】上市公司开润股份一纸投资进展公告，意外披露了国内头部人工智能企业“深度求索”（DeepSeek）的最新市场估值。按公告数据推算，DeepSeek本轮融资后估值已攀升至约3510亿元。记者从接近DeepSeek处人士确认，随着本轮融资完成，该公司目前已经开始启动第二轮融资了，但是年底是否冲刺科创板，目前并未确定。不过，该人士并未透露更多细节。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3135077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
+          "url": "https://wallstreetcn.com/articles/3777063",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
         {
           "title": "巴菲特最新访谈：批评当下市场投机潮 揭秘押注谷歌的逻辑",
           "url": "https://www.cls.cn/detail/2427717",
@@ -471,6 +796,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时26分 ~ 09时27分]"
+        },
+        {
+          "title": "Google与英国零售贸易商Screwfix达成合作。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3135061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欧盟",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧盟偷偷发布涉华文件，激烈措辞“跨越外交门槛”",
+          "url": "https://news.ifeng.com/c/8uoAtuDLMsF",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         }
       ]
     }

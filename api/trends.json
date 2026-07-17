@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-07-17T09:29:27.552139+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-17T21:03:10.429018+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "白宫：特朗普将出席世界杯决赛",
           "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 21时03分]"
+        },
+        {
+          "title": "中方驳斥特朗普“中国干预美国大选”论调",
+          "url": "https://news.ifeng.com/c/8upog6XKRmu",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "21时03分"
         },
         {
           "title": "美国首例！特朗普恼火：可怕的决定，要输给中国了",
@@ -176,18 +188,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
           "url": "https://wallstreetcn.com/articles/3777075",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 21时03分]"
         },
         {
           "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
@@ -199,6 +212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "财富管理公司警告“世代级熊市”逼近，美股或回调40%",
+          "url": "https://flash.jin10.com/detail/20260717205306946800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
@@ -281,7 +305,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "台积电法说会：全年营收增速上调至40%，资本支出加码至640亿美元，“很嫉妒”存储厂商86%的毛利率",
@@ -317,6 +341,51 @@
           "time_info": "09时29分"
         },
         {
+          "title": "世界杯冠军奖金5000万美元",
+          "url": "https://www.toutiao.com/trending/7662510119124877348/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 21时03分]"
+        },
+        {
+          "title": "现货黄金回落至3970美元/盎司下方，日内跌0.16%。",
+          "url": "https://flash.jin10.com/detail/20260717204358478800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "科技股抛售潮蔓延，纳指100期货跌1.5%，盘前存储股跌幅收窄，布油涨2%，黄金失守4000美元",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "DeepTalk：跌了1600美元，国际金可能在哪止跌？",
+          "url": "https://flash.jin10.com/detail/20260717203554072800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "世界杯冠军奖金5000万美元 历史最高",
           "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%A5%96%E9%87%915000%E4%B8%87%E7%BE%8E%E5%85%83+%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98",
           "source": "百度热搜",
@@ -326,13 +395,97 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日本",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
+          "url": "https://www.zhihu.com/question/2061057694832620856",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
         },
         {
-          "title": "世界杯冠军奖金5000万美元",
-          "url": "https://www.toutiao.com/trending/7662510119124877348/",
-          "source": "今日头条",
+          "title": "中国援助海外,日本冒领功劳",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356241&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8F%B4%E5%8A%A9%E6%B5%B7%E5%A4%96%2C%E6%97%A5%E6%9C%AC%E5%86%92%E9%A2%86%E5%8A%9F%E5%8A%B3",
+          "source": "贴吧",
           "ranks": [
-            25
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 21时03分]"
+        },
+        {
+          "title": "黄油拌糖嘎嘣脆,日本网友整活",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356276&amp;topic_name=%E9%BB%84%E6%B2%B9%E6%8B%8C%E7%B3%96%E5%98%8E%E5%98%A3%E8%84%86%2C%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E6%95%B4%E6%B4%BB",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
+        },
+        {
+          "title": "傅面学传入日本,恶人脸遭处刑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356262&amp;topic_name=%E5%82%85%E9%9D%A2%E5%AD%A6%E4%BC%A0%E5%85%A5%E6%97%A5%E6%9C%AC%2C%E6%81%B6%E4%BA%BA%E8%84%B8%E9%81%AD%E5%A4%84%E5%88%91",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：希望英伟达进一步与日本在具身智能领域展开合作。",
+          "url": "https://wallstreetcn.com/livenews/3135353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "日本女首相背刺女天皇，“天皇制将难以为继”",
+          "url": "https://news.ifeng.com/c/8uq9lkVDSxJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "“印度新干线”难产，日本前大臣：印度人毫无信誉，全怪他们",
+          "url": "https://news.ifeng.com/c/8upwLK28tcQ",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：不会对具体的汇率水平发表评论。 准备好在需要时随时对汇率波动做出适当回应。 如有需要，准备在外汇市场上采取果断行动。",
+          "url": "https://wallstreetcn.com/livenews/3135343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -342,7 +495,7 @@
     },
     {
       "keyword_group": "韩国",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "韩国叫停新单一股票杠杆ETF产品上市，提高现有ETF保证金门槛至3000万韩元",
@@ -356,22 +509,45 @@
           "time_info": "09时29分"
         },
         {
+          "title": "韩国股市暴跌！每30名韩国成年人就有1人被追保，强平率从2.1%飙至10%",
+          "url": "https://wallstreetcn.com/articles/3777151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 21时03分]"
+        },
+        {
+          "title": "韩股暴跌背后：高杠杆下 韩国每30名成年人就有1人被追加保证金",
+          "url": "https://www.cls.cn/detail/2429360",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
+        },
+        {
+          "title": "韩国股市为何会从暴涨到股灾",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E4%B8%BA%E4%BD%95%E4%BC%9A%E4%BB%8E%E6%9A%B4%E6%B6%A8%E5%88%B0%E8%82%A1%E7%81%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
+        },
+        {
           "title": "32万个账户归零之后——韩国去杠杆走到哪了？",
           "url": "https://wallstreetcn.com/articles/3777115",
           "source": "华尔街见闻",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "韩国股市暴跌！每30名韩国成年人就有1人被追保，强平率从2.1%飙至10%",
-          "url": "https://wallstreetcn.com/articles/3777151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -402,41 +578,58 @@
       ]
     },
     {
-      "keyword_group": "日本",
-      "match_count": 3,
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 2,
       "titles": [
         {
-          "title": "中国援助海外,日本冒领功劳",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356241&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8F%B4%E5%8A%A9%E6%B5%B7%E5%A4%96%2C%E6%97%A5%E6%9C%AC%E5%86%92%E9%A2%86%E5%8A%9F%E5%8A%B3",
-          "source": "贴吧",
+          "title": "塞尔维亚总统武契奇公开支持乌克兰，称支持其领土主权完整，如何解读这一发言？可能会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2061149996708099505",
+          "source": "知乎",
           "ranks": [
-            1
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
+        },
+        {
+          "title": "克里姆林宫：俄罗斯的经济困难“并非危急”，宏观经济稳定未受影响。",
+          "url": "https://flash.jin10.com/detail/20260717203641781800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欧盟",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "欧盟为何要调查北京烤鸭",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%9B%9F%E4%B8%BA%E4%BD%95%E8%A6%81%E8%B0%83%E6%9F%A5%E5%8C%97%E4%BA%AC%E7%83%A4%E9%B8%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         },
         {
-          "title": "日本经济产业大臣赤泽亮正：希望英伟达进一步与日本在具身智能领域展开合作。",
-          "url": "https://wallstreetcn.com/livenews/3135353",
+          "title": "沙特公共投资基金（PIF）预计将获得欧盟批准，完成对艺电（EA）的收购交易。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3135706",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：不会对具体的汇率水平发表评论。 准备好在需要时随时对汇率波动做出适当回应。 如有需要，准备在外汇市场上采取果断行动。",
-          "url": "https://wallstreetcn.com/livenews/3135343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "21时03分"
         }
       ]
     },
@@ -458,19 +651,19 @@
       ]
     },
     {
-      "keyword_group": "欧盟",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "欧盟为何要调查北京烤鸭",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%9B%9F%E4%B8%BA%E4%BD%95%E8%A6%81%E8%B0%83%E6%9F%A5%E5%8C%97%E4%BA%AC%E7%83%A4%E9%B8%AD",
-          "source": "bilibili 热搜",
+          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
+          "url": "https://wallstreetcn.com/articles/3777152",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "21时03分"
         }
       ]
     }

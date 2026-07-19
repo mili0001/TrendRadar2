@@ -1,429 +1,144 @@
 {
-  "generated_at": "2026-07-18T20:47:58.411360+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2026-07-19T09:28:01.467028+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "日本",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "放弃日本后 澳洲人正疯狂涌向中国",
-          "url": "https://www.baidu.com/s?wd=%E6%94%BE%E5%BC%83%E6%97%A5%E6%9C%AC%E5%90%8E+%E6%BE%B3%E6%B4%B2%E4%BA%BA%E6%AD%A3%E7%96%AF%E7%8B%82%E6%B6%8C%E5%90%91%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "日本女首相背刺女天皇，“天皇制将难以为继”",
-          "url": "https://news.ifeng.com/c/8uq9lkVDSxJ",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "黄油拌糖嘎嘣脆,日本网友整活",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356276&amp;topic_name=%E9%BB%84%E6%B2%B9%E6%8B%8C%E7%B3%96%E5%98%8E%E5%98%A3%E8%84%86%2C%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E6%95%B4%E6%B4%BB",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 20时47分]"
-        },
-        {
-          "title": "傅面学传入日本,恶人脸遭处刑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356262&amp;topic_name=%E5%82%85%E9%9D%A2%E5%AD%A6%E4%BC%A0%E5%85%A5%E6%97%A5%E6%9C%AC%2C%E6%81%B6%E4%BA%BA%E8%84%B8%E9%81%AD%E5%A4%84%E5%88%91",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 20时47分]"
-        },
-        {
-          "title": "市场消息：苹果(AAPL.O)将日本iPhone售价上调10%。",
-          "url": "https://flash.jin10.com/detail/20260718084050924800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "日本女护士输液管中混粪便致死，暴露了医疗管理哪些问题？",
-          "url": "https://www.zhihu.com/question/2060865422690366421",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "日本拒绝女性天皇",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8B%92%E7%BB%9D%E5%A5%B3%E6%80%A7%E5%A4%A9%E7%9A%87",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "日本一快递企业用户信息泄露",
-          "url": "https://flash.jin10.com/detail/20260718195422450800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "日本通过修正案拒绝女性天皇",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%80%9A%E8%BF%87%E4%BF%AE%E6%AD%A3%E6%A1%88%E6%8B%92%E7%BB%9D%E5%A5%B3%E6%80%A7%E5%A4%A9%E7%9A%87%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "中国援助海外,日本冒领功劳",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356241&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8F%B4%E5%8A%A9%E6%B5%B7%E5%A4%96%2C%E6%97%A5%E6%9C%AC%E5%86%92%E9%A2%86%E5%8A%9F%E5%8A%B3",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
-          "url": "https://www.cls.cn/detail/2430073",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 20时47分]"
-        },
-        {
-          "title": "阿根廷总统：标语事件顶多罚款3万美元",
-          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%A0%87%E8%AF%AD%E4%BA%8B%E4%BB%B6%E9%A1%B6%E5%A4%9A%E7%BD%9A%E6%AC%BE3%E4%B8%87%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "OpenEvidence考虑按200亿美元估值融资2亿美元。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3135930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "委内瑞拉从IMF提取3.46亿美元用于震后重建",
-          "url": "https://wallstreetcn.com/livenews/3136017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "委内瑞拉临时总统：在地震后从国际货币基金组织获得了3.46亿美元的资源。",
-          "url": "https://flash.jin10.com/detail/20260718081024815800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "周五（7月17日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7774元，较周四纽约尾盘跌42点，日内整体交投于6.7721-6.7815元区间。",
-          "url": "https://wallstreetcn.com/livenews/3135914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "乌克兰国防部：2026年上半年，乌克兰军方签署的无人机合同总额约为75亿美元，是去年总量的两倍。其中，FPV无人机所占份额最大。",
-          "url": "https://flash.jin10.com/detail/20260718190003064800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "现货黄金涨1%收复4000美元整数位心理关口，本周跌2.5%，白银本周跌6.6%",
-          "url": "https://wallstreetcn.com/livenews/3135913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        }
-      ]
-    },
     {
       "keyword_group": "特朗普",
       "match_count": 7,
       "titles": [
         {
-          "title": "白宫声称特朗普并非针对中国",
-          "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
+          "title": "穆杰塔巴：特朗普的签名毫无价值、无效",
+          "url": "https://news.ifeng.com/c/8us63AU51TY",
           "source": "凤凰网",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "中方驳斥特朗普“中国干预美国大选”论调",
-          "url": "https://news.ifeng.com/c/8upog6XKRmu",
-          "source": "凤凰网",
-          "ranks": [
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
         },
         {
-          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
-          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "美媒：一项允许沙特进行铀浓缩的核协议悬而未决，尚待特朗普政府批准",
-          "url": "https://flash.jin10.com/detail/20260718202124153800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
+          "title": "特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33611562",
           "source": "澎湃新闻",
           "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "曝特朗普买股票后在社媒发有利信息",
-          "url": "https://www.toutiao.com/trending/7662654350632255514/",
-          "source": "今日头条",
-          "ranks": [
-            15
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
         },
         {
           "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
           "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
           "source": "澎湃新闻",
           "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "韩国",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "再向韩国芯片巨头伸手：SK海力士与三星\"超额利润\"或需与美国分享",
-          "url": "https://wallstreetcn.com/articles/3777225",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时20分 ~ 20时47分]"
+          "time_info": "[09时27分 ~ 09时28分]"
         },
         {
-          "title": "功夫女足让韩国人破防了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E8%AE%A9%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%A0%B4%E9%98%B2%E4%BA%86%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "特朗普：“完全不在乎”伊朗暂停履行临时协议",
+          "url": "https://flash.jin10.com/detail/20260719052601155800",
+          "source": "金十数据",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "电影《功夫女足》韩国惹争议，韩网友不满梨花队戴美瞳、犯规设定，韩媒指影片贬低韩国足球队，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2061426581864714302",
-          "source": "知乎",
-          "ranks": [
-            16
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时47分"
+          "time_info": "09时28分"
         },
         {
-          "title": "韩国半导体杠杆爆仓",
-          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%A0%E6%9D%86%E7%88%86%E4%BB%93&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "据NewsNation：特朗普在得知两名美国军人在伊朗袭击中丧生的消息后首次作出回应。他表示：“这是一件非常悲伤的事情。我们不愿看到这种情况发生。他们是在为我们的国家服役。”",
+          "url": "https://flash.jin10.com/detail/20260719052220338800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时20分"
+          "time_info": "09时28分"
         },
         {
-          "title": "小酒窝获中韩国际声乐比赛一等奖",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%85%92%E7%AA%9D%E8%8E%B7%E4%B8%AD%E9%9F%A9%E5%9B%BD%E9%99%85%E5%A3%B0%E4%B9%90%E6%AF%94%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
+          "title": "据黎巴嫩国家通讯社：黎巴嫩总统奥恩已抵达华盛顿，将于明日开始与美国国务卿鲁比奥会面，并于下周二与美国总统特朗普会晤。",
+          "url": "https://flash.jin10.com/detail/20260719045619804800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 3,
-      "titles": [
+          "time_info": "09时28分"
+        },
         {
-          "title": "俄罗斯莫斯科州遭无人机袭击 逾30人死伤",
-          "url": "https://flash.jin10.com/detail/20260718202823653800",
+          "title": "伊朗驻巴基斯坦大使：特朗普摧毁了两项重要外交成果",
+          "url": "https://flash.jin10.com/detail/20260719043315182800",
           "source": "金十数据",
           "ranks": [
-            8
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "俄罗斯莫斯科州遭无人机袭击，逾30人死伤",
-          "url": "https://wallstreetcn.com/livenews/3136025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "博主：乌无人机打中俄罗斯七寸",
-          "url": "https://www.toutiao.com/trending/7663803973379296819/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
+          "time_info": "09时28分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "美元",
       "match_count": 2,
       "titles": [
         {
-          "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
-          "url": "https://www.cls.cn/detail/2430055",
-          "source": "财联社热门",
+          "title": "SpaceX市值已经蒸发了1万亿美元",
+          "url": "https://wallstreetcn.com/articles/3777279",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时20分 ~ 20时47分]"
+          "time_info": "[09时27分 ~ 09时28分]"
         },
         {
-          "title": "美股半导体指数跌入熊市",
-          "url": "https://www.toutiao.com/trending/7663631586239188521/",
-          "source": "今日头条",
+          "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
+          "url": "https://www.cls.cn/detail/2430073",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日本",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "放弃日本后 澳洲人正疯狂涌向中国",
+          "url": "https://www.baidu.com/s?wd=%E6%94%BE%E5%BC%83%E6%97%A5%E6%9C%AC%E5%90%8E+%E6%BE%B3%E6%B4%B2%E4%BA%BA%E6%AD%A3%E7%96%AF%E7%8B%82%E6%B6%8C%E5%90%91%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
           "ranks": [
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
+        },
+        {
+          "title": "傅面学传入日本,恶人脸遭处刑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356262&amp;topic_name=%E5%82%85%E9%9D%A2%E5%AD%A6%E4%BC%A0%E5%85%A5%E6%97%A5%E6%9C%AC%2C%E6%81%B6%E4%BA%BA%E8%84%B8%E9%81%AD%E5%A4%84%E5%88%91",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
         }
       ]
     },
@@ -432,33 +147,66 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
-          "url": "https://wallstreetcn.com/articles/3777230",
-          "source": "华尔街见闻",
+          "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
+          "url": "https://www.zhihu.com/question/2061407401308152796",
+          "source": "知乎",
           "ranks": [
-            8,
-            3
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时20分 ~ 20时47分]"
+          "time_info": "[09时27分 ~ 09时28分]"
         }
       ]
     },
     {
-      "keyword_group": "欧盟",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "一只“北京鸭”为何让欧盟如此焦虑",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%8F%AA%E2%80%9C%E5%8C%97%E4%BA%AC%E9%B8%AD%E2%80%9D%E4%B8%BA%E4%BD%95%E8%AE%A9%E6%AC%A7%E7%9B%9F%E5%A6%82%E6%AD%A4%E7%84%A6%E8%99%91",
-          "source": "百度热搜",
+          "title": "白宫前AI政策官员、 OpenAI战略未来主管迪恩·鲍尔：Kimi K3是一个非常优秀的模型！我不认为它的表现可以简单归因于蒸馏或类似技术。在智能体编程场景中，它的表现似乎基本可以与2026年第一季度最优秀的公开模型相媲美。",
+          "url": "https://flash.jin10.com/detail/20260719055403527800",
+          "source": "金十数据",
           "ranks": [
-            16
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
+          "url": "https://www.cls.cn/detail/2430055",
+          "source": "财联社热门",
+          "ranks": [
+            2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "乌克兰首都基辅多地遭弹道导弹袭击",
+          "url": "https://flash.jin10.com/detail/20260719080307234800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时20分"
+          "time_info": "09时28分"
         }
       ]
     }

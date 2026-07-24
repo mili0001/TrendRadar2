@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T09:30:41.179042+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-07-24T21:15:50.400910+08:00",
+  "total_titles_processed": 596,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "日本",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
         {
           "title": "日美关税协议达成1年：5500亿的大饼，日本就给美国烙了个边",
@@ -47,7 +47,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
         },
@@ -69,9 +69,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
+        },
+        {
+          "title": "日本游客锐减,仇越情绪爆发",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356470&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%B8%B8%E5%AE%A2%E9%94%90%E5%87%8F%2C%E4%BB%87%E8%B6%8A%E6%83%85%E7%BB%AA%E7%88%86%E5%8F%91",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "日本7月制造业PMI初值 54.7，前值 54.8。",
@@ -80,7 +91,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
         },
@@ -91,7 +102,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
         },
@@ -102,9 +113,64 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：日本将减少从中东进口石油 增加从美国的采购",
+          "url": "https://wallstreetcn.com/livenews/3139468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "《日本三国》作者疑删号退网",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356459&amp;topic_name=%E3%80%8A%E6%97%A5%E6%9C%AC%E4%B8%89%E5%9B%BD%E3%80%8B%E4%BD%9C%E8%80%85%E7%96%91%E5%88%A0%E5%8F%B7%E9%80%80%E7%BD%91",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "日本首相高市早苗将考虑内阁改组。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/3139464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "如何看待近期日本面临的股债汇「三杀」的境况？",
+          "url": "https://www.zhihu.com/question/2063933601394025370",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "中国机器人霸榜,日本破防",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356460&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9C%B8%E6%A6%9C%2C%E6%97%A5%E6%9C%AC%E7%A0%B4%E9%98%B2",
+          "source": "贴吧",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "日本7月17日当周外资净买进日本股票 -796亿日元，前值 7456亿日元。",
@@ -113,7 +179,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
         },
@@ -124,7 +190,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
         },
@@ -135,7 +201,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
         },
@@ -146,173 +212,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "韩国",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "韩国法律保护,T1花圈不能撤",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356432&amp;topic_name=%E9%9F%A9%E5%9B%BD%E6%B3%95%E5%BE%8B%E4%BF%9D%E6%8A%A4%2CT1%E8%8A%B1%E5%9C%88%E4%B8%8D%E8%83%BD%E6%92%A4",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
-          "title": "韩国对朝鲜政策变了",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%AF%B9%E6%9C%9D%E9%B2%9C%E6%94%BF%E7%AD%96%E5%8F%98%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
-          "title": "韩国对朝鲜政策，变了",
-          "url": "https://news.ifeng.com/c/8v05Biqr8zM",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
-          "title": "中广核韩国大山二期557MW气电项目商运发电",
-          "url": "https://flash.jin10.com/detail/20260724091633046800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时30分"
-        },
-        {
-          "title": "韩国首尔综指跌幅扩大至3%，SK海力士跌超4％，三星电子跌超3％。日经225指数跌约2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3139141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时30分"
-        },
-        {
-          "title": "韩国首尔综指跌幅扩大至2.1%。",
-          "url": "https://wallstreetcn.com/livenews/3139138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时30分"
-        },
-        {
-          "title": "日经225指数开盘跌1.3%。韩国首尔综指开盘跌1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3139137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时30分"
-        },
-        {
-          "title": "韩国7月31日起将杠杆ETF交易的现金存款要求提高至3000万韩元",
-          "url": "https://wallstreetcn.com/livenews/3139132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "人民币兑美元中间价报6.7939，下调33点；上一交易日中间价6.7906，上一交易日官方收盘价6.7706，上日夜盘报收6.7777。",
-          "url": "https://wallstreetcn.com/livenews/3139155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时30分"
-        },
-        {
-          "title": "沙特确认油轮遭袭 布油触及100美元关口 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2435498",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
-          "title": "油价逼近100美元 投资者该关注什么",
-          "url": "https://www.toutiao.com/trending/7665680497942466091/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
-          "title": "人民币兑美元中间价较上日调降33点至6.7939，降幅创2026年6月18日以来最大。",
-          "url": "https://flash.jin10.com/detail/20260724091526566800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时30分"
-        },
-        {
-          "title": "英伟达与Amkor签署价值15亿美元的芯片封装协议",
-          "url": "https://wallstreetcn.com/livenews/3139136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时30分"
-        },
-        {
-          "title": "现货黄金短线走低10美元，报4041.5美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260724090430960800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时30分"
         }
@@ -320,7 +220,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 11,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -330,8 +230,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 21时15分]"
         },
         {
           "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
@@ -367,6 +267,28 @@
           "time_info": "[09时29分 ~ 09时30分]"
         },
         {
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3139483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "美股七巨头齐跌 特斯拉重挫14%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%83%E5%B7%A8%E5%A4%B4%E9%BD%90%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E9%87%8D%E6%8C%AB14%25",
           "source": "百度热搜",
@@ -376,12 +298,256 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
+          "title": "美国运通二季度营收196.4亿美元，预期196.9亿美元。 二季度每股收益4.53美元，预期4.41美元。 美国运通预计全年营收增长10%，此前预期增长9%至10%。 美国运通仍预计全年每股收益为17.30至17.90美元，市场预期为17.68美元。 美国运通美股盘前跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3139451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "美股IPO热潮是不是泡沫前兆（二）悲观派：看数量不如看金额，两大浪潮同现是高危信号",
+          "url": "https://flash.jin10.com/detail/20260724204510004800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "Verizon预计全年调整后每股收益4.99美元至5.04美元，此前预计4.95美元至4.99美元，市场预估4.97美元。 Verizon仍然预测全年资本支出160亿美元至165亿美元，市场预估163.5亿美元。 Verizon第二季度调整后每股收益1.30美元，上年同期1.22美元，预估1.27美元。 Verizon第二季度调整后息税折旧及摊销前利润137亿美元，预估136.5亿美元。 Verizon第二季度营运收入343亿美元，预估351.7亿美元。 Verizon美股盘前涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/3139449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "斯伦贝谢第二季度营收89.7亿美元，预期86.9亿美元。 第二季度调整后每股收益55美分，预期51美分。 第二季度调整后EBITDA为19.0亿美元，预期17.8亿美元。 第二季度资本支出4.59亿美元，预期4.88亿美元。 斯伦贝谢美股盘前涨2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3139443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "韩国",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "韩国法律保护,T1花圈不能撤",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356432&amp;topic_name=%E9%9F%A9%E5%9B%BD%E6%B3%95%E5%BE%8B%E4%BF%9D%E6%8A%A4%2CT1%E8%8A%B1%E5%9C%88%E4%B8%8D%E8%83%BD%E6%92%A4",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 21时15分]"
+        },
+        {
+          "title": "韩国对朝鲜政策变了",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%AF%B9%E6%9C%9D%E9%B2%9C%E6%94%BF%E7%AD%96%E5%8F%98%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
+          "title": "韩国对朝鲜政策，变了",
+          "url": "https://news.ifeng.com/c/8v05Biqr8zM",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
+          "title": "麦克阿瑟成韩国守护神",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356481&amp;topic_name=%E9%BA%A6%E5%85%8B%E9%98%BF%E7%91%9F%E6%88%90%E9%9F%A9%E5%9B%BD%E5%AE%88%E6%8A%A4%E7%A5%9E",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "中广核韩国大山二期557MW气电项目商运发电",
+          "url": "https://flash.jin10.com/detail/20260724091633046800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时30分"
+        },
+        {
+          "title": "韩国首尔综指跌幅扩大至3%，SK海力士跌超4％，三星电子跌超3％。日经225指数跌约2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3139141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时30分"
+        },
+        {
+          "title": "韩国首尔综指跌幅扩大至2.1%。",
+          "url": "https://wallstreetcn.com/livenews/3139138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时30分"
+        },
+        {
+          "title": "日经225指数开盘跌1.3%。韩国首尔综指开盘跌1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3139137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时30分"
+        },
+        {
+          "title": "韩国7月31日起将杠杆ETF交易的现金存款要求提高至3000万韩元",
+          "url": "https://wallstreetcn.com/livenews/3139132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "人民币兑美元中间价报6.7939，下调33点；上一交易日中间价6.7906，上一交易日官方收盘价6.7706，上日夜盘报收6.7777。",
+          "url": "https://wallstreetcn.com/livenews/3139155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时30分"
+        },
+        {
+          "title": "沙特确认油轮遭袭 布油触及100美元关口 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2435498",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
+          "title": "油价逼近100美元 投资者该关注什么",
+          "url": "https://www.toutiao.com/trending/7665680497942466091/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
+          "title": "油价从100美元回落 周线仍有望收涨超10%",
+          "url": "https://flash.jin10.com/detail/20260724211247539800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "蓝威斯顿预计2027年调整后每股收益2.95美元至3.25美元。 蓝威斯顿预计2027年调整后EBITDA 11亿美元至12亿美元。 蓝威斯顿第四财季销售净额17.7亿美元，预估17亿美元。 蓝威斯顿第四财季调整后EBITDA 2.88亿美元，预估2.519亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3139473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "人民币兑美元中间价较上日调降33点至6.7939，降幅创2026年6月18日以来最大。",
+          "url": "https://flash.jin10.com/detail/20260724091526566800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时30分"
+        },
+        {
+          "title": "英伟达与Amkor签署价值15亿美元的芯片封装协议",
+          "url": "https://wallstreetcn.com/livenews/3139136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时30分"
+        },
+        {
+          "title": "现货黄金短线走低10美元，报4041.5美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260724090430960800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时30分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
@@ -391,19 +557,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 21时15分]"
         },
         {
           "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
           "url": "https://wallstreetcn.com/articles/3777791",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 21时15分]"
+        },
+        {
+          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
+          "url": "https://wallstreetcn.com/articles/3777830",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "据悉特朗普对伊朗战争久拖不决感到沮丧",
@@ -412,9 +590,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
+        },
+        {
+          "title": "美国白宫官员：美国总统特朗普与乌克兰总统泽连斯基将于7月28日在华盛顿会晤。",
+          "url": "https://flash.jin10.com/detail/20260724211255431800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
@@ -437,6 +626,178 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "俄罗斯表示将等待特朗普就结束乌克兰战争提出新方案",
+          "url": "https://flash.jin10.com/detail/20260724205236317800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欧盟",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "欧盟达成一致，想要“直击普京要害”",
+          "url": "https://news.ifeng.com/c/8v00qewWJrK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
+          "title": "德国政府发言人：联邦政府将继续与负责贸易事务的欧盟委员会及欧洲伙伴密切协调。",
+          "url": "https://flash.jin10.com/detail/20260724211329364800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "德国政府发言人：（就美国最新关税表示）联邦政府与欧洲委员会一样，认为欧盟-美国海关协议的条款将得到遵守。",
+          "url": "https://flash.jin10.com/detail/20260724211312099800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "商务部：将14家欧盟实体列入出口管制管控名单",
+          "url": "https://news.ifeng.com/c/8v1Sw8f5kRB",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "中方管制14家欧盟实体释放什么信号",
+          "url": "https://www.toutiao.com/trending/7666063971803205126/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "Verizon与谷歌签署10亿美元数据中心协议。",
+          "url": "https://wallstreetcn.com/livenews/3139484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "AI每赚1块钱，谷歌花出去2块",
+          "url": "https://wallstreetcn.com/articles/3777748",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
+          "title": "训练Gemini 4太烧钱！巴克莱测算：谷歌将连续两年自由现金流为负",
+          "url": "https://wallstreetcn.com/articles/3777753",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
+          "title": "Verizon(VZ.N)与谷歌(GOOG.O)签署10亿美元数据中心协议。",
+          "url": "https://flash.jin10.com/detail/20260724205443672800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "俄罗斯 乌克兰",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "重大转向！俄罗斯宣布不再支持朝鲜半岛无核化呼声",
+          "url": "https://news.ifeng.com/c/8v10rP3qRlo",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "cos维尔汀俄罗斯圣地巡礼",
+          "url": "https://search.bilibili.com/all?keyword=cos%E7%BB%B4%E5%B0%94%E6%B1%80%E4%BF%84%E7%BD%97%E6%96%AF%E5%9C%A3%E5%9C%B0%E5%B7%A1%E7%A4%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
+          "title": "俄罗斯奶牛猫运毒被抓只能喵喵喵",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%A5%B6%E7%89%9B%E7%8C%AB%E8%BF%90%E6%AF%92%E8%A2%AB%E6%8A%93%E5%8F%AA%E8%83%BD%E5%96%B5%E5%96%B5%E5%96%B5",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "俄罗斯奶牛猫运毒被抓只能喵喵喵",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%A5%B6%E7%89%9B%E7%8C%AB%E8%BF%90%E6%AF%92%E8%A2%AB%E6%8A%93%E5%8F%AA%E8%83%BD%E5%96%B5%E5%96%B5%E5%96%B5%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         }
       ]
     },
@@ -469,64 +830,30 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
         {
-          "title": "AI每赚1块钱，谷歌花出去2块",
-          "url": "https://wallstreetcn.com/articles/3777748",
-          "source": "华尔街见闻",
+          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
+          "url": "https://www.zhihu.com/question/2063832242242184073",
+          "source": "知乎",
           "ranks": [
-            6
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
-          "title": "训练Gemini 4太烧钱！巴克莱测算：谷歌将连续两年自由现金流为负",
-          "url": "https://wallstreetcn.com/articles/3777753",
-          "source": "华尔街见闻",
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "cos维尔汀俄罗斯圣地巡礼",
-          "url": "https://search.bilibili.com/all?keyword=cos%E7%BB%B4%E5%B0%94%E6%B1%80%E4%BF%84%E7%BD%97%E6%96%AF%E5%9C%A3%E5%9C%B0%E5%B7%A1%E7%A4%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欧盟",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "欧盟达成一致，想要“直击普京要害”",
-          "url": "https://news.ifeng.com/c/8v00qewWJrK",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         }
       ]
     }

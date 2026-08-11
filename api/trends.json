@@ -1,329 +1,22 @@
 {
-  "generated_at": "2026-08-10T20:42:39.956264+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-08-11T08:52:05.261332+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "日本",
-      "match_count": 22,
-      "titles": [
-        {
-          "title": "急眼了,日本人做法咒奥本海默",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356989&amp;topic_name=%E6%80%A5%E7%9C%BC%E4%BA%86%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%81%9A%E6%B3%95%E5%92%92%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时52分 ~ 20时42分]"
-        },
-        {
-          "title": "日本父女闹掰,一句恶心伤透心",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356987&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%88%B6%E5%A5%B3%E9%97%B9%E6%8E%B0%2C%E4%B8%80%E5%8F%A5%E6%81%B6%E5%BF%83%E4%BC%A4%E9%80%8F%E5%BF%83",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时52分 ~ 20时42分]"
-        },
-        {
-          "title": "日媒：战时日本多所大学进行输血人体实验，向患者注射动物血",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33748107",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
-        },
-        {
-          "title": "日本医院把患者大脑当肿瘤切了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356955&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%8C%BB%E9%99%A2%E6%8A%8A%E6%82%A3%E8%80%85%E5%A4%A7%E8%84%91%E5%BD%93%E8%82%BF%E7%98%A4%E5%88%87%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
-        },
-        {
-          "title": "日本提出强烈抗议，韩国驳回：无法接受",
-          "url": "https://news.ifeng.com/c/8vSxdRFRuAI",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "日本7月季调后除信托外银行贷款年率 5.9%，前值由6.30%修正为6.2%。",
-          "url": "https://flash.jin10.com/detail/20260810082317003800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "民进党当局连续被日本政府羞辱？港媒：赤裸裸摊开国际现实",
-          "url": "https://news.ifeng.com/c/8vTGJXrK7co",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "日本央行7月货币政策会议审议委员意见摘要：内阁府代表表示，有助于实现物价稳定的适当货币政策，对于打造强劲经济至关重要。希望日本央行与政府密切协调政策，实施适当的货币政策。",
-          "url": "https://wallstreetcn.com/livenews/3147153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "日本央行7月货币政策会议审议委员意见摘要：一名委员表示，取决于经济、物价和金融状况，日本央行的加息节奏可能比市场预期的更快。 一名委员表示，在警惕通胀上行风险的同时，敏捷灵活地调整政策利率水平至关重要。 一名委员表示，日本央行必须通过将政策利率推高至中性利率估计范围的下限以上，来实现货币政策正常化。 一名委员表示，鉴于通胀压力可能从夏季开始显现，日本央行必须明确其避免通胀过度的决心。 一名委员表示，日本央行必须加快调整货币支持力度，因为推迟加息的代价绝非轻微。",
-          "url": "https://wallstreetcn.com/livenews/3147152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "日本央行7月货币政策会议审议委员意见摘要：一名委员表示，中东局势发展、不断扩大的AI相关需求以及日元走软均有助于推高物价。 一名委员表示，预计入秋后消费品通胀将再次加速。 一名委员表示，尽管生产价格受进口成本上涨影响有所上升，但消费者通胀率仍低于2%。 一名委员表示，警惕受日元走软和AI相关需求强劲影响所带来的通胀上行风险。 一名委员表示，通胀前景面临巨大的上行风险，主要由于石油成本上涨传导至消费者通胀，同时全球AI需求与日本扩张性财政政策提振了需求。 一名委员表示，金融环境仍保持宽松，因为短期实际利率依然为负。 一名委员表示，在本次会议上维持利率稳定是恰当的，因为过去的加息对通胀和国内经济产生影响存在1至1.5年的滞后。 一名委员表示，我们目前处于需要警惕核心通胀可能向上偏离风险的阶段。 一名委员表示，在评估日本核心通胀能否稳定在符合日本央行价格目标的水平时，必须仔细审查中长期通胀预期是否稳定在2%左右。",
-          "url": "https://wallstreetcn.com/livenews/3147151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "日本央行七月会议意见摘要：内阁办公室代表表示，适当的货币政策对实现强劲经济和价格稳定至关重要。希望日本央行采取适当的货币政策，并与政府密切协调政策。",
-          "url": "https://flash.jin10.com/detail/20260810080428649800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "提醒：北京时间07:50，日本央行将公布7月货币政策会议审议委员意见摘要。",
-          "url": "https://wallstreetcn.com/livenews/3147147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "日本央行七月会议意见摘要：一名成员表示，日本央行必须加快调整货币支持政策，因为延迟加息的成本不可小觑。",
-          "url": "https://flash.jin10.com/detail/20260810075855408800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "日本央行七月会议意见摘要：一名成员表示，日本央行必须明确其避免通胀超标的决心，因为通胀压力可能从夏季开始显现。",
-          "url": "https://flash.jin10.com/detail/20260810075748328800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "日本央行七月会议意见摘要：一名成员表示，灵活调整政策利率水平非常重要，以关注潜在的通胀风险。",
-          "url": "https://flash.jin10.com/detail/20260810075726327800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "日本央行七月会议意见摘要：一位成员表示，日本央行必须通过将政策利率上调至中性利率预估区间下限以上，来实现货币政策正常化。",
-          "url": "https://flash.jin10.com/detail/20260810075720007800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "日本央行七月会议意见摘要：一名成员表示，我们现在处于一个需要关注通胀潜在风险可能上行的阶段。",
-          "url": "https://flash.jin10.com/detail/20260810075623648800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "日本央行七月会议意见摘要：一名成员表示，根据经济、价格和金融状况，日本央行加息的步伐可能会比市场预期更快。",
-          "url": "https://flash.jin10.com/detail/20260810075619572800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "日本央行七月会议意见摘要：一名成员表示，考虑到过去加息对通胀和国内经济的影响存在1到1.5年的滞后，认为此次会议保持利率稳定是合适的。",
-          "url": "https://flash.jin10.com/detail/20260810075538885800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "日本经济财政大臣城内实为财政状况辩护 称投资计划将为日元带来长期提振",
-          "url": "https://wallstreetcn.com/livenews/3147489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "广岛长崎的昨天未必不会是日本的明天",
-          "url": "https://www.toutiao.com/trending/7672302329533730354/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "日本央行七月会议意见摘要：一名成员表示，金融状况仍然宽松，因为短期实际利率保持在负值。",
-          "url": "https://flash.jin10.com/detail/20260810075536178800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 10,
       "titles": [
         {
-          "title": "与特朗普关联的美石油公司拟在格陵兰岛钻探，岛政府强烈警告",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33748556",
-          "source": "澎湃新闻",
+          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
+          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
+          "source": "凤凰网",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
-        },
-        {
-          "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
-          "url": "https://news.ifeng.com/c/8vTlIUCd26B",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "特朗普宣布威尔·沙夫将出任总统助理兼白宫法律顾问",
-          "url": "https://wallstreetcn.com/livenews/3147162",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
-          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时52分 ~ 20时42分]"
-        },
-        {
-          "title": "特朗普这是此地无银三百两吗？",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时52分 ~ 20时42分]"
-        },
-        {
-          "title": "特朗普公布新任总统助理人选",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUQr",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
+          "time_info": "[08时51分 ~ 08时52分]"
         },
         {
           "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
@@ -332,435 +25,381 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
         },
         {
-          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
-          "url": "https://wallstreetcn.com/articles/3779034",
-          "source": "华尔街见闻",
+          "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
+          "url": "https://news.ifeng.com/c/8vTlIUCd26B",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
         },
         {
-          "title": "新闻交易员：特朗普说低调处理，市场可能听得太认真了",
-          "url": "https://flash.jin10.com/detail/20260810082438238800",
-          "source": "金十数据",
+          "title": "特朗普称要向伊朗索赔",
+          "url": "https://news.ifeng.com/c/8vUHiH9a6Bz",
+          "source": "凤凰网",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
         },
         {
-          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
-          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
+          "title": "特朗普：美军已100%控制霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
+        },
+        {
+          "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
           "source": "凤凰网",
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "特朗普为何突然力挺乌克兰",
-          "url": "https://www.toutiao.com/trending/7672320565192953350/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "特朗普加沙和平计划遭遇重大阻击：内塔尼亚胡拒绝下一阶段安排",
-          "url": "https://flash.jin10.com/detail/20260810075735271800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
         },
         {
-          "title": "白宫经济顾问哈塞特：如果我现在在美联储，我会选择维持利率不变或降息。 人工智能或许是未来两年最重要的政策议题。 政府正在认真研究人工智能安全问题。 我不会接替丽莎·库克出任美联储理事。 希望丽莎·库克确实是清白的。 日元行动属于贝森特的职权范围，无可奉告。 沃什是再独立不过的人了。 无需为稳定日元而炮制美债理论。 稳定的日元有助于防止危机蔓延。 美国政府将持有英特尔股票多久，由特朗普决定。",
-          "url": "https://wallstreetcn.com/livenews/3147493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "韩国",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "韩国KOSPI指数冲高回落，涨幅收窄至0.75%，SK海力士现涨1.8%，三星电子涨1%。",
-          "url": "https://flash.jin10.com/detail/20260810084109103800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "韩国首尔综指涨幅扩大至2.2%。SK海力士涨超4%，三星电子涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3147160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "日经225指数涨幅扩大至1%，韩国首尔综指涨1.7%。",
-          "url": "https://wallstreetcn.com/livenews/3147158",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "泽连斯基声称5万朝军或入俄，呼吁韩国与乌克兰加强合作",
-          "url": "https://news.ifeng.com/c/8vTdI4YiJIX",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "韩国种植百亿树,吧友笑麻",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356992&amp;topic_name=%E9%9F%A9%E5%9B%BD%E7%A7%8D%E6%A4%8D%E7%99%BE%E4%BA%BF%E6%A0%91%2C%E5%90%A7%E5%8F%8B%E7%AC%91%E9%BA%BB",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "日经225指数高开0.4%，韩国首尔综指高开0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3147156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "韩国KOSPI指数日内涨幅达2.00%。",
-          "url": "https://flash.jin10.com/detail/20260810081353681800",
-          "source": "金十数据",
+          "title": "特朗普称美军已“100%控制”霍尔木兹海峡 | 环球市场",
+          "url": "https://www.cls.cn/detail/2450675",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
         },
         {
-          "title": "韩国KOSPI指数8月10日（周一）开盘上涨34.58点，涨幅0.55%，报6293.35点。",
-          "url": "https://flash.jin10.com/detail/20260810080251985800",
+          "title": "特朗普自曝与美联储主席“通过话”，但强调“就一次”",
+          "url": "https://flash.jin10.com/detail/20260811073104520800",
           "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "韩国投资者“扫货”中际旭创H股",
-          "url": "https://wallstreetcn.com/livenews/3147500",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时42分"
+          "time_info": "08时52分"
         },
         {
-          "title": "韩国投资者“扫货” 中际旭创H股",
-          "url": "https://flash.jin10.com/detail/20260810200344080800",
+          "title": "特朗普“狮子大开口”向伊朗开出“赔偿清单”，霍尔木兹海峡协议前景瞬间黯淡",
+          "url": "https://flash.jin10.com/detail/20260811071100479800",
           "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时42分"
+          "time_info": "08时52分"
         },
         {
-          "title": "韩国女性怒斥AA制结婚",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A5%B3%E6%80%A7%E6%80%92%E6%96%A5AA%E5%88%B6%E7%BB%93%E5%A9%9A%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "特朗普称美军已“100%控制”霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3147719",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时42分"
+          "time_info": "08时52分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 9,
+      "match_count": 8,
       "titles": [
         {
-          "title": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票",
-          "url": "https://wallstreetcn.com/articles/3778995",
-          "source": "华尔街见闻",
+          "title": "Anthropic据悉与云计算公司Riot达成91亿美元合作协议",
+          "url": "https://flash.jin10.com/detail/20260811081726717800",
+          "source": "金十数据",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
-        },
-        {
-          "title": "韩国资金抢筹中际旭创！H股上市7天净买4339万美元",
-          "url": "https://www.cls.cn/detail/2449790",
-          "source": "财联社热门",
-          "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时42分"
+          "time_info": "08时52分"
         },
         {
-          "title": "现货黄金周涨超7%站上4300美元，为何突然大涨？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33744664",
-          "source": "澎湃新闻",
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
           "ranks": [
-            15
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
+          "time_info": "[08时51分 ~ 08时52分]"
         },
         {
-          "title": "伯克希尔二季度净利润翻倍，净买入200亿美元股票",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33746645",
-          "source": "澎湃新闻",
+          "title": "私募巨头集体入局 据称英伟达将牵头5000亿美元融资大单",
+          "url": "https://www.cls.cn/detail/2450613",
+          "source": "财联社热门",
           "ranks": [
-            20
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
+          "time_info": "[08时51分 ~ 08时52分]"
         },
         {
-          "title": "Strategy在8月3日至8月9日期间出售了价值1.086亿美元的比特币。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3147520",
+          "title": "现货黄金涨破4400美元/盎司",
+          "url": "https://www.toutiao.com/trending/7672549105893117486/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
+        },
+        {
+          "title": "韩国海关总署：8月1日至10日出口同比增长45.3%，进口同比增长23.1%，贸易余额初步数据显示为18亿美元。",
+          "url": "https://flash.jin10.com/detail/20260811081335169800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "报道：Anthropic与比特币挖矿公司Riot达成91亿美元算力协议",
+          "url": "https://wallstreetcn.com/livenews/3147748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "报道：英特尔拟扩大股票发售规模，筹资约200亿美元",
+          "url": "https://wallstreetcn.com/livenews/3147737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "英特尔据悉拟将扩大股票发行规模扩大至200亿美元",
+          "url": "https://flash.jin10.com/detail/20260811072424243800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日本",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "“日本没被原子弹炸过”！篡改历史的回旋镖砸向日本",
+          "url": "https://news.ifeng.com/c/8vUL8mvmfET",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
+        },
+        {
+          "title": "中国驻日本大使馆：台湾不是一个国家，不存在“国格”一说",
+          "url": "https://news.ifeng.com/c/8vTrgaTJuzw",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
+        },
+        {
+          "title": "急眼了,日本人做法咒奥本海默",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356989&amp;topic_name=%E6%80%A5%E7%9C%BC%E4%BA%86%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%81%9A%E6%B3%95%E5%92%92%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98",
+          "source": "贴吧",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
+        },
+        {
+          "title": "日本父女闹掰,一句恶心伤透心",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356987&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%88%B6%E5%A5%B3%E9%97%B9%E6%8E%B0%2C%E4%B8%80%E5%8F%A5%E6%81%B6%E5%BF%83%E4%BC%A4%E9%80%8F%E5%BF%83",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
+        },
+        {
+          "title": "韩国首尔综指盘初跌1.1%，日本股市今日休市。",
+          "url": "https://wallstreetcn.com/livenews/3147747",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时42分"
+          "time_info": "08时52分"
         },
         {
-          "title": "美元兑日元短线下跌约40点，报道：日本央行释放9月加息信号，促使美国加入汇市干预",
-          "url": "https://wallstreetcn.com/livenews/3147516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "现货白银突破64美元/盎司，日内涨0.74%。",
-          "url": "https://flash.jin10.com/detail/20260810081503471800",
+          "title": "日本股市今日因“山之日”假期休市一日。",
+          "url": "https://flash.jin10.com/detail/20260811080108465800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "美元兑日元USD/JPY一度下挫约40点，最低至158.41，现回升至158.67。",
-          "url": "https://flash.jin10.com/detail/20260810201209826800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "游戏零售商GameStop的科恩据称正考虑撤回对eBay的560亿美元收购要约。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3147497",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
+          "time_info": "08时52分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 3,
       "titles": [
         {
-          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
-          "url": "https://wallstreetcn.com/articles/3778998",
+          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
+          "url": "https://wallstreetcn.com/articles/3779052",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
+          "time_info": "[08时51分 ~ 08时52分]"
         },
         {
-          "title": "SpaceX美股盘前一度涨近5%，有望连续第三个交易日走高，并重新站上135美元的IPO发行价。",
-          "url": "https://wallstreetcn.com/livenews/3147525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
-          "url": "https://www.cls.cn/detail/2449177",
+          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
+          "url": "https://www.cls.cn/detail/2450678",
           "source": "财联社热门",
           "ranks": [
-            10
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
+          "time_info": "[08时51分 ~ 08时52分]"
         },
         {
-          "title": "科技股延续涨势，美股盘前光模块集体走高，霍尔木兹谈判僵局推升油价，黄金维持高位",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
+          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
+          "url": "https://www.cls.cn/detail/2450652",
+          "source": "财联社热门",
           "ranks": [
-            10
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "韩国",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "韩国种植百亿树,吧友笑麻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356992&amp;topic_name=%E9%9F%A9%E5%9B%BD%E7%A7%8D%E6%A4%8D%E7%99%BE%E4%BA%BF%E6%A0%91%2C%E5%90%A7%E5%8F%8B%E7%AC%91%E9%BA%BB",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
+        },
+        {
+          "title": "韩国KOSPI指数8月11日（周二）开盘下跌76.93点，跌幅1.22%，报6222.73点。SK海力士跌2.8%，三星电子跌0.7%。",
+          "url": "https://flash.jin10.com/detail/20260811080131179800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时42分"
-        },
+          "time_info": "08时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "MarineMax美股盘前涨超45%。",
-          "url": "https://wallstreetcn.com/livenews/3147501",
+          "title": "如何评价即将发布的 DeepSeek-V4 Pro 正式版，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/2067921583944085650",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌AI团队告知求职者：其HR筛选系统不可靠",
+          "url": "https://wallstreetcn.com/livenews/3147721",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "英特尔美股盘前跌超3%，公司将发行150亿美元普通股，趁AI数据中心热潮之际融资",
-          "url": "https://wallstreetcn.com/livenews/3147494",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "Meta美股盘前涨近3%，此前公司发布轻量化版AI模型，单张显卡即可运行。",
-          "url": "https://wallstreetcn.com/livenews/3147486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
+          "time_info": "08时52分"
         }
       ]
     },
     {
       "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "A95咨询公司称，乌克兰7月份汽油进口量增长34%。",
-          "url": "https://flash.jin10.com/detail/20260810202744559800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "俄军为何“重点猎杀”乌克兰火车头",
-          "url": "https://www.toutiao.com/trending/7672342421866286634/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
-          "url": "https://wallstreetcn.com/articles/3779038",
-          "source": "华尔街见闻",
+          "title": "记者问泽连斯基“怎么帮你们杀死更多俄罗斯人”，武契奇震惊",
+          "url": "https://news.ifeng.com/c/8vU5AoRmRLo",
+          "source": "凤凰网",
           "ranks": [
-            3
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 08时52分]"
         }
       ]
     }
